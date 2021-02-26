@@ -13,6 +13,21 @@ Some facts about me :
 - 💬 Ask me about **What you want lol**
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response (sιмση ℓεcℓεяε#5765)**
 - 😄 Pronouns: **Yes**
-- ⚡ Fun fact: I am a fervent defender of textmojis haha ;)
+- ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\_(ツ)_/¯
 
-<img src="https://media0.giphy.com/media/Ma7SmSVHWRT9LjQtlB/giphy.gif" align=center>
+<img width="450" height="300" src="https://media0.giphy.com/media/Ma7SmSVHWRT9LjQtlB/giphy.gif">
+
+This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
+
+## What is the capital of France?
+
+| Paris | New York | Tokyo |
+|   -   |    -     |   -   |
+
+<details>
+  <summary>Last answers :</summary>
+  
+  - **Simon Leclère** answered **True** to `120 * 4 = 480` (Good answer)
+  - **Simon Leclère** answered **False** to `120 * 4 = 480` (Wrong answer)
+  
+</details>
