@@ -31,3 +31,10 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
   - **Simon Leclère** answered **False** to `120 * 4 = 480` (Wrong answer)
   
 </details>
+
+Leaderboard :
+
+| User | Number of wins |
+|-|-|
+| Simon Leclère | 5 |
+| Simon Leclère | 2 |
