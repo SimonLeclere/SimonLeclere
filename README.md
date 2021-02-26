@@ -25,7 +25,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
 |   -   |    -     |   -   |
 
 <details>
-  <summary>Last answers :</summary>
+  <summary>Last 10 responses :</summary>
   
   - **Simon Leclère** answered **True** to `120 * 4 = 480` (Good answer)
   - **Simon Leclère** answered **False** to `120 * 4 = 480` (Wrong answer)
