@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which Italian city is home of the car manufacturer &#039;Fiat&#039;?
+## Linus Torvalds created Linux and Git.
 
 <br>
 
-| [Turin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1556%7CTurin&body=Just%20click%20'Submit%20new%20issue'.) | [Rome](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1556%7CRome&body=Just%20click%20'Submit%20new%20issue'.) | [Modena](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1556%7CModena&body=Just%20click%20'Submit%20new%20issue'.) | [Maranello](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1556%7CMaranello&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2817%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2817%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
 - **MRakox** answered **rowing machine** to `What exercise apparatus is used during a 'Spinning' class?` (Wrong answer)
 - **MRakox** answered **Massachusetts** to `Which American colony, known for its religious tolerance, did Roger Williams found in 1636?` (Wrong answer)
 - **MRakox** answered **Polly Finn** to `In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **bark** to `Which of these sounds is commonly associated with owls?` (Wrong answer)
 - **SimonLeclere** answered **Street Fighter** to `Which of these game franchises were made by Namco?` (Wrong answer)
 - **SimonLeclere** answered **Fermented Black Beans** to `In Rome, which of these ingredients is used to flavour ciabatta bread?` (Wrong answer)
-- **TapsHTS** answered **False** to `There is a Donald Trump Board Game, which was made in 1989.` (Wrong answer)
 
 </details>
 
