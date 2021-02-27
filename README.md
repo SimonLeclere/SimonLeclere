@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How long was Ken Jennings&#039; win streak on Jeopardy?
+## Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?
 
 <br>
 
-| [49](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2214%7C49&body=Just%20click%20'Submit%20new%20issue'.) | [62](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2214%7C62&body=Just%20click%20'Submit%20new%20issue'.) | [88](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2214%7C88&body=Just%20click%20'Submit%20new%20issue'.) | [74](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2214%7C74&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Robbie Williams](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CRobbie%20Williams&body=Just%20click%20'Submit%20new%20issue'.) | [Gary Barlow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CGary%20Barlow&body=Just%20click%20'Submit%20new%20issue'.) | [Harry Styles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CHarry%20Styles&body=Just%20click%20'Submit%20new%20issue'.) | [Justin Timberlake](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CJustin%20Timberlake&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **74** to `How long was Ken Jennings&#039; win streak on Jeopardy?` (Good answer)
 - **azgar44** answered **Trent Reznor** to `Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?` (Good answer)
 - **azgar44** answered **Romantic** to `Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?` (Good answer)
 - **azgar44** answered **Battle of Verdun** to `Which of these battles did NOT happen during World War II?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **The Who** to `Which artist or group did John Lennon consider "son(s) of the Beatles"?` (Wrong answer)
 - **azgar44** answered **Queen of Hearts** to `“Alice’s Adventures in Wonderland” features which of these characters?` (Good answer)
 - **azgar44** answered **1776** to `What year was the United States Declaration of Independence signed?` (Good answer)
-- **azgar44** answered **Production I.G** to `Which animation studio animated "Psycho Pass"?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 17 |
+| [azgar44](https://github.com/azgar44) | 18 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
