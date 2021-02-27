@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?
+## What part of the body is damaged if you break your tibia?
 
 <br>
 
-| [Stalingrad](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CStalingrad&body=Just%20click%20'Submit%20new%20issue'.) | [Crimea](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CCrimea&body=Just%20click%20'Submit%20new%20issue'.) | [Voronezh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CVoronezh&body=Just%20click%20'Submit%20new%20issue'.) | [Caucasus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CCaucasus&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Leg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3549%7CLeg&body=Just%20click%20'Submit%20new%20issue'.) | [Scalp](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3549%7CScalp&body=Just%20click%20'Submit%20new%20issue'.) | [Arm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3549%7CArm&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Caucasus** to `The main objective of the German operation "Case Blue" during World War II was originally to capture what?` (Good answer)
 - **azgar44** answered **Spaceman From Pluto** to `What was another suggested name for, the 1985 film, Back to the Future?` (Good answer)
 - **azgar44** answered **red** to `What color is a ruby?` (Good answer)
 - **azgar44** answered **fashion designer** to `What is Delta Burke's character's job on the sitcom 'Designing Women'?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **zechaos031** answered **5 Minutes, 50 Seconds** to `How long was the World Record Speed Run of Valve Software&#039;s "Half-Life" that was done in 2014.` (Wrong answer)
 - **zechaos031** answered **Kelisa** to `Which of these is NOT a car model produced by Malaysian car manufacturer Proton?` (Good answer)
 - **zechaos031** answered **Diarmid** to `In Guild Wars 2, what is the name of the Blademaster in the middle lane of the Dragon&#039;s Stand zone?` (Good answer)
-- **SimonLeclere** answered **Duke Ellington** to `On her first recording, Billie Holiday was accompanied by what jazz legend?` (Wrong answer)
 
 </details>
 
@@ -60,7 +60,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
-| [azgar44](https://github.com/azgar44) | 3 |
+| [azgar44](https://github.com/azgar44) | 4 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
