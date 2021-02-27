@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What's the third letter of the Greek alphabet?
+## In Terraria, what does the Wall of Flesh not drop upon defeat?
 
 <br>
 
-| [gamma](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5068%7Cgamma&body=Just%20click%20'Submit%20new%20issue'.) | [theta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5068%7Ctheta&body=Just%20click%20'Submit%20new%20issue'.) | [phi](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5068%7Cphi&body=Just%20click%20'Submit%20new%20issue'.) | [delta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5068%7Cdelta&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Breaker Blade](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CBreaker%20Blade&body=Just%20click%20'Submit%20new%20issue'.) | [Laser Rifle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CLaser%20Rifle&body=Just%20click%20'Submit%20new%20issue'.) | [Pwnhammer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CPwnhammer&body=Just%20click%20'Submit%20new%20issue'.) | [Picksaw](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CPicksaw&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
 - **SimonLeclere** answered **True** to `The United States of America declared their independence from the British Empire on July 4th, 1776.` (Good answer)
 - **SimonLeclere** answered **Last of the Mohicans** to `Jane Morgan was a nom de plume for the author of which of these works?` (Good answer)
 - **SimonLeclere** answered **Claude Monet** to `The works of which artist are often used to illustrate the concept of tessellation?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
 - **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
 - **MRakox** answered **rowing machine** to `What exercise apparatus is used during a 'Spinning' class?` (Wrong answer)
-- **MRakox** answered **Massachusetts** to `Which American colony, known for its religious tolerance, did Roger Williams found in 1636?` (Wrong answer)
 
 </details>
 
@@ -63,4 +63,4 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
-[Click here to see your stats](`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just click 'Submit new issue'.)
+[Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
