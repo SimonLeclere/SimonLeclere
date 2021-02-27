@@ -6,7 +6,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <br>
 
 <img width="490" height="270" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
-Some facts about me :
 
 - 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m currently learning **Javascript, and especially Node.JS**
