@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: |
-          git pull origin master
+          git pull origin main
       - name: Answer quiz
         uses: ./quiz
         id: quiz
