@@ -1,10 +1,11 @@
 const fs = require('fs')
 const template = require('lodash.template');
 const fetch = require('node-fetch');
+const core = require('@actions/core');
 
 const UserData = {
-    title: "quiz|2459|Green Arrow",
-    user: "Simon Leclère"
+    title: core.getInput('title'),
+    user: core.getInput('user')
 }
 
 const answerData = UserData.title.split('|');
