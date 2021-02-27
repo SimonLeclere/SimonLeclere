@@ -28,6 +28,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
   <summary>How does it work?</summary>
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file.Not bad huh?!
 </details>
+
 ## ${question}
 
 <br>
