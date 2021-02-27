@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?
+## Which of these is NOT an Australian state or territory?
 
 <br>
 
-| [The Seeker](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CThe%20Seeker&body=Just%20click%20'Submit%20new%20issue'.) | [Baba O&#039; Riley](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CBaba%20O&#039;%20Riley&body=Just%20click%20'Submit%20new%20issue'.) | [Won&#039;t Get Fooled Again](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CWon&#039;t%20Get%20Fooled%20Again&body=Just%20click%20'Submit%20new%20issue'.) | [Pinball Wizard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CPinball%20Wizard&body=Just%20click%20'Submit%20new%20issue'.) |
+| [New South Wales](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CNew%20South%20Wales&body=Just%20click%20'Submit%20new%20issue'.) | [Victoria](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CVictoria&body=Just%20click%20'Submit%20new%20issue'.) | [Alberta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CAlberta&body=Just%20click%20'Submit%20new%20issue'.) | [Queensland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CQueensland&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **Baba O' Riley** to `The Who&#039;s eponymous line, "Teenage Wasteland", appears in which of their songs?` (Wrong answer)
 - **lowlighter** answered **Yukine** to `In the anime Noragami who is one of the main protagonists?` (Good answer)
 - **lowlighter** answered **The Ten Commandments** to `The Ark of the Covenant supposedly contains what religious artifact?` (Good answer)
 - **lowlighter** answered **The Wall** to `Which of these is NOT an album released by The Beatles?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Romantic** to `Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?` (Good answer)
 - **azgar44** answered **Battle of Verdun** to `Which of these battles did NOT happen during World War II?` (Good answer)
 - **azgar44** answered **Robbing trains** to `Joseph Stalin had a criminal past doing what?` (Good answer)
-- **azgar44** answered **True** to `Coca-Cola&#039;s original colour was green.` (Wrong answer)
 
 </details>
 
