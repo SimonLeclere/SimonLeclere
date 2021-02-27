@@ -5,7 +5,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 <br>
 
-<img width="480" height="260" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
+<img width="470" height="250" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
 - 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m currently learning **Javascript, and especially Node.JS**
