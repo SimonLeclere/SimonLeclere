@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Linus Torvalds created Linux and Git.
+## In Dr. Seuss’s “The Cat in the Hat Comes Back,” what is inside the Cat’s hat?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2817%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2817%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| [All-weather… https://t.co/gYkv7zd73J](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4276%7CAll-weather%E2%80%A6%20https://t.co/gYkv7zd73J&body=Just%20click%20'Submit%20new%20issue'.) | [Many smaller cats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4276%7CMany%20smaller%20cats&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
 - **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
 - **MRakox** answered **rowing machine** to `What exercise apparatus is used during a 'Spinning' class?` (Wrong answer)
 - **MRakox** answered **Massachusetts** to `Which American colony, known for its religious tolerance, did Roger Williams found in 1636?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **hoot** to `Which of these sounds is commonly associated with owls?` (Good answer)
 - **MRakox** answered **bark** to `Which of these sounds is commonly associated with owls?` (Wrong answer)
 - **SimonLeclere** answered **Street Fighter** to `Which of these game franchises were made by Namco?` (Wrong answer)
-- **SimonLeclere** answered **Fermented Black Beans** to `In Rome, which of these ingredients is used to flavour ciabatta bread?` (Wrong answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 6 |
-| [MRakox](https://github.com/MRakox) | 4 |
+| [MRakox](https://github.com/MRakox) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
