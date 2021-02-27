@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these body parts contains the islets of Langerhans?
+## In the &quot;Worms&quot; series of video games, which of these weapons is affected by wind?
 
 <br>
 
-| [Pancreas](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3739%7CPancreas&body=Just%20click%20'Submit%20new%20issue'.) | [Gallbladder](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3739%7CGallbladder&body=Just%20click%20'Submit%20new%20issue'.) | [Brain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3739%7CBrain&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Air Strike](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7CAir%20Strike&body=Just%20click%20'Submit%20new%20issue'.) | [Grenade](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7CGrenade&body=Just%20click%20'Submit%20new%20issue'.) | [Mortar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7CMortar&body=Just%20click%20'Submit%20new%20issue'.) | [Bazooka](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7CBazooka&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **hoot** to `Which of these sounds is commonly associated with owls?` (Good answer)
 - **MRakox** answered **bark** to `Which of these sounds is commonly associated with owls?` (Wrong answer)
 - **SimonLeclere** answered **Street Fighter** to `Which of these game franchises were made by Namco?` (Wrong answer)
 - **SimonLeclere** answered **Fermented Black Beans** to `In Rome, which of these ingredients is used to flavour ciabatta bread?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Mr-KayJayDee** answered **10** to `How many seasons did "Stargate SG-1" have?` (Good answer)
 - **Mr-KayJayDee** answered **'All the President's Men'** to `Which of the following is about the Watergate scandal?` (Good answer)
 - **Mr-KayJayDee** answered **Spotify** to `Which of these companies offers a “freemium” service?` (Good answer)
-- **Mr-KayJayDee** answered **Serpent Club** to `Which of these is a real Ivy League secret society?` (Wrong answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 6 |
-| [MRakox](https://github.com/MRakox) | 2 |
+| [MRakox](https://github.com/MRakox) | 3 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
