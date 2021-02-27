@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these is a real Ivy League secret society?
+## Which of these companies offers a “freemium” service?
 
 <br>
 
-| [Cross and Bones](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3706%7CCross%20and%20Bones&body=Just%20click%20'Submit%20new%20issue'.) | [Pacifica House](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3706%7CPacifica%20House&body=Just%20click%20'Submit%20new%20issue'.) | [Serpent Club](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3706%7CSerpent%20Club&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Spotify](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3336%7CSpotify&body=Just%20click%20'Submit%20new%20issue'.) | [Tidal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3336%7CTidal&body=Just%20click%20'Submit%20new%20issue'.) | [Netflix](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3336%7CNetflix&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Mr-KayJayDee** answered **Serpent Club** to `Which of these is a real Ivy League secret society?` (Wrong answer)
 - **Mr-KayJayDee** answered **Ampersand** to `What character was once considered to be the 27th letter of the alphabet?` (Good answer)
 - **Mr-KayJayDee** answered **Brooklyn** to `The director of “Lady Bird” starred in which indie movie?` (Wrong answer)
 - **MRakox** answered **Greenwich Mean Time** to `What do the letters in the GMT time zone stand for?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **False** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Wrong answer)
 - **Mr-KayJayDee** answered **STS-107** to `On which mission did the Space Shuttle Columbia break up upon re-entry?` (Good answer)
 - **Mr-KayJayDee** answered **Economics** to `This field is sometimes known as &ldquo;The Dismal Science.&rdquo;` (Good answer)
-- **SimonLeclere** answered **True** to `The 2010 film "The Social Network" is a biographical drama film about MySpace founder Tom Anderson.` (Wrong answer)
 
 </details>
 
