@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The director of “Lady Bird” starred in which indie movie?
+## What character was once considered to be the 27th letter of the alphabet?
 
 <br>
 
-| [Room](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3481%7CRoom&body=Just%20click%20'Submit%20new%20issue'.) | [Frances Ha](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3481%7CFrances%20Ha&body=Just%20click%20'Submit%20new%20issue'.) | [Brooklyn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3481%7CBrooklyn&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Pilcrow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1546%7CPilcrow&body=Just%20click%20'Submit%20new%20issue'.) | [Ampersand](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1546%7CAmpersand&body=Just%20click%20'Submit%20new%20issue'.) | [Tilde](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1546%7CTilde&body=Just%20click%20'Submit%20new%20issue'.) | [Interrobang](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1546%7CInterrobang&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Mr-KayJayDee** answered **Brooklyn** to `The director of “Lady Bird” starred in which indie movie?` (Wrong answer)
 - **MRakox** answered **Greenwich Mean Time** to `What do the letters in the GMT time zone stand for?` (Good answer)
 - **Mr-KayJayDee** answered **True** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Good answer)
 - **MRakox** answered **Minecraft** to `What&#039;s the best selling video game to date?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Mr-KayJayDee** answered **Economics** to `This field is sometimes known as &ldquo;The Dismal Science.&rdquo;` (Good answer)
 - **SimonLeclere** answered **True** to `The 2010 film "The Social Network" is a biographical drama film about MySpace founder Tom Anderson.` (Wrong answer)
 - **SimonLeclere** answered **Dream Drop Distance** to `Which Kingdom Hearts game featured the cast of "The World Ends With You"?` (Good answer)
-- **Mr-KayJayDee** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
 
 </details>
 
