@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?
+## In Guild Wars 2, which Chinese Zodiac sign is not represented in the Zodiac Weapon Set?
 
 <br>
 
-| [Baltimore Orioles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3091%7CBaltimore%20Orioles&body=Just%20click%20'Submit%20new%20issue'.) | [New York Mets](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3091%7CNew%20York%20Mets&body=Just%20click%20'Submit%20new%20issue'.) | [Milwaukee Brewers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3091%7CMilwaukee%20Brewers&body=Just%20click%20'Submit%20new%20issue'.) | [Boston Red Sox](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3091%7CBoston%20Red%20Sox&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Tiger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C154%7CTiger&body=Just%20click%20'Submit%20new%20issue'.) | [Rabbit](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C154%7CRabbit&body=Just%20click%20'Submit%20new%20issue'.) | [Goat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C154%7CGoat&body=Just%20click%20'Submit%20new%20issue'.) | [Ox](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C154%7COx&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **True** to `Linus Torvalds created Linux and Git.` (Good answer)
 - **MRakox** answered **Rome** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Wrong answer)
 - **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
 - **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Bazooka** to `In the "Worms" series of video games, which of these weapons is affected by wind?` (Good answer)
 - **MRakox** answered **Gallbladder** to `Which of these body parts contains the islets of Langerhans?` (Wrong answer)
 - **MRakox** answered **hoot** to `Which of these sounds is commonly associated with owls?` (Good answer)
-- **MRakox** answered **bark** to `Which of these sounds is commonly associated with owls?` (Wrong answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 6 |
-| [MRakox](https://github.com/MRakox) | 5 |
+| [MRakox](https://github.com/MRakox) | 6 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
