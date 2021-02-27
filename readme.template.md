@@ -9,11 +9,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 - 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m currently learning **Javascript, and especially Node.JS**
-- 👯 I’m looking to collaborate on **All kinds of projects :)**
 - 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), [js-string-cleaner](https://github.com/SimonLeclere/Js-String-Cleaner)**
-- 💬 Ask me about **What you want lol**
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response (sιмση ℓεcℓεяε#5765)**
-- 😄 Pronouns: **Yes**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
 <br>
