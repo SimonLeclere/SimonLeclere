@@ -28,18 +28,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## According to the Book of Leviticus, which of these animals is kosher to eat?
+## In what year did &quot;Bob Ross&quot; die?
 
 <br>
 
-| [Owl](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3391%7COwl&body=Just%20click%20'Submit%20new%20issue'.) | [Rabbit](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3391%7CRabbit&body=Just%20click%20'Submit%20new%20issue'.) | [Cricket](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3391%7CCricket&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [1997](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C460%7C1997&body=Just%20click%20'Submit%20new%20issue'.) | [1989](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C460%7C1989&body=Just%20click%20'Submit%20new%20issue'.) | [1986](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C460%7C1986&body=Just%20click%20'Submit%20new%20issue'.) | [1995](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C460%7C1995&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Rabbit** to `According to the Book of Leviticus, which of these animals is kosher to eat?` (Wrong answer)
 - **SimonLeclere** answered **Bosnia and Herzegovina** to `Which nation’s flag features a simple geometric form meant to resemble the nation’s shape?` (Good answer)
 - **Androz2091** answered **Amazon Prime** to `Which of these Amazon services was launched most recently?` (Wrong answer)
 - **SimonLeclere** answered **Amazon Mechanical Turk** to `Which of these Amazon services was launched most recently?` (Wrong answer)
@@ -49,7 +50,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Punctuate a sentence** to `What would you directly learn to do from the Chicago Manual of Style?` (Good answer)
 - **SimonLeclere** answered **John Patrick Lowrie** to `Aperture Science CEO Cave Johnson is voiced by which American actor?` (Wrong answer)
 - **SimonLeclere** answered **Plastics** to `In the 1960s, Radio Shack was purchased by a company specializing in what?` (Wrong answer)
-- **Androz2091** answered **to hold a ship in place** to `What is the proper nautical use of an anchor?` (Good answer)
 
 </details>
 
