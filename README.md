@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What do the letters in the GMT time zone stand for?
+## Oslo, Norway is home to a museum featuring thousands of what mini items?
 
 <br>
 
-| [Greenwich Mean Time](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2446%7CGreenwich%20Mean%20Time&body=Just%20click%20'Submit%20new%20issue'.) | [Glasgow Man Time](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2446%7CGlasgow%20Man%20Time&body=Just%20click%20'Submit%20new%20issue'.) | [General Median Time](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2446%7CGeneral%20Median%20Time&body=Just%20click%20'Submit%20new%20issue'.) | [Global Meridian Time](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2446%7CGlobal%20Meridian%20Time&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Bottles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3802%7CBottles&body=Just%20click%20'Submit%20new%20issue'.) | [Troll dolls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3802%7CTroll%20dolls&body=Just%20click%20'Submit%20new%20issue'.) | [PEZ dispensers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3802%7CPEZ%20dispensers&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Minecraft** to `What&#039;s the best selling video game to date?` (Wrong answer)
 - **MRakox** answered **True** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Good answer)
 - **MRakox** answered **False** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Wrong answer)
 - **Mr-KayJayDee** answered **STS-107** to `On which mission did the Space Shuttle Columbia break up upon re-entry?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Mr-KayJayDee** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
 - **SimonLeclere** answered **1986** to `In what year did "Bob Ross" die?` (Wrong answer)
 - **SimonLeclere** answered **Rabbit** to `According to the Book of Leviticus, which of these animals is kosher to eat?` (Wrong answer)
-- **SimonLeclere** answered **Bosnia and Herzegovina** to `Which nation’s flag features a simple geometric form meant to resemble the nation’s shape?` (Good answer)
 
 </details>
 
