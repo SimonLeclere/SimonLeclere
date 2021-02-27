@@ -22,10 +22,10 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 <br>
 
-This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
+🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
-  <summary>How does it work?</summary>
-  Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file.Not bad huh?!
+  <summary>🛠️ How does it work?</summary>
+  Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
 ## ${question}
@@ -37,7 +37,7 @@ ${answers}
 <br>
 
 <details>
-  <summary>Last 10 responses :</summary>
+  <summary>📒 Last 10 responses :</summary>
 
 ${lastAnswers}
 
@@ -45,7 +45,7 @@ ${lastAnswers}
 
 <br>
 
-Leaderboard :
+📊 Leaderboard :
 
 | User | Number of wins |
 |-|-|
