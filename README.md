@@ -25,12 +25,12 @@ Some facts about me :
 
 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 
-## Where does water from Poland Spring water bottles come from?
+## The Benihana company has a restaurant in which of these places?
 
 <br>
 
-| [Hesse, Germany](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C825%7CHesse,%20Germany&body=Just+click+%2527Submit+new+issue%2527.) | [Masovia, Poland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C825%7CMasovia,%20Poland&body=Just+click+%2527Submit+new+issue%2527.) | [Bavaria, Poland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C825%7CBavaria,%20Poland&body=Just+click+%2527Submit+new+issue%2527.) | [Maine, United States](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C825%7CMaine,%20United%20States&body=Just+click+%2527Submit+new+issue%2527.) |
-| - | - | - | - | 
+| [China](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3288%7CChina&body=Just+click+%2527Submit+new+issue%2527.) | [Japan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3288%7CJapan&body=Just+click+%2527Submit+new+issue%2527.) | [Aruba](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3288%7CAruba&body=Just+click+%2527Submit+new+issue%2527.) |
+| - | - | - | 
 
 <br>
 
@@ -39,6 +39,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
 
 - **Simon Leclère2** answered **Green Arrow** to `Which of the following superheros did Wonder Woman NOT have a love interest in?` (Good answer)
 - **Simon Leclère** answered **Green Arrow** to `Which of the following superheros did Wonder Woman NOT have a love interest in?` (Good answer)
+- **SimonLeclere** answered **Maine, United States** to `Where does water from Poland Spring water bottles come from?` (Good answer)
 
 </details>
 
@@ -50,3 +51,4 @@ Leaderboard :
 |-|-|
 | Simon Leclère2 | 1 |
 | Simon Leclère | 1 |
+| SimonLeclere | 1 |
