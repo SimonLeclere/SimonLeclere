@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What people ruled the Andes Mountains until they were conquered by the Spanish in 1532?
+## The director of “Lady Bird” starred in which indie movie?
 
 <br>
 
-| [Pueblo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5032%7CPueblo&body=Just%20click%20'Submit%20new%20issue'.) | [Apache](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5032%7CApache&body=Just%20click%20'Submit%20new%20issue'.) | [Inca](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5032%7CInca&body=Just%20click%20'Submit%20new%20issue'.) | [Aztec](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5032%7CAztec&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Room](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3481%7CRoom&body=Just%20click%20'Submit%20new%20issue'.) | [Frances Ha](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3481%7CFrances%20Ha&body=Just%20click%20'Submit%20new%20issue'.) | [Brooklyn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3481%7CBrooklyn&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Greenwich Mean Time** to `What do the letters in the GMT time zone stand for?` (Good answer)
 - **Mr-KayJayDee** answered **True** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Good answer)
 - **MRakox** answered **Minecraft** to `What&#039;s the best selling video game to date?` (Wrong answer)
 - **MRakox** answered **True** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **True** to `The 2010 film "The Social Network" is a biographical drama film about MySpace founder Tom Anderson.` (Wrong answer)
 - **SimonLeclere** answered **Dream Drop Distance** to `Which Kingdom Hearts game featured the cast of "The World Ends With You"?` (Good answer)
 - **Mr-KayJayDee** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
-- **SimonLeclere** answered **1986** to `In what year did "Bob Ross" die?` (Wrong answer)
 
 </details>
 
@@ -58,6 +58,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [SimonLeclere](https://github.com/SimonLeclere) | 5 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 4 |
+| [MRakox](https://github.com/MRakox) | 2 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
-| [MRakox](https://github.com/MRakox) | 1 |
