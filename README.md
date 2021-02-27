@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## On her first recording, Billie Holiday was accompanied by what jazz legend?
+## In Guild Wars 2, what is the name of the Blademaster in the middle lane of the Dragon&#039;s Stand zone?
 
 <br>
 
-| [Benny Goodman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CBenny%20Goodman&body=Just%20click%20'Submit%20new%20issue'.) | [Count Basie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CCount%20Basie&body=Just%20click%20'Submit%20new%20issue'.) | [Duke Ellington](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CDuke%20Ellington&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Gerent](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C680%7CGerent&body=Just%20click%20'Submit%20new%20issue'.) | [Diarmid](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C680%7CDiarmid&body=Just%20click%20'Submit%20new%20issue'.) | [Hareth](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C680%7CHareth&body=Just%20click%20'Submit%20new%20issue'.) | [Adryn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C680%7CAdryn&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Duke Ellington** to `On her first recording, Billie Holiday was accompanied by what jazz legend?` (Wrong answer)
 - **SimonLeclere** answered **Laser Rifle** to `In Terraria, what does the Wall of Flesh not drop upon defeat?` (Wrong answer)
 - **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
 - **SimonLeclere** answered **True** to `The United States of America declared their independence from the British Empire on July 4th, 1776.` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **True** to `Linus Torvalds created Linux and Git.` (Good answer)
 - **MRakox** answered **Rome** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Wrong answer)
 - **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
-- **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
 
 </details>
 
