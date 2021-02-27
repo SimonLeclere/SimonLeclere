@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What color is a ruby?
+## What was another suggested name for, the 1985 film, Back to the Future?
 
 <br>
 
-| [blue](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cblue&body=Just%20click%20'Submit%20new%20issue'.) | [yellow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cyellow&body=Just%20click%20'Submit%20new%20issue'.) | [red](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cred&body=Just%20click%20'Submit%20new%20issue'.) | [black](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cblack&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Hill Valley Time Travelers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2945%7CHill%20Valley%20Time%20Travelers&body=Just%20click%20'Submit%20new%20issue'.) | [The Time Travelers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2945%7CThe%20Time%20Travelers&body=Just%20click%20'Submit%20new%20issue'.) | [The Lucky Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2945%7CThe%20Lucky%20Man&body=Just%20click%20'Submit%20new%20issue'.) | [Spaceman From Pluto](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2945%7CSpaceman%20From%20Pluto&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **red** to `What color is a ruby?` (Good answer)
 - **azgar44** answered **fashion designer** to `What is Delta Burke's character's job on the sitcom 'Designing Women'?` (Wrong answer)
 - **azgar44** answered **Showdown** to `In "Team Fortress 2", what is the fastest taunt kill that can be pulled off?` (Good answer)
 - **zechaos031** answered **Gooty** to `Which of the following is another name for the "Poecilotheria Metallica Tarantula"?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **zechaos031** answered **Diarmid** to `In Guild Wars 2, what is the name of the Blademaster in the middle lane of the Dragon&#039;s Stand zone?` (Good answer)
 - **SimonLeclere** answered **Duke Ellington** to `On her first recording, Billie Holiday was accompanied by what jazz legend?` (Wrong answer)
 - **SimonLeclere** answered **Laser Rifle** to `In Terraria, what does the Wall of Flesh not drop upon defeat?` (Wrong answer)
-- **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
 
 </details>
 
@@ -60,8 +60,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
+| [azgar44](https://github.com/azgar44) | 2 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
-| [azgar44](https://github.com/azgar44) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
