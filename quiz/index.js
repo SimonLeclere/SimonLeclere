@@ -37,7 +37,7 @@ fs.readFile('readme.template.md', async (err, data) => {
     const lastQuestion = await isCorrect(answerData[1], answerData[2]);
 
     previousData.lastAnswers = previousData.lastAnswers.slice(0, 9);
-    previousData.lastAnswers.push({
+    previousData.lastAnswers.unshift({
         name: UserData.user,
         answer: answerData[2],
         question: lastQuestion[1],
