@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?
+## Which of these is NOT an album released by The Beatles?
 
 <br>
 
-| [Robbie Williams](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CRobbie%20Williams&body=Just%20click%20'Submit%20new%20issue'.) | [Gary Barlow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CGary%20Barlow&body=Just%20click%20'Submit%20new%20issue'.) | [Harry Styles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CHarry%20Styles&body=Just%20click%20'Submit%20new%20issue'.) | [Justin Timberlake](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2450%7CJustin%20Timberlake&body=Just%20click%20'Submit%20new%20issue'.) |
+| [The Wall](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CThe%20Wall&body=Just%20click%20'Submit%20new%20issue'.) | [Revolver](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CRevolver&body=Just%20click%20'Submit%20new%20issue'.) | [Magical Mystery Tour](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CMagical%20Mystery%20Tour&body=Just%20click%20'Submit%20new%20issue'.) | [Abbey Road](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CAbbey%20Road&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **Robbie Williams** to `Which former boy-band star released hit solo single "Angels" in 1997?` (Good answer)
 - **azgar44** answered **74** to `How long was Ken Jennings&#039; win streak on Jeopardy?` (Good answer)
 - **azgar44** answered **Trent Reznor** to `Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?` (Good answer)
 - **azgar44** answered **Romantic** to `Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **False** to `In the game "Racko" you may pick up ANY card from the discard pile.` (Good answer)
 - **azgar44** answered **The Who** to `Which artist or group did John Lennon consider "son(s) of the Beatles"?` (Wrong answer)
 - **azgar44** answered **Queen of Hearts** to `“Alice’s Adventures in Wonderland” features which of these characters?` (Good answer)
-- **azgar44** answered **1776** to `What year was the United States Declaration of Independence signed?` (Good answer)
 
 </details>
 
@@ -63,5 +63,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
+| [lowlighter](https://github.com/lowlighter) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
