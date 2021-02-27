@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In Terraria, what does the Wall of Flesh not drop upon defeat?
+## On her first recording, Billie Holiday was accompanied by what jazz legend?
 
 <br>
 
-| [Breaker Blade](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CBreaker%20Blade&body=Just%20click%20'Submit%20new%20issue'.) | [Laser Rifle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CLaser%20Rifle&body=Just%20click%20'Submit%20new%20issue'.) | [Pwnhammer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CPwnhammer&body=Just%20click%20'Submit%20new%20issue'.) | [Picksaw](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1081%7CPicksaw&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Benny Goodman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CBenny%20Goodman&body=Just%20click%20'Submit%20new%20issue'.) | [Count Basie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CCount%20Basie&body=Just%20click%20'Submit%20new%20issue'.) | [Duke Ellington](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CDuke%20Ellington&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Laser Rifle** to `In Terraria, what does the Wall of Flesh not drop upon defeat?` (Wrong answer)
 - **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
 - **SimonLeclere** answered **True** to `The United States of America declared their independence from the British Empire on July 4th, 1776.` (Good answer)
 - **SimonLeclere** answered **Last of the Mohicans** to `Jane Morgan was a nom de plume for the author of which of these works?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Rome** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Wrong answer)
 - **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
 - **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
-- **MRakox** answered **rowing machine** to `What exercise apparatus is used during a 'Spinning' class?` (Wrong answer)
 
 </details>
 
