@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of the following is another name for the &quot;Poecilotheria Metallica Tarantula&quot;?
+## In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?
 
 <br>
 
-| [Gooty](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C475%7CGooty&body=Just%20click%20'Submit%20new%20issue'.) | [Woebegone](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C475%7CWoebegone&body=Just%20click%20'Submit%20new%20issue'.) | [Silver Stripe](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C475%7CSilver%20Stripe&body=Just%20click%20'Submit%20new%20issue'.) | [Hopper](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C475%7CHopper&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Hadouken](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C129%7CHadouken&body=Just%20click%20'Submit%20new%20issue'.) | [Organ Grinder](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C129%7COrgan%20Grinder&body=Just%20click%20'Submit%20new%20issue'.) | [Skewer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C129%7CSkewer&body=Just%20click%20'Submit%20new%20issue'.) | [Showdown](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C129%7CShowdown&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **zechaos031** answered **Gooty** to `Which of the following is another name for the "Poecilotheria Metallica Tarantula"?` (Good answer)
 - **zechaos031** answered **Leonardo da Vinci** to `Who painted the Mona Lisa?` (Good answer)
 - **zechaos031** answered **5 Minutes, 50 Seconds** to `How long was the World Record Speed Run of Valve Software&#039;s "Half-Life" that was done in 2014.` (Wrong answer)
 - **zechaos031** answered **Kelisa** to `Which of these is NOT a car model produced by Malaysian car manufacturer Proton?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
 - **SimonLeclere** answered **True** to `The United States of America declared their independence from the British Empire on July 4th, 1776.` (Good answer)
 - **SimonLeclere** answered **Last of the Mohicans** to `Jane Morgan was a nom de plume for the author of which of these works?` (Good answer)
-- **SimonLeclere** answered **Claude Monet** to `The works of which artist are often used to illustrate the concept of tessellation?` (Wrong answer)
 
 </details>
 
@@ -59,7 +59,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
-| [zechaos031](https://github.com/zechaos031) | 4 |
+| [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
