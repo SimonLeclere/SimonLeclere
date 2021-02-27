@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## This field is sometimes known as &ldquo;The Dismal Science.&rdquo;
+## On which mission did the Space Shuttle Columbia break up upon re-entry?
 
 <br>
 
-| [Economics](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1598%7CEconomics&body=Just%20click%20'Submit%20new%20issue'.) | [Physics](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1598%7CPhysics&body=Just%20click%20'Submit%20new%20issue'.) | [Politics](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1598%7CPolitics&body=Just%20click%20'Submit%20new%20issue'.) | [Philosophy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1598%7CPhilosophy&body=Just%20click%20'Submit%20new%20issue'.) |
+| [STS-61-C](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-61-C&body=Just%20click%20'Submit%20new%20issue'.) | [STS-51-L](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-51-L&body=Just%20click%20'Submit%20new%20issue'.) | [STS-109](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-109&body=Just%20click%20'Submit%20new%20issue'.) | [STS-107](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-107&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Mr-KayJayDee** answered **Economics** to `This field is sometimes known as &ldquo;The Dismal Science.&rdquo;` (Good answer)
 - **SimonLeclere** answered **True** to `The 2010 film "The Social Network" is a biographical drama film about MySpace founder Tom Anderson.` (Wrong answer)
 - **SimonLeclere** answered **Dream Drop Distance** to `Which Kingdom Hearts game featured the cast of "The World Ends With You"?` (Good answer)
 - **Mr-KayJayDee** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Androz2091** answered **Amazon Prime** to `Which of these Amazon services was launched most recently?` (Wrong answer)
 - **SimonLeclere** answered **Amazon Mechanical Turk** to `Which of these Amazon services was launched most recently?` (Wrong answer)
 - **zechaos031** answered **Jessica Smith** to `Who played the sun baby in the original run of Teletubbies?` (Good answer)
-- **arclegrandroi** answered **Gordon Freeman** to `The default playermodel of Garry&#039;s Mod is this Half Life 2 character.` (Wrong answer)
 
 </details>
 
@@ -57,6 +57,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [SimonLeclere](https://github.com/SimonLeclere) | 5 |
+| [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 2 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
-| [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 1 |
