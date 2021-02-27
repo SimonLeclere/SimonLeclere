@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these is NOT an Australian state or territory?
+## What is the name of the currency in the &quot;Animal Crossing&quot; series?
 
 <br>
 
-| [New South Wales](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CNew%20South%20Wales&body=Just%20click%20'Submit%20new%20issue'.) | [Victoria](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CVictoria&body=Just%20click%20'Submit%20new%20issue'.) | [Alberta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CAlberta&body=Just%20click%20'Submit%20new%20issue'.) | [Queensland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1072%7CQueensland&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Bells](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C735%7CBells&body=Just%20click%20'Submit%20new%20issue'.) | [Bugs](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C735%7CBugs&body=Just%20click%20'Submit%20new%20issue'.) | [Leaves](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C735%7CLeaves&body=Just%20click%20'Submit%20new%20issue'.) | [Sea Shells](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C735%7CSea%20Shells&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **Alberta** to `Which of these is NOT an Australian state or territory?` (Good answer)
 - **lowlighter** answered **Baba O' Riley** to `The Who&#039;s eponymous line, "Teenage Wasteland", appears in which of their songs?` (Wrong answer)
 - **lowlighter** answered **Yukine** to `In the anime Noragami who is one of the main protagonists?` (Good answer)
 - **lowlighter** answered **The Ten Commandments** to `The Ark of the Covenant supposedly contains what religious artifact?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Trent Reznor** to `Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?` (Good answer)
 - **azgar44** answered **Romantic** to `Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?` (Good answer)
 - **azgar44** answered **Battle of Verdun** to `Which of these battles did NOT happen during World War II?` (Good answer)
-- **azgar44** answered **Robbing trains** to `Joseph Stalin had a criminal past doing what?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
-| [lowlighter](https://github.com/lowlighter) | 4 |
+| [lowlighter](https://github.com/lowlighter) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
