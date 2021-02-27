@@ -63,7 +63,7 @@ try {
         });
 
         const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
-        const rank = `${previousData.leaderboard.filter(u => u.wins >= previousData.leaderboard.find(x => x.name === UserData.user)).length}`;
+        const rank = `${previousData.leaderboard.filter(u => u.wins >= previousData.leaderboard.find(x => x.name === UserData.user)).length + 1}`;
         const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
         const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
         core.setOutput('closeIssueMsg', lastQuestion[0] ? victoryString : lostString);
