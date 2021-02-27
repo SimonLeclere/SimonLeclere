@@ -62,10 +62,10 @@ try {
             leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| [${x.name}](https://github.com/${x.name}) | ${x.wins} |`).join('\n')
         });
 
+        const rank = (user) => previousData.leaderboard.filter(u => u.wins > previousData.leaderboard.find(x => x.name === user).wins).length + 1;
         const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
-        const rank = `${previousData.leaderboard.filter(u => u.wins >= previousData.leaderboard.find(x => x.name === UserData.user)).length + 1}`;
-        const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
-        const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
+        const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank(UserData.user)}${suffixes[rank[rank.lenght]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
+        const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank(UserData.user)}${suffixes[rank[rank.lenght]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
         core.setOutput('closeIssueMsg', lastQuestion[0] ? victoryString : lostString);
 
         fs.writeFile('README.md', final, (err) => {
