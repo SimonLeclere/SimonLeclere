@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?
+## Which American colony, known for its religious tolerance, did Roger Williams found in 1636?
 
 <br>
 
-| [Polly Finn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4819%7CPolly%20Finn&body=Just%20click%20'Submit%20new%20issue'.) | [Nancy Drew](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4819%7CNancy%20Drew&body=Just%20click%20'Submit%20new%20issue'.) | [Emma Bovary](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4819%7CEmma%20Bovary&body=Just%20click%20'Submit%20new%20issue'.) | [Becky Thatcher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4819%7CBecky%20Thatcher&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Rhode Island](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5086%7CRhode%20Island&body=Just%20click%20'Submit%20new%20issue'.) | [Virginia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5086%7CVirginia&body=Just%20click%20'Submit%20new%20issue'.) | [Massachusetts](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5086%7CMassachusetts&body=Just%20click%20'Submit%20new%20issue'.) | [Vermont](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5086%7CVermont&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Bazooka** to `In the "Worms" series of video games, which of these weapons is affected by wind?` (Good answer)
 - **MRakox** answered **Gallbladder** to `Which of these body parts contains the islets of Langerhans?` (Wrong answer)
 - **MRakox** answered **hoot** to `Which of these sounds is commonly associated with owls?` (Good answer)
 - **MRakox** answered **bark** to `Which of these sounds is commonly associated with owls?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **TapsHTS** answered **True** to `The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).` (Good answer)
 - **SimonLeclere** answered **Jim Morrison** to `Which of these singers referred to himself as “the Lizard King”?` (Good answer)
 - **Mr-KayJayDee** answered **10** to `How many seasons did "Stargate SG-1" have?` (Good answer)
-- **Mr-KayJayDee** answered **'All the President's Men'** to `Which of the following is about the Watergate scandal?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 6 |
-| [MRakox](https://github.com/MRakox) | 3 |
+| [MRakox](https://github.com/MRakox) | 4 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
