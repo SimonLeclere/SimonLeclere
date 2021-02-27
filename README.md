@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## On which mission did the Space Shuttle Columbia break up upon re-entry?
+## In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.
 
 <br>
 
-| [STS-61-C](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-61-C&body=Just%20click%20'Submit%20new%20issue'.) | [STS-51-L](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-51-L&body=Just%20click%20'Submit%20new%20issue'.) | [STS-109](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-109&body=Just%20click%20'Submit%20new%20issue'.) | [STS-107](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1078%7CSTS-107&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1673%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1673%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Mr-KayJayDee** answered **STS-107** to `On which mission did the Space Shuttle Columbia break up upon re-entry?` (Good answer)
 - **Mr-KayJayDee** answered **Economics** to `This field is sometimes known as &ldquo;The Dismal Science.&rdquo;` (Good answer)
 - **SimonLeclere** answered **True** to `The 2010 film "The Social Network" is a biographical drama film about MySpace founder Tom Anderson.` (Wrong answer)
 - **SimonLeclere** answered **Dream Drop Distance** to `Which Kingdom Hearts game featured the cast of "The World Ends With You"?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Bosnia and Herzegovina** to `Which nation’s flag features a simple geometric form meant to resemble the nation’s shape?` (Good answer)
 - **Androz2091** answered **Amazon Prime** to `Which of these Amazon services was launched most recently?` (Wrong answer)
 - **SimonLeclere** answered **Amazon Mechanical Turk** to `Which of these Amazon services was launched most recently?` (Wrong answer)
-- **zechaos031** answered **Jessica Smith** to `Who played the sun baby in the original run of Teletubbies?` (Good answer)
 
 </details>
 
@@ -57,6 +57,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [SimonLeclere](https://github.com/SimonLeclere) | 5 |
-| [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 2 |
+| [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 3 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
