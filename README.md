@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many ounces are in a pound?
+## In the nursery rhyme, Mary had a little what?
 
 <br>
 
-| [4](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C4&body=Just%20click%20'Submit%20new%20issue'.) | [12](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C12&body=Just%20click%20'Submit%20new%20issue'.) | [16](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C16&body=Just%20click%20'Submit%20new%20issue'.) | [32](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C32&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Laryngitis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2940%7CLaryngitis&body=Just%20click%20'Submit%20new%20issue'.) | [Log](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2940%7CLog&body=Just%20click%20'Submit%20new%20issue'.) | [Lamb](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2940%7CLamb&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **16** to `How many ounces are in a pound?` (Good answer)
 - **lowlighter** answered **False** to `St. Louis is the capital of the US State Missouri.` (Good answer)
 - **lowlighter** answered **Blue Sky** to `In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?` (Good answer)
 - **lowlighter** answered **Bells** to `What is the name of the currency in the "Animal Crossing" series?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **lowlighter** answered **The Ten Commandments** to `The Ark of the Covenant supposedly contains what religious artifact?` (Good answer)
 - **lowlighter** answered **The Wall** to `Which of these is NOT an album released by The Beatles?` (Good answer)
 - **lowlighter** answered **Robbie Williams** to `Which former boy-band star released hit solo single "Angels" in 1997?` (Good answer)
-- **azgar44** answered **74** to `How long was Ken Jennings&#039; win streak on Jeopardy?` (Good answer)
 
 </details>
 
@@ -57,9 +57,9 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
+| [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
-| [lowlighter](https://github.com/lowlighter) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
