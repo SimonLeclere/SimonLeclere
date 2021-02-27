@@ -46,7 +46,7 @@ try {
             correct: lastQuestion[0]
         });
 
-        const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${a.question}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
+        const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${unescape(a.question)}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
 
         if(lastQuestion[0]) {
             const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
