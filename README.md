@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which animation studio animated &quot;Psycho Pass&quot;?
+## What year was the United States Declaration of Independence signed?
 
 <br>
 
-| [Shaft](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C122%7CShaft&body=Just%20click%20'Submit%20new%20issue'.) | [Kyoto Animation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C122%7CKyoto%20Animation&body=Just%20click%20'Submit%20new%20issue'.) | [Production I.G](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C122%7CProduction%20I.G&body=Just%20click%20'Submit%20new%20issue'.) | [Trigger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C122%7CTrigger&body=Just%20click%20'Submit%20new%20issue'.) |
+| [1774](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C386%7C1774&body=Just%20click%20'Submit%20new%20issue'.) | [1775](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C386%7C1775&body=Just%20click%20'Submit%20new%20issue'.) | [1777](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C386%7C1777&body=Just%20click%20'Submit%20new%20issue'.) | [1776](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C386%7C1776&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Production I.G** to `Which animation studio animated "Psycho Pass"?` (Good answer)
 - **azgar44** answered **Center Parcs** to `De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?` (Good answer)
 - **azgar44** answered **Scimitar** to `Which one of these is not a typical European sword design?` (Good answer)
 - **azgar44** answered **Hairy** to `What is the defining characteristic of someone who is described as hirsute?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Spaceman From Pluto** to `What was another suggested name for, the 1985 film, Back to the Future?` (Good answer)
 - **azgar44** answered **red** to `What color is a ruby?` (Good answer)
 - **azgar44** answered **fashion designer** to `What is Delta Burke's character's job on the sitcom 'Designing Women'?` (Wrong answer)
-- **azgar44** answered **Showdown** to `In "Team Fortress 2", what is the fastest taunt kill that can be pulled off?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 9 |
+| [azgar44](https://github.com/azgar44) | 10 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
