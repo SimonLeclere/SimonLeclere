@@ -12,6 +12,7 @@ const UserData = {
 const answerData = UserData.title.split('|');
 
 const makeLeaderboard = (leaderboard) => leaderboard.sort((a, b) => b.wins - a.wins).slice(0, 10);
+const shuffle = arr => arr.sort(() => 0.5 - Math.random());
 const isCorrect = async (id, userAnswer) => {
     const question = await fetchQuestion(id);
     return [question.correct_answer.toLowerCase() === userAnswer.toLowerCase(), question.question];
@@ -34,7 +35,7 @@ fs.readFile('readme.template.md', async (err, data) => {
     
     const triviaData = await fetchQuestion();
 
-    const answersList = [...triviaData.incorrect_answers, triviaData.correct_answer];
+    const answersList = shuffle([...triviaData.incorrect_answers, triviaData.correct_answer]);
     const lastQuestion = await isCorrect(answerData[1], answerData[2]);
 
     previousData.lastAnswers = previousData.lastAnswers.slice(0, 9);
