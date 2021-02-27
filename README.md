@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What exercise apparatus is used during a 'Spinning' class?
+## In the &quot;Halo&quot; franchise, in what country is New Mombasa?
 
 <br>
 
-| [stationary bicycle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4939%7Cstationary%20bicycle&body=Just%20click%20'Submit%20new%20issue'.) | [barbells](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4939%7Cbarbells&body=Just%20click%20'Submit%20new%20issue'.) | [rowing machine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4939%7Crowing%20machine&body=Just%20click%20'Submit%20new%20issue'.) | [treadmill](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4939%7Ctreadmill&body=Just%20click%20'Submit%20new%20issue'.) |
+| [India](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1304%7CIndia&body=Just%20click%20'Submit%20new%20issue'.) | [Turkey](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1304%7CTurkey&body=Just%20click%20'Submit%20new%20issue'.) | [Kenya](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1304%7CKenya&body=Just%20click%20'Submit%20new%20issue'.) | [Slovakia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1304%7CSlovakia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Massachusetts** to `Which American colony, known for its religious tolerance, did Roger Williams found in 1636?` (Wrong answer)
 - **MRakox** answered **Polly Finn** to `In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?` (Wrong answer)
 - **MRakox** answered **Bazooka** to `In the "Worms" series of video games, which of these weapons is affected by wind?` (Good answer)
 - **MRakox** answered **Gallbladder** to `Which of these body parts contains the islets of Langerhans?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Fermented Black Beans** to `In Rome, which of these ingredients is used to flavour ciabatta bread?` (Wrong answer)
 - **TapsHTS** answered **False** to `There is a Donald Trump Board Game, which was made in 1989.` (Wrong answer)
 - **TapsHTS** answered **True** to `The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).` (Good answer)
-- **SimonLeclere** answered **Jim Morrison** to `Which of these singers referred to himself as “the Lizard King”?` (Good answer)
 
 </details>
 
