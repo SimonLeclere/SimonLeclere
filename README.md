@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Joseph Stalin had a criminal past doing what?
+## Which of these battles did NOT happen during World War II?
 
 <br>
 
-| [Pedophilia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2081%7CPedophilia&body=Just%20click%20'Submit%20new%20issue'.) | [Tax evation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2081%7CTax%20evation&body=Just%20click%20'Submit%20new%20issue'.) | [Robbing trains](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2081%7CRobbing%20trains&body=Just%20click%20'Submit%20new%20issue'.) | [Identity Fraud](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2081%7CIdentity%20Fraud&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Battle of the Bulge](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4405%7CBattle%20of%20the%20Bulge&body=Just%20click%20'Submit%20new%20issue'.) | [Battle of Verdun](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4405%7CBattle%20of%20Verdun&body=Just%20click%20'Submit%20new%20issue'.) | [Battle of Midway](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4405%7CBattle%20of%20Midway&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Robbing trains** to `Joseph Stalin had a criminal past doing what?` (Good answer)
 - **azgar44** answered **True** to `Coca-Cola&#039;s original colour was green.` (Wrong answer)
 - **azgar44** answered **False** to `In the game "Racko" you may pick up ANY card from the discard pile.` (Good answer)
 - **azgar44** answered **The Who** to `Which artist or group did John Lennon consider "son(s) of the Beatles"?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Center Parcs** to `De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?` (Good answer)
 - **azgar44** answered **Scimitar** to `Which one of these is not a typical European sword design?` (Good answer)
 - **azgar44** answered **Hairy** to `What is the defining characteristic of someone who is described as hirsute?` (Good answer)
-- **azgar44** answered **red and yellow** to `What colors are the two circles in the MasterCard logo?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 13 |
+| [azgar44](https://github.com/azgar44) | 14 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
