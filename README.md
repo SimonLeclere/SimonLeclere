@@ -25,12 +25,12 @@ Some facts about me :
 
 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 
-## Which of these awards is given to the NBA’s best first-year player?
+## What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?
 
 <br>
 
-| [America’s Cup](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4401%7CAmerica%E2%80%99s%20Cup&body=Just+click+%2527Submit+new+issue%2527.) | [Independent Spirit Award](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4401%7CIndependent%20Spirit%20Award&body=Just+click+%2527Submit+new+issue%2527.) | [Rookie of the Year](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4401%7CRookie%20of%20the%20Year&body=Just+click+%2527Submit+new+issue%2527.) |
-| - | - | - | 
+| [Rem](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRem&body=Just+click+%2527Submit+new+issue%2527.) | [Ren](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRen&body=Just+click+%2527Submit+new+issue%2527.) | [Ram](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRam&body=Just+click+%2527Submit+new+issue%2527.) | [Rin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRin&body=Just+click+%2527Submit+new+issue%2527.) |
+| - | - | - | - | 
 
 <br>
 
@@ -38,6 +38,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
   <summary>Last 10 responses :</summary>
 
 - **SimonLeclere** answered **Japan** to `The Benihana company has a restaurant in which of these places?` (Bad answer)
+- **SimonLeclere** answered **Rookie of the Year** to `Which of these awards is given to the NBA’s best first-year player?` (Good answer)
 
 </details>
 
@@ -47,3 +48,4 @@ Leaderboard :
 
 | User | Number of wins |
 |-|-|
+| SimonLeclere | 1 |
