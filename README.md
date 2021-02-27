@@ -24,22 +24,23 @@ Some facts about me :
 <br>
 
 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
-
-## In Roman Numerals, what does XL equate to?
+<details>
+  <summary>How does it work?</summary>
+  Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file.Not bad huh?!
+</details>
+## Several characters in &quot;Super Mario 64&quot; blink their eyes, including Mario himself.
 
 <br>
 
-| [90](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2753%7C90&body=Just%20click%20'Submit%20new%20issue'.) | [15](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2753%7C15&body=Just%20click%20'Submit%20new%20issue'.) | [60](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2753%7C60&body=Just%20click%20'Submit%20new%20issue'.) | [40](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2753%7C40&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1782%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1782%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>Last 10 responses :</summary>
 
-- **SimonLeclere** answered **True** to `Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.` (Good answer)
-- **SimonLeclere** answered **Flowey** to `In the 2015 RPG "Undertale", which character do you first encounter after falling down into the underground?` (Good answer)
-- **SimonLeclere** answered **Dark Souls III** to `Which game in the "Dark Souls" series does the player play as the "Ashen One"?` (Good answer)
+- **SimonLeclere** answered **40** to `In Roman Numerals, what does XL equate to?` (Good answer)
 
 </details>
 
@@ -49,4 +50,4 @@ Leaderboard :
 
 | User | Number of wins |
 |-|-|
-| SimonLeclere | 3 |
+| SimonLeclere | 1 |
