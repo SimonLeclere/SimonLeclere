@@ -59,7 +59,7 @@ fs.readFile('readme.template.md', async (err, data) => {
         question: triviaData.question,
         answers: `| ${answersList.map(a => `[${a}](${genLink(triviaData.id, a)})`).join(' | ')} |` + '\n' + `| ${ '- | '.repeat(answersList.length)}`,
         lastAnswers: lastAnswers.join('\n'),
-        leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| ${x.name} | ${x.wins} |`).join('\n')
+        leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| [${x.name}](https://github.com/${x.name}) | ${x.wins} |`).join('\n')
     });
 
     fs.writeFile('README.md', final, (err) => {
