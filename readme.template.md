@@ -47,3 +47,5 @@ ${lastAnswers}
 | User | Number of wins |
 |-|-|
 ${leaderboard}
+
+[Click here to see your stats](`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just click 'Submit new issue'.)

@@ -1,0 +1,9 @@
+name: 'stats'
+description: 'Get your stats'
+inputs:
+  user:
+    description: 'Github user'
+    required: true
+runs:
+  using: 'node12'
+  main: 'index.js'

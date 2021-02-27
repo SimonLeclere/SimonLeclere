@@ -1,0 +1,22 @@
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  MyStats:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'MyStats')
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          git pull origin main
+      - name: collect stats
+        uses: ./myStats
+        id: stats
+        with:
+          user: ${{ github.event.issue.user.login }}
+      - name: Close Issue
+        uses: peter-evans/close-issue@v1
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: ${{ steps.stats.outputs.closeIssueMsg }}
