@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many seasons did &quot;Stargate SG-1&quot; have?
+## Which of these singers referred to himself as “the Lizard King”?
 
 <br>
 
-| [3](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1273%7C3&body=Just%20click%20'Submit%20new%20issue'.) | [12](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1273%7C12&body=Just%20click%20'Submit%20new%20issue'.) | [10](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1273%7C10&body=Just%20click%20'Submit%20new%20issue'.) | [7](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1273%7C7&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Steven Tyler](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4371%7CSteven%20Tyler&body=Just%20click%20'Submit%20new%20issue'.) | [Jim Morrison](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4371%7CJim%20Morrison&body=Just%20click%20'Submit%20new%20issue'.) | [Gene Simmons](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4371%7CGene%20Simmons&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Mr-KayJayDee** answered **10** to `How many seasons did "Stargate SG-1" have?` (Good answer)
 - **Mr-KayJayDee** answered **'All the President's Men'** to `Which of the following is about the Watergate scandal?` (Good answer)
 - **Mr-KayJayDee** answered **Spotify** to `Which of these companies offers a “freemium” service?` (Good answer)
 - **Mr-KayJayDee** answered **Serpent Club** to `Which of these is a real Ivy League secret society?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Mr-KayJayDee** answered **True** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Good answer)
 - **MRakox** answered **Minecraft** to `What&#039;s the best selling video game to date?` (Wrong answer)
 - **MRakox** answered **True** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Good answer)
-- **MRakox** answered **False** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Wrong answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 7 |
+| [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 5 |
 | [MRakox](https://github.com/MRakox) | 2 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
