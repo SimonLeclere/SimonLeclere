@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/SimonLeclere/SimonLeclere#readme",
   "dependencies": {
+    "@actions/core": "^1.2.6",
     "lodash.template": "^4.5.0",
     "node-fetch": "^2.6.1"
   }
