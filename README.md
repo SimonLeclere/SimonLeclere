@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these sounds is commonly associated with owls?
+## Which of these body parts contains the islets of Langerhans?
 
 <br>
 
-| [chirp](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5190%7Cchirp&body=Just%20click%20'Submit%20new%20issue'.) | [bark](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5190%7Cbark&body=Just%20click%20'Submit%20new%20issue'.) | [growl](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5190%7Cgrowl&body=Just%20click%20'Submit%20new%20issue'.) | [hoot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5190%7Choot&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Pancreas](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3739%7CPancreas&body=Just%20click%20'Submit%20new%20issue'.) | [Gallbladder](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3739%7CGallbladder&body=Just%20click%20'Submit%20new%20issue'.) | [Brain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3739%7CBrain&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **bark** to `Which of these sounds is commonly associated with owls?` (Wrong answer)
 - **SimonLeclere** answered **Street Fighter** to `Which of these game franchises were made by Namco?` (Wrong answer)
 - **SimonLeclere** answered **Fermented Black Beans** to `In Rome, which of these ingredients is used to flavour ciabatta bread?` (Wrong answer)
 - **TapsHTS** answered **False** to `There is a Donald Trump Board Game, which was made in 1989.` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Mr-KayJayDee** answered **'All the President's Men'** to `Which of the following is about the Watergate scandal?` (Good answer)
 - **Mr-KayJayDee** answered **Spotify** to `Which of these companies offers a “freemium” service?` (Good answer)
 - **Mr-KayJayDee** answered **Serpent Club** to `Which of these is a real Ivy League secret society?` (Wrong answer)
-- **Mr-KayJayDee** answered **Ampersand** to `What character was once considered to be the 27th letter of the alphabet?` (Good answer)
 
 </details>
 
