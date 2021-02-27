@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.
+## Coca-Cola&#039;s original colour was green.
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1278%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1278%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C940%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C940%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **False** to `In the game "Racko" you may pick up ANY card from the discard pile.` (Good answer)
 - **azgar44** answered **The Who** to `Which artist or group did John Lennon consider "son(s) of the Beatles"?` (Wrong answer)
 - **azgar44** answered **Queen of Hearts** to `“Alice’s Adventures in Wonderland” features which of these characters?` (Good answer)
 - **azgar44** answered **1776** to `What year was the United States Declaration of Independence signed?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Hairy** to `What is the defining characteristic of someone who is described as hirsute?` (Good answer)
 - **azgar44** answered **red and yellow** to `What colors are the two circles in the MasterCard logo?` (Good answer)
 - **azgar44** answered **Leg** to `What part of the body is damaged if you break your tibia?` (Good answer)
-- **azgar44** answered **Caucasus** to `The main objective of the German operation "Case Blue" during World War II was originally to capture what?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 12 |
+| [azgar44](https://github.com/azgar44) | 13 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
