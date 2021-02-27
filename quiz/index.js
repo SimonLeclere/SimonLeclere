@@ -1,5 +1,6 @@
 const fs = require('fs')
 const template = require('lodash.template');
+var unescape = require('lodash.unescape');
 const fetch = require('node-fetch');
 const core = require('@actions/core');
 
@@ -40,7 +41,7 @@ fs.readFile('readme.template.md', async (err, data) => {
     previousData.lastAnswers.unshift({
         name: UserData.user,
         answer: answerData[2],
-        question: lastQuestion[1],
+        question: unescape(lastQuestion[1]),
         correct: lastQuestion[0]
     });
 
