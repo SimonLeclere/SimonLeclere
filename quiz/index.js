@@ -15,7 +15,7 @@ const makeLeaderboard = (leaderboard) => leaderboard.sort((a, b) => b.wins - a.w
 const shuffle = arr => arr.sort(() => 0.5 - Math.random());
 const isCorrect = async (id, userAnswer) => {
     const question = await fetchQuestion(id);
-    return [question.correct_answer.toLowerCase() === userAnswer.toLowerCase(), question.question];
+    return [question.correct_answer.toLowerCase() === userAnswer.toLowerCase(), question.question, question.correct_answer];
 }
 const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz|${id}|${answer}&body=Just click 'Submit new issue'.`);
 const fetchQuestion = async (id='') => {
@@ -61,6 +61,12 @@ fs.readFile('readme.template.md', async (err, data) => {
         lastAnswers: lastAnswers.join('\n'),
         leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| [${x.name}](https://github.com/${x.name}) | ${x.wins} |`).join('\n')
     });
+
+    const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
+    const rank = `${previousData.leaderboard.filter(u => u.wins >= previousData.leaderboard.find(x => x.name === UserData.user)).length}`;
+    const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
+    const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
+    core.setOutput('closeIssueMsg', lastQuestion[0] ? victoryString : lostString);
 
     fs.writeFile('README.md', final, (err) => {
         if(err) return console.log(err);
