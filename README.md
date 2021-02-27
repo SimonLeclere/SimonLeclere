@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What colors are the two circles in the MasterCard logo?
+## What is the defining characteristic of someone who is described as hirsute?
 
 <br>
 
-| [red and yellow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4914%7Cred%20and%20yellow&body=Just%20click%20'Submit%20new%20issue'.) | [blue and green](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4914%7Cblue%20and%20green&body=Just%20click%20'Submit%20new%20issue'.) | [pink and orange](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4914%7Cpink%20and%20orange&body=Just%20click%20'Submit%20new%20issue'.) | [black and white](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4914%7Cblack%20and%20white&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Rude](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1555%7CRude&body=Just%20click%20'Submit%20new%20issue'.) | [Hairy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1555%7CHairy&body=Just%20click%20'Submit%20new%20issue'.) | [Funny](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1555%7CFunny&body=Just%20click%20'Submit%20new%20issue'.) | [Tall](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1555%7CTall&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **red and yellow** to `What colors are the two circles in the MasterCard logo?` (Good answer)
 - **azgar44** answered **Leg** to `What part of the body is damaged if you break your tibia?` (Good answer)
 - **azgar44** answered **Caucasus** to `The main objective of the German operation "Case Blue" during World War II was originally to capture what?` (Good answer)
 - **azgar44** answered **Spaceman From Pluto** to `What was another suggested name for, the 1985 film, Back to the Future?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **zechaos031** answered **Gooty** to `Which of the following is another name for the "Poecilotheria Metallica Tarantula"?` (Good answer)
 - **zechaos031** answered **Leonardo da Vinci** to `Who painted the Mona Lisa?` (Good answer)
 - **zechaos031** answered **5 Minutes, 50 Seconds** to `How long was the World Record Speed Run of Valve Software&#039;s "Half-Life" that was done in 2014.` (Wrong answer)
-- **zechaos031** answered **Kelisa** to `Which of these is NOT a car model produced by Malaysian car manufacturer Proton?` (Good answer)
 
 </details>
 
@@ -59,8 +59,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
+| [azgar44](https://github.com/azgar44) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
-| [azgar44](https://github.com/azgar44) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
