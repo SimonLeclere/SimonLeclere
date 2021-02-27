@@ -22,24 +22,25 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 <br>
 
-This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
+🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
-  <summary>How does it work?</summary>
-  Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file.Not bad huh?!
+  <summary>🛠️ How does it work?</summary>
+  Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## To ward off bad luck, what do many people do to wood?
+## In the first known use of “mammoth” as an adjective, what item was it describing?
 
 <br>
 
-| [kiss it](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4885%7Ckiss%20it&body=Just%20click%20'Submit%20new%20issue'.) | [thank it](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4885%7Cthank%20it&body=Just%20click%20'Submit%20new%20issue'.) | [knock on it](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4885%7Cknock%20on%20it&body=Just%20click%20'Submit%20new%20issue'.) | [scratch it](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4885%7Cscratch%20it&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Empire State Building](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3361%7CEmpire%20State%20Building&body=Just%20click%20'Submit%20new%20issue'.) | [Dinosaur](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3361%7CDinosaur&body=Just%20click%20'Submit%20new%20issue'.) | [Hunk of cheese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3361%7CHunk%20of%20cheese&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
-  <summary>Last 10 responses :</summary>
+  <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **kiss it** to `To ward off bad luck, what do many people do to wood?` (Wrong answer)
 - **SimonLeclere** answered **Electron** to `A positron is an antiparticle of a what?` (Good answer)
 - **SimonLeclere** answered **True** to `Several characters in "Super Mario 64" blink their eyes, including Mario himself.` (Good answer)
 - **SimonLeclere** answered **40** to `In Roman Numerals, what does XL equate to?` (Good answer)
@@ -48,7 +49,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
 
 <br>
 
-Leaderboard :
+📊 Leaderboard :
 
 | User | Number of wins |
 |-|-|
