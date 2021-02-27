@@ -60,7 +60,7 @@ fs.readFile('readme.template.md', async (err, data) => {
         leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| ${x.name} | ${x.wins} |`).join('\n')
     });
 
-    fs.writeFile('READMEE.md', final, (err) => {
+    fs.writeFile('README.md', final, (err) => {
         if(err) return console.log(err);
         console.log('Readme updated!')
     });
