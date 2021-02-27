@@ -25,56 +25,60 @@ const fetchQuestion = async (id='') => {
 };
 
 
+try {
+    const previousData = require('../data.json');
 
-const previousData = require('../data.json');
+    fs.readFile('readme.template.md', async (err, data) => {
 
-fs.readFile('readme.template.md', async (err, data) => {
+        if (err) return console.error(err);
+        const readme = data.toString();
+        
+        const triviaData = await fetchQuestion();
 
-	if (err) return console.error(err);
-	const readme = data.toString();
-    
-    const triviaData = await fetchQuestion();
+        const answersList = shuffle([...triviaData.incorrect_answers, triviaData.correct_answer]);
+        const lastQuestion = await isCorrect(answerData[1], answerData[2]);
 
-    const answersList = shuffle([...triviaData.incorrect_answers, triviaData.correct_answer]);
-    const lastQuestion = await isCorrect(answerData[1], answerData[2]);
+        previousData.lastAnswers = previousData.lastAnswers.slice(0, 9);
+        previousData.lastAnswers.unshift({
+            name: UserData.user,
+            answer: answerData[2],
+            question: unescape(lastQuestion[1]),
+            correct: lastQuestion[0]
+        });
 
-    previousData.lastAnswers = previousData.lastAnswers.slice(0, 9);
-    previousData.lastAnswers.unshift({
-        name: UserData.user,
-        answer: answerData[2],
-        question: unescape(lastQuestion[1]),
-        correct: lastQuestion[0]
-    });
+        const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${a.question}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
 
-    const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${a.question}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
+        if(lastQuestion[0]) {
+            const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
+            if(userScore) userScore.wins++;
+            else previousData.leaderboard.push({ name: UserData.user, wins: 1 })
+        }
 
-    if(lastQuestion[0]) {
-        const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
-        if(userScore) userScore.wins++;
-        else previousData.leaderboard.push({ name: UserData.user, wins: 1 })
-    }
+        const templated = template(readme);
+        const final = templated({
+            question: triviaData.question,
+            answers: `| ${answersList.map(a => `[${a}](${genLink(triviaData.id, a)})`).join(' | ')} |` + '\n' + `| ${ '- | '.repeat(answersList.length)}`,
+            lastAnswers: lastAnswers.join('\n'),
+            leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| [${x.name}](https://github.com/${x.name}) | ${x.wins} |`).join('\n')
+        });
 
-    const templated = template(readme);
-    const final = templated({
-        question: triviaData.question,
-        answers: `| ${answersList.map(a => `[${a}](${genLink(triviaData.id, a)})`).join(' | ')} |` + '\n' + `| ${ '- | '.repeat(answersList.length)}`,
-        lastAnswers: lastAnswers.join('\n'),
-        leaderboard: makeLeaderboard(previousData.leaderboard).map(x => `| [${x.name}](https://github.com/${x.name}) | ${x.wins} |`).join('\n')
-    });
+        const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
+        const rank = `${previousData.leaderboard.filter(u => u.wins >= previousData.leaderboard.find(x => x.name === UserData.user)).length}`;
+        const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
+        const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
+        core.setOutput('closeIssueMsg', lastQuestion[0] ? victoryString : lostString);
 
-    const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
-    const rank = `${previousData.leaderboard.filter(u => u.wins >= previousData.leaderboard.find(x => x.name === UserData.user)).length}`;
-    const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
-    const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.lenght]] || 'th'}`;
-    core.setOutput('closeIssueMsg', lastQuestion[0] ? victoryString : lostString);
+        fs.writeFile('README.md', final, (err) => {
+            if(err) return console.log(err);
+            console.log('Readme updated!')
+        });
 
-    fs.writeFile('README.md', final, (err) => {
-        if(err) return console.log(err);
-        console.log('Readme updated!')
-    });
+        fs.writeFile('data.json', JSON.stringify(previousData), (err) => {
+            if(err) return console.log(err);
+            console.log('data.json updated!')
+        });
+    })
 
-    fs.writeFile('data.json', JSON.stringify(previousData), (err) => {
-        if(err) return console.log(err);
-        console.log('data.json updated!')
-    });
-})
+} catch(error) {
+    core.setFailed(error.message);
+}

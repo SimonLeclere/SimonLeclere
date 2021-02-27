@@ -29,4 +29,4 @@ jobs:
         uses: peter-evans/close-issue@v1
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: ${{ steps.quiz.closeIssueMsg }}
+          comment: ${{ steps.quiz.outputs.closeIssueMsg }}
