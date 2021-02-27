@@ -48,4 +48,4 @@ ${lastAnswers}
 |-|-|
 ${leaderboard}
 
-[Click here to see your stats](`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just click 'Submit new issue'.)
+[Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
