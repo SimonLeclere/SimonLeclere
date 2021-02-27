@@ -28,18 +28,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Aperture Science CEO Cave Johnson is voiced by which American actor?
+## What would you directly learn to do from the Chicago Manual of Style?
 
 <br>
 
-| [Christopher Lloyd](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2287%7CChristopher%20Lloyd&body=Just%20click%20'Submit%20new%20issue'.) | [John Patrick Lowrie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2287%7CJohn%20Patrick%20Lowrie&body=Just%20click%20'Submit%20new%20issue'.) | [J.K. Simmons](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2287%7CJ.K.%20Simmons&body=Just%20click%20'Submit%20new%20issue'.) | [Nolan North](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2287%7CNolan%20North&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Punctuate a sentence](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4572%7CPunctuate%20a%20sentence&body=Just%20click%20'Submit%20new%20issue'.) | [Accessorize a dress](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4572%7CAccessorize%20a%20dress&body=Just%20click%20'Submit%20new%20issue'.) | [Kern a font](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4572%7CKern%20a%20font&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **John Patrick Lowrie** to `Aperture Science CEO Cave Johnson is voiced by which American actor?` (Wrong answer)
 - **SimonLeclere** answered **Plastics** to `In the 1960s, Radio Shack was purchased by a company specializing in what?` (Wrong answer)
 - **Androz2091** answered **to hold a ship in place** to `What is the proper nautical use of an anchor?` (Good answer)
 - **MRakox** answered **Emoticon** to `A 1976 book by Richard Dawkins introduced what now-common word?` (Wrong answer)
@@ -57,5 +58,5 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [SimonLeclere](https://github.com/SimonLeclere) | 3 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 2 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
