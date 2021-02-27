@@ -17,7 +17,7 @@ const isCorrect = async (id, userAnswer) => {
     const question = await fetchQuestion(id);
     return [question.correct_answer.toLowerCase() === userAnswer.toLowerCase(), question.question];
 }
-const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz|${id}|${answer}&body=Just+click+%27Submit+new+issue%27.`);
+const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz|${id}|${answer}&body=Just click 'Submit new issue'.`);
 const fetchQuestion = async (id='') => {
     return await fetch(`https://beta-trivia.bongo.best/${id}`)
     .then(res => res.json())
@@ -46,7 +46,7 @@ fs.readFile('readme.template.md', async (err, data) => {
         correct: lastQuestion[0]
     });
 
-    const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${a.question}\` (${a.correct ? 'Good answer' : 'Bad answer'})`);
+    const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${a.question}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
 
     if(lastQuestion[0]) {
         const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
