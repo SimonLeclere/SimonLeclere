@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is Delta Burke's character's job on the sitcom 'Designing Women'?
+## What color is a ruby?
 
 <br>
 
-| [graphic designer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4959%7Cgraphic%20designer&body=Just%20click%20'Submit%20new%20issue'.) | [fashion designer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4959%7Cfashion%20designer&body=Just%20click%20'Submit%20new%20issue'.) | [interior designer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4959%7Cinterior%20designer&body=Just%20click%20'Submit%20new%20issue'.) | [website designer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4959%7Cwebsite%20designer&body=Just%20click%20'Submit%20new%20issue'.) |
+| [blue](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cblue&body=Just%20click%20'Submit%20new%20issue'.) | [yellow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cyellow&body=Just%20click%20'Submit%20new%20issue'.) | [red](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cred&body=Just%20click%20'Submit%20new%20issue'.) | [black](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4910%7Cblack&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **fashion designer** to `What is Delta Burke's character's job on the sitcom 'Designing Women'?` (Wrong answer)
 - **azgar44** answered **Showdown** to `In "Team Fortress 2", what is the fastest taunt kill that can be pulled off?` (Good answer)
 - **zechaos031** answered **Gooty** to `Which of the following is another name for the "Poecilotheria Metallica Tarantula"?` (Good answer)
 - **zechaos031** answered **Leonardo da Vinci** to `Who painted the Mona Lisa?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Duke Ellington** to `On her first recording, Billie Holiday was accompanied by what jazz legend?` (Wrong answer)
 - **SimonLeclere** answered **Laser Rifle** to `In Terraria, what does the Wall of Flesh not drop upon defeat?` (Wrong answer)
 - **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
-- **SimonLeclere** answered **True** to `The United States of America declared their independence from the British Empire on July 4th, 1776.` (Good answer)
 
 </details>
 
