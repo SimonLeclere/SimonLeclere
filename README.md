@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the anime Noragami who is one of the main protagonists?
+## The Who&#039;s eponymous line, &quot;Teenage Wasteland&quot;, appears in which of their songs?
 
 <br>
 
-| [Yukine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1164%7CYukine&body=Just%20click%20'Submit%20new%20issue'.) | [Mineha](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1164%7CMineha&body=Just%20click%20'Submit%20new%20issue'.) | [Karuha](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1164%7CKaruha&body=Just%20click%20'Submit%20new%20issue'.) | [Mayu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1164%7CMayu&body=Just%20click%20'Submit%20new%20issue'.) |
+| [The Seeker](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CThe%20Seeker&body=Just%20click%20'Submit%20new%20issue'.) | [Baba O&#039; Riley](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CBaba%20O&#039;%20Riley&body=Just%20click%20'Submit%20new%20issue'.) | [Won&#039;t Get Fooled Again](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CWon&#039;t%20Get%20Fooled%20Again&body=Just%20click%20'Submit%20new%20issue'.) | [Pinball Wizard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C774%7CPinball%20Wizard&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **Yukine** to `In the anime Noragami who is one of the main protagonists?` (Good answer)
 - **lowlighter** answered **The Ten Commandments** to `The Ark of the Covenant supposedly contains what religious artifact?` (Good answer)
 - **lowlighter** answered **The Wall** to `Which of these is NOT an album released by The Beatles?` (Good answer)
 - **lowlighter** answered **Robbie Williams** to `Which former boy-band star released hit solo single "Angels" in 1997?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Battle of Verdun** to `Which of these battles did NOT happen during World War II?` (Good answer)
 - **azgar44** answered **Robbing trains** to `Joseph Stalin had a criminal past doing what?` (Good answer)
 - **azgar44** answered **True** to `Coca-Cola&#039;s original colour was green.` (Wrong answer)
-- **azgar44** answered **False** to `In the game "Racko" you may pick up ANY card from the discard pile.` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
-| [lowlighter](https://github.com/lowlighter) | 3 |
+| [lowlighter](https://github.com/lowlighter) | 4 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
