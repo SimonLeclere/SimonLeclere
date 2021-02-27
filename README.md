@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these is NOT an album released by The Beatles?
+## The Ark of the Covenant supposedly contains what religious artifact?
 
 <br>
 
-| [The Wall](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CThe%20Wall&body=Just%20click%20'Submit%20new%20issue'.) | [Revolver](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CRevolver&body=Just%20click%20'Submit%20new%20issue'.) | [Magical Mystery Tour](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CMagical%20Mystery%20Tour&body=Just%20click%20'Submit%20new%20issue'.) | [Abbey Road](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2708%7CAbbey%20Road&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [The Ten Commandments](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3367%7CThe%20Ten%20Commandments&body=Just%20click%20'Submit%20new%20issue'.) | [The Holy Grail](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3367%7CThe%20Holy%20Grail&body=Just%20click%20'Submit%20new%20issue'.) | [Shroud of Turin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3367%7CShroud%20of%20Turin&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **The Wall** to `Which of these is NOT an album released by The Beatles?` (Good answer)
 - **lowlighter** answered **Robbie Williams** to `Which former boy-band star released hit solo single "Angels" in 1997?` (Good answer)
 - **azgar44** answered **74** to `How long was Ken Jennings&#039; win streak on Jeopardy?` (Good answer)
 - **azgar44** answered **Trent Reznor** to `Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **True** to `Coca-Cola&#039;s original colour was green.` (Wrong answer)
 - **azgar44** answered **False** to `In the game "Racko" you may pick up ANY card from the discard pile.` (Good answer)
 - **azgar44** answered **The Who** to `Which artist or group did John Lennon consider "son(s) of the Beatles"?` (Wrong answer)
-- **azgar44** answered **Queen of Hearts** to `“Alice’s Adventures in Wonderland” features which of these characters?` (Good answer)
 
 </details>
 
@@ -61,8 +61,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
+| [lowlighter](https://github.com/lowlighter) | 2 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
-| [lowlighter](https://github.com/lowlighter) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
