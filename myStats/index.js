@@ -9,7 +9,7 @@ try {
 
     const rank = data.leaderboard.filter(u => u.wins > data.leaderboard.find(x => x.name === user).wins).length + 1;
     const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
-    userData.rank = `${rank(UserData.user)}${suffixes[rank[rank.lenght]] || 'th'}`;
+    userData.rank = `${rank}${suffixes[rank[rank.lenght + 1]] || 'th'}`;
 
     userData.correctAnswers = data.leaderboard.filter(u => u.name === user).length + 1;
 
