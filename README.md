@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In Terraria, which of these items is NOT crafted at a Mythril Anvil?
+## Who is considered the owner of a 'publicly held' company?
 
 <br>
 
-| [Ankh Charm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2654%7CAnkh%20Charm&body=Just%20click%20'Submit%20new%20issue'.) | [Orichalcum Tools](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2654%7COrichalcum%20Tools&body=Just%20click%20'Submit%20new%20issue'.) | [Sky Fracture](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2654%7CSky%20Fracture&body=Just%20click%20'Submit%20new%20issue'.) | [Venom Staff](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2654%7CVenom%20Staff&body=Just%20click%20'Submit%20new%20issue'.) |
+| [the president](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20president&body=Just%20click%20'Submit%20new%20issue'.) | [the government](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20government&body=Just%20click%20'Submit%20new%20issue'.) | [the CEO](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20CEO&body=Just%20click%20'Submit%20new%20issue'.) | [the stockholders](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20stockholders&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Ankh Charm** to `In Terraria, which of these items is NOT crafted at a Mythril Anvil?` (Good answer)
 - **SimonLeclere** answered **Lamb** to `In the nursery rhyme, Mary had a little what?` (Good answer)
 - **lowlighter** answered **16** to `How many ounces are in a pound?` (Good answer)
 - **lowlighter** answered **False** to `St. Louis is the capital of the US State Missouri.` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **lowlighter** answered **Baba O' Riley** to `The Who&#039;s eponymous line, "Teenage Wasteland", appears in which of their songs?` (Wrong answer)
 - **lowlighter** answered **Yukine** to `In the anime Noragami who is one of the main protagonists?` (Good answer)
 - **lowlighter** answered **The Ten Commandments** to `The Ark of the Covenant supposedly contains what religious artifact?` (Good answer)
-- **lowlighter** answered **The Wall** to `Which of these is NOT an album released by The Beatles?` (Good answer)
 
 </details>
 
@@ -57,8 +57,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
