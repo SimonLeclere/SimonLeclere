@@ -25,11 +25,11 @@ Some facts about me :
 
 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 
-## Which game in the &quot;Dark Souls&quot; series does the player play as the &quot;Ashen One&quot;?
+## In the 2015 RPG &quot;Undertale&quot;, which character do you first encounter after falling down into the underground?
 
 <br>
 
-| [Dark Souls I](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CDark%20Souls%20I&body=Just+click+%2527Submit+new+issue%2527.) | [Bloodborne](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CBloodborne&body=Just+click+%2527Submit+new+issue%2527.) | [Demon Souls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CDemon%20Souls&body=Just+click+%2527Submit+new+issue%2527.) | [Dark Souls III](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CDark%20Souls%20III&body=Just+click+%2527Submit+new+issue%2527.) |
+| [Flowey](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1825%7CFlowey&body=Just+click+%2527Submit+new+issue%2527.) | [Toriel](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1825%7CToriel&body=Just+click+%2527Submit+new+issue%2527.) | [Sans](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1825%7CSans&body=Just+click+%2527Submit+new+issue%2527.) | [Papyrus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1825%7CPapyrus&body=Just+click+%2527Submit+new+issue%2527.) |
 | - | - | - | - | 
 
 <br>
@@ -37,9 +37,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
 <details>
   <summary>Last 10 responses :</summary>
 
-- **SimonLeclere** answered **Rin** to `What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?` (Good answer)
-- **SimonLeclere** answered **Japan** to `The Benihana company has a restaurant in which of these places?` (Bad answer)
-- **SimonLeclere** answered **Rookie of the Year** to `Which of these awards is given to the NBA’s best first-year player?` (Good answer)
+- **SimonLeclere** answered **Dark Souls III** to `Which game in the "Dark Souls" series does the player play as the "Ashen One"?` (Good answer)
 
 </details>
 
@@ -49,4 +47,4 @@ Leaderboard :
 
 | User | Number of wins |
 |-|-|
-| SimonLeclere | 2 |
+| SimonLeclere | 1 |
