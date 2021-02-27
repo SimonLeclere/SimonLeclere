@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which artist or group did John Lennon consider &quot;son(s) of the Beatles&quot;?
+## In the game &quot;Racko&quot; you may pick up ANY card from the discard pile.
 
 <br>
 
-| [The Who](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1071%7CThe%20Who&body=Just%20click%20'Submit%20new%20issue'.) | [Jeff Lynne&#039;s Electric Light Orchestra](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1071%7CJeff%20Lynne&#039;s%20Electric%20Light%20Orchestra&body=Just%20click%20'Submit%20new%20issue'.) | [Pink Floyd](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1071%7CPink%20Floyd&body=Just%20click%20'Submit%20new%20issue'.) | [The Rolling Stones](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1071%7CThe%20Rolling%20Stones&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1278%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1278%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **The Who** to `Which artist or group did John Lennon consider "son(s) of the Beatles"?` (Wrong answer)
 - **azgar44** answered **Queen of Hearts** to `“Alice’s Adventures in Wonderland” features which of these characters?` (Good answer)
 - **azgar44** answered **1776** to `What year was the United States Declaration of Independence signed?` (Good answer)
 - **azgar44** answered **Production I.G** to `Which animation studio animated "Psycho Pass"?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **red and yellow** to `What colors are the two circles in the MasterCard logo?` (Good answer)
 - **azgar44** answered **Leg** to `What part of the body is damaged if you break your tibia?` (Good answer)
 - **azgar44** answered **Caucasus** to `The main objective of the German operation "Case Blue" during World War II was originally to capture what?` (Good answer)
-- **azgar44** answered **Spaceman From Pluto** to `What was another suggested name for, the 1985 film, Back to the Future?` (Good answer)
 
 </details>
 
