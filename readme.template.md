@@ -14,7 +14,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - 💬 Ask me about **What you want lol**
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response (sιмση ℓεcℓεяε#5765)**
 - 😄 Pronouns: **Yes**
-- ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯
+- ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
 <br>
 
