@@ -25,28 +25,28 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these game franchises were made by Namco?
+## The United States of America declared their independence from the British Empire on July 4th, 1776.
 
 <br>
 
-| [Street Fighter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2215%7CStreet%20Fighter&body=Just%20click%20'Submit%20new%20issue'.) | [Tekken](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2215%7CTekken&body=Just%20click%20'Submit%20new%20issue'.) | [Mortal Kombat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2215%7CMortal%20Kombat&body=Just%20click%20'Submit%20new%20issue'.) | [Dragon Quest](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2215%7CDragon%20Quest&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C971%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C971%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
-- **SimonLeclere** answered **Fermented Black Beans** to `In Rome, which of these ingredients is used to flavour ciabatta bread?` (Wrong answer)
-- **TapsHTS** answered **False** to `There is a Donald Trump Board Game, which was made in 1989.` (Wrong answer)
-- **TapsHTS** answered **True** to `The song Scatman&#039;s World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).` (Good answer)
-- **SimonLeclere** answered **Jim Morrison** to `Which of these singers referred to himself as “the Lizard King”?` (Good answer)
-- **Mr-KayJayDee** answered **10** to `How many seasons did "Stargate SG-1" have?` (Good answer)
-- **Mr-KayJayDee** answered **'All the President's Men'** to `Which of the following is about the Watergate scandal?` (Good answer)
-- **Mr-KayJayDee** answered **Spotify** to `Which of these companies offers a “freemium” service?` (Good answer)
-- **Mr-KayJayDee** answered **Serpent Club** to `Which of these is a real Ivy League secret society?` (Wrong answer)
-- **Mr-KayJayDee** answered **Ampersand** to `What character was once considered to be the 27th letter of the alphabet?` (Good answer)
-- **Mr-KayJayDee** answered **Brooklyn** to `The director of “Lady Bird” starred in which indie movie?` (Wrong answer)
+- **SimonLeclere** answered **Last of the Mohicans** to `Jane Morgan was a nom de plume for the author of which of these works?` (Good answer)
+- **SimonLeclere** answered **Claude Monet** to `The works of which artist are often used to illustrate the concept of tessellation?` (Wrong answer)
+- **SimonLeclere** answered **Rabbit** to `In Guild Wars 2, which Chinese Zodiac sign is not represented in the Zodiac Weapon Set?` (Wrong answer)
+- **MRakox** answered **True** to `Linus Torvalds created Linux and Git.` (Good answer)
+- **MRakox** answered **Rome** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Wrong answer)
+- **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
+- **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
+- **MRakox** answered **rowing machine** to `What exercise apparatus is used during a 'Spinning' class?` (Wrong answer)
+- **MRakox** answered **Massachusetts** to `Which American colony, known for its religious tolerance, did Roger Williams found in 1636?` (Wrong answer)
+- **MRakox** answered **Polly Finn** to `In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?` (Wrong answer)
 
 </details>
 
@@ -57,8 +57,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 6 |
-| [MRakox](https://github.com/MRakox) | 2 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 7 |
+| [MRakox](https://github.com/MRakox) | 6 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
