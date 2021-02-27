@@ -1,0 +1,23 @@
+{
+  "name": "simonleclere",
+  "version": "1.0.0",
+  "description": "I'm Simon, a young student with a passion for computers and new technologies!\r Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!",
+  "main": "quiz/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonLeclere/SimonLeclere.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonLeclere/SimonLeclere/issues"
+  },
+  "homepage": "https://github.com/SimonLeclere/SimonLeclere#readme",
+  "dependencies": {
+    "lodash.template": "^4.5.0",
+    "node-fetch": "^2.6.1"
+  }
+}
