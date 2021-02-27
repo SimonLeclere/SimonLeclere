@@ -7,9 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     if: startsWith(github.event.issue.title, 'MyStats')
     steps:
-      - uses: actions/checkout@v2
-      - run: |
-          git pull origin main
       - name: collect stats
         uses: ./myStats
         id: stats
