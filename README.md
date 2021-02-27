@@ -28,18 +28,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## A 1976 book by Richard Dawkins introduced what now-common word?
+## What is the proper nautical use of an anchor?
 
 <br>
 
-| [Emoticon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3409%7CEmoticon&body=Just%20click%20'Submit%20new%20issue'.) | [Android](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3409%7CAndroid&body=Just%20click%20'Submit%20new%20issue'.) | [Meme](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3409%7CMeme&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [to catch large fish](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5002%7Cto%20catch%20large%20fish&body=Just%20click%20'Submit%20new%20issue'.) | [to calculate water depth](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5002%7Cto%20calculate%20water%20depth&body=Just%20click%20'Submit%20new%20issue'.) | [to damage other boats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5002%7Cto%20damage%20other%20boats&body=Just%20click%20'Submit%20new%20issue'.) | [to hold a ship in place](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5002%7Cto%20hold%20a%20ship%20in%20place&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Emoticon** to `A 1976 book by Richard Dawkins introduced what now-common word?` (Wrong answer)
 - **MRakox** answered **Dinosaur** to `In the first known use of “mammoth” as an adjective, what item was it describing?` (Wrong answer)
 - **MRakox** answered **kiss it** to `To ward off bad luck, what do many people do to wood?` (Wrong answer)
 - **SimonLeclere** answered **Electron** to `A positron is an antiparticle of a what?` (Good answer)
