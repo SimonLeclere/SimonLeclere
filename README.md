@@ -25,11 +25,11 @@ Some facts about me :
 
 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 
-## The Benihana company has a restaurant in which of these places?
+## Which of these awards is given to the NBA’s best first-year player?
 
 <br>
 
-| [China](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3288%7CChina&body=Just+click+%2527Submit+new+issue%2527.) | [Japan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3288%7CJapan&body=Just+click+%2527Submit+new+issue%2527.) | [Aruba](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3288%7CAruba&body=Just+click+%2527Submit+new+issue%2527.) |
+| [America’s Cup](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4401%7CAmerica%E2%80%99s%20Cup&body=Just+click+%2527Submit+new+issue%2527.) | [Independent Spirit Award](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4401%7CIndependent%20Spirit%20Award&body=Just+click+%2527Submit+new+issue%2527.) | [Rookie of the Year](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4401%7CRookie%20of%20the%20Year&body=Just+click+%2527Submit+new+issue%2527.) |
 | - | - | - | 
 
 <br>
@@ -37,9 +37,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
 <details>
   <summary>Last 10 responses :</summary>
 
-- **Simon Leclère2** answered **Green Arrow** to `Which of the following superheros did Wonder Woman NOT have a love interest in?` (Good answer)
-- **Simon Leclère** answered **Green Arrow** to `Which of the following superheros did Wonder Woman NOT have a love interest in?` (Good answer)
-- **SimonLeclere** answered **Maine, United States** to `Where does water from Poland Spring water bottles come from?` (Good answer)
+- **SimonLeclere** answered **Japan** to `The Benihana company has a restaurant in which of these places?` (Bad answer)
 
 </details>
 
@@ -49,6 +47,3 @@ Leaderboard :
 
 | User | Number of wins |
 |-|-|
-| Simon Leclère2 | 1 |
-| Simon Leclère | 1 |
-| SimonLeclere | 1 |
