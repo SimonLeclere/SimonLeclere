@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the game Dead by Daylight, the killer Michael Myers is refered to as &quot;The Shape&quot;.
+## What&#039;s the best selling video game to date?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1673%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1673%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Minecraft](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C826%7CMinecraft&body=Just%20click%20'Submit%20new%20issue'.) | [Tetris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C826%7CTetris&body=Just%20click%20'Submit%20new%20issue'.) | [Super Mario Bros](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C826%7CSuper%20Mario%20Bros&body=Just%20click%20'Submit%20new%20issue'.) | [Wii Sports](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C826%7CWii%20Sports&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **False** to `In the game Dead by Daylight, the killer Michael Myers is refered to as "The Shape".` (Wrong answer)
 - **Mr-KayJayDee** answered **STS-107** to `On which mission did the Space Shuttle Columbia break up upon re-entry?` (Good answer)
 - **Mr-KayJayDee** answered **Economics** to `This field is sometimes known as &ldquo;The Dismal Science.&rdquo;` (Good answer)
 - **SimonLeclere** answered **True** to `The 2010 film "The Social Network" is a biographical drama film about MySpace founder Tom Anderson.` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Rabbit** to `According to the Book of Leviticus, which of these animals is kosher to eat?` (Wrong answer)
 - **SimonLeclere** answered **Bosnia and Herzegovina** to `Which nation’s flag features a simple geometric form meant to resemble the nation’s shape?` (Good answer)
 - **Androz2091** answered **Amazon Prime** to `Which of these Amazon services was launched most recently?` (Wrong answer)
-- **SimonLeclere** answered **Amazon Mechanical Turk** to `Which of these Amazon services was launched most recently?` (Wrong answer)
 
 </details>
 
