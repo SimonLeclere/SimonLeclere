@@ -25,11 +25,11 @@ Some facts about me :
 
 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 
-## What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?
+## Which game in the &quot;Dark Souls&quot; series does the player play as the &quot;Ashen One&quot;?
 
 <br>
 
-| [Rem](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRem&body=Just+click+%2527Submit+new+issue%2527.) | [Ren](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRen&body=Just+click+%2527Submit+new+issue%2527.) | [Ram](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRam&body=Just+click+%2527Submit+new+issue%2527.) | [Rin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3025%7CRin&body=Just+click+%2527Submit+new+issue%2527.) |
+| [Dark Souls I](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CDark%20Souls%20I&body=Just+click+%2527Submit+new+issue%2527.) | [Bloodborne](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CBloodborne&body=Just+click+%2527Submit+new+issue%2527.) | [Demon Souls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CDemon%20Souls&body=Just+click+%2527Submit+new+issue%2527.) | [Dark Souls III](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3193%7CDark%20Souls%20III&body=Just+click+%2527Submit+new+issue%2527.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ This readme is also a real-time multiplayer trivia game! Try to answer the follo
 <details>
   <summary>Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Rin** to `What is the name of the main character from the music video of &quot;Shelter&quot; by Porter Robinson and A-1 Studios?` (Good answer)
 - **SimonLeclere** answered **Japan** to `The Benihana company has a restaurant in which of these places?` (Bad answer)
 - **SimonLeclere** answered **Rookie of the Year** to `Which of these awards is given to the NBA’s best first-year player?` (Good answer)
 
@@ -48,4 +49,4 @@ Leaderboard :
 
 | User | Number of wins |
 |-|-|
-| SimonLeclere | 1 |
+| SimonLeclere | 2 |
