@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The works of which artist are often used to illustrate the concept of tessellation?
+## Jane Morgan was a nom de plume for the author of which of these works?
 
 <br>
 
-| [Claude Monet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4665%7CClaude%20Monet&body=Just%20click%20'Submit%20new%20issue'.) | [MC Escher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4665%7CMC%20Escher&body=Just%20click%20'Submit%20new%20issue'.) | [Pablo Picasso](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4665%7CPablo%20Picasso&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Wuthering Heights](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3869%7CWuthering%20Heights&body=Just%20click%20'Submit%20new%20issue'.) | [Jane Eyre](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3869%7CJane%20Eyre&body=Just%20click%20'Submit%20new%20issue'.) | [Last of the Mohicans](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3869%7CLast%20of%20the%20Mohicans&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Claude Monet** to `The works of which artist are often used to illustrate the concept of tessellation?` (Wrong answer)
 - **SimonLeclere** answered **Rabbit** to `In Guild Wars 2, which Chinese Zodiac sign is not represented in the Zodiac Weapon Set?` (Wrong answer)
 - **MRakox** answered **True** to `Linus Torvalds created Linux and Git.` (Good answer)
 - **MRakox** answered **Rome** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Massachusetts** to `Which American colony, known for its religious tolerance, did Roger Williams found in 1636?` (Wrong answer)
 - **MRakox** answered **Polly Finn** to `In the novel 'The Adventures of Tom Sawyer' what is the name of Tom's sweetheart?` (Wrong answer)
 - **MRakox** answered **Bazooka** to `In the "Worms" series of video games, which of these weapons is affected by wind?` (Good answer)
-- **MRakox** answered **Gallbladder** to `Which of these body parts contains the islets of Langerhans?` (Wrong answer)
 
 </details>
 
