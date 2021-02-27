@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## St. Louis is the capital of the US State Missouri.
+## How many ounces are in a pound?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1145%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1145%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [4](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C4&body=Just%20click%20'Submit%20new%20issue'.) | [12](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C12&body=Just%20click%20'Submit%20new%20issue'.) | [16](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C16&body=Just%20click%20'Submit%20new%20issue'.) | [32](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4758%7C32&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **lowlighter** answered **False** to `St. Louis is the capital of the US State Missouri.` (Good answer)
 - **lowlighter** answered **Blue Sky** to `In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?` (Good answer)
 - **lowlighter** answered **Bells** to `What is the name of the currency in the "Animal Crossing" series?` (Good answer)
 - **lowlighter** answered **Alberta** to `Which of these is NOT an Australian state or territory?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **lowlighter** answered **The Wall** to `Which of these is NOT an album released by The Beatles?` (Good answer)
 - **lowlighter** answered **Robbie Williams** to `Which former boy-band star released hit solo single "Angels" in 1997?` (Good answer)
 - **azgar44** answered **74** to `How long was Ken Jennings&#039; win streak on Jeopardy?` (Good answer)
-- **azgar44** answered **Trent Reznor** to `Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?` (Good answer)
 
 </details>
 
@@ -59,7 +59,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [azgar44](https://github.com/azgar44) | 18 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
-| [lowlighter](https://github.com/lowlighter) | 7 |
+| [lowlighter](https://github.com/lowlighter) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
