@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?
+## Who is the founder and leader of industrial rock band, &#039;Nine Inch Nails&#039;?
 
 <br>
 
-| [Classic](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C165%7CClassic&body=Just%20click%20'Submit%20new%20issue'.) | [Baroque](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C165%7CBaroque&body=Just%20click%20'Submit%20new%20issue'.) | [Renaissance](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C165%7CRenaissance&body=Just%20click%20'Submit%20new%20issue'.) | [Romantic](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C165%7CRomantic&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Marilyn Manson](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1703%7CMarilyn%20Manson&body=Just%20click%20'Submit%20new%20issue'.) | [Robin Finck](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1703%7CRobin%20Finck&body=Just%20click%20'Submit%20new%20issue'.) | [Josh Homme](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1703%7CJosh%20Homme&body=Just%20click%20'Submit%20new%20issue'.) | [Trent Reznor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1703%7CTrent%20Reznor&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Romantic** to `Pianist Fr&eacute;d&eacute;ric Chopin was a composer of which musical era?` (Good answer)
 - **azgar44** answered **Battle of Verdun** to `Which of these battles did NOT happen during World War II?` (Good answer)
 - **azgar44** answered **Robbing trains** to `Joseph Stalin had a criminal past doing what?` (Good answer)
 - **azgar44** answered **True** to `Coca-Cola&#039;s original colour was green.` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **1776** to `What year was the United States Declaration of Independence signed?` (Good answer)
 - **azgar44** answered **Production I.G** to `Which animation studio animated "Psycho Pass"?` (Good answer)
 - **azgar44** answered **Center Parcs** to `De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?` (Good answer)
-- **azgar44** answered **Scimitar** to `Which one of these is not a typical European sword design?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 15 |
+| [azgar44](https://github.com/azgar44) | 16 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
