@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the Fallout series, on which date did The Great War happen?
+## The S in Harry S. Truman stands for &quot;Samuel&quot;.
 
 <br>
 
-| [November 5th, 2076](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C529%7CNovember%205th,%202076&body=Just%20click%20'Submit%20new%20issue'.) | [December 14th, 2069](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C529%7CDecember%2014th,%202069&body=Just%20click%20'Submit%20new%20issue'.) | [May 15th, 2058](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C529%7CMay%2015th,%202058&body=Just%20click%20'Submit%20new%20issue'.) | [October 23rd, 2077](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C529%7COctober%2023rd,%202077&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1795%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1795%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **the government** to `Who is considered the owner of a 'publicly held' company?` (Wrong answer)
 - **SimonLeclere** answered **John F. Enders** to `Who developed the first successful polio vaccine in the 1950s?` (Wrong answer)
 - **earearray** answered **Perturbator** to `Who is the artist of the recent new album the Uncanny Valley?` (Good answer)
 - **earearray** answered **U.N. Owen Was Her** to `In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet&#039;s boss fight?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Scorpion** to `Which animal features on the logo for Abarth, the motorsport division of Fiat?` (Good answer)
 - **earearray** answered **Reiner Knizia** to `The board game "Ra" was designed by which designer? ` (Good answer)
 - **earearray** answered **82** to `How many scoring zones are there on a conventional dart board?` (Good answer)
-- **earearray** answered **Chronal Accelerator** to `What device allows Tracer to manipulate her own time in the game "Overwatch"?` (Good answer)
 
 </details>
 
