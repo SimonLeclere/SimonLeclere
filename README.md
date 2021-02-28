@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## When was the video game &quot;P.A.M.E.L.A.&quot; released on Steam?
+## Botanically speaking, which of these fruits is NOT a berry?
 
 <br>
 
-| [March 9, 2017](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2694%7CMarch%209,%202017&body=Just%20click%20'Submit%20new%20issue'.) | [January 7, 2007](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2694%7CJanuary%207,%202007&body=Just%20click%20'Submit%20new%20issue'.) | [October 23, 1997](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2694%7COctober%2023,%201997&body=Just%20click%20'Submit%20new%20issue'.) | [February 16, 2015](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2694%7CFebruary%2016,%202015&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Banana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CBanana&body=Just%20click%20'Submit%20new%20issue'.) | [Strawberry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CStrawberry&body=Just%20click%20'Submit%20new%20issue'.) | [Blueberry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CBlueberry&body=Just%20click%20'Submit%20new%20issue'.) | [Concord Grape](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CConcord%20Grape&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **March 9, 2017** to `When was the video game "P.A.M.E.L.A." released on Steam?` (Good answer)
 - **azgar44** answered **visa** to `Which of the following must be obtained by foreigners wishing to permanently reside in the US?` (Good answer)
 - **azgar44** answered **Credit** to `What type of card is typically used to make purchases at stores?` (Good answer)
 - **azgar44** answered **Cockney** to `A Londoner born within earshot of the St. Mary-le-Bow bells is said to be what?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Blanche** to `Who is the leader of Team Mystic in Pok&eacute;mon Go?` (Good answer)
 - **SimonLeclere** answered **Android** to `This mobile OS held the largest market share in 2012.` (Wrong answer)
 - **SimonLeclere** answered **Requiem for a Dream** to `What is the theme song of "Neon Genesis Evangelion"?` (Wrong answer)
-- **SimonLeclere** answered **Republic of Taiwan** to `Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?` (Wrong answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 25 |
+| [azgar44](https://github.com/azgar44) | 26 |
 | [earearray](https://github.com/earearray) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
