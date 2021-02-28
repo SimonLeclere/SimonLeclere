@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of the following is NOT a capital city?
+## Which of these is an Italian Design firm?
 
 <br>
 
-| [Cairo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2952%7CCairo&body=Just%20click%20'Submit%20new%20issue'.) | [Sydney](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2952%7CSydney&body=Just%20click%20'Submit%20new%20issue'.) | [Moscow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2952%7CMoscow&body=Just%20click%20'Submit%20new%20issue'.) | [Beijing](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2952%7CBeijing&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Mainbocher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5140%7CMainbocher&body=Just%20click%20'Submit%20new%20issue'.) | [Ghost](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5140%7CGhost&body=Just%20click%20'Submit%20new%20issue'.) | [Escada](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5140%7CEscada&body=Just%20click%20'Submit%20new%20issue'.) | [Fendi](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5140%7CFendi&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Sydney** to `Which of the following is NOT a capital city?` (Good answer)
 - **azgar44** answered **December 8, 1941** to `When did the United States formally declare war on Japan, entering World War II?` (Good answer)
 - **azgar44** answered **Colophon** to `The part of a book disclosing its publication info is known as what?` (Good answer)
 - **azgar44** answered **Strawberry** to `Botanically speaking, which of these fruits is NOT a berry?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Cockney** to `A Londoner born within earshot of the St. Mary-le-Bow bells is said to be what?` (Good answer)
 - **azgar44** answered **True** to `The Hundred Years&#039; War was fought for more than a hundred years.` (Good answer)
 - **azgar44** answered **$10** to `If you have a 'sawbuck' how much money do you have?` (Good answer)
-- **azgar44** answered **Ares** to `In Greek mythology, who abandoned his mother and sister to fight alongside the Trojans?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 29 |
+| [azgar44](https://github.com/azgar44) | 30 |
 | [earearray](https://github.com/earearray) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
