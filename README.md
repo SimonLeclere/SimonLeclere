@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?
+## Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?
 
 <br>
 
-| [Scarecrow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CScarecrow&body=Just%20click%20'Submit%20new%20issue'.) | [Bane](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CBane&body=Just%20click%20'Submit%20new%20issue'.) | [Calendar Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CCalendar%20Man&body=Just%20click%20'Submit%20new%20issue'.) | [Clayface](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CClayface&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Chinese Taiwan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CChinese%20Taiwan&body=Just%20click%20'Submit%20new%20issue'.) | [Chinese Taipei](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CChinese%20Taipei&body=Just%20click%20'Submit%20new%20issue'.) | [Republic of Taipei ](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CRepublic%20of%20Taipei%20&body=Just%20click%20'Submit%20new%20issue'.) | [Republic of Taiwan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CRepublic%20of%20Taiwan&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **elttayman** answered **Scarecrow** to `In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?` (Good answer)
 - **SimonLeclere** answered **Louis Armstrong** to `Which of these singers is famous for playing the trumpet?` (Good answer)
 - **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
 - **SimonLeclere** answered **the government** to `Who is considered the owner of a 'publicly held' company?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **True** to `The capital of the US State Ohio is the city of Chillicothe.` (Wrong answer)
 - **earearray** answered **Wales** to `Which UK country features a dragon on their flag?` (Good answer)
 - **earearray** answered **Stromboli** to `Which of these culinary terms is also the name of an active volcano?` (Good answer)
-- **earearray** answered **Scorpion** to `Which animal features on the logo for Abarth, the motorsport division of Fiat?` (Good answer)
 
 </details>
 
@@ -65,5 +65,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
+| [elttayman](https://github.com/elttayman) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
