@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In Greek mythology, who abandoned his mother and sister to fight alongside the Trojans?
+## If you have a 'sawbuck' how much money do you have?
 
 <br>
 
-| [Ares](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4659%7CAres&body=Just%20click%20'Submit%20new%20issue'.) | [Achilles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4659%7CAchilles&body=Just%20click%20'Submit%20new%20issue'.) | [Odysseus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4659%7COdysseus&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [$10](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4779%7C$10&body=Just%20click%20'Submit%20new%20issue'.) | [$5](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4779%7C$5&body=Just%20click%20'Submit%20new%20issue'.) | [$1](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4779%7C$1&body=Just%20click%20'Submit%20new%20issue'.) | [$20](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4779%7C$20&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Ares** to `In Greek mythology, who abandoned his mother and sister to fight alongside the Trojans?` (Good answer)
 - **azgar44** answered **Blanche** to `Who is the leader of Team Mystic in Pok&eacute;mon Go?` (Good answer)
 - **SimonLeclere** answered **Android** to `This mobile OS held the largest market share in 2012.` (Wrong answer)
 - **SimonLeclere** answered **Requiem for a Dream** to `What is the theme song of "Neon Genesis Evangelion"?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
 - **SimonLeclere** answered **the government** to `Who is considered the owner of a 'publicly held' company?` (Wrong answer)
 - **SimonLeclere** answered **John F. Enders** to `Who developed the first successful polio vaccine in the 1950s?` (Wrong answer)
-- **earearray** answered **Perturbator** to `Who is the artist of the recent new album the Uncanny Valley?` (Good answer)
 
 </details>
 
@@ -56,8 +56,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
+| [azgar44](https://github.com/azgar44) | 20 |
 | [earearray](https://github.com/earearray) | 19 |
-| [azgar44](https://github.com/azgar44) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
