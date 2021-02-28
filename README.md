@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which animal features on the logo for Abarth, the motorsport division of Fiat?
+## Which of these culinary terms is also the name of an active volcano?
 
 <br>
 
-| [Scorpion](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2576%7CScorpion&body=Just%20click%20'Submit%20new%20issue'.) | [Horse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2576%7CHorse&body=Just%20click%20'Submit%20new%20issue'.) | [Bull](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2576%7CBull&body=Just%20click%20'Submit%20new%20issue'.) | [Snake](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2576%7CSnake&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Fra Diavolo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4319%7CFra%20Diavolo&body=Just%20click%20'Submit%20new%20issue'.) | [Stromboli](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4319%7CStromboli&body=Just%20click%20'Submit%20new%20issue'.) | [Marsala](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4319%7CMarsala&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Scorpion** to `Which animal features on the logo for Abarth, the motorsport division of Fiat?` (Good answer)
 - **earearray** answered **Reiner Knizia** to `The board game "Ra" was designed by which designer? ` (Good answer)
 - **earearray** answered **82** to `How many scoring zones are there on a conventional dart board?` (Good answer)
 - **earearray** answered **Chronal Accelerator** to `What device allows Tracer to manipulate her own time in the game "Overwatch"?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Bubbles (2016)** to `Which character does voice actress Tara Strong NOT voice?` (Good answer)
 - **earearray** answered **Swedish** to `The song "Caramelldansen" is commonly mistaken as a Japanese song, what language is the song actually sung in?` (Good answer)
 - **earearray** answered **Awards show** to `Which of these did Beyoncé use to announce her first pregnancy?` (Good answer)
-- **earearray** answered **Extra Terrestrial** to `In the Spielberg film “E.T.”, what does E.T. stand for?` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
-| [earearray](https://github.com/earearray) | 14 |
+| [earearray](https://github.com/earearray) | 15 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
