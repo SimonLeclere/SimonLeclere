@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What device allows Tracer to manipulate her own time in the game &quot;Overwatch&quot;?
+## How many scoring zones are there on a conventional dart board?
 
 <br>
 
-| [Chronal Accelerator](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C7%7CChronal%20Accelerator&body=Just%20click%20'Submit%20new%20issue'.) | [TMD (Time Manipulation Device)](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C7%7CTMD%20(Time%20Manipulation%20Device)&body=Just%20click%20'Submit%20new%20issue'.) | [Spacial Displacement Manipulator](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C7%7CSpacial%20Displacement%20Manipulator&body=Just%20click%20'Submit%20new%20issue'.) | [B.L.I.N.K](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C7%7CB.L.I.N.K&body=Just%20click%20'Submit%20new%20issue'.) |
+| [82](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C82&body=Just%20click%20'Submit%20new%20issue'.) | [42](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C42&body=Just%20click%20'Submit%20new%20issue'.) | [62](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C62&body=Just%20click%20'Submit%20new%20issue'.) | [102](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C102&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Chronal Accelerator** to `What device allows Tracer to manipulate her own time in the game "Overwatch"?` (Good answer)
 - **earearray** answered **Laura Roslin** to `In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?` (Good answer)
 - **earearray** answered **Ice-T** to `Which of these performers was part of the first Lollapalooza festival lineup?` (Good answer)
 - **earearray** answered **True** to `During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Extra Terrestrial** to `In the Spielberg film “E.T.”, what does E.T. stand for?` (Good answer)
 - **earearray** answered **T-800** to `In the 1984 movie "The Terminator", what model number is the Terminator portrayed by Arnold Schwarzenegger?` (Good answer)
 - **earearray** answered **Legends of Tomorrow** to `What is the name of the "Flash" and "Arrow" spinoff featuring a team of characters that have appeared on both shows?` (Good answer)
-- **earearray** answered **Courage** to `Which buzzword did Apple Inc. use to describe their removal of the headphone jack?` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
-| [earearray](https://github.com/earearray) | 11 |
+| [earearray](https://github.com/earearray) | 12 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
