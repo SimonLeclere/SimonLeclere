@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which UK country features a dragon on their flag?
+## The capital of the US State Ohio is the city of Chillicothe.
 
 <br>
 
-| [England](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1955%7CEngland&body=Just%20click%20'Submit%20new%20issue'.) | [North Ireland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1955%7CNorth%20Ireland&body=Just%20click%20'Submit%20new%20issue'.) | [Scotland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1955%7CScotland&body=Just%20click%20'Submit%20new%20issue'.) | [Wales](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1955%7CWales&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1330%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1330%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Wales** to `Which UK country features a dragon on their flag?` (Good answer)
 - **earearray** answered **Stromboli** to `Which of these culinary terms is also the name of an active volcano?` (Good answer)
 - **earearray** answered **Scorpion** to `Which animal features on the logo for Abarth, the motorsport division of Fiat?` (Good answer)
 - **earearray** answered **Reiner Knizia** to `The board game "Ra" was designed by which designer? ` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Ice-T** to `Which of these performers was part of the first Lollapalooza festival lineup?` (Good answer)
 - **earearray** answered **True** to `During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.` (Good answer)
 - **earearray** answered **Bubbles (2016)** to `Which character does voice actress Tara Strong NOT voice?` (Good answer)
-- **earearray** answered **Swedish** to `The song "Caramelldansen" is commonly mistaken as a Japanese song, what language is the song actually sung in?` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
-| [earearray](https://github.com/earearray) | 16 |
+| [earearray](https://github.com/earearray) | 17 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
