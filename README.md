@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many scoring zones are there on a conventional dart board?
+## The board game &quot;Ra&quot; was designed by which designer? 
 
 <br>
 
-| [82](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C82&body=Just%20click%20'Submit%20new%20issue'.) | [42](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C42&body=Just%20click%20'Submit%20new%20issue'.) | [62](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C62&body=Just%20click%20'Submit%20new%20issue'.) | [102](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2053%7C102&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Reiner Knizia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7CReiner%20Knizia&body=Just%20click%20'Submit%20new%20issue'.) | [Uwe Rosenburg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7CUwe%20Rosenburg&body=Just%20click%20'Submit%20new%20issue'.) | [Bruno Cathala](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7CBruno%20Cathala&body=Just%20click%20'Submit%20new%20issue'.) | [Allison Kline](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7CAllison%20Kline&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **82** to `How many scoring zones are there on a conventional dart board?` (Good answer)
 - **earearray** answered **Chronal Accelerator** to `What device allows Tracer to manipulate her own time in the game "Overwatch"?` (Good answer)
 - **earearray** answered **Laura Roslin** to `In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?` (Good answer)
 - **earearray** answered **Ice-T** to `Which of these performers was part of the first Lollapalooza festival lineup?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Awards show** to `Which of these did Beyoncé use to announce her first pregnancy?` (Good answer)
 - **earearray** answered **Extra Terrestrial** to `In the Spielberg film “E.T.”, what does E.T. stand for?` (Good answer)
 - **earearray** answered **T-800** to `In the 1984 movie "The Terminator", what model number is the Terminator portrayed by Arnold Schwarzenegger?` (Good answer)
-- **earearray** answered **Legends of Tomorrow** to `What is the name of the "Flash" and "Arrow" spinoff featuring a team of characters that have appeared on both shows?` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
-| [earearray](https://github.com/earearray) | 12 |
+| [earearray](https://github.com/earearray) | 13 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
