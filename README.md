@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who is considered the owner of a 'publicly held' company?
+## Which buzzword did Apple Inc. use to describe their removal of the headphone jack?
 
 <br>
 
-| [the president](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20president&body=Just%20click%20'Submit%20new%20issue'.) | [the government](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20government&body=Just%20click%20'Submit%20new%20issue'.) | [the CEO](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20CEO&body=Just%20click%20'Submit%20new%20issue'.) | [the stockholders](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5209%7Cthe%20stockholders&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Courage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2341%7CCourage&body=Just%20click%20'Submit%20new%20issue'.) | [Innovation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2341%7CInnovation&body=Just%20click%20'Submit%20new%20issue'.) | [Revolution](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2341%7CRevolution&body=Just%20click%20'Submit%20new%20issue'.) | [Bravery](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2341%7CBravery&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **the stockholders** to `Who is considered the owner of a 'publicly held' company?` (Good answer)
 - **SimonLeclere** answered **Ankh Charm** to `In Terraria, which of these items is NOT crafted at a Mythril Anvil?` (Good answer)
 - **SimonLeclere** answered **Lamb** to `In the nursery rhyme, Mary had a little what?` (Good answer)
 - **lowlighter** answered **16** to `How many ounces are in a pound?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **lowlighter** answered **Alberta** to `Which of these is NOT an Australian state or territory?` (Good answer)
 - **lowlighter** answered **Baba O' Riley** to `The Who&#039;s eponymous line, "Teenage Wasteland", appears in which of their songs?` (Wrong answer)
 - **lowlighter** answered **Yukine** to `In the anime Noragami who is one of the main protagonists?` (Good answer)
-- **lowlighter** answered **The Ten Commandments** to `The Ark of the Covenant supposedly contains what religious artifact?` (Good answer)
 
 </details>
 
@@ -64,5 +64,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
+| [earearray](https://github.com/earearray) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
