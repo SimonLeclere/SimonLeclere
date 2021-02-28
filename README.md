@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which character does voice actress Tara Strong NOT voice?
+## During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.
 
 <br>
 
-| [Twilight Sparkle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CTwilight%20Sparkle&body=Just%20click%20'Submit%20new%20issue'.) | [Timmy Turner](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CTimmy%20Turner&body=Just%20click%20'Submit%20new%20issue'.) | [Harley Quinn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CHarley%20Quinn&body=Just%20click%20'Submit%20new%20issue'.) | [Bubbles (2016)](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CBubbles%20(2016)&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1377%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1377%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Bubbles (2016)** to `Which character does voice actress Tara Strong NOT voice?` (Good answer)
 - **earearray** answered **Swedish** to `The song "Caramelldansen" is commonly mistaken as a Japanese song, what language is the song actually sung in?` (Good answer)
 - **earearray** answered **Awards show** to `Which of these did Beyoncé use to announce her first pregnancy?` (Good answer)
 - **earearray** answered **Extra Terrestrial** to `In the Spielberg film “E.T.”, what does E.T. stand for?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **the stockholders** to `Who is considered the owner of a 'publicly held' company?` (Good answer)
 - **SimonLeclere** answered **Ankh Charm** to `In Terraria, which of these items is NOT crafted at a Mythril Anvil?` (Good answer)
 - **SimonLeclere** answered **Lamb** to `In the nursery rhyme, Mary had a little what?` (Good answer)
-- **lowlighter** answered **16** to `How many ounces are in a pound?` (Good answer)
 
 </details>
 
@@ -60,7 +60,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [earearray](https://github.com/earearray) | 7 |
+| [earearray](https://github.com/earearray) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
