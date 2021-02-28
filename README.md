@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The song &quot;Caramelldansen&quot; is commonly mistaken as a Japanese song, what language is the song actually sung in?
+## Which character does voice actress Tara Strong NOT voice?
 
 <br>
 
-| [Hungarian](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1161%7CHungarian&body=Just%20click%20'Submit%20new%20issue'.) | [Finnish](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1161%7CFinnish&body=Just%20click%20'Submit%20new%20issue'.) | [Swedish](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1161%7CSwedish&body=Just%20click%20'Submit%20new%20issue'.) | [Chinese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1161%7CChinese&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Twilight Sparkle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CTwilight%20Sparkle&body=Just%20click%20'Submit%20new%20issue'.) | [Timmy Turner](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CTimmy%20Turner&body=Just%20click%20'Submit%20new%20issue'.) | [Harley Quinn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CHarley%20Quinn&body=Just%20click%20'Submit%20new%20issue'.) | [Bubbles (2016)](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CBubbles%20(2016)&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Swedish** to `The song "Caramelldansen" is commonly mistaken as a Japanese song, what language is the song actually sung in?` (Good answer)
 - **earearray** answered **Awards show** to `Which of these did Beyoncé use to announce her first pregnancy?` (Good answer)
 - **earearray** answered **Extra Terrestrial** to `In the Spielberg film “E.T.”, what does E.T. stand for?` (Good answer)
 - **earearray** answered **T-800** to `In the 1984 movie "The Terminator", what model number is the Terminator portrayed by Arnold Schwarzenegger?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Ankh Charm** to `In Terraria, which of these items is NOT crafted at a Mythril Anvil?` (Good answer)
 - **SimonLeclere** answered **Lamb** to `In the nursery rhyme, Mary had a little what?` (Good answer)
 - **lowlighter** answered **16** to `How many ounces are in a pound?` (Good answer)
-- **lowlighter** answered **False** to `St. Louis is the capital of the US State Missouri.` (Good answer)
 
 </details>
 
@@ -60,8 +60,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
+| [earearray](https://github.com/earearray) | 7 |
 | [MRakox](https://github.com/MRakox) | 6 |
-| [earearray](https://github.com/earearray) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
