@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?
+## What is the theme song of &quot;Neon Genesis Evangelion&quot;?
 
 <br>
 
-| [Chinese Taiwan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CChinese%20Taiwan&body=Just%20click%20'Submit%20new%20issue'.) | [Chinese Taipei](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CChinese%20Taipei&body=Just%20click%20'Submit%20new%20issue'.) | [Republic of Taipei ](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CRepublic%20of%20Taipei%20&body=Just%20click%20'Submit%20new%20issue'.) | [Republic of Taiwan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1834%7CRepublic%20of%20Taiwan&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Requiem for a Dream](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CRequiem%20for%20a%20Dream&body=Just%20click%20'Submit%20new%20issue'.) | [A Cruel Angel&#039;s Thesis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CA%20Cruel%20Angel&#039;s%20Thesis&body=Just%20click%20'Submit%20new%20issue'.) | [God Knows](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CGod%20Knows&body=Just%20click%20'Submit%20new%20issue'.) | [Stardust Crusaders](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CStardust%20Crusaders&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Republic of Taiwan** to `Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?` (Wrong answer)
 - **elttayman** answered **Scarecrow** to `In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?` (Good answer)
 - **SimonLeclere** answered **Louis Armstrong** to `Which of these singers is famous for playing the trumpet?` (Good answer)
 - **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **U.N. Owen Was Her** to `In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet&#039;s boss fight?` (Good answer)
 - **earearray** answered **True** to `The capital of the US State Ohio is the city of Chillicothe.` (Wrong answer)
 - **earearray** answered **Wales** to `Which UK country features a dragon on their flag?` (Good answer)
-- **earearray** answered **Stromboli** to `Which of these culinary terms is also the name of an active volcano?` (Good answer)
 
 </details>
 
