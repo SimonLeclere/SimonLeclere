@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The S in Harry S. Truman stands for &quot;Samuel&quot;.
+## Which of these singers is famous for playing the trumpet?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1795%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1795%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Mary J. Blige](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3664%7CMary%20J.%20Blige&body=Just%20click%20'Submit%20new%20issue'.) | [Frank Sinatra](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3664%7CFrank%20Sinatra&body=Just%20click%20'Submit%20new%20issue'.) | [Louis Armstrong](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3664%7CLouis%20Armstrong&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
 - **SimonLeclere** answered **the government** to `Who is considered the owner of a 'publicly held' company?` (Wrong answer)
 - **SimonLeclere** answered **John F. Enders** to `Who developed the first successful polio vaccine in the 1950s?` (Wrong answer)
 - **earearray** answered **Perturbator** to `Who is the artist of the recent new album the Uncanny Valley?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Stromboli** to `Which of these culinary terms is also the name of an active volcano?` (Good answer)
 - **earearray** answered **Scorpion** to `Which animal features on the logo for Abarth, the motorsport division of Fiat?` (Good answer)
 - **earearray** answered **Reiner Knizia** to `The board game "Ra" was designed by which designer? ` (Good answer)
-- **earearray** answered **82** to `How many scoring zones are there on a conventional dart board?` (Good answer)
 
 </details>
 
