@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The part of a book disclosing its publication info is known as what?
+## When did the United States formally declare war on Japan, entering World War II?
 
 <br>
 
-| [Colophon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3599%7CColophon&body=Just%20click%20'Submit%20new%20issue'.) | [Rectograf](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3599%7CRectograf&body=Just%20click%20'Submit%20new%20issue'.) | [Propindex](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3599%7CPropindex&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [June 22, 1941](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1784%7CJune%2022,%201941&body=Just%20click%20'Submit%20new%20issue'.) | [June 6, 1944](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1784%7CJune%206,%201944&body=Just%20click%20'Submit%20new%20issue'.) | [December 8, 1941](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1784%7CDecember%208,%201941&body=Just%20click%20'Submit%20new%20issue'.) | [September 1, 1939](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1784%7CSeptember%201,%201939&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Colophon** to `The part of a book disclosing its publication info is known as what?` (Good answer)
 - **azgar44** answered **Strawberry** to `Botanically speaking, which of these fruits is NOT a berry?` (Good answer)
 - **azgar44** answered **March 9, 2017** to `When was the video game "P.A.M.E.L.A." released on Steam?` (Good answer)
 - **azgar44** answered **visa** to `Which of the following must be obtained by foreigners wishing to permanently reside in the US?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **$10** to `If you have a 'sawbuck' how much money do you have?` (Good answer)
 - **azgar44** answered **Ares** to `In Greek mythology, who abandoned his mother and sister to fight alongside the Trojans?` (Good answer)
 - **azgar44** answered **Blanche** to `Who is the leader of Team Mystic in Pok&eacute;mon Go?` (Good answer)
-- **SimonLeclere** answered **Android** to `This mobile OS held the largest market share in 2012.` (Wrong answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 27 |
+| [azgar44](https://github.com/azgar44) | 28 |
 | [earearray](https://github.com/earearray) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
