@@ -15,7 +15,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 <br>
 
-<img width="280" height="187" src="./assets/quizTime.gif">
+<center><img width="280" height="187" src="./assets/quizTime.gif"></center>
 
 <br>
 
