@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the Spielberg film “E.T.”, what does E.T. stand for?
+## Which of these did Beyoncé use to announce her first pregnancy?
 
 <br>
 
-| [Extra Terrestrial](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4069%7CExtra%20Terrestrial&body=Just%20click%20'Submit%20new%20issue'.) | [Earl Torgeson](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4069%7CEarl%20Torgeson&body=Just%20click%20'Submit%20new%20issue'.) | [Enchilada Thief](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4069%7CEnchilada%20Thief&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Her official website](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4658%7CHer%20official%20website&body=Just%20click%20'Submit%20new%20issue'.) | [Instagram](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4658%7CInstagram&body=Just%20click%20'Submit%20new%20issue'.) | [Awards show](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4658%7CAwards%20show&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Extra Terrestrial** to `In the Spielberg film “E.T.”, what does E.T. stand for?` (Good answer)
 - **earearray** answered **T-800** to `In the 1984 movie "The Terminator", what model number is the Terminator portrayed by Arnold Schwarzenegger?` (Good answer)
 - **earearray** answered **Legends of Tomorrow** to `What is the name of the "Flash" and "Arrow" spinoff featuring a team of characters that have appeared on both shows?` (Good answer)
 - **earearray** answered **Courage** to `Which buzzword did Apple Inc. use to describe their removal of the headphone jack?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **lowlighter** answered **16** to `How many ounces are in a pound?` (Good answer)
 - **lowlighter** answered **False** to `St. Louis is the capital of the US State Missouri.` (Good answer)
 - **lowlighter** answered **Blue Sky** to `In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?` (Good answer)
-- **lowlighter** answered **Bells** to `What is the name of the currency in the "Animal Crossing" series?` (Good answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
-| [earearray](https://github.com/earearray) | 4 |
+| [earearray](https://github.com/earearray) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
 
