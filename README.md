@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these singers is famous for playing the trumpet?
+## In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?
 
 <br>
 
-| [Mary J. Blige](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3664%7CMary%20J.%20Blige&body=Just%20click%20'Submit%20new%20issue'.) | [Frank Sinatra](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3664%7CFrank%20Sinatra&body=Just%20click%20'Submit%20new%20issue'.) | [Louis Armstrong](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3664%7CLouis%20Armstrong&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Scarecrow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CScarecrow&body=Just%20click%20'Submit%20new%20issue'.) | [Bane](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CBane&body=Just%20click%20'Submit%20new%20issue'.) | [Calendar Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CCalendar%20Man&body=Just%20click%20'Submit%20new%20issue'.) | [Clayface](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C193%7CClayface&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Louis Armstrong** to `Which of these singers is famous for playing the trumpet?` (Good answer)
 - **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
 - **SimonLeclere** answered **the government** to `Who is considered the owner of a 'publicly held' company?` (Wrong answer)
 - **SimonLeclere** answered **John F. Enders** to `Who developed the first successful polio vaccine in the 1950s?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Wales** to `Which UK country features a dragon on their flag?` (Good answer)
 - **earearray** answered **Stromboli** to `Which of these culinary terms is also the name of an active volcano?` (Good answer)
 - **earearray** answered **Scorpion** to `Which animal features on the logo for Abarth, the motorsport division of Fiat?` (Good answer)
-- **earearray** answered **Reiner Knizia** to `The board game "Ra" was designed by which designer? ` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 19 |
 | [azgar44](https://github.com/azgar44) | 18 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 10 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
