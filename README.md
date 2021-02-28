@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these performers was part of the first Lollapalooza festival lineup?
+## In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?
 
 <br>
 
-| [Soundgarden](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3436%7CSoundgarden&body=Just%20click%20'Submit%20new%20issue'.) | [Depeche Mode](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3436%7CDepeche%20Mode&body=Just%20click%20'Submit%20new%20issue'.) | [Ice-T](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3436%7CIce-T&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Harry Stills](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C725%7CHarry%20Stills&body=Just%20click%20'Submit%20new%20issue'.) | [William Adama](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C725%7CWilliam%20Adama&body=Just%20click%20'Submit%20new%20issue'.) | [Tricia Helfer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C725%7CTricia%20Helfer&body=Just%20click%20'Submit%20new%20issue'.) | [Laura Roslin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C725%7CLaura%20Roslin&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Ice-T** to `Which of these performers was part of the first Lollapalooza festival lineup?` (Good answer)
 - **earearray** answered **True** to `During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.` (Good answer)
 - **earearray** answered **Bubbles (2016)** to `Which character does voice actress Tara Strong NOT voice?` (Good answer)
 - **earearray** answered **Swedish** to `The song "Caramelldansen" is commonly mistaken as a Japanese song, what language is the song actually sung in?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Legends of Tomorrow** to `What is the name of the "Flash" and "Arrow" spinoff featuring a team of characters that have appeared on both shows?` (Good answer)
 - **earearray** answered **Courage** to `Which buzzword did Apple Inc. use to describe their removal of the headphone jack?` (Good answer)
 - **earearray** answered **the stockholders** to `Who is considered the owner of a 'publicly held' company?` (Good answer)
-- **SimonLeclere** answered **Ankh Charm** to `In Terraria, which of these items is NOT crafted at a Mythril Anvil?` (Good answer)
 
 </details>
 
@@ -58,8 +58,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [azgar44](https://github.com/azgar44) | 18 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
+| [earearray](https://github.com/earearray) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
-| [earearray](https://github.com/earearray) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
