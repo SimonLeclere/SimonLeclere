@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## A Londoner born within earshot of the St. Mary-le-Bow bells is said to be what?
+## What type of card is typically used to make purchases at stores?
 
 <br>
 
-| [Cockney](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3772%7CCockney&body=Just%20click%20'Submit%20new%20issue'.) | [Blessed](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3772%7CBlessed&body=Just%20click%20'Submit%20new%20issue'.) | [Lion-hearted](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3772%7CLion-hearted&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Credit](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4009%7CCredit&body=Just%20click%20'Submit%20new%20issue'.) | [Birthday](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4009%7CBirthday&body=Just%20click%20'Submit%20new%20issue'.) | [Blockbuster](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4009%7CBlockbuster&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Cockney** to `A Londoner born within earshot of the St. Mary-le-Bow bells is said to be what?` (Good answer)
 - **azgar44** answered **True** to `The Hundred Years&#039; War was fought for more than a hundred years.` (Good answer)
 - **azgar44** answered **$10** to `If you have a 'sawbuck' how much money do you have?` (Good answer)
 - **azgar44** answered **Ares** to `In Greek mythology, who abandoned his mother and sister to fight alongside the Trojans?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Republic of Taiwan** to `Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?` (Wrong answer)
 - **elttayman** answered **Scarecrow** to `In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?` (Good answer)
 - **SimonLeclere** answered **Louis Armstrong** to `Which of these singers is famous for playing the trumpet?` (Good answer)
-- **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 22 |
+| [azgar44](https://github.com/azgar44) | 23 |
 | [earearray](https://github.com/earearray) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
