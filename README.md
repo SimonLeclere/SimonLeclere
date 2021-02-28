@@ -25,28 +25,28 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## On her first recording, Billie Holiday was accompanied by what jazz legend?
+## What is the theme song of &quot;Neon Genesis Evangelion&quot;?
 
 <br>
 
-| [Benny Goodman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CBenny%20Goodman&body=Just%20click%20'Submit%20new%20issue'.) | [Count Basie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CCount%20Basie&body=Just%20click%20'Submit%20new%20issue'.) | [Duke Ellington](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3892%7CDuke%20Ellington&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Requiem for a Dream](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CRequiem%20for%20a%20Dream&body=Just%20click%20'Submit%20new%20issue'.) | [A Cruel Angel&#039;s Thesis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CA%20Cruel%20Angel&#039;s%20Thesis&body=Just%20click%20'Submit%20new%20issue'.) | [God Knows](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CGod%20Knows&body=Just%20click%20'Submit%20new%20issue'.) | [Stardust Crusaders](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1879%7CStardust%20Crusaders&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
-- **SimonLeclere** answered **Laser Rifle** to `In Terraria, what does the Wall of Flesh not drop upon defeat?` (Wrong answer)
-- **SimonLeclere** answered **theta** to `What's the third letter of the Greek alphabet?` (Wrong answer)
-- **SimonLeclere** answered **True** to `The United States of America declared their independence from the British Empire on July 4th, 1776.` (Good answer)
-- **SimonLeclere** answered **Last of the Mohicans** to `Jane Morgan was a nom de plume for the author of which of these works?` (Good answer)
-- **SimonLeclere** answered **Claude Monet** to `The works of which artist are often used to illustrate the concept of tessellation?` (Wrong answer)
-- **SimonLeclere** answered **Rabbit** to `In Guild Wars 2, which Chinese Zodiac sign is not represented in the Zodiac Weapon Set?` (Wrong answer)
-- **MRakox** answered **True** to `Linus Torvalds created Linux and Git.` (Good answer)
-- **MRakox** answered **Rome** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Wrong answer)
-- **MRakox** answered **Turin** to `Which Italian city is home of the car manufacturer &#039;Fiat&#039;?` (Good answer)
-- **MRakox** answered **India** to `In the "Halo" franchise, in what country is New Mombasa?` (Wrong answer)
+- **SimonLeclere** answered **Republic of Taiwan** to `Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?` (Wrong answer)
+- **elttayman** answered **Scarecrow** to `In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?` (Good answer)
+- **SimonLeclere** answered **Louis Armstrong** to `Which of these singers is famous for playing the trumpet?` (Good answer)
+- **SimonLeclere** answered **True** to `The S in Harry S. Truman stands for "Samuel".` (Wrong answer)
+- **SimonLeclere** answered **the government** to `Who is considered the owner of a 'publicly held' company?` (Wrong answer)
+- **SimonLeclere** answered **John F. Enders** to `Who developed the first successful polio vaccine in the 1950s?` (Wrong answer)
+- **earearray** answered **Perturbator** to `Who is the artist of the recent new album the Uncanny Valley?` (Good answer)
+- **earearray** answered **U.N. Owen Was Her** to `In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet&#039;s boss fight?` (Good answer)
+- **earearray** answered **True** to `The capital of the US State Ohio is the city of Chillicothe.` (Wrong answer)
+- **earearray** answered **Wales** to `Which UK country features a dragon on their flag?` (Good answer)
 
 </details>
 
@@ -56,11 +56,15 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
+| [earearray](https://github.com/earearray) | 19 |
+| [azgar44](https://github.com/azgar44) | 18 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 11 |
+| [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
+| [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 1 |
-| [zechaos031](https://github.com/zechaos031) | 1 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
+| [elttayman](https://github.com/elttayman) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
