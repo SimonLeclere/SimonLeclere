@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Botanically speaking, which of these fruits is NOT a berry?
+## The part of a book disclosing its publication info is known as what?
 
 <br>
 
-| [Banana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CBanana&body=Just%20click%20'Submit%20new%20issue'.) | [Strawberry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CStrawberry&body=Just%20click%20'Submit%20new%20issue'.) | [Blueberry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CBlueberry&body=Just%20click%20'Submit%20new%20issue'.) | [Concord Grape](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C443%7CConcord%20Grape&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Colophon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3599%7CColophon&body=Just%20click%20'Submit%20new%20issue'.) | [Rectograf](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3599%7CRectograf&body=Just%20click%20'Submit%20new%20issue'.) | [Propindex](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3599%7CPropindex&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Strawberry** to `Botanically speaking, which of these fruits is NOT a berry?` (Good answer)
 - **azgar44** answered **March 9, 2017** to `When was the video game "P.A.M.E.L.A." released on Steam?` (Good answer)
 - **azgar44** answered **visa** to `Which of the following must be obtained by foreigners wishing to permanently reside in the US?` (Good answer)
 - **azgar44** answered **Credit** to `What type of card is typically used to make purchases at stores?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Ares** to `In Greek mythology, who abandoned his mother and sister to fight alongside the Trojans?` (Good answer)
 - **azgar44** answered **Blanche** to `Who is the leader of Team Mystic in Pok&eacute;mon Go?` (Good answer)
 - **SimonLeclere** answered **Android** to `This mobile OS held the largest market share in 2012.` (Wrong answer)
-- **SimonLeclere** answered **Requiem for a Dream** to `What is the theme song of "Neon Genesis Evangelion"?` (Wrong answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [azgar44](https://github.com/azgar44) | 26 |
+| [azgar44](https://github.com/azgar44) | 27 |
 | [earearray](https://github.com/earearray) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
