@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who is the artist of the recent new album the Uncanny Valley?
+## Who developed the first successful polio vaccine in the 1950s?
 
 <br>
 
-| [Carpenter Brut](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2732%7CCarpenter%20Brut&body=Just%20click%20'Submit%20new%20issue'.) | [GOST](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2732%7CGOST&body=Just%20click%20'Submit%20new%20issue'.) | [Dan Terminus ](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2732%7CDan%20Terminus%20&body=Just%20click%20'Submit%20new%20issue'.) | [Perturbator](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2732%7CPerturbator&body=Just%20click%20'Submit%20new%20issue'.) |
+| [John F. Enders](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1572%7CJohn%20F.%20Enders&body=Just%20click%20'Submit%20new%20issue'.) | [Thomas Weller](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1572%7CThomas%20Weller&body=Just%20click%20'Submit%20new%20issue'.) | [Jonas Salk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1572%7CJonas%20Salk&body=Just%20click%20'Submit%20new%20issue'.) | [Frederick Robbins](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1572%7CFrederick%20Robbins&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Perturbator** to `Who is the artist of the recent new album the Uncanny Valley?` (Good answer)
 - **earearray** answered **U.N. Owen Was Her** to `In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet&#039;s boss fight?` (Good answer)
 - **earearray** answered **True** to `The capital of the US State Ohio is the city of Chillicothe.` (Wrong answer)
 - **earearray** answered **Wales** to `Which UK country features a dragon on their flag?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **82** to `How many scoring zones are there on a conventional dart board?` (Good answer)
 - **earearray** answered **Chronal Accelerator** to `What device allows Tracer to manipulate her own time in the game "Overwatch"?` (Good answer)
 - **earearray** answered **Laura Roslin** to `In Battlestar Galactica (2004), what is the name of the President of the Twelve Colonies?` (Good answer)
-- **earearray** answered **Ice-T** to `Which of these performers was part of the first Lollapalooza festival lineup?` (Good answer)
 
 </details>
 
@@ -56,8 +56,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
+| [earearray](https://github.com/earearray) | 19 |
 | [azgar44](https://github.com/azgar44) | 18 |
-| [earearray](https://github.com/earearray) | 18 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
