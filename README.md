@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What Native American tribe did chief Crazy Horse lead?
+## What was the first Disney movie to use CGI?
 
 <br>
 
-| [Apache](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CApache&body=Just%20click%20'Submit%20new%20issue'.) | [Comanche](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CComanche&body=Just%20click%20'Submit%20new%20issue'.) | [Iroquois](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CIroquois&body=Just%20click%20'Submit%20new%20issue'.) | [Sioux](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CSioux&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Tron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2286%7CTron&body=Just%20click%20'Submit%20new%20issue'.) | [Toy Story](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2286%7CToy%20Story&body=Just%20click%20'Submit%20new%20issue'.) | [Fantasia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2286%7CFantasia&body=Just%20click%20'Submit%20new%20issue'.) | [The Black Cauldron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2286%7CThe%20Black%20Cauldron&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **ZusoWorld** answered **Sioux** to `What Native American tribe did chief Crazy Horse lead?` (Good answer)
 - **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
 - **SimonLeclere** answered **True** to `In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.` (Good answer)
 - **Androz2091** answered **Fendi** to `Which of these is an Italian Design firm?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **Strawberry** to `Botanically speaking, which of these fruits is NOT a berry?` (Good answer)
 - **azgar44** answered **March 9, 2017** to `When was the video game "P.A.M.E.L.A." released on Steam?` (Good answer)
 - **azgar44** answered **visa** to `Which of the following must be obtained by foreigners wishing to permanently reside in the US?` (Good answer)
-- **azgar44** answered **Credit** to `What type of card is typically used to make purchases at stores?` (Good answer)
 
 </details>
 
@@ -64,7 +64,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
+| [ZusoWorld](https://github.com/ZusoWorld) | 2 |
 | [TapsHTS](https://github.com/TapsHTS) | 1 |
-| [elttayman](https://github.com/elttayman) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
