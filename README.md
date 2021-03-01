@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The HTML5 standard was published in 2014.
+## When referring to cameras, which of these words is part of the acronym DSLR?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1111%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1111%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Single](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4373%7CSingle&body=Just%20click%20'Submit%20new%20issue'.) | [Direct](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4373%7CDirect&body=Just%20click%20'Submit%20new%20issue'.) | [Light](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4373%7CLight&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **True** to `The HTML5 standard was published in 2014.` (Good answer)
 - **earearray** answered **Oyster** to `What is the name of London's electronic public transit pass?` (Good answer)
 - **earearray** answered **Sandy's Treedome** to `In "SpongeBob SquarePants", what is the name of Sandy Cheek&#039;s place of residence?` (Wrong answer)
 - **SimonLeclere** answered **L.A. Confidential** to `Which of these major Hollywood films was shot in Toronto?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **ZusoWorld** answered **Fantasia** to `What was the first Disney movie to use CGI?` (Wrong answer)
 - **ZusoWorld** answered **Sioux** to `What Native American tribe did chief Crazy Horse lead?` (Good answer)
 - **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
-- **SimonLeclere** answered **True** to `In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 30 |
-| [earearray](https://github.com/earearray) | 20 |
+| [earearray](https://github.com/earearray) | 21 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
