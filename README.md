@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## When referring to cameras, which of these words is part of the acronym DSLR?
+## In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;
 
 <br>
 
-| [Single](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4373%7CSingle&body=Just%20click%20'Submit%20new%20issue'.) | [Direct](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4373%7CDirect&body=Just%20click%20'Submit%20new%20issue'.) | [Light](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4373%7CLight&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1235%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1235%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Single** to `When referring to cameras, which of these words is part of the acronym DSLR?` (Good answer)
 - **earearray** answered **True** to `The HTML5 standard was published in 2014.` (Good answer)
 - **earearray** answered **Oyster** to `What is the name of London's electronic public transit pass?` (Good answer)
 - **earearray** answered **Sandy's Treedome** to `In "SpongeBob SquarePants", what is the name of Sandy Cheek&#039;s place of residence?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Trans Am** to `What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?` (Good answer)
 - **ZusoWorld** answered **Fantasia** to `What was the first Disney movie to use CGI?` (Wrong answer)
 - **ZusoWorld** answered **Sioux** to `What Native American tribe did chief Crazy Horse lead?` (Good answer)
-- **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 30 |
-| [earearray](https://github.com/earearray) | 21 |
+| [earearray](https://github.com/earearray) | 22 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
