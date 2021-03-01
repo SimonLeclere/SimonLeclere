@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In &quot;SpongeBob SquarePants&quot;, what is the name of Sandy Cheek&#039;s place of residence?
+## What is the name of London's electronic public transit pass?
 
 <br>
 
-| [Sandy&#039;s Bubble](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3109%7CSandy&#039;s%20Bubble&body=Just%20click%20'Submit%20new%20issue'.) | [Sandy&#039;s Treedome](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3109%7CSandy&#039;s%20Treedome&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;The Dome&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3109%7C&quot;The%20Dome&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [Auquatic Reseach Centre](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3109%7CAuquatic%20Reseach%20Centre&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Presto](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3399%7CPresto&body=Just%20click%20'Submit%20new%20issue'.) | [Oyster](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3399%7COyster&body=Just%20click%20'Submit%20new%20issue'.) | [Opal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3399%7COpal&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Sandy's Treedome** to `In "SpongeBob SquarePants", what is the name of Sandy Cheek&#039;s place of residence?` (Wrong answer)
 - **SimonLeclere** answered **L.A. Confidential** to `Which of these major Hollywood films was shot in Toronto?` (Wrong answer)
 - **SimonLeclere** answered **gaggle** to `What term is used to describe a group of fish?` (Wrong answer)
 - **SimonLeclere** answered **Traffic Configuration Alignment System** to `In flight systems, what does the initialism "TCAS" stand for?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
 - **SimonLeclere** answered **True** to `In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.` (Good answer)
 - **Androz2091** answered **Fendi** to `Which of these is an Italian Design firm?` (Good answer)
-- **azgar44** answered **Sydney** to `Which of the following is NOT a capital city?` (Good answer)
 
 </details>
 
