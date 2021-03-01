@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?
+## In flight systems, what does the initialism &quot;TCAS&quot; stand for?
 
 <br>
 
-| [Lamborghini](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5014%7CLamborghini&body=Just%20click%20'Submit%20new%20issue'.) | [Camaro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5014%7CCamaro&body=Just%20click%20'Submit%20new%20issue'.) | [Trans Am](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5014%7CTrans%20Am&body=Just%20click%20'Submit%20new%20issue'.) | [Corvette](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5014%7CCorvette&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Traffic Collision Avoidance System](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5256%7CTraffic%20Collision%20Avoidance%20System&body=Just%20click%20'Submit%20new%20issue'.) | [Traffic Call-sign Abbreviation System](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5256%7CTraffic%20Call-sign%20Abbreviation%20System&body=Just%20click%20'Submit%20new%20issue'.) | [Traffic Configuration Alignment System](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5256%7CTraffic%20Configuration%20Alignment%20System&body=Just%20click%20'Submit%20new%20issue'.) | [Traffic Communication Alert System](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5256%7CTraffic%20Communication%20Alert%20System&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Trans Am** to `What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?` (Good answer)
 - **ZusoWorld** answered **Fantasia** to `What was the first Disney movie to use CGI?` (Wrong answer)
 - **ZusoWorld** answered **Sioux** to `What Native American tribe did chief Crazy Horse lead?` (Good answer)
 - **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **December 8, 1941** to `When did the United States formally declare war on Japan, entering World War II?` (Good answer)
 - **azgar44** answered **Colophon** to `The part of a book disclosing its publication info is known as what?` (Good answer)
 - **azgar44** answered **Strawberry** to `Botanically speaking, which of these fruits is NOT a berry?` (Good answer)
-- **azgar44** answered **March 9, 2017** to `When was the video game "P.A.M.E.L.A." released on Steam?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [azgar44](https://github.com/azgar44) | 30 |
 | [earearray](https://github.com/earearray) | 19 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 12 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
