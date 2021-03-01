@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?
+## What Native American tribe did chief Crazy Horse lead?
 
 <br>
 
-| [Little Buddy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4816%7CLittle%20Buddy&body=Just%20click%20'Submit%20new%20issue'.) | [Mini-Me](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4816%7CMini-Me&body=Just%20click%20'Submit%20new%20issue'.) | [Small Fry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4816%7CSmall%20Fry&body=Just%20click%20'Submit%20new%20issue'.) | [Dr. Evil Jr](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4816%7CDr.%20Evil%20Jr&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Apache](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CApache&body=Just%20click%20'Submit%20new%20issue'.) | [Comanche](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CComanche&body=Just%20click%20'Submit%20new%20issue'.) | [Iroquois](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CIroquois&body=Just%20click%20'Submit%20new%20issue'.) | [Sioux](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5025%7CSioux&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
 - **SimonLeclere** answered **True** to `In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.` (Good answer)
 - **Androz2091** answered **Fendi** to `Which of these is an Italian Design firm?` (Good answer)
 - **azgar44** answered **Sydney** to `Which of the following is NOT a capital city?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **azgar44** answered **March 9, 2017** to `When was the video game "P.A.M.E.L.A." released on Steam?` (Good answer)
 - **azgar44** answered **visa** to `Which of the following must be obtained by foreigners wishing to permanently reside in the US?` (Good answer)
 - **azgar44** answered **Credit** to `What type of card is typically used to make purchases at stores?` (Good answer)
-- **azgar44** answered **Cockney** to `A Londoner born within earshot of the St. Mary-le-Bow bells is said to be what?` (Good answer)
 
 </details>
 
