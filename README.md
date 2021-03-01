@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What term is used to describe a group of fish?
+## Which of these major Hollywood films was shot in Toronto?
 
 <br>
 
-| [school](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cschool&body=Just%20click%20'Submit%20new%20issue'.) | [knot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cknot&body=Just%20click%20'Submit%20new%20issue'.) | [drape](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cdrape&body=Just%20click%20'Submit%20new%20issue'.) | [gaggle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cgaggle&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [L.A. Confidential](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3995%7CL.A.%20Confidential&body=Just%20click%20'Submit%20new%20issue'.) | [Gangs of New York](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3995%7CGangs%20of%20New%20York&body=Just%20click%20'Submit%20new%20issue'.) | [Chicago](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3995%7CChicago&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **gaggle** to `What term is used to describe a group of fish?` (Wrong answer)
 - **SimonLeclere** answered **Traffic Configuration Alignment System** to `In flight systems, what does the initialism "TCAS" stand for?` (Wrong answer)
 - **SimonLeclere** answered **Trans Am** to `What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?` (Good answer)
 - **ZusoWorld** answered **Fantasia** to `What was the first Disney movie to use CGI?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Androz2091** answered **Fendi** to `Which of these is an Italian Design firm?` (Good answer)
 - **azgar44** answered **Sydney** to `Which of the following is NOT a capital city?` (Good answer)
 - **azgar44** answered **December 8, 1941** to `When did the United States formally declare war on Japan, entering World War II?` (Good answer)
-- **azgar44** answered **Colophon** to `The part of a book disclosing its publication info is known as what?` (Good answer)
 
 </details>
 
