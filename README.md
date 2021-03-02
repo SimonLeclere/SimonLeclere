@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the highest mountain in the world?
+## What is the capital of Senegal?
 
 <br>
 
-| [Kangchenjunga](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C996%7CKangchenjunga&body=Just%20click%20'Submit%20new%20issue'.) | [Annapurna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C996%7CAnnapurna&body=Just%20click%20'Submit%20new%20issue'.) | [Mt. Everest](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C996%7CMt.%20Everest&body=Just%20click%20'Submit%20new%20issue'.) | [Mount Godwin Austen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C996%7CMount%20Godwin%20Austen&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Dakar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2592%7CDakar&body=Just%20click%20'Submit%20new%20issue'.) | [Monrovia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2592%7CMonrovia&body=Just%20click%20'Submit%20new%20issue'.) | [Conakry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2592%7CConakry&body=Just%20click%20'Submit%20new%20issue'.) | [Nouakchott](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2592%7CNouakchott&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Mt. Everest** to `What is the highest mountain in the world?` (Good answer)
 - **earearray** answered **We Love to See You Smile** to `Which slogan did the fast food company, McDonald&#039;s, use before their "I&#039;m Lovin&#039; It" slogan?` (Good answer)
 - **Janastinou** answered **Center** to `Which word is spelled the same way in the United States and the United Kingdom?` (Wrong answer)
 - **Janastinou** answered **pinkie finger** to `The 'Arkansas toothpick' is better known by what name?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Single** to `When referring to cameras, which of these words is part of the acronym DSLR?` (Good answer)
 - **earearray** answered **True** to `The HTML5 standard was published in 2014.` (Good answer)
 - **earearray** answered **Oyster** to `What is the name of London's electronic public transit pass?` (Good answer)
-- **earearray** answered **Sandy's Treedome** to `In "SpongeBob SquarePants", what is the name of Sandy Cheek&#039;s place of residence?` (Wrong answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 30 |
-| [earearray](https://github.com/earearray) | 24 |
+| [earearray](https://github.com/earearray) | 25 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
