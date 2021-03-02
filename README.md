@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The famed opera “Fidelio” has the same composer as what work?
+## The 'Arkansas toothpick' is better known by what name?
 
 <br>
 
-| [Für Elise](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3803%7CF%C3%BCr%20Elise&body=Just%20click%20'Submit%20new%20issue'.) | [The Magic Flute](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3803%7CThe%20Magic%20Flute&body=Just%20click%20'Submit%20new%20issue'.) | [La Traviata](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3803%7CLa%20Traviata&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Scottie Pippen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7CScottie%20Pippen&body=Just%20click%20'Submit%20new%20issue'.) | [spare rib](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7Cspare%20rib&body=Just%20click%20'Submit%20new%20issue'.) | [pinkie finger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7Cpinkie%20finger&body=Just%20click%20'Submit%20new%20issue'.) | [Bowie knife](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7CBowie%20knife&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Janastinou** answered **Für Elise** to `The famed opera “Fidelio” has the same composer as what work?` (Good answer)
 - **earearray** answered **Ivana Zelníčková** to `Who was Donald Trump&#039;s first wife?` (Wrong answer)
 - **earearray** answered **False** to `In the "Half-Life" series, "H.E.V" stands for "Hazardous Evasiveness Vest"` (Good answer)
 - **earearray** answered **Single** to `When referring to cameras, which of these words is part of the acronym DSLR?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **L.A. Confidential** to `Which of these major Hollywood films was shot in Toronto?` (Wrong answer)
 - **SimonLeclere** answered **gaggle** to `What term is used to describe a group of fish?` (Wrong answer)
 - **SimonLeclere** answered **Traffic Configuration Alignment System** to `In flight systems, what does the initialism "TCAS" stand for?` (Wrong answer)
-- **SimonLeclere** answered **Trans Am** to `What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?` (Good answer)
 
 </details>
 
