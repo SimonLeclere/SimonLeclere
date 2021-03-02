@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The 'Arkansas toothpick' is better known by what name?
+## Which word is spelled the same way in the United States and the United Kingdom?
 
 <br>
 
-| [Scottie Pippen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7CScottie%20Pippen&body=Just%20click%20'Submit%20new%20issue'.) | [spare rib](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7Cspare%20rib&body=Just%20click%20'Submit%20new%20issue'.) | [pinkie finger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7Cpinkie%20finger&body=Just%20click%20'Submit%20new%20issue'.) | [Bowie knife](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4868%7CBowie%20knife&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Humor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4272%7CHumor&body=Just%20click%20'Submit%20new%20issue'.) | [Television](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4272%7CTelevision&body=Just%20click%20'Submit%20new%20issue'.) | [Center](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4272%7CCenter&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Janastinou** answered **pinkie finger** to `The 'Arkansas toothpick' is better known by what name?` (Wrong answer)
 - **Janastinou** answered **Für Elise** to `The famed opera “Fidelio” has the same composer as what work?` (Good answer)
 - **earearray** answered **Ivana Zelníčková** to `Who was Donald Trump&#039;s first wife?` (Wrong answer)
 - **earearray** answered **False** to `In the "Half-Life" series, "H.E.V" stands for "Hazardous Evasiveness Vest"` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Sandy's Treedome** to `In "SpongeBob SquarePants", what is the name of Sandy Cheek&#039;s place of residence?` (Wrong answer)
 - **SimonLeclere** answered **L.A. Confidential** to `Which of these major Hollywood films was shot in Toronto?` (Wrong answer)
 - **SimonLeclere** answered **gaggle** to `What term is used to describe a group of fish?` (Wrong answer)
-- **SimonLeclere** answered **Traffic Configuration Alignment System** to `In flight systems, what does the initialism "TCAS" stand for?` (Wrong answer)
 
 </details>
 
