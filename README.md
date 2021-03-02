@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In &quot;Clash Royale&quot; what is Arena 4 called?
+## Which studio animated Afro Samurai?
 
 <br>
 
-| [Barbarian Bowl](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1557%7CBarbarian%20Bowl&body=Just%20click%20'Submit%20new%20issue'.) | [Spell Valley](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1557%7CSpell%20Valley&body=Just%20click%20'Submit%20new%20issue'.) | [Royal Arena](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1557%7CRoyal%20Arena&body=Just%20click%20'Submit%20new%20issue'.) | [P.E.K.K.A&#039;s Playhouse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1557%7CP.E.K.K.A&#039;s%20Playhouse&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Kyoto Animation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C539%7CKyoto%20Animation&body=Just%20click%20'Submit%20new%20issue'.) | [xebec](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C539%7Cxebec&body=Just%20click%20'Submit%20new%20issue'.) | [Production I.G](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C539%7CProduction%20I.G&body=Just%20click%20'Submit%20new%20issue'.) | [Gonzo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C539%7CGonzo&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **P.E.K.K.A's Playhouse** to `In "Clash Royale" what is Arena 4 called?` (Wrong answer)
 - **earearray** answered **True** to `Adolf Hitler was a german soldier in World War I.` (Good answer)
 - **earearray** answered **Dakar** to `What is the capital of Senegal?` (Good answer)
 - **earearray** answered **Mt. Everest** to `What is the highest mountain in the world?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Janastinou** answered **Für Elise** to `The famed opera “Fidelio” has the same composer as what work?` (Good answer)
 - **earearray** answered **Ivana Zelníčková** to `Who was Donald Trump&#039;s first wife?` (Wrong answer)
 - **earearray** answered **False** to `In the "Half-Life" series, "H.E.V" stands for "Hazardous Evasiveness Vest"` (Good answer)
-- **earearray** answered **Single** to `When referring to cameras, which of these words is part of the acronym DSLR?` (Good answer)
 
 </details>
 
