@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?
+## What was the first video game in the Batman &quot;Arkham&quot; series?
 
 <br>
 
-| [Vulture Aid](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1507%7CVulture%20Aid&body=Just%20click%20'Submit%20new%20issue'.) | [Electric Cherry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1507%7CElectric%20Cherry&body=Just%20click%20'Submit%20new%20issue'.) | [Tombstone](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1507%7CTombstone&body=Just%20click%20'Submit%20new%20issue'.) | [Quick Revive](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1507%7CQuick%20Revive&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Arkham Asylum](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1740%7CArkham%20Asylum&body=Just%20click%20'Submit%20new%20issue'.) | [Arkham City](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1740%7CArkham%20City&body=Just%20click%20'Submit%20new%20issue'.) | [Arkham Knight](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1740%7CArkham%20Knight&body=Just%20click%20'Submit%20new%20issue'.) | [Arkham Origins](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1740%7CArkham%20Origins&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Electric Cherry** to `What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?` (Good answer)
 - **earearray** answered **Gonzo** to `Which studio animated Afro Samurai?` (Good answer)
 - **earearray** answered **P.E.K.K.A's Playhouse** to `In "Clash Royale" what is Arena 4 called?` (Wrong answer)
 - **earearray** answered **True** to `Adolf Hitler was a german soldier in World War I.` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Janastinou** answered **Center** to `Which word is spelled the same way in the United States and the United Kingdom?` (Wrong answer)
 - **Janastinou** answered **pinkie finger** to `The 'Arkansas toothpick' is better known by what name?` (Wrong answer)
 - **Janastinou** answered **Für Elise** to `The famed opera “Fidelio” has the same composer as what work?` (Good answer)
-- **earearray** answered **Ivana Zelníčková** to `Who was Donald Trump&#039;s first wife?` (Wrong answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [azgar44](https://github.com/azgar44) | 30 |
-| [earearray](https://github.com/earearray) | 28 |
+| [earearray](https://github.com/earearray) | 29 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
