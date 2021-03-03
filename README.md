@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which novel is set in a land named after the Latin word for “bread”?
+## Which one of these characters is from &quot;Legendz : Tale of the Dragon Kings&quot;?
 
 <br>
 
-| [The Silver Chair](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3448%7CThe%20Silver%20Chair&body=Just%20click%20'Submit%20new%20issue'.) | [Fahrenheit 451](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3448%7CFahrenheit%20451&body=Just%20click%20'Submit%20new%20issue'.) | [The Hunger Games](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3448%7CThe%20Hunger%20Games&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Shiron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C512%7CShiron&body=Just%20click%20'Submit%20new%20issue'.) | [Jack](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C512%7CJack&body=Just%20click%20'Submit%20new%20issue'.) | [Axia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C512%7CAxia&body=Just%20click%20'Submit%20new%20issue'.) | [Drum](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C512%7CDrum&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **The Hunger Games** to `Which novel is set in a land named after the Latin word for “bread”?` (Good answer)
 - **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
 - **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
 - **MRakox** answered **F** to `What is the Swedish word for "window"?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Matthew Taylor** to `Who plays the Nemesis in the Resident Evil movies?` (Good answer)
 - **MRakox** answered **False** to `In "Mario Kart 64", Waluigi is a playable character.` (Good answer)
 - **MRakox** answered **Japan** to `The sport of judo comes from what Asian country?` (Good answer)
-- **MRakox** answered **South Africa** to `Which country has three capital cities?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 46 |
+| [MRakox](https://github.com/MRakox) | 47 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
