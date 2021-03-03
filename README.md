@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?
+## Which country has three capital cities?
 
 <br>
 
-| [Sonic The Hedgehog](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1441%7CSonic%20The%20Hedgehog&body=Just%20click%20'Submit%20new%20issue'.) | [Super Mario 64](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1441%7CSuper%20Mario%2064&body=Just%20click%20'Submit%20new%20issue'.) | [Mega Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1441%7CMega%20Man&body=Just%20click%20'Submit%20new%20issue'.) | [Rad Mobile](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1441%7CRad%20Mobile&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Somalia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2481%7CSomalia&body=Just%20click%20'Submit%20new%20issue'.) | [United Kingdom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2481%7CUnited%20Kingdom&body=Just%20click%20'Submit%20new%20issue'.) | [China](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2481%7CChina&body=Just%20click%20'Submit%20new%20issue'.) | [South Africa](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2481%7CSouth%20Africa&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Rad Mobile** to `Which game did "Sonic The Hedgehog" make his first appearance in?` (Good answer)
 - **MRakox** answered **Diagnosis** to `What is the medical term for a doctor's identification of a disease?` (Good answer)
 - **MRakox** answered **Gettysburg** to `Where was Abraham Lincoln’s most famous address delivered?` (Good answer)
 - **MRakox** answered **Skeleton** to `Which of these is an actual Winter Olympics event?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **1279** to `What is the first Mersenne prime over 1000?` (Good answer)
 - **MRakox** answered **2006** to `When was the game "Roblox" released?` (Good answer)
 - **MRakox** answered **Germany** to `Which nation hosted the FIFA World Cup in 2006?` (Good answer)
-- **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 36 |
+| [MRakox](https://github.com/MRakox) | 37 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
