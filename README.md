@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who plays the Nemesis in the Resident Evil movies?
+## Aubrey Graham is better known as
 
 <br>
 
-| [Matthew Taylor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2854%7CMatthew%20Taylor&body=Just%20click%20'Submit%20new%20issue'.) | [Jason Dip](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2854%7CJason%20Dip&body=Just%20click%20'Submit%20new%20issue'.) | [Jimmy Matts](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2854%7CJimmy%20Matts&body=Just%20click%20'Submit%20new%20issue'.) | [Eric Mabius](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2854%7CEric%20Mabius&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Drake](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CDrake&body=Just%20click%20'Submit%20new%20issue'.) | [Travis Scott](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CTravis%20Scott&body=Just%20click%20'Submit%20new%20issue'.) | [Lil Wayne](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CLil%20Wayne&body=Just%20click%20'Submit%20new%20issue'.) | [2 Chainz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7C2%20Chainz&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Matthew Taylor** to `Who plays the Nemesis in the Resident Evil movies?` (Good answer)
 - **MRakox** answered **False** to `In "Mario Kart 64", Waluigi is a playable character.` (Good answer)
 - **MRakox** answered **Japan** to `The sport of judo comes from what Asian country?` (Good answer)
 - **MRakox** answered **South Africa** to `Which country has three capital cities?` (Good answer)
@@ -45,7 +46,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Gettysburg** to `Where was Abraham Lincoln’s most famous address delivered?` (Good answer)
 - **MRakox** answered **Skeleton** to `Which of these is an actual Winter Olympics event?` (Good answer)
 - **MRakox** answered **True** to `The Klingon home planet is Qo&#039;noS.` (Good answer)
-- **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
 - **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
 
 </details>
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 40 |
+| [MRakox](https://github.com/MRakox) | 41 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
