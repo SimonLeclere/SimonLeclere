@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## &quot;Windows NT&quot; is a monolithic kernel.
+## What is the oldest team in the NFL?
 
 <br>
 
-| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2095%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2095%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Arizona Cardinals](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2157%7CArizona%20Cardinals&body=Just%20click%20'Submit%20new%20issue'.) | [Chicago Bears](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2157%7CChicago%20Bears&body=Just%20click%20'Submit%20new%20issue'.) | [Green Bay Packers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2157%7CGreen%20Bay%20Packers&body=Just%20click%20'Submit%20new%20issue'.) | [New York Giants](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2157%7CNew%20York%20Giants&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **True** to `"Windows NT" is a monolithic kernel.` (Wrong answer)
 - **shadeoxide** answered **20 Minutes, 41 Seconds** to `How long was the World Record Speed Run of Valve Software&#039;s "Half-Life" that was done in 2014.` (Good answer)
 - **SimonLeclere** answered **Hideki Tojo** to `Who was the Prime Minister of Japan when Japan declared war on the US?` (Good answer)
 - **earearray** answered **Portal 2** to `"The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **P.E.K.K.A's Playhouse** to `In "Clash Royale" what is Arena 4 called?` (Wrong answer)
 - **earearray** answered **True** to `Adolf Hitler was a german soldier in World War I.` (Good answer)
 - **earearray** answered **Dakar** to `What is the capital of Senegal?` (Good answer)
-- **earearray** answered **Mt. Everest** to `What is the highest mountain in the world?` (Good answer)
 
 </details>
 
