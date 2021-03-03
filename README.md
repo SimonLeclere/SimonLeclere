@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
+## Created in a 1970 contest, the universal recycling symbol depicts what?
 
 <br>
 
-| [Fog City](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CFog%20City&body=Just%20click%20'Submit%20new%20issue'.) | [Waterlog](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CWaterlog&body=Just%20click%20'Submit%20new%20issue'.) | [Mudville](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CMudville&body=Just%20click%20'Submit%20new%20issue'.) | [Stormfield](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CStormfield&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Crumpled-up paper](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4214%7CCrumpled-up%20paper&body=Just%20click%20'Submit%20new%20issue'.) | [Tree inside a circle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4214%7CTree%20inside%20a%20circle&body=Just%20click%20'Submit%20new%20issue'.) | [Three arrows](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4214%7CThree%20arrows&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **Mudville** to `In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?` (Good answer)
 - **shadeoxide** answered **Friends** to `Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?` (Wrong answer)
 - **shadeoxide** answered **Broom** to `What implement would you use to sweep dust from a floor?` (Good answer)
 - **shadeoxide** answered **Chicago Bears** to `What is the oldest team in the NFL?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Portal 2** to `"The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?` (Good answer)
 - **earearray** answered **Arkham Asylum** to `What was the first video game in the Batman "Arkham" series?` (Good answer)
 - **earearray** answered **Electric Cherry** to `What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?` (Good answer)
-- **earearray** answered **Gonzo** to `Which studio animated Afro Samurai?` (Good answer)
 
 </details>
 
@@ -63,8 +63,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
+| [shadeoxide](https://github.com/shadeoxide) | 3 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
 | [ZusoWorld](https://github.com/ZusoWorld) | 2 |
-| [shadeoxide](https://github.com/shadeoxide) | 2 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
