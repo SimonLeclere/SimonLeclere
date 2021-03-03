@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the Swedish word for &quot;window&quot;?
+## Someone would most likely contract salmonella poisoning from eating which of the following?
 
 <br>
 
-| [F&ouml;nster](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CF&ouml;nster&body=Just%20click%20'Submit%20new%20issue'.) | [Ruta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CRuta&body=Just%20click%20'Submit%20new%20issue'.) | [Sk&auml;rm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CSk&auml;rm&body=Just%20click%20'Submit%20new%20issue'.) | [H&aring;l](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CH&aring;l&body=Just%20click%20'Submit%20new%20issue'.) |
+| [carrots](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4864%7Ccarrots&body=Just%20click%20'Submit%20new%20issue'.) | [chicken](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4864%7Cchicken&body=Just%20click%20'Submit%20new%20issue'.) | [tofu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4864%7Ctofu&body=Just%20click%20'Submit%20new%20issue'.) | [rice](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4864%7Crice&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **F** to `What is the Swedish word for "window"?` (Wrong answer)
 - **MRakox** answered **Quahog** to `Adam West was the mayor of which cartoon town?` (Good answer)
 - **MRakox** answered **False** to `Kangaroos keep food in their pouches next to their children.` (Good answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **South Africa** to `Which country has three capital cities?` (Good answer)
 - **MRakox** answered **Rad Mobile** to `Which game did "Sonic The Hedgehog" make his first appearance in?` (Good answer)
 - **MRakox** answered **Diagnosis** to `What is the medical term for a doctor's identification of a disease?` (Good answer)
-- **MRakox** answered **Gettysburg** to `Where was Abraham Lincoln’s most famous address delivered?` (Good answer)
 
 </details>
 
