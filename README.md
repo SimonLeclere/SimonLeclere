@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## At what age can someone first attend an R-rated movie without an accompanying adult?
+## Which company made the Japanese RPG &quot;Dragon Quest&quot;?
 
 <br>
 
-| [17](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4723%7C17&body=Just%20click%20'Submit%20new%20issue'.) | [21](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4723%7C21&body=Just%20click%20'Submit%20new%20issue'.) | [18](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4723%7C18&body=Just%20click%20'Submit%20new%20issue'.) | [15](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4723%7C15&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Square Enix](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CSquare%20Enix&body=Just%20click%20'Submit%20new%20issue'.) | [Capcom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CCapcom&body=Just%20click%20'Submit%20new%20issue'.) | [Blizzard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CBlizzard&body=Just%20click%20'Submit%20new%20issue'.) | [Konami](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CKonami&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
 - **MRakox** answered **March 25th** to `Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?` (Good answer)
 - **MRakox** answered **By clearing every 7th episode** to `In "Super Mario Sunshine", how do you unlock the "Corona Mountain" level?` (Good answer)
 - **MRakox** answered **Mickey Finn** to `Which of these refers to an alcoholic drink laced with a knockout drug?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Victoria** to `What is the capital of British Columbia, Canada?` (Good answer)
 - **MRakox** answered **Command Line Interface** to `In computing terms, typically what does CLI stand for?` (Good answer)
 - **MRakox** answered **Polynesian** to `The 2016 Disney animated film &#039;Moana&#039; is based on which culture?` (Good answer)
-- **MRakox** answered **March 21** to `In the United States, what is the first day of spring?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 25 |
+| [MRakox](https://github.com/MRakox) | 26 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
