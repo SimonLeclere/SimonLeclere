@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The Klingon home planet is Qo&#039;noS.
+## Which of these is an actual Winter Olympics event?
 
 <br>
 
-| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C238%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C238%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Ghostathlon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3284%7CGhostathlon&body=Just%20click%20'Submit%20new%20issue'.) | [Skeleton](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3284%7CSkeleton&body=Just%20click%20'Submit%20new%20issue'.) | [Frankensteining](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3284%7CFrankensteining&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
 - **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
 - **MRakox** answered **1279** to `What is the first Mersenne prime over 1000?` (Good answer)
 - **MRakox** answered **2006** to `When was the game "Roblox" released?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **March 25th** to `Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?` (Good answer)
 - **MRakox** answered **By clearing every 7th episode** to `In "Super Mario Sunshine", how do you unlock the "Corona Mountain" level?` (Good answer)
 - **MRakox** answered **Mickey Finn** to `Which of these refers to an alcoholic drink laced with a knockout drug?` (Good answer)
-- **MRakox** answered **Did I ever tell you the definition of Insanity?** to `What&#039;s the famous line Vaas says in "Far Cry 3"?` (Good answer)
 
 </details>
 
@@ -56,8 +56,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
+| [MRakox](https://github.com/MRakox) | 32 |
 | [earearray](https://github.com/earearray) | 31 |
-| [MRakox](https://github.com/MRakox) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
