@@ -3,7 +3,7 @@
 I'm Simon, a young student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
-Want to support me? -> [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
+Want to support me? ->  [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
 
 <br>
 
@@ -27,18 +27,19 @@ Want to support me? -> [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/S
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who is the main protagonist of &quot;Ace Combat Zero: The Belkan War&quot;?
+## In &quot;League of Legends&quot;, there exists four different types of Dragon.
 
 <br>
 
-| [Pixy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1983%7CPixy&body=Just%20click%20'Submit%20new%20issue'.) | [Cipher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1983%7CCipher&body=Just%20click%20'Submit%20new%20issue'.) | [Blaze](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1983%7CBlaze&body=Just%20click%20'Submit%20new%20issue'.) | [Mobius 1](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1983%7CMobius%201&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1527%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1527%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Cipher** to `Who is the main protagonist of "Ace Combat Zero: The Belkan War"?` (Good answer)
 - **SimonLeclere** answered **$20** to `If you have a 'sawbuck' how much money do you have?` (Wrong answer)
 - **SimonLeclere** answered **MGMT** to `Which band released songs such as "Electric Feel", "Kids", and "Time to Pretend"?` (Good answer)
 - **SimonLeclere** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/S
 - **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
 - **MRakox** answered **Shiron** to `Which one of these characters is from "Legendz : Tale of the Dragon Kings"?` (Good answer)
 - **MRakox** answered **The Hunger Games** to `Which novel is set in a land named after the Latin word for “bread”?` (Good answer)
-- **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/S
 | [MRakox](https://github.com/MRakox) | 50 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 16 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 17 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
