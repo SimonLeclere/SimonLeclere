@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Aubrey Graham is better known as
+## In &quot;Halo 2&quot;, what is the name of the monitor of Installation 05?
 
 <br>
 
-| [Travis Scott](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CTravis%20Scott&body=Just%20click%20'Submit%20new%20issue'.) | [Lil Wayne](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CLil%20Wayne&body=Just%20click%20'Submit%20new%20issue'.) | [2 Chainz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7C2%20Chainz&body=Just%20click%20'Submit%20new%20issue'.) | [Drake](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CDrake&body=Just%20click%20'Submit%20new%20issue'.) |
+| [343 Guilty Spark](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2229%7C343%20Guilty%20Spark&body=Just%20click%20'Submit%20new%20issue'.) | [031 Exuberant Witness](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2229%7C031%20Exuberant%20Witness&body=Just%20click%20'Submit%20new%20issue'.) | [252 Biodis Expolsion](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2229%7C252%20Biodis%20Expolsion&body=Just%20click%20'Submit%20new%20issue'.) | [2401 Penitent Tangent](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2229%7C2401%20Penitent%20Tangent&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
 - **MRakox** answered **Shiron** to `Which one of these characters is from "Legendz : Tale of the Dragon Kings"?` (Good answer)
 - **MRakox** answered **The Hunger Games** to `Which novel is set in a land named after the Latin word for “bread”?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Quahog** to `Adam West was the mayor of which cartoon town?` (Good answer)
 - **MRakox** answered **False** to `Kangaroos keep food in their pouches next to their children.` (Good answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
-- **MRakox** answered **Matthew Taylor** to `Who plays the Nemesis in the Resident Evil movies?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 49 |
+| [MRakox](https://github.com/MRakox) | 50 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
