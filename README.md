@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Kangaroos keep food in their pouches next to their children.
+## Adam West was the mayor of which cartoon town?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2021%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2021%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Quahog](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CQuahog&body=Just%20click%20'Submit%20new%20issue'.) | [Langley Falls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CLangley%20Falls&body=Just%20click%20'Submit%20new%20issue'.) | [Springfield](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CSpringfield&body=Just%20click%20'Submit%20new%20issue'.) | [South Park](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CSouth%20Park&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **False** to `Kangaroos keep food in their pouches next to their children.` (Good answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Matthew Taylor** to `Who plays the Nemesis in the Resident Evil movies?` (Good answer)
 - **MRakox** answered **False** to `In "Mario Kart 64", Waluigi is a playable character.` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Diagnosis** to `What is the medical term for a doctor's identification of a disease?` (Good answer)
 - **MRakox** answered **Gettysburg** to `Where was Abraham Lincoln’s most famous address delivered?` (Good answer)
 - **MRakox** answered **Skeleton** to `Which of these is an actual Winter Olympics event?` (Good answer)
-- **MRakox** answered **True** to `The Klingon home planet is Qo&#039;noS.` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 42 |
+| [MRakox](https://github.com/MRakox) | 43 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
