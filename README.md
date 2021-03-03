@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which breed of dog is NOT named in part for an island?
+## What&#039;s the famous line Vaas says in &quot;Far Cry 3&quot;?
 
 <br>
 
-| [St. Bernard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4653%7CSt.%20Bernard&body=Just%20click%20'Submit%20new%20issue'.) | [Maltese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4653%7CMaltese&body=Just%20click%20'Submit%20new%20issue'.) | [Sheltie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4653%7CSheltie&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [You&#039;re my b*tch!](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C713%7CYou&#039;re%20my%20b*tch!&body=Just%20click%20'Submit%20new%20issue'.) | [Did I ever tell you the definition of Insanity?](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C713%7CDid%20I%20ever%20tell%20you%20the%20definition%20of%20Insanity?&body=Just%20click%20'Submit%20new%20issue'.) | [Have I failed to entertain you?](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C713%7CHave%20I%20failed%20to%20entertain%20you?&body=Just%20click%20'Submit%20new%20issue'.) | [Maybe your best course...would be to tread lightly.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C713%7CMaybe%20your%20best%20course...would%20be%20to%20tread%20lightly.&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 - **MRakox** answered **Victoria** to `What is the capital of British Columbia, Canada?` (Good answer)
 - **MRakox** answered **Command Line Interface** to `In computing terms, typically what does CLI stand for?` (Good answer)
 - **MRakox** answered **Polynesian** to `The 2016 Disney animated film &#039;Moana&#039; is based on which culture?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **True** to `In "Starbound", the track played by the Decorated Music Box is named "Atlas".` (Good answer)
 - **MRakox** answered **Ireland** to `What country is the rock group U2 from?` (Good answer)
 - **MRakox** answered **AC/DC** to `Which band name isn&#039;t a Stand in "JoJo&#039;s Bizzare Adventure"?` (Good answer)
-- **MRakox** answered **Cincinnati** to `During part of the Cold War, what city's MLB team added the word “legs” to its name?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 19 |
+| [MRakox](https://github.com/MRakox) | 20 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
