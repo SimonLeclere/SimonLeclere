@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the capital of British Columbia, Canada?
+## Which breed of dog is NOT named in part for an island?
 
 <br>
 
-| [Hope](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1595%7CHope&body=Just%20click%20'Submit%20new%20issue'.) | [Vancouver](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1595%7CVancouver&body=Just%20click%20'Submit%20new%20issue'.) | [Kelowna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1595%7CKelowna&body=Just%20click%20'Submit%20new%20issue'.) | [Victoria](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1595%7CVictoria&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [St. Bernard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4653%7CSt.%20Bernard&body=Just%20click%20'Submit%20new%20issue'.) | [Maltese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4653%7CMaltese&body=Just%20click%20'Submit%20new%20issue'.) | [Sheltie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4653%7CSheltie&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Victoria** to `What is the capital of British Columbia, Canada?` (Good answer)
 - **MRakox** answered **Command Line Interface** to `In computing terms, typically what does CLI stand for?` (Good answer)
 - **MRakox** answered **Polynesian** to `The 2016 Disney animated film &#039;Moana&#039; is based on which culture?` (Good answer)
 - **MRakox** answered **March 21** to `In the United States, what is the first day of spring?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Ireland** to `What country is the rock group U2 from?` (Good answer)
 - **MRakox** answered **AC/DC** to `Which band name isn&#039;t a Stand in "JoJo&#039;s Bizzare Adventure"?` (Good answer)
 - **MRakox** answered **Cincinnati** to `During part of the Cold War, what city's MLB team added the word “legs” to its name?` (Good answer)
-- **MRakox** answered **Almond Joy** to `Which candy is NOT made by Mars?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 18 |
+| [MRakox](https://github.com/MRakox) | 19 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
