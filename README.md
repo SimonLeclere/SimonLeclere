@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which candy is NOT made by Mars?
+## During part of the Cold War, what city's MLB team added the word “legs” to its name?
 
 <br>
 
-| [Almond Joy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3002%7CAlmond%20Joy&body=Just%20click%20'Submit%20new%20issue'.) | [Twix](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3002%7CTwix&body=Just%20click%20'Submit%20new%20issue'.) | [M&amp;M&#039;s](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3002%7CM&amp;M&#039;s&body=Just%20click%20'Submit%20new%20issue'.) | [Snickers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3002%7CSnickers&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Pittsburgh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3618%7CPittsburgh&body=Just%20click%20'Submit%20new%20issue'.) | [Cincinnati](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3618%7CCincinnati&body=Just%20click%20'Submit%20new%20issue'.) | [Boston](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3618%7CBoston&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Almond Joy** to `Which candy is NOT made by Mars?` (Good answer)
 - **MRakox** answered **Comprehensive documentation** to `Which of these is not a key value of Agile software development?` (Good answer)
 - **MRakox** answered **Three arrows** to `Created in a 1970 contest, the universal recycling symbol depicts what?` (Good answer)
 - **shadeoxide** answered **Mudville** to `In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **shadeoxide** answered **True** to `"Windows NT" is a monolithic kernel.` (Wrong answer)
 - **shadeoxide** answered **20 Minutes, 41 Seconds** to `How long was the World Record Speed Run of Valve Software&#039;s "Half-Life" that was done in 2014.` (Good answer)
 - **SimonLeclere** answered **Hideki Tojo** to `Who was the Prime Minister of Japan when Japan declared war on the US?` (Good answer)
-- **earearray** answered **Portal 2** to `"The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?` (Good answer)
 
 </details>
 
@@ -60,8 +60,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
+| [MRakox](https://github.com/MRakox) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [MRakox](https://github.com/MRakox) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [shadeoxide](https://github.com/shadeoxide) | 3 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
