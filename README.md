@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What implement would you use to sweep dust from a floor?
+## Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?
 
 <br>
 
-| [Broom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3651%7CBroom&body=Just%20click%20'Submit%20new%20issue'.) | [Saucepan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3651%7CSaucepan&body=Just%20click%20'Submit%20new%20issue'.) | [Pliers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3651%7CPliers&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Friends](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4399%7CFriends&body=Just%20click%20'Submit%20new%20issue'.) | [Wings](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4399%7CWings&body=Just%20click%20'Submit%20new%20issue'.) | [Gilmore Girls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4399%7CGilmore%20Girls&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **Broom** to `What implement would you use to sweep dust from a floor?` (Good answer)
 - **shadeoxide** answered **Chicago Bears** to `What is the oldest team in the NFL?` (Wrong answer)
 - **shadeoxide** answered **True** to `"Windows NT" is a monolithic kernel.` (Wrong answer)
 - **shadeoxide** answered **20 Minutes, 41 Seconds** to `How long was the World Record Speed Run of Valve Software&#039;s "Half-Life" that was done in 2014.` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Electric Cherry** to `What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?` (Good answer)
 - **earearray** answered **Gonzo** to `Which studio animated Afro Samurai?` (Good answer)
 - **earearray** answered **P.E.K.K.A's Playhouse** to `In "Clash Royale" what is Arena 4 called?` (Wrong answer)
-- **earearray** answered **True** to `Adolf Hitler was a german soldier in World War I.` (Good answer)
 
 </details>
 
@@ -65,6 +65,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
 | [ZusoWorld](https://github.com/ZusoWorld) | 2 |
-| [TapsHTS](https://github.com/TapsHTS) | 1 |
+| [shadeoxide](https://github.com/shadeoxide) | 2 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
