@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In &quot;Starbound&quot;, the track played by the Decorated Music Box is named &quot;Atlas&quot;.
+## What was the cause of Marilyn Monroes suicide?
 
 <br>
 
-| [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1256%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) | [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1256%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [Gunshot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2682%7CGunshot&body=Just%20click%20'Submit%20new%20issue'.) | [Knife Attack](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2682%7CKnife%20Attack&body=Just%20click%20'Submit%20new%20issue'.) | [House Fire](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2682%7CHouse%20Fire&body=Just%20click%20'Submit%20new%20issue'.) | [Drug Overdose](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2682%7CDrug%20Overdose&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **True** to `In "Starbound", the track played by the Decorated Music Box is named "Atlas".` (Good answer)
 - **MRakox** answered **Ireland** to `What country is the rock group U2 from?` (Good answer)
 - **MRakox** answered **AC/DC** to `Which band name isn&#039;t a Stand in "JoJo&#039;s Bizzare Adventure"?` (Good answer)
 - **MRakox** answered **Cincinnati** to `During part of the Cold War, what city's MLB team added the word “legs” to its name?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **shadeoxide** answered **Mudville** to `In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?` (Good answer)
 - **shadeoxide** answered **Friends** to `Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?` (Wrong answer)
 - **shadeoxide** answered **Broom** to `What implement would you use to sweep dust from a floor?` (Good answer)
-- **shadeoxide** answered **Chicago Bears** to `What is the oldest team in the NFL?` (Wrong answer)
 
 </details>
 
@@ -59,7 +59,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
-| [MRakox](https://github.com/MRakox) | 12 |
+| [MRakox](https://github.com/MRakox) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
