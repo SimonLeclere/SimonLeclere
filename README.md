@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Created in a 1970 contest, the universal recycling symbol depicts what?
+## Which of these is not a key value of Agile software development?
 
 <br>
 
-| [Crumpled-up paper](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4214%7CCrumpled-up%20paper&body=Just%20click%20'Submit%20new%20issue'.) | [Tree inside a circle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4214%7CTree%20inside%20a%20circle&body=Just%20click%20'Submit%20new%20issue'.) | [Three arrows](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4214%7CThree%20arrows&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Individuals and interactions](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C332%7CIndividuals%20and%20interactions&body=Just%20click%20'Submit%20new%20issue'.) | [Comprehensive documentation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C332%7CComprehensive%20documentation&body=Just%20click%20'Submit%20new%20issue'.) | [Customer collaboration](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C332%7CCustomer%20collaboration&body=Just%20click%20'Submit%20new%20issue'.) | [Responding to change](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C332%7CResponding%20to%20change&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Three arrows** to `Created in a 1970 contest, the universal recycling symbol depicts what?` (Good answer)
 - **shadeoxide** answered **Mudville** to `In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?` (Good answer)
 - **shadeoxide** answered **Friends** to `Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?` (Wrong answer)
 - **shadeoxide** answered **Broom** to `What implement would you use to sweep dust from a floor?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Hideki Tojo** to `Who was the Prime Minister of Japan when Japan declared war on the US?` (Good answer)
 - **earearray** answered **Portal 2** to `"The Potato Sack" was a collection of indie games released on Steam in 2011 as a promotion for which game?` (Good answer)
 - **earearray** answered **Arkham Asylum** to `What was the first video game in the Batman "Arkham" series?` (Good answer)
-- **earearray** answered **Electric Cherry** to `What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [MRakox](https://github.com/MRakox) | 6 |
+| [MRakox](https://github.com/MRakox) | 7 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
 | [shadeoxide](https://github.com/shadeoxide) | 3 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
