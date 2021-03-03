@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which item of clothing is usually worn by a Scotsman at a wedding?
+## The Klingon home planet is Qo&#039;noS.
 
 <br>
 
-| [Rhobes](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CRhobes&body=Just%20click%20'Submit%20new%20issue'.) | [Kilt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CKilt&body=Just%20click%20'Submit%20new%20issue'.) | [Dress](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CDress&body=Just%20click%20'Submit%20new%20issue'.) | [Skirt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CSkirt&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C238%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C238%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
 - **MRakox** answered **1279** to `What is the first Mersenne prime over 1000?` (Good answer)
 - **MRakox** answered **2006** to `When was the game "Roblox" released?` (Good answer)
 - **MRakox** answered **Germany** to `Which nation hosted the FIFA World Cup in 2006?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **By clearing every 7th episode** to `In "Super Mario Sunshine", how do you unlock the "Corona Mountain" level?` (Good answer)
 - **MRakox** answered **Mickey Finn** to `Which of these refers to an alcoholic drink laced with a knockout drug?` (Good answer)
 - **MRakox** answered **Did I ever tell you the definition of Insanity?** to `What&#039;s the famous line Vaas says in "Far Cry 3"?` (Good answer)
-- **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 
 </details>
 
@@ -57,8 +57,8 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | User | Number of wins |
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
+| [MRakox](https://github.com/MRakox) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
