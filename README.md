@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the first Mersenne prime over 1000?
+## Which item of clothing is usually worn by a Scotsman at a wedding?
 
 <br>
 
-| [1279](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C828%7C1279&body=Just%20click%20'Submit%20new%20issue'.) | [1009](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C828%7C1009&body=Just%20click%20'Submit%20new%20issue'.) | [2203](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C828%7C2203&body=Just%20click%20'Submit%20new%20issue'.) | [1069](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C828%7C1069&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Rhobes](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CRhobes&body=Just%20click%20'Submit%20new%20issue'.) | [Kilt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CKilt&body=Just%20click%20'Submit%20new%20issue'.) | [Dress](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CDress&body=Just%20click%20'Submit%20new%20issue'.) | [Skirt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2726%7CSkirt&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **1279** to `What is the first Mersenne prime over 1000?` (Good answer)
 - **MRakox** answered **2006** to `When was the game "Roblox" released?` (Good answer)
 - **MRakox** answered **Germany** to `Which nation hosted the FIFA World Cup in 2006?` (Good answer)
 - **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
@@ -45,7 +46,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **By clearing every 7th episode** to `In "Super Mario Sunshine", how do you unlock the "Corona Mountain" level?` (Good answer)
 - **MRakox** answered **Mickey Finn** to `Which of these refers to an alcoholic drink laced with a knockout drug?` (Good answer)
 - **MRakox** answered **Did I ever tell you the definition of Insanity?** to `What&#039;s the famous line Vaas says in "Far Cry 3"?` (Good answer)
-- **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 - **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 
 </details>
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 29 |
+| [MRakox](https://github.com/MRakox) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
