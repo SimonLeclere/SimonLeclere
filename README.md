@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## &quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?
+## Where was Abraham Lincoln’s most famous address delivered?
 
 <br>
 
-| [VRC7](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CVRC7&body=Just%20click%20'Submit%20new%20issue'.) | [VRC6](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CVRC6&body=Just%20click%20'Submit%20new%20issue'.) | [MMC5](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CMMC5&body=Just%20click%20'Submit%20new%20issue'.) | [FME-7](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CFME-7&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [Zendegi](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3676%7CZendegi&body=Just%20click%20'Submit%20new%20issue'.) | [Tajikistan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3676%7CTajikistan&body=Just%20click%20'Submit%20new%20issue'.) | [Gettysburg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3676%7CGettysburg&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Skeleton** to `Which of these is an actual Winter Olympics event?` (Good answer)
 - **MRakox** answered **True** to `The Klingon home planet is Qo&#039;noS.` (Good answer)
 - **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
 - **MRakox** answered **Kilt** to `Which item of clothing is usually worn by a Scotsman at a wedding?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
 - **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
 - **MRakox** answered **March 25th** to `Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?` (Good answer)
-- **MRakox** answered **By clearing every 7th episode** to `In "Super Mario Sunshine", how do you unlock the "Corona Mountain" level?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 33 |
+| [MRakox](https://github.com/MRakox) | 34 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
