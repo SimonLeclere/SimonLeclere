@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the unit of electrical resistance?
+## Which of these refers to an alcoholic drink laced with a knockout drug?
 
 <br>
 
-| [Ohm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1543%7COhm&body=Just%20click%20'Submit%20new%20issue'.) | [Tesla](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1543%7CTesla&body=Just%20click%20'Submit%20new%20issue'.) | [Joule](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1543%7CJoule&body=Just%20click%20'Submit%20new%20issue'.) | [Mho](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1543%7CMho&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Molotov cocktail](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5183%7CMolotov%20cocktail&body=Just%20click%20'Submit%20new%20issue'.) | [Kamikaze](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5183%7CKamikaze&body=Just%20click%20'Submit%20new%20issue'.) | [Zombie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5183%7CZombie&body=Just%20click%20'Submit%20new%20issue'.) | [Mickey Finn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5183%7CMickey%20Finn&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Did I ever tell you the definition of Insanity?** to `What&#039;s the famous line Vaas says in "Far Cry 3"?` (Good answer)
 - **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 - **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 - **MRakox** answered **Victoria** to `What is the capital of British Columbia, Canada?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **True** to `In "Starbound", the track played by the Decorated Music Box is named "Atlas".` (Good answer)
 - **MRakox** answered **True** to `In "Starbound", the track played by the Decorated Music Box is named "Atlas".` (Good answer)
 - **MRakox** answered **True** to `In "Starbound", the track played by the Decorated Music Box is named "Atlas".` (Good answer)
-- **MRakox** answered **Ireland** to `What country is the rock group U2 from?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 21 |
+| [MRakox](https://github.com/MRakox) | 22 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
