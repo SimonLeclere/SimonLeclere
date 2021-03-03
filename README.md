@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?
+## Aubrey Graham is better known as
 
 <br>
 
-| [Otaria](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7COtaria&body=Just%20click%20'Submit%20new%20issue'.) | [Terisiare](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CTerisiare&body=Just%20click%20'Submit%20new%20issue'.) | [Sarpadia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CSarpadia&body=Just%20click%20'Submit%20new%20issue'.) | [Shiv](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CShiv&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Travis Scott](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CTravis%20Scott&body=Just%20click%20'Submit%20new%20issue'.) | [Lil Wayne](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CLil%20Wayne&body=Just%20click%20'Submit%20new%20issue'.) | [2 Chainz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7C2%20Chainz&body=Just%20click%20'Submit%20new%20issue'.) | [Drake](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1786%7CDrake&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
 - **MRakox** answered **Shiron** to `Which one of these characters is from "Legendz : Tale of the Dragon Kings"?` (Good answer)
 - **MRakox** answered **The Hunger Games** to `Which novel is set in a land named after the Latin word for “bread”?` (Good answer)
 - **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **False** to `Kangaroos keep food in their pouches next to their children.` (Good answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Matthew Taylor** to `Who plays the Nemesis in the Resident Evil movies?` (Good answer)
-- **MRakox** answered **False** to `In "Mario Kart 64", Waluigi is a playable character.` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 48 |
+| [MRakox](https://github.com/MRakox) | 49 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
