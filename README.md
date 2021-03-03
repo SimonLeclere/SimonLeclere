@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of the following anime of the mecha genre began airing in 1982?
+## Which novel is set in a land named after the Latin word for “bread”?
 
 <br>
 
-| [Neon Genesis Evangelion](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3244%7CNeon%20Genesis%20Evangelion&body=Just%20click%20'Submit%20new%20issue'.) | [The Super Dimension Fortress Macross](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3244%7CThe%20Super%20Dimension%20Fortress%20Macross&body=Just%20click%20'Submit%20new%20issue'.) | [Mobile Suit Gundam](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3244%7CMobile%20Suit%20Gundam&body=Just%20click%20'Submit%20new%20issue'.) | [Armored Trooper VOTOMS](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3244%7CArmored%20Trooper%20VOTOMS&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | - | 
+| [The Silver Chair](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3448%7CThe%20Silver%20Chair&body=Just%20click%20'Submit%20new%20issue'.) | [Fahrenheit 451](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3448%7CFahrenheit%20451&body=Just%20click%20'Submit%20new%20issue'.) | [The Hunger Games](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3448%7CThe%20Hunger%20Games&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
 - **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
 - **MRakox** answered **F** to `What is the Swedish word for "window"?` (Wrong answer)
 - **MRakox** answered **Quahog** to `Adam West was the mayor of which cartoon town?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **False** to `In "Mario Kart 64", Waluigi is a playable character.` (Good answer)
 - **MRakox** answered **Japan** to `The sport of judo comes from what Asian country?` (Good answer)
 - **MRakox** answered **South Africa** to `Which country has three capital cities?` (Good answer)
-- **MRakox** answered **Rad Mobile** to `Which game did "Sonic The Hedgehog" make his first appearance in?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 45 |
+| [MRakox](https://github.com/MRakox) | 46 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
