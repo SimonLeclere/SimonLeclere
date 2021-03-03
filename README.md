@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Adam West was the mayor of which cartoon town?
+## What is the Swedish word for &quot;window&quot;?
 
 <br>
 
-| [Quahog](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CQuahog&body=Just%20click%20'Submit%20new%20issue'.) | [Langley Falls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CLangley%20Falls&body=Just%20click%20'Submit%20new%20issue'.) | [Springfield](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CSpringfield&body=Just%20click%20'Submit%20new%20issue'.) | [South Park](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1521%7CSouth%20Park&body=Just%20click%20'Submit%20new%20issue'.) |
+| [F&ouml;nster](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CF&ouml;nster&body=Just%20click%20'Submit%20new%20issue'.) | [Ruta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CRuta&body=Just%20click%20'Submit%20new%20issue'.) | [Sk&auml;rm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CSk&auml;rm&body=Just%20click%20'Submit%20new%20issue'.) | [H&aring;l](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1141%7CH&aring;l&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Quahog** to `Adam West was the mayor of which cartoon town?` (Good answer)
 - **MRakox** answered **False** to `Kangaroos keep food in their pouches next to their children.` (Good answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Matthew Taylor** to `Who plays the Nemesis in the Resident Evil movies?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **Rad Mobile** to `Which game did "Sonic The Hedgehog" make his first appearance in?` (Good answer)
 - **MRakox** answered **Diagnosis** to `What is the medical term for a doctor's identification of a disease?` (Good answer)
 - **MRakox** answered **Gettysburg** to `Where was Abraham Lincoln’s most famous address delivered?` (Good answer)
-- **MRakox** answered **Skeleton** to `Which of these is an actual Winter Olympics event?` (Good answer)
 
 </details>
 
@@ -56,7 +56,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 43 |
+| [MRakox](https://github.com/MRakox) | 44 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
