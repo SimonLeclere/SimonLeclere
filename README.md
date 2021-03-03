@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which company made the Japanese RPG &quot;Dragon Quest&quot;?
+## Which nation hosted the FIFA World Cup in 2006?
 
 <br>
 
-| [Square Enix](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CSquare%20Enix&body=Just%20click%20'Submit%20new%20issue'.) | [Capcom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CCapcom&body=Just%20click%20'Submit%20new%20issue'.) | [Blizzard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CBlizzard&body=Just%20click%20'Submit%20new%20issue'.) | [Konami](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C942%7CKonami&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Germany](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C585%7CGermany&body=Just%20click%20'Submit%20new%20issue'.) | [United Kingdom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C585%7CUnited%20Kingdom&body=Just%20click%20'Submit%20new%20issue'.) | [Brazil](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C585%7CBrazil&body=Just%20click%20'Submit%20new%20issue'.) | [South Africa](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C585%7CSouth%20Africa&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
 - **MRakox** answered **18** to `At what age can someone first attend an R-rated movie without an accompanying adult?` (Good answer)
 - **MRakox** answered **March 25th** to `Before the American colonies switched to the Gregorian calendar in 1752, on what date did their new year start?` (Good answer)
 - **MRakox** answered **By clearing every 7th episode** to `In "Super Mario Sunshine", how do you unlock the "Corona Mountain" level?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **St. Bernard** to `Which breed of dog is NOT named in part for an island?` (Good answer)
 - **MRakox** answered **Victoria** to `What is the capital of British Columbia, Canada?` (Good answer)
 - **MRakox** answered **Command Line Interface** to `In computing terms, typically what does CLI stand for?` (Good answer)
-- **MRakox** answered **Polynesian** to `The 2016 Disney animated film &#039;Moana&#039; is based on which culture?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 |-|-|
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [MRakox](https://github.com/MRakox) | 26 |
+| [MRakox](https://github.com/MRakox) | 27 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
