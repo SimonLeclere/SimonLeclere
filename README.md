@@ -3,7 +3,7 @@
 I'm Simon, a young student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
-Want to support me? ->  [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
+Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
 
 <br>
 
@@ -27,18 +27,19 @@ Want to support me? ->  [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In &quot;League of Legends&quot;, there exists four different types of Dragon.
+## What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?
 
 <br>
 
-| [True](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1527%7CTrue&body=Just%20click%20'Submit%20new%20issue'.) | [False](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C1527%7CFalse&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | 
+| [&quot;Nothing.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Nothing.&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;Goddammit, Shinji.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Goddammit,%20Shinji.&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;Idiot, I won&#039;t let you kill me!&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Idiot,%20I%20won&#039;t%20let%20you%20kill%20me!&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;How disgusting.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;How%20disgusting.&quot;&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **True** to `In "League of Legends", there exists four different types of Dragon.` (Wrong answer)
 - **SimonLeclere** answered **Cipher** to `Who is the main protagonist of "Ace Combat Zero: The Belkan War"?` (Good answer)
 - **SimonLeclere** answered **$20** to `If you have a 'sawbuck' how much money do you have?` (Wrong answer)
 - **SimonLeclere** answered **MGMT** to `Which band released songs such as "Electric Feel", "Kids", and "Time to Pretend"?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? ->  [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
 - **MRakox** answered **Shiron** to `Which one of these characters is from "Legendz : Tale of the Dragon Kings"?` (Good answer)
-- **MRakox** answered **The Hunger Games** to `Which novel is set in a land named after the Latin word for “bread”?` (Good answer)
 
 </details>
 
