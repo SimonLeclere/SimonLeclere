@@ -25,18 +25,19 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?
+## In the famous baseball poem 'Casey at the Bat' Casey plays for the team from what town?
 
 <br>
 
-| [Friends](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4399%7CFriends&body=Just%20click%20'Submit%20new%20issue'.) | [Wings](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4399%7CWings&body=Just%20click%20'Submit%20new%20issue'.) | [Gilmore Girls](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4399%7CGilmore%20Girls&body=Just%20click%20'Submit%20new%20issue'.) |
-| - | - | - | 
+| [Fog City](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CFog%20City&body=Just%20click%20'Submit%20new%20issue'.) | [Waterlog](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CWaterlog&body=Just%20click%20'Submit%20new%20issue'.) | [Mudville](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CMudville&body=Just%20click%20'Submit%20new%20issue'.) | [Stormfield](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4812%7CStormfield&body=Just%20click%20'Submit%20new%20issue'.) |
+| - | - | - | - | 
 
 <br>
 
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **Friends** to `Which show did NOT feature a main cast member who played one of Jerry’s girlfriends on “Seinfeld”?` (Wrong answer)
 - **shadeoxide** answered **Broom** to `What implement would you use to sweep dust from a floor?` (Good answer)
 - **shadeoxide** answered **Chicago Bears** to `What is the oldest team in the NFL?` (Wrong answer)
 - **shadeoxide** answered **True** to `"Windows NT" is a monolithic kernel.` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **earearray** answered **Arkham Asylum** to `What was the first video game in the Batman "Arkham" series?` (Good answer)
 - **earearray** answered **Electric Cherry** to `What is the perk that was introduced in the "Call Of Duty: Zombies" map, "Mob Of The Dead"?` (Good answer)
 - **earearray** answered **Gonzo** to `Which studio animated Afro Samurai?` (Good answer)
-- **earearray** answered **P.E.K.K.A's Playhouse** to `In "Clash Royale" what is Arena 4 called?` (Wrong answer)
 
 </details>
 
