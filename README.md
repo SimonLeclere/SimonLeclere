@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The phrase “always a bridesmaid, never a bride” was popularized by an ad campaign for what?
+## Henry David Thoreau’s “Walden” detailed his cabin life in which state?
 
 <br>
 
-| [Mouthwash](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4615%7CMouthwash&body=Just%20click%20'Submit%20new%20issue'.) | [Lingerie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4615%7CLingerie&body=Just%20click%20'Submit%20new%20issue'.) | [Detergent](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4615%7CDetergent&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Massachusetts](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4160%7CMassachusetts&body=Just%20click%20'Submit%20new%20issue'.) | [New Hampshire](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4160%7CNew%20Hampshire&body=Just%20click%20'Submit%20new%20issue'.) | [Vermont](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C4160%7CVermont&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Lingerie** to `The phrase “always a bridesmaid, never a bride” was popularized by an ad campaign for what?` (Wrong answer)
 - **SimonLeclere** answered **343 Guilty Spark** to `In "Halo 2", what is the name of the monitor of Installation 05?` (Wrong answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **MRakox** answered **chicken** to `Someone would most likely contract salmonella poisoning from eating which of the following?` (Good answer)
 - **MRakox** answered **F** to `What is the Swedish word for "window"?` (Wrong answer)
 - **MRakox** answered **Quahog** to `Adam West was the mayor of which cartoon town?` (Good answer)
-- **MRakox** answered **False** to `Kangaroos keep food in their pouches next to their children.` (Good answer)
 
 </details>
 
