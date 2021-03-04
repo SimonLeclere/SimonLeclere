@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?
+## Which Italian dessert has a name that can be translated as 
 
 <br>
 
-| [Idai](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CIdai&body=Just%20click%20'Submit%20new%20issue'.) | [Bingiza](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CBingiza&body=Just%20click%20'Submit%20new%20issue'.) | [Tracy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CTracy&body=Just%20click%20'Submit%20new%20issue'.) | [Gamede](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CGamede&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Panna cotta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanna%20cotta&body=Just%20click%20'Submit%20new%20issue'.) | [Amatriciana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CAmatriciana&body=Just%20click%20'Submit%20new%20issue'.) | [Tiramisu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CTiramisu&body=Just%20click%20'Submit%20new%20issue'.) | [Panforte](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanforte&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Idai** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Good answer)
 - **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
 - **Lebyy** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
 - **Lebyy** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Tracy** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Wrong answer)
 - **SimonLeclere** answered **Hagrid** to `Who is the « Harry Potter » Saga of the Care of Magical Creatures ?` (Good answer)
 - **SimonLeclere** answered **Rossignol** to `What species of birds still present in Europe gringotte, quiritte or trille ?` (Good answer)
-- **SimonLeclere** answered **Terrorist** to `In the film « Enemies Ending », what role does Brad Pitt play ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 22 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 23 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
