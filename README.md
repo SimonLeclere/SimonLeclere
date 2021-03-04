@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?
+## What species of birds still present in Europe gringotte, quiritte or trille ?
 
 <br>
 
-| [&quot;Nothing.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Nothing.&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;Goddammit, Shinji.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Goddammit,%20Shinji.&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;Idiot, I won&#039;t let you kill me!&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Idiot,%20I%20won&#039;t%20let%20you%20kill%20me!&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;How disgusting.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;How%20disgusting.&quot;&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Crow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CCrow&body=Just%20click%20'Submit%20new%20issue'.) | [Parrot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CParrot&body=Just%20click%20'Submit%20new%20issue'.) | [Sparrow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CSparrow&body=Just%20click%20'Submit%20new%20issue'.) | [Rossignol](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C481%7CRossignol&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Terrorist** to `In the film « Enemies Ending », what role does Brad Pitt play ?` (Good answer)
 - **SimonLeclere** answered **True** to `In "League of Legends", there exists four different types of Dragon.` (Wrong answer)
 - **SimonLeclere** answered **Cipher** to `Who is the main protagonist of "Ace Combat Zero: The Belkan War"?` (Good answer)
 - **SimonLeclere** answered **$20** to `If you have a 'sawbuck' how much money do you have?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **343 Guilty Spark** to `In "Halo 2", what is the name of the monitor of Installation 05?` (Wrong answer)
 - **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
 - **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
-- **MRakox** answered **Shiron** to `Which one of these characters is from "Legendz : Tale of the Dragon Kings"?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 50 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 17 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 18 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
