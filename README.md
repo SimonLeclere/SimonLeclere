@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What communication budget was associated with the launch of the Bing search engine ?
+## Who brought back the first cactus in Europe (Melocactus) ?
 
 <br>
 
-| [65 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C65%20million&body=Just%20click%20'Submit%20new%20issue'.) | [30 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C30%20million&body=Just%20click%20'Submit%20new%20issue'.) | [15 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C15%20million&body=Just%20click%20'Submit%20new%20issue'.) | [90 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C90%20million&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Afonso de Paiva](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C245%7CAfonso%20de%20Paiva&body=Just%20click%20'Submit%20new%20issue'.) | [Christopher Columbus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C245%7CChristopher%20Columbus&body=Just%20click%20'Submit%20new%20issue'.) | [Diogo Gomes](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C245%7CDiogo%20Gomes&body=Just%20click%20'Submit%20new%20issue'.) | [Pedro de Sintra](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C245%7CPedro%20de%20Sintra&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **90 million** to `What communication budget was associated with the launch of the Bing search engine ?` (Good answer)
 - **SimonLeclere** answered **J-P Elkabbach** to `At the end of 2012, which of these television men was under 70 ?` (Wrong answer)
 - **SimonLeclere** answered **Roche** to `What very hard matter is mainly ice pack ?` (Wrong answer)
 - **SimonLeclere** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shadeoxide** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **shadeoxide** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **shadeoxide** answered **Tiramisu** to `Which Italian dessert has a name that can be translated as ` (Wrong answer)
-- **SimonLeclere** answered **Idai** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 26 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 27 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
