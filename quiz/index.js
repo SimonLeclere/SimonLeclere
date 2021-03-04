@@ -1,6 +1,5 @@
 const fs = require('fs')
 const template = require('lodash.template');
-var unescape = require('lodash.unescape');
 const fetch = require('node-fetch');
 const core = require('@actions/core');
 
@@ -15,15 +14,14 @@ const makeLeaderboard = (leaderboard) => leaderboard.sort((a, b) => b.wins - a.w
 const shuffle = arr => arr.sort(() => 0.5 - Math.random());
 const isCorrect = async (id, userAnswer) => {
     const question = await fetchQuestion(id);
-    return [question.correct_answer.toLowerCase() === userAnswer.toLowerCase(), question.question, question.correct_answer];
+    return [question.réponse.toLowerCase() === userAnswer.toLowerCase(), question];
 }
 const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz|${id}|${answer}&body=Just click 'Submit new issue'.`);
 const fetchQuestion = async (id='') => {
-    return await fetch(`https://beta-trivia.bongo.best/${id}`)
+    return await fetch(`https://quiz.ohori.me/${id}`)
     .then(res => res.json())
     .then(res => res[0]);
 };
-
 
 try {
     const previousData = require('../data.json');
@@ -35,18 +33,18 @@ try {
         
         const triviaData = await fetchQuestion();
 
-        const answersList = shuffle([...triviaData.incorrect_answers, triviaData.correct_answer]);
+        const answersList = shuffle(triviaData.propositions);
         const lastQuestion = await isCorrect(answerData[1], answerData[2]);
 
         previousData.lastAnswers = previousData.lastAnswers.slice(0, 9);
         previousData.lastAnswers.unshift({
             name: UserData.user,
             answer: answerData[2],
-            question: unescape(lastQuestion[1]),
+            question: lastQuestion[1].question,
             correct: lastQuestion[0]
         });
 
-        const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${unescape(a.question)}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
+        const lastAnswers = previousData.lastAnswers.map(a => `- **${a.name}** answered **${a.answer}** to \`${a.question}\` (${a.correct ? 'Good answer' : 'Wrong answer'})`);
 
         if(lastQuestion[0]) {
             const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
@@ -64,8 +62,8 @@ try {
 
         const rank = `${previousData.leaderboard.filter(u => u.wins > previousData.leaderboard.find(x => x.name === UserData.user).wins).length + 1}`;
         const suffixes = { '1': 'st', '2': 'nd', '3': 'rd' };
-        const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[2]}"! Congratulations!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.length - 1]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
-        const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[2]}"! Don't worry, next time will be the right one!\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.length - 1]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
+        const victoryString = `Hey ${UserData.user}, like you said, the correct answer was "${lastQuestion[1].réponse}"! Congratulations!\n\nAnecdote : ${lastQuestion[1].anecdote}\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.length - 1]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
+        const lostString = `Hey ${UserData.user}, unfortunately you were wrong, the correct answer was "${lastQuestion[1].réponse}"! Don't worry, next time will be the right one!\n\nAnecdote : ${lastQuestion[1].anecdote}\n\nYour rank on the leaderboard: ${rank}${suffixes[rank[rank.length - 1]] || 'th'}\n\nPS: I strongly advise you to change your notification settings for this repo so that you don't receive an email every time you answer a question. This small gesture helps to limit the carbon footprint of the repo 🍃`;
         core.setOutput('closeIssueMsg', lastQuestion[0] ? victoryString : lostString);
 
         fs.writeFile('README.md', final, (err) => {
