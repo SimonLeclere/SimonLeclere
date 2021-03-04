@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many times a second can a hummingbird flap its wings ?
+## What happens when a bee uses its notched sting to sting ?
 
 <br>
 
-| [38 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C38%20times&body=Just%20click%20'Submit%20new%20issue'.) | [18 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C18%20times&body=Just%20click%20'Submit%20new%20issue'.) | [58 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C58%20times&body=Just%20click%20'Submit%20new%20issue'.) | [78 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C78%20times&body=Just%20click%20'Submit%20new%20issue'.) |
+| [It swells](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CIt%20swells&body=Just%20click%20'Submit%20new%20issue'.) | [She dies](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CShe%20dies&body=Just%20click%20'Submit%20new%20issue'.) | [She drinks](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CShe%20drinks&body=Just%20click%20'Submit%20new%20issue'.) | [She sleeps](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CShe%20sleeps&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Lebyy** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
 - **Lebyy** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
 - **SimonLeclere** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
 - **MRakox** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Rossignol** to `What species of birds still present in Europe gringotte, quiritte or trille ?` (Good answer)
 - **SimonLeclere** answered **Terrorist** to `In the film « Enemies Ending », what role does Brad Pitt play ?` (Good answer)
 - **SimonLeclere** answered **True** to `In "League of Legends", there exists four different types of Dragon.` (Wrong answer)
-- **SimonLeclere** answered **Cipher** to `Who is the main protagonist of "Ace Combat Zero: The Belkan War"?` (Good answer)
 
 </details>
 
