@@ -26,7 +26,17 @@ const fetchQuestion = async (id='') => {
 try {
     const previousData = require('../data.json');
 
-    if(previousData.lastQuestion !== answerData[1]) return core.setOutput('closeIssueMsg', 'Don\'t try to cheat!\n\nPS: If you think you are not supposed to see this message, reopen the issue ;)');
+    if(previousData.lastQuestion !== answerData[1]) {
+        
+        const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
+        if(userScore) userScore.wins--;
+
+        fs.writeFile('data.json', JSON.stringify(previousData), (err) => {
+            if(err) return console.log(err);
+        });
+
+        return core.setOutput('closeIssueMsg', 'Don\'t try to cheat! You lost a win!\n\nPS: If you think you are not supposed to see this message, reopen the issue ;)');
+    }
 
     fs.readFile('readme.template.md', async (err, data) => {
 
