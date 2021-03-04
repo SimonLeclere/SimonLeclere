@@ -26,12 +26,15 @@ const fetchQuestion = async (id='') => {
 try {
     const previousData = require('../data.json');
 
+    if(previousData.lastQuestion !== answerData[1]) return core.setOutput('closeIssueMsg', 'Don\'t try to cheat!\n\nPS: If you think you are not supposed to see this message, reopen the issue ;)');
+
     fs.readFile('readme.template.md', async (err, data) => {
 
         if (err) return console.error(err);
         const readme = data.toString();
         
         const triviaData = await fetchQuestion();
+        previousData.lastQuestion = triviaData.id;
 
         const answersList = shuffle(triviaData.propositions);
         const lastQuestion = await isCorrect(answerData[1], answerData[2]);
