@@ -26,7 +26,7 @@ const fetchQuestion = async (id='') => {
 try {
     const previousData = require('../data.json');
 
-    if(previousData.lastQuestion !== answerData[1]) {
+    if(previousData.lastQuestion.toString() !== answerData[1]) {
         
         const userScore = previousData.leaderboard.find(l => l.name === UserData.user);
         if(userScore) userScore.wins--;
