@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?
+## Our planet Earth is located between which other planets ?
 
 <br>
 
-| [Bingiza](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CBingiza&body=Just%20click%20'Submit%20new%20issue'.) | [Tracy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CTracy&body=Just%20click%20'Submit%20new%20issue'.) | [Idai](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CIdai&body=Just%20click%20'Submit%20new%20issue'.) | [Gamede](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C25%7CGamede&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Mars and Venus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C440%7CMars%20and%20Venus&body=Just%20click%20'Submit%20new%20issue'.) | [Jupiter and Saturn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C440%7CJupiter%20and%20Saturn&body=Just%20click%20'Submit%20new%20issue'.) | [Uranus and Jupiter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C440%7CUranus%20and%20Jupiter&body=Just%20click%20'Submit%20new%20issue'.) | [Pluto and Mercury](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C440%7CPluto%20and%20Mercury&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Tracy** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Wrong answer)
 - **SimonLeclere** answered **Hagrid** to `Who is the « Harry Potter » Saga of the Care of Magical Creatures ?` (Good answer)
 - **SimonLeclere** answered **Rossignol** to `What species of birds still present in Europe gringotte, quiritte or trille ?` (Good answer)
 - **SimonLeclere** answered **Terrorist** to `In the film « Enemies Ending », what role does Brad Pitt play ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **MGMT** to `Which band released songs such as "Electric Feel", "Kids", and "Time to Pretend"?` (Good answer)
 - **SimonLeclere** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
 - **SimonLeclere** answered **Lingerie** to `The phrase “always a bridesmaid, never a bride” was popularized by an ad campaign for what?` (Wrong answer)
-- **SimonLeclere** answered **343 Guilty Spark** to `In "Halo 2", what is the name of the monitor of Installation 05?` (Wrong answer)
 
 </details>
 
