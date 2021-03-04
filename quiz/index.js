@@ -33,6 +33,8 @@ try {
         
         const triviaData = await fetchQuestion();
 
+        console.log(propositions);
+
         const answersList = shuffle(triviaData.propositions);
         const lastQuestion = await isCorrect(answerData[1], answerData[2]);
 
