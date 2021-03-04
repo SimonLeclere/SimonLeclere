@@ -31,7 +31,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 
 <br>
 
-| [Panna cotta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanna%20cotta&body=Just%20click%20'Submit%20new%20issue'.) | [Panforte](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanforte&body=Just%20click%20'Submit%20new%20issue'.) | [Amatriciana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CAmatriciana&body=Just%20click%20'Submit%20new%20issue'.) | [Tiramisu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CTiramisu&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Panforte](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanforte&body=Just%20click%20'Submit%20new%20issue'.) | [Panna cotta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanna%20cotta&body=Just%20click%20'Submit%20new%20issue'.) | [Tiramisu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CTiramisu&body=Just%20click%20'Submit%20new%20issue'.) | [Amatriciana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CAmatriciana&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **shadeoxide** answered **Tiramisu** to `Which Italian dessert has a name that can be translated as ` (Wrong answer)
 - **SimonLeclere** answered **Idai** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Good answer)
 - **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **MRakox** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **zechaos031** answered **Mars and Venus** to `Our planet Earth is located between which other planets ?` (Good answer)
 - **SimonLeclere** answered **Tracy** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Wrong answer)
-- **SimonLeclere** answered **Hagrid** to `Who is the « Harry Potter » Saga of the Care of Magical Creatures ?` (Good answer)
 
 </details>
 
@@ -65,7 +65,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
-| [shadeoxide](https://github.com/shadeoxide) | 3 |
+| [shadeoxide](https://github.com/shadeoxide) | 4 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
 | [ZusoWorld](https://github.com/ZusoWorld) | 2 |
 
