@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the main economic activity of the Pyrenean and Alpine frontiers ?
+## In « Cinderella », which animals are transformed into work horses ?
 
 <br>
 
-| [Charcuterie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CCharcuterie&body=Just%20click%20'Submit%20new%20issue'.) | [Cheese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CCheese&body=Just%20click%20'Submit%20new%20issue'.) | [Lifting](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CLifting&body=Just%20click%20'Submit%20new%20issue'.) | [Tourism](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CTourism&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Geese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CGeese&body=Just%20click%20'Submit%20new%20issue'.) | [Mouse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CMouse&body=Just%20click%20'Submit%20new%20issue'.) | [Rabbits](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CRabbits&body=Just%20click%20'Submit%20new%20issue'.) | [Sheep](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CSheep&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Charcuterie** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Christopher Columbus** to `Who brought back the first cactus in Europe (Melocactus) ?` (Good answer)
 - **SimonLeclere** answered **90 million** to `What communication budget was associated with the launch of the Bing search engine ?` (Good answer)
 - **SimonLeclere** answered **J-P Elkabbach** to `At the end of 2012, which of these television men was under 70 ?` (Wrong answer)
@@ -47,7 +48,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
 - **shadeoxide** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
-- **shadeoxide** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **shadeoxide** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 
 </details>
