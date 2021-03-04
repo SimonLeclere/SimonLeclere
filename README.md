@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many inhabitants are there in Mexico City, the capital and most populous city in Mexico ?
+## What happens when a bee uses its notched sting to sting ?
 
 <br>
 
-| [20 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C892%7C20%20million&body=Just%20click%20'Submit%20new%20issue'.) | [12 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C892%7C12%20million&body=Just%20click%20'Submit%20new%20issue'.) | [16 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C892%7C16%20million&body=Just%20click%20'Submit%20new%20issue'.) | [8 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C892%7C8%20million&body=Just%20click%20'Submit%20new%20issue'.) |
+| [She sleeps](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CShe%20sleeps&body=Just%20click%20'Submit%20new%20issue'.) | [She drinks](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CShe%20drinks&body=Just%20click%20'Submit%20new%20issue'.) | [She dies](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CShe%20dies&body=Just%20click%20'Submit%20new%20issue'.) | [It swells](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C47%7CIt%20swells&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **20 million** to `How many inhabitants are there in Mexico City, the capital and most populous city in Mexico ?` (Good answer)
 - **SimonLeclere** answered **Asparagus** to `What vegetable from the Mediterranean basin do we prepare for fontenelle ?` (Good answer)
 - **SimonLeclere** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **SimonLeclere** answered **test** to `Which French composer and musician left us on January 26, 2019 ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **J-P Elkabbach** to `At the end of 2012, which of these television men was under 70 ?` (Wrong answer)
 - **SimonLeclere** answered **Roche** to `What very hard matter is mainly ice pack ?` (Wrong answer)
 - **SimonLeclere** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
-- **SimonLeclere** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 25 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 26 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
