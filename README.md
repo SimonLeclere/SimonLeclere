@@ -3,6 +3,8 @@
 I'm Simon, a young student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
+Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
+
 <br>
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
@@ -25,11 +27,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What term is used to describe a group of fish?
+## What is the last line muttered in the anime film &quot;The End of Evangelion&quot;?
 
 <br>
 
-| [school](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cschool&body=Just%20click%20'Submit%20new%20issue'.) | [knot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cknot&body=Just%20click%20'Submit%20new%20issue'.) | [drape](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cdrape&body=Just%20click%20'Submit%20new%20issue'.) | [gaggle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C5050%7Cgaggle&body=Just%20click%20'Submit%20new%20issue'.) |
+| [&quot;Nothing.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Nothing.&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;Goddammit, Shinji.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Goddammit,%20Shinji.&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;Idiot, I won&#039;t let you kill me!&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;Idiot,%20I%20won&#039;t%20let%20you%20kill%20me!&quot;&body=Just%20click%20'Submit%20new%20issue'.) | [&quot;How disgusting.&quot;](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C3139%7C&quot;How%20disgusting.&quot;&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,16 +39,16 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
-- **SimonLeclere** answered **Traffic Configuration Alignment System** to `In flight systems, what does the initialism "TCAS" stand for?` (Wrong answer)
-- **SimonLeclere** answered **Trans Am** to `What kind of car did Burt Reynolds drive in the movie 'Smokey and the Bandit'?` (Good answer)
-- **ZusoWorld** answered **Fantasia** to `What was the first Disney movie to use CGI?` (Wrong answer)
-- **ZusoWorld** answered **Sioux** to `What Native American tribe did chief Crazy Horse lead?` (Good answer)
-- **ZusoWorld** answered **Mini-Me** to `In the movie 'Austin Powers: The Spy Who Shagged Me' what is the name of Dr. Evil's diminitive clone?` (Good answer)
-- **SimonLeclere** answered **True** to `In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.` (Good answer)
-- **Androz2091** answered **Fendi** to `Which of these is an Italian Design firm?` (Good answer)
-- **azgar44** answered **Sydney** to `Which of the following is NOT a capital city?` (Good answer)
-- **azgar44** answered **December 8, 1941** to `When did the United States formally declare war on Japan, entering World War II?` (Good answer)
-- **azgar44** answered **Colophon** to `The part of a book disclosing its publication info is known as what?` (Good answer)
+- **SimonLeclere** answered **True** to `In "League of Legends", there exists four different types of Dragon.` (Wrong answer)
+- **SimonLeclere** answered **Cipher** to `Who is the main protagonist of "Ace Combat Zero: The Belkan War"?` (Good answer)
+- **SimonLeclere** answered **$20** to `If you have a 'sawbuck' how much money do you have?` (Wrong answer)
+- **SimonLeclere** answered **MGMT** to `Which band released songs such as "Electric Feel", "Kids", and "Time to Pretend"?` (Good answer)
+- **SimonLeclere** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
+- **SimonLeclere** answered **Lingerie** to `The phrase “always a bridesmaid, never a bride” was popularized by an ad campaign for what?` (Wrong answer)
+- **SimonLeclere** answered **343 Guilty Spark** to `In "Halo 2", what is the name of the monitor of Installation 05?` (Wrong answer)
+- **MRakox** answered **Drake** to `Aubrey Graham is better known as` (Good answer)
+- **MRakox** answered **Sarpadia** to `In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?` (Good answer)
+- **MRakox** answered **Shiron** to `Which one of these characters is from "Legendz : Tale of the Dragon Kings"?` (Good answer)
 
 </details>
 
@@ -56,15 +58,15 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 | User | Number of wins |
 |-|-|
+| [MRakox](https://github.com/MRakox) | 50 |
+| [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [earearray](https://github.com/earearray) | 19 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 13 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 17 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [MRakox](https://github.com/MRakox) | 6 |
 | [zechaos031](https://github.com/zechaos031) | 5 |
+| [shadeoxide](https://github.com/shadeoxide) | 3 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
 | [ZusoWorld](https://github.com/ZusoWorld) | 2 |
-| [TapsHTS](https://github.com/TapsHTS) | 1 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)

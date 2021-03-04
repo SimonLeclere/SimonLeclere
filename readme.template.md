@@ -3,6 +3,8 @@
 I'm Simon, a young student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
+Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
+
 <br>
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
