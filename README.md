@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which Italian dessert has a name that can be translated as 
+## How many times a second can a hummingbird flap its wings ?
 
 <br>
 
-| [Panforte](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanforte&body=Just%20click%20'Submit%20new%20issue'.) | [Panna cotta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CPanna%20cotta&body=Just%20click%20'Submit%20new%20issue'.) | [Amatriciana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CAmatriciana&body=Just%20click%20'Submit%20new%20issue'.) | [Tiramisu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C581%7CTiramisu&body=Just%20click%20'Submit%20new%20issue'.) |
+| [78 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C78%20times&body=Just%20click%20'Submit%20new%20issue'.) | [58 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C58%20times&body=Just%20click%20'Submit%20new%20issue'.) | [18 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C18%20times&body=Just%20click%20'Submit%20new%20issue'.) | [38 times](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C87%7C38%20times&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **MRakox** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **zechaos031** answered **Mars and Venus** to `Our planet Earth is located between which other planets ?` (Good answer)
 - **SimonLeclere** answered **Tracy** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Wrong answer)
 - **SimonLeclere** answered **Hagrid** to `Who is the « Harry Potter » Saga of the Care of Magical Creatures ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Cipher** to `Who is the main protagonist of "Ace Combat Zero: The Belkan War"?` (Good answer)
 - **SimonLeclere** answered **$20** to `If you have a 'sawbuck' how much money do you have?` (Wrong answer)
 - **SimonLeclere** answered **MGMT** to `Which band released songs such as "Electric Feel", "Kids", and "Time to Pretend"?` (Good answer)
-- **SimonLeclere** answered **Massachusetts** to `Henry David Thoreau’s “Walden” detailed his cabin life in which state?` (Good answer)
 
 </details>
 
@@ -58,7 +58,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 
 | User | Number of wins |
 |-|-|
-| [MRakox](https://github.com/MRakox) | 50 |
+| [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
