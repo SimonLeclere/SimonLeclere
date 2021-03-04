@@ -20,7 +20,7 @@ const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/Simon
 const fetchQuestion = async (id='') => {
     return await fetch(`https://quiz.ohori.me/${id}`)
     .then(res => res.json())
-    .then(res => res[0]);
+    .then(res => res);
 };
 
 try {
