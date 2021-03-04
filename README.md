@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## At the end of 2012, which of these television men was under 70 ?
+## What communication budget was associated with the launch of the Bing search engine ?
 
 <br>
 
-| [Ph. Gildas](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C462%7CPh.%20Gildas&body=Just%20click%20'Submit%20new%20issue'.) | [J-P Elkabbach](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C462%7CJ-P%20Elkabbach&body=Just%20click%20'Submit%20new%20issue'.) | [J-P Foucault](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C462%7CJ-P%20Foucault&body=Just%20click%20'Submit%20new%20issue'.) | [M. Drucker](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C462%7CM.%20Drucker&body=Just%20click%20'Submit%20new%20issue'.) |
+| [65 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C65%20million&body=Just%20click%20'Submit%20new%20issue'.) | [30 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C30%20million&body=Just%20click%20'Submit%20new%20issue'.) | [15 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C15%20million&body=Just%20click%20'Submit%20new%20issue'.) | [90 million](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C711%7C90%20million&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **J-P Elkabbach** to `At the end of 2012, which of these television men was under 70 ?` (Wrong answer)
 - **SimonLeclere** answered **Roche** to `What very hard matter is mainly ice pack ?` (Wrong answer)
 - **SimonLeclere** answered **78 times** to `How many times a second can a hummingbird flap its wings ?` (Good answer)
 - **SimonLeclere** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shadeoxide** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **shadeoxide** answered **Tiramisu** to `Which Italian dessert has a name that can be translated as ` (Wrong answer)
 - **SimonLeclere** answered **Idai** to `Which cyclone caused more than three hundred deaths in Mozambique and Zimbabwe ?` (Good answer)
-- **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
 
 </details>
 
