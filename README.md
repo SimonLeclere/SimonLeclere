@@ -12,7 +12,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m currently learning **Javascript, and especially Node.JS**
 - 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), [js-string-cleaner](https://github.com/SimonLeclere/Js-String-Cleaner)**
-- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response (sιмση ℓεcℓεяε#5765)**
+- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([sιмση ℓεcℓεяε#5765](https://discord.com/invite/U2VGrkT))**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
 <br>
@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which small red berries are used in the preparation of clafoutis ?
+## What is the capital of Nepal, old hippies stage ?
 
 <br>
 
-| [Cherries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CCherries&body=Just%20click%20'Submit%20new%20issue'.) | [Raspberries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CRaspberries&body=Just%20click%20'Submit%20new%20issue'.) | [Currants](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CCurrants&body=Just%20click%20'Submit%20new%20issue'.) | [Strawberries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CStrawberries&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Dharan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CDharan&body=Just%20click%20'Submit%20new%20issue'.) | [Kathmandu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CKathmandu&body=Just%20click%20'Submit%20new%20issue'.) | [Pokhara](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CPokhara&body=Just%20click%20'Submit%20new%20issue'.) | [Lalitpur](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CLalitpur&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **RealHinome** answered **Cherries** to `Which small red berries are used in the preparation of clafoutis ?` (Good answer)
 - **SimonLeclere** answered **Chandelier** to `What was the name of the giant tridacne shell in many churches ?` (Wrong answer)
 - **shadeoxide** answered **Lewis Hamilton** to `Who won in 2019 his sixth title of world champion of Formula 1 ?` (Good answer)
 - **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **test** to `Which French composer and musician left us on January 26, 2019 ?` (Wrong answer)
 - **SimonLeclere** answered **Charcuterie** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Christopher Columbus** to `Who brought back the first cactus in Europe (Melocactus) ?` (Good answer)
-- **SimonLeclere** answered **90 million** to `What communication budget was associated with the launch of the Bing search engine ?` (Good answer)
 
 </details>
 
