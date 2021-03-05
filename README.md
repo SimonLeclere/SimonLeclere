@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What was the name of the giant tridacne shell in many churches ?
+## Which small red berries are used in the preparation of clafoutis ?
 
 <br>
 
-| [Chandelier](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CChandelier&body=Just%20click%20'Submit%20new%20issue'.) | [Betonier](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CBetonier&body=Just%20click%20'Submit%20new%20issue'.) | [Trunk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CTrunk&body=Just%20click%20'Submit%20new%20issue'.) | [Bread basket](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CBread%20basket&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Cherries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CCherries&body=Just%20click%20'Submit%20new%20issue'.) | [Raspberries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CRaspberries&body=Just%20click%20'Submit%20new%20issue'.) | [Currants](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CCurrants&body=Just%20click%20'Submit%20new%20issue'.) | [Strawberries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C578%7CStrawberries&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Chandelier** to `What was the name of the giant tridacne shell in many churches ?` (Wrong answer)
 - **shadeoxide** answered **Lewis Hamilton** to `Who won in 2019 his sixth title of world champion of Formula 1 ?` (Good answer)
 - **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
 - **SimonLeclere** answered **20 million** to `How many inhabitants are there in Mexico City, the capital and most populous city in Mexico ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Charcuterie** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Christopher Columbus** to `Who brought back the first cactus in Europe (Melocactus) ?` (Good answer)
 - **SimonLeclere** answered **90 million** to `What communication budget was associated with the launch of the Bing search engine ?` (Good answer)
-- **SimonLeclere** answered **J-P Elkabbach** to `At the end of 2012, which of these television men was under 70 ?` (Wrong answer)
 
 </details>
 
