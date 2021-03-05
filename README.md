@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who won in 2019 his sixth title of world champion of Formula 1 ?
+## What was the name of the giant tridacne shell in many churches ?
 
 <br>
 
-| [Lando Norris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2%7CLando%20Norris&body=Just%20click%20'Submit%20new%20issue'.) | [Sebastian Vettel](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2%7CSebastian%20Vettel&body=Just%20click%20'Submit%20new%20issue'.) | [Lewis Hamilton](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2%7CLewis%20Hamilton&body=Just%20click%20'Submit%20new%20issue'.) | [Pierre Gasly](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C2%7CPierre%20Gasly&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Chandelier](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CChandelier&body=Just%20click%20'Submit%20new%20issue'.) | [Betonier](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CBetonier&body=Just%20click%20'Submit%20new%20issue'.) | [Trunk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CTrunk&body=Just%20click%20'Submit%20new%20issue'.) | [Bread basket](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C93%7CBread%20basket&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **Lewis Hamilton** to `Who won in 2019 his sixth title of world champion of Formula 1 ?` (Good answer)
 - **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
 - **SimonLeclere** answered **20 million** to `How many inhabitants are there in Mexico City, the capital and most populous city in Mexico ?` (Good answer)
 - **SimonLeclere** answered **Asparagus** to `What vegetable from the Mediterranean basin do we prepare for fontenelle ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Christopher Columbus** to `Who brought back the first cactus in Europe (Melocactus) ?` (Good answer)
 - **SimonLeclere** answered **90 million** to `What communication budget was associated with the launch of the Bing search engine ?` (Good answer)
 - **SimonLeclere** answered **J-P Elkabbach** to `At the end of 2012, which of these television men was under 70 ?` (Wrong answer)
-- **SimonLeclere** answered **Roche** to `What very hard matter is mainly ice pack ?` (Wrong answer)
 
 </details>
 
@@ -64,8 +64,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [SimonLeclere](https://github.com/SimonLeclere) | 27 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
+| [shadeoxide](https://github.com/shadeoxide) | 7 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
-| [shadeoxide](https://github.com/shadeoxide) | 6 |
 | [Androz2091](https://github.com/Androz2091) | 2 |
 | [ZusoWorld](https://github.com/ZusoWorld) | 2 |
 
