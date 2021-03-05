@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the capital of Nepal, old hippies stage ?
+## What was the first application created by Instagram after its launch ?
 
 <br>
 
-| [Dharan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CDharan&body=Just%20click%20'Submit%20new%20issue'.) | [Kathmandu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CKathmandu&body=Just%20click%20'Submit%20new%20issue'.) | [Pokhara](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CPokhara&body=Just%20click%20'Submit%20new%20issue'.) | [Lalitpur](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C889%7CLalitpur&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Bolt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CBolt&body=Just%20click%20'Submit%20new%20issue'.) | [Boomerang](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CBoomerang&body=Just%20click%20'Submit%20new%20issue'.) | [Layout](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CLayout&body=Just%20click%20'Submit%20new%20issue'.) | [Hyperlapse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CHyperlapse&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **RealHinome** answered **Kathmandu** to `What is the capital of Nepal, old hippies stage ?` (Good answer)
 - **RealHinome** answered **Cherries** to `Which small red berries are used in the preparation of clafoutis ?` (Good answer)
 - **SimonLeclere** answered **Chandelier** to `What was the name of the giant tridacne shell in many churches ?` (Wrong answer)
 - **shadeoxide** answered **Lewis Hamilton** to `Who won in 2019 his sixth title of world champion of Formula 1 ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **SimonLeclere** answered **test** to `Which French composer and musician left us on January 26, 2019 ?` (Wrong answer)
 - **SimonLeclere** answered **Charcuterie** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
-- **SimonLeclere** answered **Christopher Columbus** to `Who brought back the first cactus in Europe (Melocactus) ?` (Good answer)
 
 </details>
 
