@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What was the first application created by Instagram after its launch ?
+## What word is behind the letter O of the MS-DOS operating system ?
 
 <br>
 
-| [Bolt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CBolt&body=Just%20click%20'Submit%20new%20issue'.) | [Boomerang](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CBoomerang&body=Just%20click%20'Submit%20new%20issue'.) | [Layout](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CLayout&body=Just%20click%20'Submit%20new%20issue'.) | [Hyperlapse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CHyperlapse&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Opal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C699%7COpal&body=Just%20click%20'Submit%20new%20issue'.) | [Operating](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C699%7COperating&body=Just%20click%20'Submit%20new%20issue'.) | [Opera](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C699%7COpera&body=Just%20click%20'Submit%20new%20issue'.) | [Operator](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C699%7COperator&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Lag01** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 - **RealHinome** answered **Kathmandu** to `What is the capital of Nepal, old hippies stage ?` (Good answer)
 - **RealHinome** answered **Cherries** to `Which small red berries are used in the preparation of clafoutis ?` (Good answer)
 - **SimonLeclere** answered **Chandelier** to `What was the name of the giant tridacne shell in many churches ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Asparagus** to `What vegetable from the Mediterranean basin do we prepare for fontenelle ?` (Good answer)
 - **SimonLeclere** answered **Panna cotta** to `Which Italian dessert has a name that can be translated as ` (Good answer)
 - **SimonLeclere** answered **test** to `Which French composer and musician left us on January 26, 2019 ?` (Wrong answer)
-- **SimonLeclere** answered **Charcuterie** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 
 </details>
 
