@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?
+## To which sex symbol of the 1970s is actress Kelly Preston married ?
 
 <br>
 
-| [Choc](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CChoc&body=Just%20click%20'Submit%20new%20issue'.) | [Paris Match](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CParis%20Match&body=Just%20click%20'Submit%20new%20issue'.) | [VSD](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CVSD&body=Just%20click%20'Submit%20new%20issue'.) | [Le Figaro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CLe%20Figaro&body=Just%20click%20'Submit%20new%20issue'.) |
+| [John Travolta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C179%7CJohn%20Travolta&body=Just%20click%20'Submit%20new%20issue'.) | [Ryan Gosling](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C179%7CRyan%20Gosling&body=Just%20click%20'Submit%20new%20issue'.) | [Kevin Costner](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C179%7CKevin%20Costner&body=Just%20click%20'Submit%20new%20issue'.) | [Hugh Jackman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C179%7CHugh%20Jackman&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Choc** to `From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?` (Good answer)
 - **SimonLeclere** answered **30** to `How much is there in the world of different flavors of Fanta ?` (Wrong answer)
 - **SimonLeclere** answered **ClamWin** to `What memory protection technique is implemented in the OpenBSD code ?` (Wrong answer)
 - **SimonLeclere** answered **Water skiing** to `What sport is skiing on the water, pulled by a fast boat ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **RealHinome** answered **Kathmandu** to `What is the capital of Nepal, old hippies stage ?` (Good answer)
 - **RealHinome** answered **Cherries** to `Which small red berries are used in the preparation of clafoutis ?` (Good answer)
 - **SimonLeclere** answered **Chandelier** to `What was the name of the giant tridacne shell in many churches ?` (Wrong answer)
-- **shadeoxide** answered **Lewis Hamilton** to `Who won in 2019 his sixth title of world champion of Formula 1 ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 28 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 29 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [shadeoxide](https://github.com/shadeoxide) | 7 |
