@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Czechoslovakia'
+name: 'Answer 3 : Innsbruck'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|398|Czechoslovakia
+title: quiz|136|Innsbruck
 labels: ''
 assignees: ''
 

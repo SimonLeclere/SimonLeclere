@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which country lost about fifteen percent of its population between 1939 and 1945 ?
+## Which Austrian city crossed by the Inn is the capital of Tyrol ?
 
 <br>
 
-| [Czechoslovakia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CCzechoslovakia&body=Just%20click%20'Submit%20new%20issue'.) | [Poland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CPoland&body=Just%20click%20'Submit%20new%20issue'.) | [Luxembourg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CLuxembourg&body=Just%20click%20'Submit%20new%20issue'.) | [Norway](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CNorway&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Innsbruck](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CInnsbruck&body=Just%20click%20'Submit%20new%20issue'.) | [Salzburg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CSalzburg&body=Just%20click%20'Submit%20new%20issue'.) | [Vienna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CVienna&body=Just%20click%20'Submit%20new%20issue'.) | [Graz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CGraz&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
 - **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 - **SimonLeclere** answered **Henri Leconte** to `What fake millionaire and true maestro did girls drunk in 2003 ?` (Wrong answer)
 - **SimonLeclere** answered **Barack Obama** to `Which American president expressed his deep thanks for the efforts led by China ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **30** to `How much is there in the world of different flavors of Fanta ?` (Wrong answer)
 - **SimonLeclere** answered **ClamWin** to `What memory protection technique is implemented in the OpenBSD code ?` (Wrong answer)
 - **SimonLeclere** answered **Water skiing** to `What sport is skiing on the water, pulled by a fast boat ?` (Good answer)
-- **SimonLeclere** answered **Snail** to `Bleeding has gradually medically replaced what hermaphrodite ?` (Wrong answer)
 
 </details>
 
