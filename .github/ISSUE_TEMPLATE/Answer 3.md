@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Grégory Basso'
+name: 'Answer 3 : Bolt'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|160|Grégory Basso
+title: quiz|687|Bolt
 labels: ''
 assignees: ''
 

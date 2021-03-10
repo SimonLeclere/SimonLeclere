@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Pascal Olmeta'
+name: 'Answer 3 : Hyperlapse'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|160|Pascal Olmeta
+title: quiz|687|Hyperlapse
 labels: ''
 assignees: ''
 
