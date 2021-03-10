@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bolt'
+name: 'Answer 3 : Luxembourg'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|687|Bolt
+title: quiz|398|Luxembourg
 labels: ''
 assignees: ''
 

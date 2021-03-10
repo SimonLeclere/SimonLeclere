@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Boomerang'
+name: 'Answer 3 : Norway'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|687|Boomerang
+title: quiz|398|Norway
 labels: ''
 assignees: ''
 

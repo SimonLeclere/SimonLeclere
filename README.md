@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What was the first application created by Instagram after its launch ?
+## Which country lost about fifteen percent of its population between 1939 and 1945 ?
 
 <br>
 
-| [Layout](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CLayout&body=Just%20click%20'Submit%20new%20issue'.) | [Hyperlapse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CHyperlapse&body=Just%20click%20'Submit%20new%20issue'.) | [Bolt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CBolt&body=Just%20click%20'Submit%20new%20issue'.) | [Boomerang](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C687%7CBoomerang&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Czechoslovakia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CCzechoslovakia&body=Just%20click%20'Submit%20new%20issue'.) | [Poland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CPoland&body=Just%20click%20'Submit%20new%20issue'.) | [Luxembourg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CLuxembourg&body=Just%20click%20'Submit%20new%20issue'.) | [Norway](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C398%7CNorway&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 - **SimonLeclere** answered **Henri Leconte** to `What fake millionaire and true maestro did girls drunk in 2003 ?` (Wrong answer)
 - **SimonLeclere** answered **Barack Obama** to `Which American president expressed his deep thanks for the efforts led by China ?` (Wrong answer)
 - **SimonLeclere** answered **1984** to `What year was Britney Spears born in Mississippi ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **ClamWin** to `What memory protection technique is implemented in the OpenBSD code ?` (Wrong answer)
 - **SimonLeclere** answered **Water skiing** to `What sport is skiing on the water, pulled by a fast boat ?` (Good answer)
 - **SimonLeclere** answered **Snail** to `Bleeding has gradually medically replaced what hermaphrodite ?` (Wrong answer)
-- **Lag01** answered **Operating** to `What word is behind the letter O of the MS-DOS operating system ?` (Good answer)
 
 </details>
 
@@ -60,8 +60,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 31 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 30 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [shadeoxide](https://github.com/shadeoxide) | 7 |

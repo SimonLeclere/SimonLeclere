@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Layout'
+name: 'Answer 3 : Czechoslovakia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|687|Layout
+title: quiz|398|Czechoslovakia
 labels: ''
 assignees: ''
 
