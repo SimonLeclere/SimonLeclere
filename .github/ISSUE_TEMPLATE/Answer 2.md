@@ -1,7 +1,7 @@
 ---
-name: Answer to the quiz
+name: 'Answer 2 : ${answer}'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|86|test2
+title: quiz|${id}|${answer}
 labels: ''
 assignees: ''
 

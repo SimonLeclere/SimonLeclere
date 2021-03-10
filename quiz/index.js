@@ -38,7 +38,7 @@ try {
         return core.setOutput('closeIssueMsg', 'Don\'t try to cheat! You lost a win!\n\nPS: If you think you are not supposed to see this message, reopen the issue ;)');
     }
 
-    fs.readFile('readme.template.md', async (err, data) => {
+    fs.readFile('./templates/readme.template.md', async (err, data) => {
 
         if (err) return console.error(err);
         const readme = data.toString();
@@ -88,6 +88,23 @@ try {
             if(err) return console.log(err);
             console.log('data.json updated!')
         });
+
+
+        fs.readFile(`./templates/answer.template.md`, async (err, data) => {
+            answersList.forEach((answer, index) => {
+                if (err) return console.error(err);
+                const templated = template(data.toString())({
+                    answer: answer,
+                    id: triviaData.id
+                });
+    
+                fs.writeFile(`./.github/ISSUE_TEMPLATE/Answer ${index + 1}.md`, templated, (err) => {
+                    if(err) return console.log(err);
+                    console.log(`Answer ${index + 1}.md updated!`);
+                });
+            })
+        })
+
     })
 
 } catch(error) {
