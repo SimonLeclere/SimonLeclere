@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How much is there in the world of different flavors of Fanta ?
+## From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?
 
 <br>
 
-| [50](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7C50&body=Just%20click%20'Submit%20new%20issue'.) | [10](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7C10&body=Just%20click%20'Submit%20new%20issue'.) | [70](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7C70&body=Just%20click%20'Submit%20new%20issue'.) | [30](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C322%7C30&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Choc](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CChoc&body=Just%20click%20'Submit%20new%20issue'.) | [Paris Match](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CParis%20Match&body=Just%20click%20'Submit%20new%20issue'.) | [VSD](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CVSD&body=Just%20click%20'Submit%20new%20issue'.) | [Le Figaro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C174%7CLe%20Figaro&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **30** to `How much is there in the world of different flavors of Fanta ?` (Wrong answer)
 - **SimonLeclere** answered **ClamWin** to `What memory protection technique is implemented in the OpenBSD code ?` (Wrong answer)
 - **SimonLeclere** answered **Water skiing** to `What sport is skiing on the water, pulled by a fast boat ?` (Good answer)
 - **SimonLeclere** answered **Snail** to `Bleeding has gradually medically replaced what hermaphrodite ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **RealHinome** answered **Cherries** to `Which small red berries are used in the preparation of clafoutis ?` (Good answer)
 - **SimonLeclere** answered **Chandelier** to `What was the name of the giant tridacne shell in many churches ?` (Wrong answer)
 - **shadeoxide** answered **Lewis Hamilton** to `Who won in 2019 his sixth title of world champion of Formula 1 ?` (Good answer)
-- **SimonLeclere** answered **She dies** to `What happens when a bee uses its notched sting to sting ?` (Good answer)
 
 </details>
 
