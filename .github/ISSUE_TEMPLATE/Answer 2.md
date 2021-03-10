@@ -1,7 +1,7 @@
 ---
-name: 'Answer 2 : ${answer}'
+name: 'Answer 3 : Pascal Olmeta'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|${id}|${answer}
+title: quiz|160|Pascal Olmeta
 labels: ''
 assignees: ''
 
