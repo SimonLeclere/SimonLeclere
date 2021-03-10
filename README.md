@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which Austrian city crossed by the Inn is the capital of Tyrol ?
+## During the filming of which film did Brad fall in love with Angelina Jolie ?
 
 <br>
 
-| [Innsbruck](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CInnsbruck&body=Just%20click%20'Submit%20new%20issue'.) | [Salzburg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CSalzburg&body=Just%20click%20'Submit%20new%20issue'.) | [Vienna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CVienna&body=Just%20click%20'Submit%20new%20issue'.) | [Graz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C136%7CGraz&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Mr. et Mrs. Smith](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CMr.%20et%20Mrs.%20Smith&body=Just%20click%20'Submit%20new%20issue'.) | [Le Mexicain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CLe%20Mexicain&body=Just%20click%20'Submit%20new%20issue'.) | [Fury](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CFury&body=Just%20click%20'Submit%20new%20issue'.) | [Kalifornia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CKalifornia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Androz2091** answered **Innsbruck** to `Which Austrian city crossed by the Inn is the capital of Tyrol ?` (Good answer)
 - **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
 - **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 - **SimonLeclere** answered **Henri Leconte** to `What fake millionaire and true maestro did girls drunk in 2003 ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Choc** to `From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?` (Good answer)
 - **SimonLeclere** answered **30** to `How much is there in the world of different flavors of Fanta ?` (Wrong answer)
 - **SimonLeclere** answered **ClamWin** to `What memory protection technique is implemented in the OpenBSD code ?` (Wrong answer)
-- **SimonLeclere** answered **Water skiing** to `What sport is skiing on the water, pulled by a fast boat ?` (Good answer)
 
 </details>
 
@@ -66,7 +66,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [shadeoxide](https://github.com/shadeoxide) | 7 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
-| [Androz2091](https://github.com/Androz2091) | 2 |
+| [Androz2091](https://github.com/Androz2091) | 3 |
 | [ZusoWorld](https://github.com/ZusoWorld) | 2 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
