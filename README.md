@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## During the filming of which film did Brad fall in love with Angelina Jolie ?
+## Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?
 
 <br>
 
-| [Mr. et Mrs. Smith](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CMr.%20et%20Mrs.%20Smith&body=Just%20click%20'Submit%20new%20issue'.) | [Le Mexicain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CLe%20Mexicain&body=Just%20click%20'Submit%20new%20issue'.) | [Fury](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CFury&body=Just%20click%20'Submit%20new%20issue'.) | [Kalifornia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C195%7CKalifornia&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Matt Damon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CMatt%20Damon&body=Just%20click%20'Submit%20new%20issue'.) | [Andy Garcia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CAndy%20Garcia&body=Just%20click%20'Submit%20new%20issue'.) | [Brad Pitt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CBrad%20Pitt&body=Just%20click%20'Submit%20new%20issue'.) | [George Clooney](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CGeorge%20Clooney&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Kalifornia** to `During the filming of which film did Brad fall in love with Angelina Jolie ?` (Wrong answer)
 - **Androz2091** answered **Innsbruck** to `Which Austrian city crossed by the Inn is the capital of Tyrol ?` (Good answer)
 - **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
 - **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **John Travolta** to `To which sex symbol of the 1970s is actress Kelly Preston married ?` (Good answer)
 - **SimonLeclere** answered **Choc** to `From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?` (Good answer)
 - **SimonLeclere** answered **30** to `How much is there in the world of different flavors of Fanta ?` (Wrong answer)
-- **SimonLeclere** answered **ClamWin** to `What memory protection technique is implemented in the OpenBSD code ?` (Wrong answer)
 
 </details>
 

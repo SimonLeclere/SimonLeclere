@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Le Mexicain'
+name: 'Answer 3 : Andy Garcia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|195|Le Mexicain
+title: quiz|152|Andy Garcia
 labels: ''
 assignees: ''
 

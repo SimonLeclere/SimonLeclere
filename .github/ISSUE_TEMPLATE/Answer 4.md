@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Kalifornia'
+name: 'Answer 3 : George Clooney'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|195|Kalifornia
+title: quiz|152|George Clooney
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Fury'
+name: 'Answer 3 : Brad Pitt'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|195|Fury
+title: quiz|152|Brad Pitt
 labels: ''
 assignees: ''
 
