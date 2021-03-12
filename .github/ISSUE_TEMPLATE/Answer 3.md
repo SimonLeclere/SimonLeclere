@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Snow White'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|784|Snow White
+title: quiz|858|Tintin in the Congo
 labels: ''
 assignees: ''
 

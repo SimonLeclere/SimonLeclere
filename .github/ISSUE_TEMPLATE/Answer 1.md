@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cinderella'
+name: 'Answer 3 : Coke in Stock'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|784|Cinderella
+title: quiz|858|Coke in Stock
 labels: ''
 assignees: ''
 
