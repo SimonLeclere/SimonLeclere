@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : The Blue Lotus'
+name: 'Answer 3 : Her belly'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|858|The Blue Lotus
+title: quiz|99|Her belly
 labels: ''
 assignees: ''
 

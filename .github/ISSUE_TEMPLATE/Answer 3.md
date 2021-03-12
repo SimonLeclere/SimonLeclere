@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : His teeth'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|858|Tintin in the Congo
+title: quiz|99|His teeth
 labels: ''
 assignees: ''
 

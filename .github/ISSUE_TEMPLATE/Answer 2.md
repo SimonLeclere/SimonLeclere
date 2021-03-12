@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in Tibet'
+name: 'Answer 3 : His language'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|858|Tintin in Tibet
+title: quiz|99|His language
 labels: ''
 assignees: ''
 

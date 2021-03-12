@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In what adventure does Tintin find himself facing an impressive Yeti ?
+## What does the weakest wolf show after a fight for the hierarchy ?
 
 <br>
 
-| [Coke in Stock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C858%7CCoke%20in%20Stock&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in Tibet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C858%7CTintin%20in%20Tibet&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in the Congo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C858%7CTintin%20in%20the%20Congo&body=Just%20click%20'Submit%20new%20issue'.) | [The Blue Lotus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C858%7CThe%20Blue%20Lotus&body=Just%20click%20'Submit%20new%20issue'.) |
+| [His cock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHis%20cock&body=Just%20click%20'Submit%20new%20issue'.) | [His language](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHis%20language&body=Just%20click%20'Submit%20new%20issue'.) | [His teeth](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHis%20teeth&body=Just%20click%20'Submit%20new%20issue'.) | [Her belly](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHer%20belly&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **SimonLeclere** answered **Cinderella** to `Who sings « One day my prince will come » in a Disney cartoon ?` (Wrong answer)
 - **SimonLeclere** answered **Matt Damon** to `Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?` (Wrong answer)
 - **SimonLeclere** answered **Kalifornia** to `During the filming of which film did Brad fall in love with Angelina Jolie ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Henri Leconte** to `What fake millionaire and true maestro did girls drunk in 2003 ?` (Wrong answer)
 - **SimonLeclere** answered **Barack Obama** to `Which American president expressed his deep thanks for the efforts led by China ?` (Wrong answer)
 - **SimonLeclere** answered **1984** to `What year was Britney Spears born in Mississippi ?` (Wrong answer)
-- **SimonLeclere** answered **John Travolta** to `To which sex symbol of the 1970s is actress Kelly Preston married ?` (Good answer)
 
 </details>
 
@@ -59,7 +59,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | User | Number of wins |
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
-| [earearray](https://github.com/earearray) | 31 |
+| [earearray](https://github.com/earearray) | 32 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
