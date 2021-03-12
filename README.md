@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What does the weakest wolf show after a fight for the hierarchy ?
+## What human becomes overpowered with high-tech armor ?
 
 <br>
 
-| [His cock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHis%20cock&body=Just%20click%20'Submit%20new%20issue'.) | [His language](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHis%20language&body=Just%20click%20'Submit%20new%20issue'.) | [His teeth](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHis%20teeth&body=Just%20click%20'Submit%20new%20issue'.) | [Her belly](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C99%7CHer%20belly&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Thor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CThor&body=Just%20click%20'Submit%20new%20issue'.) | [Wolverine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CWolverine&body=Just%20click%20'Submit%20new%20issue'.) | [Cyclops](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CCyclops&body=Just%20click%20'Submit%20new%20issue'.) | [Iron Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CIron%20Man&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **His cock** to `What does the weakest wolf show after a fight for the hierarchy ?` (Wrong answer)
 - **earearray** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **SimonLeclere** answered **Cinderella** to `Who sings « One day my prince will come » in a Disney cartoon ?` (Wrong answer)
 - **SimonLeclere** answered **Matt Damon** to `Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 - **SimonLeclere** answered **Henri Leconte** to `What fake millionaire and true maestro did girls drunk in 2003 ?` (Wrong answer)
 - **SimonLeclere** answered **Barack Obama** to `Which American president expressed his deep thanks for the efforts led by China ?` (Wrong answer)
-- **SimonLeclere** answered **1984** to `What year was Britney Spears born in Mississippi ?` (Wrong answer)
 
 </details>
 

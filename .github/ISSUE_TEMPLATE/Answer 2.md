@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : His language'
+name: 'Answer 3 : Wolverine'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|99|His language
+title: quiz|642|Wolverine
 labels: ''
 assignees: ''
 
