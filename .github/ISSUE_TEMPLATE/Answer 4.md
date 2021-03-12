@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Her belly'
+name: 'Answer 3 : Influenza'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|99|Her belly
+title: quiz|373|Influenza
 labels: ''
 assignees: ''
 

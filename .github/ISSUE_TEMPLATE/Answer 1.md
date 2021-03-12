@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : His cock'
+name: 'Answer 3 : Hepatitis'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|99|His cock
+title: quiz|373|Hepatitis
 labels: ''
 assignees: ''
 
