@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Andy Garcia'
+name: 'Answer 3 : Alice'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|152|Andy Garcia
+title: quiz|784|Alice
 labels: ''
 assignees: ''
 

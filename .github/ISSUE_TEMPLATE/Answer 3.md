@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Brad Pitt'
+name: 'Answer 3 : Snow White'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|152|Brad Pitt
+title: quiz|784|Snow White
 labels: ''
 assignees: ''
 

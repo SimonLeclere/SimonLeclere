@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?
+## Who sings « One day my prince will come » in a Disney cartoon ?
 
 <br>
 
-| [Matt Damon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CMatt%20Damon&body=Just%20click%20'Submit%20new%20issue'.) | [Andy Garcia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CAndy%20Garcia&body=Just%20click%20'Submit%20new%20issue'.) | [Brad Pitt](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CBrad%20Pitt&body=Just%20click%20'Submit%20new%20issue'.) | [George Clooney](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C152%7CGeorge%20Clooney&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Cinderella](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C784%7CCinderella&body=Just%20click%20'Submit%20new%20issue'.) | [Alice](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C784%7CAlice&body=Just%20click%20'Submit%20new%20issue'.) | [Snow White](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C784%7CSnow%20White&body=Just%20click%20'Submit%20new%20issue'.) | [Jasmine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C784%7CJasmine&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Matt Damon** to `Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?` (Wrong answer)
 - **SimonLeclere** answered **Kalifornia** to `During the filming of which film did Brad fall in love with Angelina Jolie ?` (Wrong answer)
 - **Androz2091** answered **Innsbruck** to `Which Austrian city crossed by the Inn is the capital of Tyrol ?` (Good answer)
 - **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **1984** to `What year was Britney Spears born in Mississippi ?` (Wrong answer)
 - **SimonLeclere** answered **John Travolta** to `To which sex symbol of the 1970s is actress Kelly Preston married ?` (Good answer)
 - **SimonLeclere** answered **Choc** to `From which magazine did the nude show Christophe Dechavanne obtain the withdrawal in 2006 ?` (Good answer)
-- **SimonLeclere** answered **30** to `How much is there in the world of different flavors of Fanta ?` (Wrong answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : George Clooney'
+name: 'Answer 3 : Jasmine'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|152|George Clooney
+title: quiz|784|Jasmine
 labels: ''
 assignees: ''
 
