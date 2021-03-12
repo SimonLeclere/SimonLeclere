@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What human becomes overpowered with high-tech armor ?
+## What super-hero of Mars Ravelo was formerly called Varga ?
 
 <br>
 
-| [Thor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CThor&body=Just%20click%20'Submit%20new%20issue'.) | [Wolverine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CWolverine&body=Just%20click%20'Submit%20new%20issue'.) | [Cyclops](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CCyclops&body=Just%20click%20'Submit%20new%20issue'.) | [Iron Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C642%7CIron%20Man&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Darna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C839%7CDarna&body=Just%20click%20'Submit%20new%20issue'.) | [Cybersix](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C839%7CCybersix&body=Just%20click%20'Submit%20new%20issue'.) | [Polaris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C839%7CPolaris&body=Just%20click%20'Submit%20new%20issue'.) | [Carol Danvers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C839%7CCarol%20Danvers&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Iron Man** to `What human becomes overpowered with high-tech armor ?` (Good answer)
 - **earearray** answered **His cock** to `What does the weakest wolf show after a fight for the hierarchy ?` (Wrong answer)
 - **earearray** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **SimonLeclere** answered **Cinderella** to `Who sings « One day my prince will come » in a Disney cartoon ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
 - **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 - **SimonLeclere** answered **Henri Leconte** to `What fake millionaire and true maestro did girls drunk in 2003 ?` (Wrong answer)
-- **SimonLeclere** answered **Barack Obama** to `Which American president expressed his deep thanks for the efforts led by China ?` (Wrong answer)
 
 </details>
 
@@ -59,7 +59,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | User | Number of wins |
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
-| [earearray](https://github.com/earearray) | 32 |
+| [earearray](https://github.com/earearray) | 33 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 31 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [lowlighter](https://github.com/lowlighter) | 9 |

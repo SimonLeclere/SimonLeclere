@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Wolverine'
+name: 'Answer 3 : Cybersix'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|642|Wolverine
+title: quiz|839|Cybersix
 labels: ''
 assignees: ''
 

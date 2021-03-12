@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cyclops'
+name: 'Answer 3 : Polaris'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|642|Cyclops
+title: quiz|839|Polaris
 labels: ''
 assignees: ''
 
