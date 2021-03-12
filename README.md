@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What other disease are the symptoms of COVID-19 close enough to ?
+## What is the total number of points on a six-sided board game ?
 
 <br>
 
-| [Hepatitis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C373%7CHepatitis&body=Just%20click%20'Submit%20new%20issue'.) | [Measles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C373%7CMeasles&body=Just%20click%20'Submit%20new%20issue'.) | [Mumps](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C373%7CMumps&body=Just%20click%20'Submit%20new%20issue'.) | [Influenza](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C373%7CInfluenza&body=Just%20click%20'Submit%20new%20issue'.) |
+| [18](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C18&body=Just%20click%20'Submit%20new%20issue'.) | [21](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C21&body=Just%20click%20'Submit%20new%20issue'.) | [30](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C30&body=Just%20click%20'Submit%20new%20issue'.) | [15](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C15&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earearray** answered **Hepatitis** to `What other disease are the symptoms of COVID-19 close enough to ?` (Wrong answer)
 - **earearray** answered **Darna** to `What super-hero of Mars Ravelo was formerly called Varga ?` (Good answer)
 - **earearray** answered **Iron Man** to `What human becomes overpowered with high-tech armor ?` (Good answer)
 - **earearray** answered **His cock** to `What does the weakest wolf show after a fight for the hierarchy ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Kalifornia** to `During the filming of which film did Brad fall in love with Angelina Jolie ?` (Wrong answer)
 - **Androz2091** answered **Innsbruck** to `Which Austrian city crossed by the Inn is the capital of Tyrol ?` (Good answer)
 - **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
-- **SimonLeclere** answered **Bolt** to `What was the first application created by Instagram after its launch ?` (Good answer)
 
 </details>
 
