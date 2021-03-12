@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Darna'
+name: 'Answer 3 : His cock'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|839|Darna
+title: quiz|99|His cock
 labels: ''
 assignees: ''
 
