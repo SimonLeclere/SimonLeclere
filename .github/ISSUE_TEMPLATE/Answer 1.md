@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Code Chappe'
+name: 'Answer 3 : Tintin in Tibet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|413|Code Chappe
+title: quiz|840|Tintin in Tibet
 labels: ''
 assignees: ''
 

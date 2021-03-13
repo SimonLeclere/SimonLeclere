@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sechorehore'
+name: 'Answer 3 : The Blue Lotus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|413|Sechorehore
+title: quiz|840|The Blue Lotus
 labels: ''
 assignees: ''
 

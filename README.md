@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which binary code is also called Alphabet International's television code ?
+## In what adventure does Tintin find himself facing an impressive Yeti ?
 
 <br>
 
-| [Code Chappe](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CCode%20Chappe&body=Just%20click%20'Submit%20new%20issue'.) | [Morse Code](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CMorse%20Code&body=Just%20click%20'Submit%20new%20issue'.) | [Code Baudot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CCode%20Baudot&body=Just%20click%20'Submit%20new%20issue'.) | [Sechorehore](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CSechorehore&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Tintin in Tibet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C840%7CTintin%20in%20Tibet&body=Just%20click%20'Submit%20new%20issue'.) | [Coke in Stock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C840%7CCoke%20in%20Stock&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in the Congo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C840%7CTintin%20in%20the%20Congo&body=Just%20click%20'Submit%20new%20issue'.) | [The Blue Lotus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C840%7CThe%20Blue%20Lotus&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Code Baudot** to `Which binary code is also called Alphabet International's television code ?` (Good answer)
 - **SimonLeclere** answered **21** to `What is the total number of points on a six-sided board game ?` (Good answer)
 - **earearray** answered **Hepatitis** to `What other disease are the symptoms of COVID-19 close enough to ?` (Wrong answer)
 - **earearray** answered **Darna** to `What super-hero of Mars Ravelo was formerly called Varga ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Cinderella** to `Who sings « One day my prince will come » in a Disney cartoon ?` (Wrong answer)
 - **SimonLeclere** answered **Matt Damon** to `Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?` (Wrong answer)
 - **SimonLeclere** answered **Kalifornia** to `During the filming of which film did Brad fall in love with Angelina Jolie ?` (Wrong answer)
-- **Androz2091** answered **Innsbruck** to `Which Austrian city crossed by the Inn is the capital of Tyrol ?` (Good answer)
 
 </details>
 
@@ -60,7 +60,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 32 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 33 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

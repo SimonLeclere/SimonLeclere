@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Code Baudot'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|413|Code Baudot
+title: quiz|840|Tintin in the Congo
 labels: ''
 assignees: ''
 
