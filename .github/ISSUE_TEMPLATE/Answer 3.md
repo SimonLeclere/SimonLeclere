@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 30'
+name: 'Answer 3 : Code Baudot'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|531|30
+title: quiz|413|Code Baudot
 labels: ''
 assignees: ''
 

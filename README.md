@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the total number of points on a six-sided board game ?
+## Which binary code is also called Alphabet International's television code ?
 
 <br>
 
-| [18](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C18&body=Just%20click%20'Submit%20new%20issue'.) | [21](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C21&body=Just%20click%20'Submit%20new%20issue'.) | [30](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C30&body=Just%20click%20'Submit%20new%20issue'.) | [15](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C531%7C15&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Code Chappe](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CCode%20Chappe&body=Just%20click%20'Submit%20new%20issue'.) | [Morse Code](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CMorse%20Code&body=Just%20click%20'Submit%20new%20issue'.) | [Code Baudot](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CCode%20Baudot&body=Just%20click%20'Submit%20new%20issue'.) | [Sechorehore](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C413%7CSechorehore&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **21** to `What is the total number of points on a six-sided board game ?` (Good answer)
 - **earearray** answered **Hepatitis** to `What other disease are the symptoms of COVID-19 close enough to ?` (Wrong answer)
 - **earearray** answered **Darna** to `What super-hero of Mars Ravelo was formerly called Varga ?` (Good answer)
 - **earearray** answered **Iron Man** to `What human becomes overpowered with high-tech armor ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Matt Damon** to `Which actor from « Ocean's Eleven » sold a kiss 350,000 euros for a good cause ?` (Wrong answer)
 - **SimonLeclere** answered **Kalifornia** to `During the filming of which film did Brad fall in love with Angelina Jolie ?` (Wrong answer)
 - **Androz2091** answered **Innsbruck** to `Which Austrian city crossed by the Inn is the capital of Tyrol ?` (Good answer)
-- **SimonLeclere** answered **Czechoslovakia** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Wrong answer)
 
 </details>
 
@@ -60,7 +60,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 31 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 32 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
