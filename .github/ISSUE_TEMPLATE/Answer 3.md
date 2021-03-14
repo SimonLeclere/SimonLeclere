@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : Life'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|840|Tintin in the Congo
+title: quiz|304|Life
 labels: ''
 assignees: ''
 
