@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?
+## In which year was the multinational corporation Microsoft Corporation founded ?
 
 <br>
 
-| [Captain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CCaptain&body=Just%20click%20'Submit%20new%20issue'.) | [Major](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CMajor&body=Just%20click%20'Submit%20new%20issue'.) | [Lieutenant](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CLieutenant&body=Just%20click%20'Submit%20new%20issue'.) | [Colonel](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CColonel&body=Just%20click%20'Submit%20new%20issue'.) |
+| [2005](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C2005&body=Just%20click%20'Submit%20new%20issue'.) | [1975](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C1975&body=Just%20click%20'Submit%20new%20issue'.) | [1985](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C1985&body=Just%20click%20'Submit%20new%20issue'.) | [1995](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C1995&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **evaristocuesta** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
 - **evaristocuesta** answered **Blak** to `Which sugar-free Coca-Cola targets a particularly male audience ?` (Wrong answer)
 - **evaristocuesta** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **SimonLeclere** answered **Code Baudot** to `Which binary code is also called Alphabet International's television code ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **earearray** answered **Iron Man** to `What human becomes overpowered with high-tech armor ?` (Good answer)
 - **earearray** answered **His cock** to `What does the weakest wolf show after a fight for the hierarchy ?` (Wrong answer)
 - **earearray** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
-- **SimonLeclere** answered **Cinderella** to `Who sings « One day my prince will come » in a Disney cartoon ?` (Wrong answer)
 
 </details>
 
