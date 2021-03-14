@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Life'
+name: 'Answer 3 : Lieutenant'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|304|Life
+title: quiz|181|Lieutenant
 labels: ''
 assignees: ''
 

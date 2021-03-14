@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cherry'
+name: 'Answer 3 : Captain'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|304|Cherry
+title: quiz|181|Captain
 labels: ''
 assignees: ''
 
