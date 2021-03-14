@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Raniculteur'
+name: 'Answer 3 : 3'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|30|Raniculteur
+title: quiz|280|3
 labels: ''
 assignees: ''
 

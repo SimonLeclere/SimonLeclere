@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Poultry farmer'
+name: 'Answer 3 : 1'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|30|Poultry farmer
+title: quiz|280|1
 labels: ''
 assignees: ''
 
