@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 1975'
+name: 'Answer 3 : Oyster farmer'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|698|1975
+title: quiz|30|Oyster farmer
 labels: ''
 assignees: ''
 

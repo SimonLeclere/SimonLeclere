@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In which year was the multinational corporation Microsoft Corporation founded ?
+## What is a person who raises honey bees called ?
 
 <br>
 
-| [2005](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C2005&body=Just%20click%20'Submit%20new%20issue'.) | [1975](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C1975&body=Just%20click%20'Submit%20new%20issue'.) | [1985](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C1985&body=Just%20click%20'Submit%20new%20issue'.) | [1995](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C698%7C1995&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Poultry farmer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C30%7CPoultry%20farmer&body=Just%20click%20'Submit%20new%20issue'.) | [Oyster farmer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C30%7COyster%20farmer&body=Just%20click%20'Submit%20new%20issue'.) | [Beekeeper](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C30%7CBeekeeper&body=Just%20click%20'Submit%20new%20issue'.) | [Raniculteur](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C30%7CRaniculteur&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **evaristocuesta** answered **1975** to `In which year was the multinational corporation Microsoft Corporation founded ?` (Good answer)
 - **evaristocuesta** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
 - **evaristocuesta** answered **Blak** to `Which sugar-free Coca-Cola targets a particularly male audience ?` (Wrong answer)
 - **evaristocuesta** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **earearray** answered **Darna** to `What super-hero of Mars Ravelo was formerly called Varga ?` (Good answer)
 - **earearray** answered **Iron Man** to `What human becomes overpowered with high-tech armor ?` (Good answer)
 - **earearray** answered **His cock** to `What does the weakest wolf show after a fight for the hierarchy ?` (Wrong answer)
-- **earearray** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 
 </details>
 
@@ -67,6 +67,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [shadeoxide](https://github.com/shadeoxide) | 7 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
 | [Androz2091](https://github.com/Androz2091) | 3 |
-| [ZusoWorld](https://github.com/ZusoWorld) | 2 |
+| [evaristocuesta](https://github.com/evaristocuesta) | 3 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
