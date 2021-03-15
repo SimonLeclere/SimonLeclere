@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 3'
+name: 'Answer 3 : Olof Celsius'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|280|3
+title: quiz|260|Olof Celsius
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 1'
+name: 'Answer 3 : Carl von Linné'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|280|1
+title: quiz|260|Carl von Linné
 labels: ''
 assignees: ''
 

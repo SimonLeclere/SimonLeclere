@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 4'
+name: 'Answer 3 : Erik Acharius'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|280|4
+title: quiz|260|Erik Acharius
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 2'
+name: 'Answer 3 : Daniel Rolander'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|280|2
+title: quiz|260|Daniel Rolander
 labels: ''
 assignees: ''
 
