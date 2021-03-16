@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Olof Celsius'
+name: 'Answer 3 : 2 billion'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|260|Olof Celsius
+title: quiz|680|2 billion
 labels: ''
 assignees: ''
 
