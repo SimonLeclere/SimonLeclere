@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What series of humorous comics is drawn by Philippe Bercovici ?
+## At approximately what age can a young bird be separated from its parents ?
 
 <br>
 
-| [Red Cactus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C269%7CRed%20Cactus&body=Just%20click%20'Submit%20new%20issue'.) | [Circus Cactus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C269%7CCircus%20Cactus&body=Just%20click%20'Submit%20new%20issue'.) | [Cactus Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C269%7CCactus%20Man&body=Just%20click%20'Submit%20new%20issue'.) | [Cactus Club](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C269%7CCactus%20Club&body=Just%20click%20'Submit%20new%20issue'.) |
+| [8 months](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C333%7C8%20months&body=Just%20click%20'Submit%20new%20issue'.) | [1 year](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C333%7C1%20year&body=Just%20click%20'Submit%20new%20issue'.) | [3 weeks](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C333%7C3%20weeks&body=Just%20click%20'Submit%20new%20issue'.) | [6 months](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C333%7C6%20months&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **RealHinome** answered **Circus Cactus** to `What series of humorous comics is drawn by Philippe Bercovici ?` (Wrong answer)
 - **RealHinome** answered **3 billion** to `How many Likes « Like » are awarded each day on Instagram on average ?` (Wrong answer)
 - **SimonLeclere** answered **Daniel Rolander** to `In 1753, which naturalist grouped the 22 known species of cactus ?` (Wrong answer)
 - **0lp** answered **4** to `How many riders can you count on a chess board ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **evaristocuesta** answered **Blak** to `Which sugar-free Coca-Cola targets a particularly male audience ?` (Wrong answer)
 - **evaristocuesta** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **SimonLeclere** answered **Code Baudot** to `Which binary code is also called Alphabet International's television code ?` (Good answer)
-- **SimonLeclere** answered **21** to `What is the total number of points on a six-sided board game ?` (Good answer)
 
 </details>
 

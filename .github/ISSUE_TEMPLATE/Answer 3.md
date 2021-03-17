@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cactus Man'
+name: 'Answer 3 : 3 weeks'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|269|Cactus Man
+title: quiz|333|3 weeks
 labels: ''
 assignees: ''
 
