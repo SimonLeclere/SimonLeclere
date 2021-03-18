@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 8 months'
+name: 'Answer 3 : Oligotherapy'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|333|8 months
+title: quiz|57|Oligotherapy
 labels: ''
 assignees: ''
 

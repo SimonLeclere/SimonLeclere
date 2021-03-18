@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 6 months'
+name: 'Answer 3 : Ayurveda'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|333|6 months
+title: quiz|57|Ayurveda
 labels: ''
 assignees: ''
 
