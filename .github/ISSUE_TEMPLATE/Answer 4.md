@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Ayurveda'
+name: 'Answer 3 : Canada'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|57|Ayurveda
+title: quiz|375|Canada
 labels: ''
 assignees: ''
 

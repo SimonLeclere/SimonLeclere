@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Phytotherapy'
+name: 'Answer 3 : Russia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|57|Phytotherapy
+title: quiz|375|Russia
 labels: ''
 assignees: ''
 

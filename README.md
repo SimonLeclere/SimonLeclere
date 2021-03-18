@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the practice of treating with bee products ?
+## In February 2020, which country decided to expel foreigners infected with the COVID-19 virus ?
 
 <br>
 
-| [Oligotherapy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C57%7COligotherapy&body=Just%20click%20'Submit%20new%20issue'.) | [Apitherapy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C57%7CApitherapy&body=Just%20click%20'Submit%20new%20issue'.) | [Phytotherapy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C57%7CPhytotherapy&body=Just%20click%20'Submit%20new%20issue'.) | [Ayurveda](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C57%7CAyurveda&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Brazil](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C375%7CBrazil&body=Just%20click%20'Submit%20new%20issue'.) | [India](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C375%7CIndia&body=Just%20click%20'Submit%20new%20issue'.) | [Russia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C375%7CRussia&body=Just%20click%20'Submit%20new%20issue'.) | [Canada](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C375%7CCanada&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Apitherapy** to `What is the practice of treating with bee products ?` (Good answer)
 - **SimonLeclere** answered **6 months** to `At approximately what age can a young bird be separated from its parents ?` (Wrong answer)
 - **RealHinome** answered **Circus Cactus** to `What series of humorous comics is drawn by Philippe Bercovici ?` (Wrong answer)
 - **RealHinome** answered **3 billion** to `How many Likes « Like » are awarded each day on Instagram on average ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **evaristocuesta** answered **1975** to `In which year was the multinational corporation Microsoft Corporation founded ?` (Good answer)
 - **evaristocuesta** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
 - **evaristocuesta** answered **Blak** to `Which sugar-free Coca-Cola targets a particularly male audience ?` (Wrong answer)
-- **evaristocuesta** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 
 </details>
 
@@ -60,7 +60,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 33 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 34 |
 | [azgar44](https://github.com/azgar44) | 30 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

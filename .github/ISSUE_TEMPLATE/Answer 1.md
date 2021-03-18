@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Oligotherapy'
+name: 'Answer 3 : Brazil'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|57|Oligotherapy
+title: quiz|375|Brazil
 labels: ''
 assignees: ''
 
