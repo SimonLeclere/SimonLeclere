@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Fantasy Twist'
+name: 'Answer 3 : Banana'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|239|Fantasy Twist
+title: quiz|587|Banana
 labels: ''
 assignees: ''
 

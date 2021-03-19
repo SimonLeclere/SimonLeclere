@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which iPhone and iPod touch app did Britney Spears launch in 2009 ?
+## Which fruit is the most classic garnish of the Austrian Strudel ?
 
 <br>
 
-| [Fantasy Twist](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C239%7CFantasy%20Twist&body=Just%20click%20'Submit%20new%20issue'.) | [Intimate](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C239%7CIntimate&body=Just%20click%20'Submit%20new%20issue'.) | [It's Britney](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C239%7CIt's%20Britney&body=Just%20click%20'Submit%20new%20issue'.) | [Dance Beat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C239%7CDance%20Beat&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Banana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CBanana&body=Just%20click%20'Submit%20new%20issue'.) | [Fishing](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CFishing&body=Just%20click%20'Submit%20new%20issue'.) | [Apple](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CApple&body=Just%20click%20'Submit%20new%20issue'.) | [Pear](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CPear&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **It's Britney** to `Which iPhone and iPod touch app did Britney Spears launch in 2009 ?` (Good answer)
 - **azgar44** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 - **SimonLeclere** answered **Canada** to `In February 2020, which country decided to expel foreigners infected with the COVID-19 virus ?` (Wrong answer)
 - **SimonLeclere** answered **Apitherapy** to `What is the practice of treating with bee products ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Daniel Rolander** to `In 1753, which naturalist grouped the 22 known species of cactus ?` (Wrong answer)
 - **0lp** answered **4** to `How many riders can you count on a chess board ?` (Good answer)
 - **evaristocuesta** answered **Beekeeper** to `What is a person who raises honey bees called ?` (Good answer)
-- **evaristocuesta** answered **1975** to `In which year was the multinational corporation Microsoft Corporation founded ?` (Good answer)
 
 </details>
 
@@ -60,7 +60,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
-| [azgar44](https://github.com/azgar44) | 31 |
+| [azgar44](https://github.com/azgar44) | 32 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

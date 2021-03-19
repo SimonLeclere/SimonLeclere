@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : It's Britney'
+name: 'Answer 3 : Apple'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|239|It's Britney
+title: quiz|587|Apple
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Dance Beat'
+name: 'Answer 3 : Pear'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|239|Dance Beat
+title: quiz|587|Pear
 labels: ''
 assignees: ''
 
