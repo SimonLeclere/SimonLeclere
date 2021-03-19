@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Rupert Grint'
+name: 'Answer 3 : Intimate'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|612|Rupert Grint
+title: quiz|239|Intimate
 labels: ''
 assignees: ''
 
