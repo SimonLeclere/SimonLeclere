@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Betty Kane'
+name: 'Answer 3 : Coca-Cola Plus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|820|Betty Kane
+title: quiz|317|Coca-Cola Plus
 labels: ''
 assignees: ''
 

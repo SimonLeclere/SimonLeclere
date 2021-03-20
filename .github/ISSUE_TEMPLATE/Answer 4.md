@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Barbara Gordon'
+name: 'Answer 3 : Coca-Cola New'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|820|Barbara Gordon
+title: quiz|317|Coca-Cola New
 labels: ''
 assignees: ''
 
