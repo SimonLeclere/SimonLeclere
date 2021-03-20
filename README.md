@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In which year did the word lunch lose its circumflex accent on the letter u ?
+## Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?
 
 <br>
 
-| [1837](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C561%7C1837&body=Just%20click%20'Submit%20new%20issue'.) | [1903](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C561%7C1903&body=Just%20click%20'Submit%20new%20issue'.) | [1798](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C561%7C1798&body=Just%20click%20'Submit%20new%20issue'.) | [1874](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C561%7C1874&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Betty Kane](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CBetty%20Kane&body=Just%20click%20'Submit%20new%20issue'.) | [Cassandra Cain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CCassandra%20Cain&body=Just%20click%20'Submit%20new%20issue'.) | [Helena Bertinelli](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CHelena%20Bertinelli&body=Just%20click%20'Submit%20new%20issue'.) | [Barbara Gordon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CBarbara%20Gordon&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **1798** to `In which year did the word lunch lose its circumflex accent on the letter u ?` (Good answer)
 - **SimonLeclere** answered **9** to `How many towns are there in Paris, located on a loop of the Seine ?` (Wrong answer)
 - **SimonLeclere** answered **Banana** to `Which fruit is the most classic garnish of the Austrian Strudel ?` (Wrong answer)
 - **azgar44** answered **It's Britney** to `Which iPhone and iPod touch app did Britney Spears launch in 2009 ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **6 months** to `At approximately what age can a young bird be separated from its parents ?` (Wrong answer)
 - **RealHinome** answered **Circus Cactus** to `What series of humorous comics is drawn by Philippe Bercovici ?` (Wrong answer)
 - **RealHinome** answered **3 billion** to `How many Likes « Like » are awarded each day on Instagram on average ?` (Wrong answer)
-- **SimonLeclere** answered **Daniel Rolander** to `In 1753, which naturalist grouped the 22 known species of cactus ?` (Wrong answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
 | [azgar44](https://github.com/azgar44) | 32 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 12 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 13 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [shadeoxide](https://github.com/shadeoxide) | 7 |

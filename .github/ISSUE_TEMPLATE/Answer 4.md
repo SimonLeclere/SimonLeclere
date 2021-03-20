@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 1874'
+name: 'Answer 3 : Barbara Gordon'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|561|1874
+title: quiz|820|Barbara Gordon
 labels: ''
 assignees: ''
 
