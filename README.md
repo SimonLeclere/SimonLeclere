@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which fruit is the most classic garnish of the Austrian Strudel ?
+## How many towns are there in Paris, located on a loop of the Seine ?
 
 <br>
 
-| [Banana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CBanana&body=Just%20click%20'Submit%20new%20issue'.) | [Fishing](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CFishing&body=Just%20click%20'Submit%20new%20issue'.) | [Apple](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CApple&body=Just%20click%20'Submit%20new%20issue'.) | [Pear](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C587%7CPear&body=Just%20click%20'Submit%20new%20issue'.) |
+| [22](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C884%7C22&body=Just%20click%20'Submit%20new%20issue'.) | [13](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C884%7C13&body=Just%20click%20'Submit%20new%20issue'.) | [One](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C884%7COne&body=Just%20click%20'Submit%20new%20issue'.) | [9](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C884%7C9&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Banana** to `Which fruit is the most classic garnish of the Austrian Strudel ?` (Wrong answer)
 - **azgar44** answered **It's Britney** to `Which iPhone and iPod touch app did Britney Spears launch in 2009 ?` (Good answer)
 - **azgar44** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 - **SimonLeclere** answered **Canada** to `In February 2020, which country decided to expel foreigners infected with the COVID-19 virus ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **RealHinome** answered **3 billion** to `How many Likes « Like » are awarded each day on Instagram on average ?` (Wrong answer)
 - **SimonLeclere** answered **Daniel Rolander** to `In 1753, which naturalist grouped the 22 known species of cactus ?` (Wrong answer)
 - **0lp** answered **4** to `How many riders can you count on a chess board ?` (Good answer)
-- **evaristocuesta** answered **Beekeeper** to `What is a person who raises honey bees called ?` (Good answer)
 
 </details>
 
