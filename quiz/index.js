@@ -18,7 +18,7 @@ const isCorrect = async (id, userAnswer) => {
 }
 const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz|${id}|${answer}&body=Just click 'Submit new issue'.`);
 const fetchQuestion = async (id='') => {
-    const question =  await fetch(`https://quiz.ohori.me/${id}`).then(res => res.json());
+    const question =  await fetch(`https://quiz.ohori.me/${id}`).then(res => res.json()).catch(() => null);
     if(question) return question;
     
     const quiz = require('../assets/quizzs.json');
