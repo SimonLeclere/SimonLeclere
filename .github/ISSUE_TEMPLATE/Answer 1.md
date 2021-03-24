@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Coca-Cola Plus'
+name: 'Answer 3 : Microsoft Band'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|317|Coca-Cola Plus
+title: quiz|718|Microsoft Band
 labels: ''
 assignees: ''
 

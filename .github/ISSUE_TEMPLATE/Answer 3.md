@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Coca-Cola Mint'
+name: 'Answer 3 : Microsoft Pace'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|317|Coca-Cola Mint
+title: quiz|718|Microsoft Pace
 labels: ''
 assignees: ''
 
