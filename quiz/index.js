@@ -22,7 +22,7 @@ const fetchQuestion = async (id='') => {
     if(question) return question;
     
     const quiz = require('../assets/quizzs.json');
-    if(id) return quiz.find(x => x.id === id);
+    if(id !== '') return quiz.find(x => x.id === parseInt(id, 10));
     return quiz[Math.floor(Math.random() * quiz.length)];
 };
 
