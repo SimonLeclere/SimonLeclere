@@ -18,9 +18,12 @@ const isCorrect = async (id, userAnswer) => {
 }
 const genLink = (id, answer) => encodeURI(`https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz|${id}|${answer}&body=Just click 'Submit new issue'.`);
 const fetchQuestion = async (id='') => {
-    return await fetch(`https://quiz.ohori.me/${id}`)
-    .then(res => res.json())
-    .then(res => res);
+    const question =  await fetch(`https://quiz.ohori.me/${id}`).then(res => res.json());
+    if(question) return question;
+    
+    const quiz = require('../assets/quizzs.json');
+    if(id) return quiz.find(x => x.id === id);
+    return quiz[Math.floor(Math.random() * quiz.length)];
 };
 
 try {
