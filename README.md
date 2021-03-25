@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the small name given to the sport bracelet marketed by Microsoft ?
+## What do you call a large gathering of bees ?
 
 <br>
 
-| [Microsoft Band](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Band&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Lace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Lace&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Pace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Pace&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Bracelet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Bracelet&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Bag](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C45%7CBag&body=Just%20click%20'Submit%20new%20issue'.) | [Coat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C45%7CCoat&body=Just%20click%20'Submit%20new%20issue'.) | [Cluster](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C45%7CCluster&body=Just%20click%20'Submit%20new%20issue'.) | [Swarm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C45%7CSwarm&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Microsoft Lace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
 - **SimonLeclere** answered **Coca-Cola Plus** to `Which derivative of the Coca-Cola drink is enriched with Vitamin C ?` (Good answer)
 - **SimonLeclere** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
 - **SimonLeclere** answered **1798** to `In which year did the word lunch lose its circumflex accent on the letter u ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **azgar44** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 - **SimonLeclere** answered **Canada** to `In February 2020, which country decided to expel foreigners infected with the COVID-19 virus ?` (Wrong answer)
 - **SimonLeclere** answered **Apitherapy** to `What is the practice of treating with bee products ?` (Good answer)
-- **SimonLeclere** answered **6 months** to `At approximately what age can a young bird be separated from its parents ?` (Wrong answer)
 
 </details>
 

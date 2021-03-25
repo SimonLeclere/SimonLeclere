@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Microsoft Pace'
+name: 'Answer 3 : Cluster'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|718|Microsoft Pace
+title: quiz|45|Cluster
 labels: ''
 assignees: ''
 
