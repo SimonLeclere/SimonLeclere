@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which animal is the biggest known enemy of the variable nozzle ?
+## What country created in 1918 an army called the Red Army ?
 
 <br>
 
-| [Renard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C109%7CRenard&body=Just%20click%20'Submit%20new%20issue'.) | [Man](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C109%7CMan&body=Just%20click%20'Submit%20new%20issue'.) | [Aigle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C109%7CAigle&body=Just%20click%20'Submit%20new%20issue'.) | [Brown bear](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C109%7CBrown%20bear&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Cambodia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CCambodia&body=Just%20click%20'Submit%20new%20issue'.) | [U.R.S.S.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CU.R.S.S.&body=Just%20click%20'Submit%20new%20issue'.) | [GDR](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CGDR&body=Just%20click%20'Submit%20new%20issue'.) | [China](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CChina&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Brown bear** to `Which animal is the biggest known enemy of the variable nozzle ?` (Wrong answer)
 - **SimonLeclere** answered **Swarm** to `What do you call a large gathering of bees ?` (Good answer)
 - **SimonLeclere** answered **Microsoft Lace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
 - **SimonLeclere** answered **Coca-Cola Plus** to `Which derivative of the Coca-Cola drink is enriched with Vitamin C ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Banana** to `Which fruit is the most classic garnish of the Austrian Strudel ?` (Wrong answer)
 - **azgar44** answered **It's Britney** to `Which iPhone and iPod touch app did Britney Spears launch in 2009 ?` (Good answer)
 - **azgar44** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
-- **SimonLeclere** answered **Canada** to `In February 2020, which country decided to expel foreigners infected with the COVID-19 virus ?` (Wrong answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Brown bear'
+name: 'Answer 3 : China'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|109|Brown bear
+title: quiz|423|China
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Man'
+name: 'Answer 3 : U.R.S.S.'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|109|Man
+title: quiz|423|U.R.S.S.
 labels: ''
 assignees: ''
 
