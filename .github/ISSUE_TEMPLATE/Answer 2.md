@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in Tibet'
+name: 'Answer 3 : Cyborg'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|847|Tintin in Tibet
+title: quiz|647|Cyborg
 labels: ''
 assignees: ''
 

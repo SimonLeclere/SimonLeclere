@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : Bizarro'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|847|Tintin in the Congo
+title: quiz|647|Bizarro
 labels: ''
 assignees: ''
 

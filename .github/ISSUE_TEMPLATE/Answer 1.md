@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : The Blue Lotus'
+name: 'Answer 3 : Mister Freeze'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|847|The Blue Lotus
+title: quiz|647|Mister Freeze
 labels: ''
 assignees: ''
 
