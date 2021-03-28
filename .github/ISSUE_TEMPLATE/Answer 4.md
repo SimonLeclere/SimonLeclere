@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : China'
+name: 'Answer 3 : Camouflage'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|423|China
+title: quiz|295|Camouflage
 labels: ''
 assignees: ''
 

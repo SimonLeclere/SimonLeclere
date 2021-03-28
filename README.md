@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What country created in 1918 an army called the Red Army ?
+## Which of these dress colors does not exist in horses ?
 
 <br>
 
-| [Cambodia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CCambodia&body=Just%20click%20'Submit%20new%20issue'.) | [U.R.S.S.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CU.R.S.S.&body=Just%20click%20'Submit%20new%20issue'.) | [GDR](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CGDR&body=Just%20click%20'Submit%20new%20issue'.) | [China](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C423%7CChina&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Pie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C295%7CPie&body=Just%20click%20'Submit%20new%20issue'.) | [Chestnut](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C295%7CChestnut&body=Just%20click%20'Submit%20new%20issue'.) | [Isabelle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C295%7CIsabelle&body=Just%20click%20'Submit%20new%20issue'.) | [Camouflage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C295%7CCamouflage&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **U.R.S.S.** to `What country created in 1918 an army called the Red Army ?` (Good answer)
 - **SimonLeclere** answered **Brown bear** to `Which animal is the biggest known enemy of the variable nozzle ?` (Wrong answer)
 - **SimonLeclere** answered **Swarm** to `What do you call a large gathering of bees ?` (Good answer)
 - **SimonLeclere** answered **Microsoft Lace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **9** to `How many towns are there in Paris, located on a loop of the Seine ?` (Wrong answer)
 - **SimonLeclere** answered **Banana** to `Which fruit is the most classic garnish of the Austrian Strudel ?` (Wrong answer)
 - **azgar44** answered **It's Britney** to `Which iPhone and iPod touch app did Britney Spears launch in 2009 ?` (Good answer)
-- **azgar44** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 
 </details>
 
@@ -64,7 +64,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [SimonLeclere](https://github.com/SimonLeclere) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
-| [shadeoxide](https://github.com/shadeoxide) | 7 |
+| [shadeoxide](https://github.com/shadeoxide) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
 | [evaristocuesta](https://github.com/evaristocuesta) | 4 |
 | [Androz2091](https://github.com/Androz2091) | 3 |

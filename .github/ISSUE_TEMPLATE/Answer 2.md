@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : U.R.S.S.'
+name: 'Answer 3 : Chestnut'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|423|U.R.S.S.
+title: quiz|295|Chestnut
 labels: ''
 assignees: ''
 
