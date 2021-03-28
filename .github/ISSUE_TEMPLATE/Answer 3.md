@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Rafael Nadal'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|165|Rafael Nadal
+title: quiz|847|Tintin in the Congo
 labels: ''
 assignees: ''
 

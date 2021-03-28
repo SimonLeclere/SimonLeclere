@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Roger Federer'
+name: 'Answer 3 : Coke in Stock'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|165|Roger Federer
+title: quiz|847|Coke in Stock
 labels: ''
 assignees: ''
 

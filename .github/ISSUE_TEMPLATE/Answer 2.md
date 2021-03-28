@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Marcelo Melo'
+name: 'Answer 3 : Tintin in Tibet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|165|Marcelo Melo
+title: quiz|847|Tintin in Tibet
 labels: ''
 assignees: ''
 
