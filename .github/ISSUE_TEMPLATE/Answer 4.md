@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Daredevil'
+name: 'Answer 3 : Broken trumpet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Daredevil
+title: quiz|100|Broken trumpet
 labels: ''
 assignees: ''
 

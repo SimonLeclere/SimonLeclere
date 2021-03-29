@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bizarro'
+name: 'Answer 3 : Bite of snakes'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Bizarro
+title: quiz|100|Bite of snakes
 labels: ''
 assignees: ''
 

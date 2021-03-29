@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who in the Comics has to keep their body extremely low ?
+## What is the most common cause of death among elephants in freedom ?
 
 <br>
 
-| [Mister Freeze](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CMister%20Freeze&body=Just%20click%20'Submit%20new%20issue'.) | [Cyborg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CCyborg&body=Just%20click%20'Submit%20new%20issue'.) | [Bizarro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CBizarro&body=Just%20click%20'Submit%20new%20issue'.) | [Daredevil](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CDaredevil&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Disease](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C100%7CDisease&body=Just%20click%20'Submit%20new%20issue'.) | [Wear of teeth](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C100%7CWear%20of%20teeth&body=Just%20click%20'Submit%20new%20issue'.) | [Bite of snakes](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C100%7CBite%20of%20snakes&body=Just%20click%20'Submit%20new%20issue'.) | [Broken trumpet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C100%7CBroken%20trumpet&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 - **SimonLeclere** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **shadeoxide** answered **Rafael Nadal** to `Which champion of clay is born on the island of Majorca ?` (Good answer)
 - **shadeoxide** answered **Camouflage** to `Which of these dress colors does not exist in horses ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Microsoft Lace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
 - **SimonLeclere** answered **Coca-Cola Plus** to `Which derivative of the Coca-Cola drink is enriched with Vitamin C ?` (Good answer)
 - **SimonLeclere** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
-- **SimonLeclere** answered **1798** to `In which year did the word lunch lose its circumflex accent on the letter u ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
 | [azgar44](https://github.com/azgar44) | 32 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 16 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 17 |
 | [shadeoxide](https://github.com/shadeoxide) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

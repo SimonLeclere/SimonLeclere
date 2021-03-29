@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cyborg'
+name: 'Answer 3 : Wear of teeth'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Cyborg
+title: quiz|100|Wear of teeth
 labels: ''
 assignees: ''
 
