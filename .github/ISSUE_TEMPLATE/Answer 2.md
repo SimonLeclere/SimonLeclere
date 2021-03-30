@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Wear of teeth'
+name: 'Answer 3 : Tourism'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|100|Wear of teeth
+title: quiz|137|Tourism
 labels: ''
 assignees: ''
 

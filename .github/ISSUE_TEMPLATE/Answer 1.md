@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Disease'
+name: 'Answer 3 : Lifting'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|100|Disease
+title: quiz|137|Lifting
 labels: ''
 assignees: ''
 
