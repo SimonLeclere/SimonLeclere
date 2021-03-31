@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Charcuterie'
+name: 'Answer 3 : Sequoia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|137|Charcuterie
+title: quiz|467|Sequoia
 labels: ''
 assignees: ''
 

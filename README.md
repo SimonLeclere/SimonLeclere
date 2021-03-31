@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the main economic activity of the Pyrenean and Alpine frontiers ?
+## In the United States, what tree over 83 meters tall is called General Sherman ?
 
 <br>
 
-| [Lifting](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CLifting&body=Just%20click%20'Submit%20new%20issue'.) | [Tourism](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CTourism&body=Just%20click%20'Submit%20new%20issue'.) | [Cheese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CCheese&body=Just%20click%20'Submit%20new%20issue'.) | [Charcuterie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C137%7CCharcuterie&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Thuja](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CThuja&body=Just%20click%20'Submit%20new%20issue'.) | [Eucalyptus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CEucalyptus&body=Just%20click%20'Submit%20new%20issue'.) | [Baobab](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CBaobab&body=Just%20click%20'Submit%20new%20issue'.) | [Sequoia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CSequoia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Cheese** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Wear of teeth** to `What is the most common cause of death among elephants in freedom ?` (Good answer)
 - **SimonLeclere** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 - **SimonLeclere** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Brown bear** to `Which animal is the biggest known enemy of the variable nozzle ?` (Wrong answer)
 - **SimonLeclere** answered **Swarm** to `What do you call a large gathering of bees ?` (Good answer)
 - **SimonLeclere** answered **Microsoft Lace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
-- **SimonLeclere** answered **Coca-Cola Plus** to `Which derivative of the Coca-Cola drink is enriched with Vitamin C ?` (Good answer)
 
 </details>
 
