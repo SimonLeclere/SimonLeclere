@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sequoia'
+name: 'Answer 3 : Microsoft Band'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|467|Sequoia
+title: quiz|718|Microsoft Band
 labels: ''
 assignees: ''
 

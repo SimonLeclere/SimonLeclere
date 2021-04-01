@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the United States, what tree over 83 meters tall is called General Sherman ?
+## What is the small name given to the sport bracelet marketed by Microsoft ?
 
 <br>
 
-| [Thuja](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CThuja&body=Just%20click%20'Submit%20new%20issue'.) | [Eucalyptus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CEucalyptus&body=Just%20click%20'Submit%20new%20issue'.) | [Baobab](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CBaobab&body=Just%20click%20'Submit%20new%20issue'.) | [Sequoia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CSequoia&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Microsoft Bracelet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Bracelet&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Pace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Pace&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Lace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Lace&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Band](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Band&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 - **SimonLeclere** answered **Cheese** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Wear of teeth** to `What is the most common cause of death among elephants in freedom ?` (Good answer)
 - **SimonLeclere** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shadeoxide** answered **U.R.S.S.** to `What country created in 1918 an army called the Red Army ?` (Good answer)
 - **SimonLeclere** answered **Brown bear** to `Which animal is the biggest known enemy of the variable nozzle ?` (Wrong answer)
 - **SimonLeclere** answered **Swarm** to `What do you call a large gathering of bees ?` (Good answer)
-- **SimonLeclere** answered **Microsoft Lace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
 | [azgar44](https://github.com/azgar44) | 32 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 18 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 19 |
 | [shadeoxide](https://github.com/shadeoxide) | 10 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
