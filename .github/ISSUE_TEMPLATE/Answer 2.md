@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Microsoft Pace'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|718|Microsoft Pace
+title: quiz|850|Tintin in the Congo
 labels: ''
 assignees: ''
 

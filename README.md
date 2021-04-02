@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the small name given to the sport bracelet marketed by Microsoft ?
+## In what adventure does Tintin find himself facing an impressive Yeti ?
 
 <br>
 
-| [Microsoft Bracelet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Bracelet&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Pace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Pace&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Lace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Lace&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft Band](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C718%7CMicrosoft%20Band&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Coke in Stock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C850%7CCoke%20in%20Stock&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in the Congo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C850%7CTintin%20in%20the%20Congo&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in Tibet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C850%7CTintin%20in%20Tibet&body=Just%20click%20'Submit%20new%20issue'.) | [The Blue Lotus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C850%7CThe%20Blue%20Lotus&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Microsoft Pace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
 - **SimonLeclere** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 - **SimonLeclere** answered **Cheese** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Wear of teeth** to `What is the most common cause of death among elephants in freedom ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shadeoxide** answered **Camouflage** to `Which of these dress colors does not exist in horses ?` (Good answer)
 - **shadeoxide** answered **U.R.S.S.** to `What country created in 1918 an army called the Red Army ?` (Good answer)
 - **SimonLeclere** answered **Brown bear** to `Which animal is the biggest known enemy of the variable nozzle ?` (Wrong answer)
-- **SimonLeclere** answered **Swarm** to `What do you call a large gathering of bees ?` (Good answer)
 
 </details>
 

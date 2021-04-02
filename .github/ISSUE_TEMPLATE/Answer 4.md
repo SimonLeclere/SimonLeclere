@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Microsoft Band'
+name: 'Answer 3 : The Blue Lotus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|718|Microsoft Band
+title: quiz|850|The Blue Lotus
 labels: ''
 assignees: ''
 

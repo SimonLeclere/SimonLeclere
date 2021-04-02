@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Microsoft Lace'
+name: 'Answer 3 : Tintin in Tibet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|718|Microsoft Lace
+title: quiz|850|Tintin in Tibet
 labels: ''
 assignees: ''
 
