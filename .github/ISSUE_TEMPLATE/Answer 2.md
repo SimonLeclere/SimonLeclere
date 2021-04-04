@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : May Tea'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|850|Tintin in the Congo
+title: quiz|303|May Tea
 labels: ''
 assignees: ''
 

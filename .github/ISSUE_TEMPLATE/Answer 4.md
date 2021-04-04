@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : The Blue Lotus'
+name: 'Answer 3 : Arizona'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|850|The Blue Lotus
+title: quiz|303|Arizona
 labels: ''
 assignees: ''
 
