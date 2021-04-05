@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : May Tea'
+name: 'Answer 3 : In cosmonaut'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|303|May Tea
+title: quiz|213|In cosmonaut
 labels: ''
 assignees: ''
 
