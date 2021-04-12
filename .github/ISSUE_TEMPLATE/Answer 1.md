@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : In school'
+name: 'Answer 3 : Betty Kane'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|213|In school
+title: quiz|820|Betty Kane
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How is Britney Spears dressed in the clip « ... Baby One More Time » ?
+## Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?
 
 <br>
 
-| [In school](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C213%7CIn%20school&body=Just%20click%20'Submit%20new%20issue'.) | [In cosmonaut](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C213%7CIn%20cosmonaut&body=Just%20click%20'Submit%20new%20issue'.) | [As a lioness](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C213%7CAs%20a%20lioness&body=Just%20click%20'Submit%20new%20issue'.) | [Police](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C213%7CPolice&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Betty Kane](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CBetty%20Kane&body=Just%20click%20'Submit%20new%20issue'.) | [Barbara Gordon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CBarbara%20Gordon&body=Just%20click%20'Submit%20new%20issue'.) | [Helena Bertinelli](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CHelena%20Bertinelli&body=Just%20click%20'Submit%20new%20issue'.) | [Cassandra Cain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C820%7CCassandra%20Cain&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Darkempire78** answered **In school** to `How is Britney Spears dressed in the clip « ... Baby One More Time » ?` (Good answer)
 - **SimonLeclere** answered **May Tea** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
 - **SimonLeclere** answered **Tintin in the Congo** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Wrong answer)
 - **SimonLeclere** answered **Microsoft Pace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 - **SimonLeclere** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **shadeoxide** answered **Rafael Nadal** to `Which champion of clay is born on the island of Majorca ?` (Good answer)
-- **shadeoxide** answered **Camouflage** to `Which of these dress colors does not exist in horses ?` (Good answer)
 
 </details>
 
