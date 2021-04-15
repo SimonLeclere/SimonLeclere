@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Barbara Gordon'
+name: 'Answer 3 : S.C.B.'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|820|Barbara Gordon
+title: quiz|344|S.C.B.
 labels: ''
 assignees: ''
 

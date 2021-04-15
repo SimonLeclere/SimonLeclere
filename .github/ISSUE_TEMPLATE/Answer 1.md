@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Betty Kane'
+name: 'Answer 3 : F.G.T.B.'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|820|Betty Kane
+title: quiz|344|F.G.T.B.
 labels: ''
 assignees: ''
 
