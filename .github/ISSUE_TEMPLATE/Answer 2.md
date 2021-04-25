@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Hornet'
+name: 'Answer 3 : Laos'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|36|Hornet
+title: quiz|895|Laos
 labels: ''
 assignees: ''
 

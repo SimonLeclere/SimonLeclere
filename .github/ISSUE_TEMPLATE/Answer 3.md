@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Worker'
+name: 'Answer 3 : Malaysia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|36|Worker
+title: quiz|895|Malaysia
 labels: ''
 assignees: ''
 
