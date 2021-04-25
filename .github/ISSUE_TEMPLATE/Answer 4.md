@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : R.F.C.B.'
+name: 'Answer 3 : Wasp'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|344|R.F.C.B.
+title: quiz|36|Wasp
 labels: ''
 assignees: ''
 

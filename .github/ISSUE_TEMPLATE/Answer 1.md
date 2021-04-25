@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : F.G.T.B.'
+name: 'Answer 3 : Queen'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|344|F.G.T.B.
+title: quiz|36|Queen
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What acronym designates the central body of the Belgian pigeon sport ?
+## Who is the only fertile female individual in a bee colony ?
 
 <br>
 
-| [F.G.T.B.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C344%7CF.G.T.B.&body=Just%20click%20'Submit%20new%20issue'.) | [S.C.B.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C344%7CS.C.B.&body=Just%20click%20'Submit%20new%20issue'.) | [A.C.B.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C344%7CA.C.B.&body=Just%20click%20'Submit%20new%20issue'.) | [R.F.C.B.](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C344%7CR.F.C.B.&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Queen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C36%7CQueen&body=Just%20click%20'Submit%20new%20issue'.) | [Hornet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C36%7CHornet&body=Just%20click%20'Submit%20new%20issue'.) | [Worker](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C36%7CWorker&body=Just%20click%20'Submit%20new%20issue'.) | [Wasp](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C36%7CWasp&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **zeis974** answered **R.F.C.B.** to `What acronym designates the central body of the Belgian pigeon sport ?` (Good answer)
 - **Janastinou** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
 - **Darkempire78** answered **In school** to `How is Britney Spears dressed in the clip « ... Baby One More Time » ?` (Good answer)
 - **SimonLeclere** answered **May Tea** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Cheese** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
 - **SimonLeclere** answered **Wear of teeth** to `What is the most common cause of death among elephants in freedom ?` (Good answer)
 - **SimonLeclere** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
-- **SimonLeclere** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 
 </details>
 

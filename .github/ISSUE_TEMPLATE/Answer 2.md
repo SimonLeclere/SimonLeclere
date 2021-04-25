@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : S.C.B.'
+name: 'Answer 3 : Hornet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|344|S.C.B.
+title: quiz|36|Hornet
 labels: ''
 assignees: ''
 
