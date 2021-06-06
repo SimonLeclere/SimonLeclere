@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 30%'
+name: 'Answer 3 : Loathly'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|68|30%
+title: quiz|769|Loathly
 labels: ''
 assignees: ''
 
