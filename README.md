@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which country is Rangoon the largest city in terms of number of inhabitants ?
+## What is the percentage of rodents among mammals ?
 
 <br>
 
-| [Burma](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C895%7CBurma&body=Just%20click%20'Submit%20new%20issue'.) | [Laos](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C895%7CLaos&body=Just%20click%20'Submit%20new%20issue'.) | [Malaysia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C895%7CMalaysia&body=Just%20click%20'Submit%20new%20issue'.) | [Philippines](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C895%7CPhilippines&body=Just%20click%20'Submit%20new%20issue'.) |
+| [40%](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C68%7C40%25&body=Just%20click%20'Submit%20new%20issue'.) | [10%](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C68%7C10%25&body=Just%20click%20'Submit%20new%20issue'.) | [30%](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C68%7C30%25&body=Just%20click%20'Submit%20new%20issue'.) | [20%](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C68%7C20%25&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shadeoxide** answered **Burma** to `Which country is Rangoon the largest city in terms of number of inhabitants ?` (Good answer)
 - **zeis974** answered **Queen** to `Who is the only fertile female individual in a bee colony ?` (Good answer)
 - **zeis974** answered **R.F.C.B.** to `What acronym designates the central body of the Belgian pigeon sport ?` (Good answer)
 - **Janastinou** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Microsoft Pace** to `What is the small name given to the sport bracelet marketed by Microsoft ?` (Wrong answer)
 - **SimonLeclere** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 - **SimonLeclere** answered **Cheese** to `What is the main economic activity of the Pyrenean and Alpine frontiers ?` (Wrong answer)
-- **SimonLeclere** answered **Wear of teeth** to `What is the most common cause of death among elephants in freedom ?` (Good answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [earearray](https://github.com/earearray) | 34 |
 | [azgar44](https://github.com/azgar44) | 32 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 19 |
-| [shadeoxide](https://github.com/shadeoxide) | 10 |
+| [shadeoxide](https://github.com/shadeoxide) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
