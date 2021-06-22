@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : TwoDrive'
+name: 'Answer 3 : Sumare'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|696|TwoDrive
+title: quiz|23|Sumare
 labels: ''
 assignees: ''
 
