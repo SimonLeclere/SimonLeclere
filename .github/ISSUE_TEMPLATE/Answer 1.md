@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Brumadinho'
+name: 'Answer 3 : Quentin Tarantino'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|23|Brumadinho
+title: quiz|196|Quentin Tarantino
 labels: ''
 assignees: ''
 

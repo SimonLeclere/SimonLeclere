@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sumare'
+name: 'Answer 3 : Robert Redford'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|23|Sumare
+title: quiz|196|Robert Redford
 labels: ''
 assignees: ''
 

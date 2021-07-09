@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Arapiraca'
+name: 'Answer 3 : David Fincher'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|23|Arapiraca
+title: quiz|196|David Fincher
 labels: ''
 assignees: ''
 

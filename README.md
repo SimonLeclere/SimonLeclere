@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?
+## Who directed the film « And in the middle flows a river », released in 1992 ?
 
 <br>
 
-| [Brumadinho](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C23%7CBrumadinho&body=Just%20click%20'Submit%20new%20issue'.) | [Arapiraca](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C23%7CArapiraca&body=Just%20click%20'Submit%20new%20issue'.) | [Sumare](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C23%7CSumare&body=Just%20click%20'Submit%20new%20issue'.) | [Camacari](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C23%7CCamacari&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Quentin Tarantino](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CQuentin%20Tarantino&body=Just%20click%20'Submit%20new%20issue'.) | [David Fincher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CDavid%20Fincher&body=Just%20click%20'Submit%20new%20issue'.) | [Robert Redford](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CRobert%20Redford&body=Just%20click%20'Submit%20new%20issue'.) | [Steven Soderbergh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CSteven%20Soderbergh&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earock** answered **Brumadinho** to `The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?` (Good answer)
 - **azgar44** answered **OneDrive** to `Which online storage service was invented by Microsoft ?` (Good answer)
 - **azgar44** answered **Loathly** to `Who represents the true enigma of « Tales of Thousand and One Nights » ?` (Wrong answer)
 - **shadeoxide** answered **40%** to `What is the percentage of rodents among mammals ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **Janastinou** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
 - **Darkempire78** answered **In school** to `How is Britney Spears dressed in the clip « ... Baby One More Time » ?` (Good answer)
 - **SimonLeclere** answered **May Tea** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
-- **SimonLeclere** answered **Tintin in the Congo** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Wrong answer)
 
 </details>
 
