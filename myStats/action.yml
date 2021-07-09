@@ -4,6 +4,9 @@ inputs:
   user:
     description: 'Github user'
     required: true
+  userID:
+    description: 'Github user ID'
+    required: true
 runs:
   using: 'node12'
   main: 'index.js'

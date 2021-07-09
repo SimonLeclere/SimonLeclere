@@ -13,6 +13,7 @@ jobs:
         id: stats
         with:
           user: ${{ github.event.issue.user.login }}
+          userID: ${{ github.event.issue.user.id }}
       - name: Close Issue
         uses: peter-evans/close-issue@v1
         with:

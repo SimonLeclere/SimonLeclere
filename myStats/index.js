@@ -1,4 +1,5 @@
 const core = require('@actions/core');
+const userID = core.getInput('userID');
 const user = core.getInput('user');
 
 try {
@@ -7,7 +8,7 @@ try {
 
     const data = require('../data.json');
 
-    const userLeaderboard = data.leaderboard.find(x => x.name === user);
+    const userLeaderboard = data.leaderboard.find(x => x.userID === userID);
     if(!userLeaderboard) return core.setOutput('closeIssueMsg', `Hey, ${user}, it seems that you have never played before, so you don't have any statistics. Start by answering a question ;)`);
 
     const rank = `${data.leaderboard.filter(u => u.wins > userLeaderboard.wins).length + 1}`;
