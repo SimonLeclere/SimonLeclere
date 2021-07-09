@@ -8,7 +8,7 @@ const UserData = {
     user: core.getInput('user')
 }
 
-console.log(core.getInput('test'))
+console.log(core.getInput('userID'))
 
 const answerData = UserData.title.split('|');
 
