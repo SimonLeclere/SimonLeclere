@@ -8,6 +8,8 @@ const UserData = {
     user: core.getInput('user')
 }
 
+console.log(core.getInput('test'))
+
 const answerData = UserData.title.split('|');
 
 const makeLeaderboard = (leaderboard) => leaderboard.sort((a, b) => b.wins - a.wins).slice(0, 10);
