@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Where are your feet positioned when riding ?
+## What have we checked in 2020 among travelers leaving planes from China ?
 
 <br>
 
-| [Stirrups](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CStirrups&body=Just%20click%20'Submit%20new%20issue'.) | [Reines](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CReines&body=Just%20click%20'Submit%20new%20issue'.) | [Straps](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CStraps&body=Just%20click%20'Submit%20new%20issue'.) | [Baudriers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CBaudriers&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Blood](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C366%7CBlood&body=Just%20click%20'Submit%20new%20issue'.) | [Temperature](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C366%7CTemperature&body=Just%20click%20'Submit%20new%20issue'.) | [Pupils](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C366%7CPupils&body=Just%20click%20'Submit%20new%20issue'.) | [Hands](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C366%7CHands&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,7 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
-- **SimonLeclere** answered **Robert Redford** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Good answer)
+- **SimonLeclere** answered **Stirrups** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Wrong answer)
 - **earock** answered **Brumadinho** to `The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?` (Good answer)
 - **azgar44** answered **OneDrive** to `Which online storage service was invented by Microsoft ?` (Good answer)
 - **azgar44** answered **Loathly** to `Who represents the true enigma of « Tales of Thousand and One Nights » ?` (Wrong answer)
@@ -59,9 +59,9 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | User | Number of wins |
 |-|-|
 | [MRakox](https://github.com/MRakox) | 51 |
-| [earearray](https://github.com/earearray) | 34 |
+| [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 20 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 18 |
 | [shadeoxide](https://github.com/shadeoxide) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

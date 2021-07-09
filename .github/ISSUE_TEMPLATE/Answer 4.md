@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Baudriers'
+name: 'Answer 3 : Hands'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|276|Baudriers
+title: quiz|366|Hands
 labels: ''
 assignees: ''
 

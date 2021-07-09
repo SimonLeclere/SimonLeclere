@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Stirrups'
+name: 'Answer 3 : Blood'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|276|Stirrups
+title: quiz|366|Blood
 labels: ''
 assignees: ''
 
