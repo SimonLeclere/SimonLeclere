@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Blood'
+name: 'Answer 3 : Lee Cooper'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|366|Blood
+title: quiz|199|Lee Cooper
 labels: ''
 assignees: ''
 

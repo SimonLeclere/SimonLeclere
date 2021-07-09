@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Temperature'
+name: 'Answer 3 : Wrangler'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|366|Temperature
+title: quiz|199|Wrangler
 labels: ''
 assignees: ''
 

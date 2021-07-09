@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Hands'
+name: 'Answer 3 : Pepe Jeans'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|366|Hands
+title: quiz|199|Pepe Jeans
 labels: ''
 assignees: ''
 
