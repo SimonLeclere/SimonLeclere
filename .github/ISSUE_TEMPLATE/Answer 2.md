@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : David Fincher'
+name: 'Answer 3 : Reines'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|196|David Fincher
+title: quiz|276|Reines
 labels: ''
 assignees: ''
 

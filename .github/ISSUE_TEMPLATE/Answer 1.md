@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Quentin Tarantino'
+name: 'Answer 3 : Stirrups'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|196|Quentin Tarantino
+title: quiz|276|Stirrups
 labels: ''
 assignees: ''
 
