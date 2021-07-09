@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Robert Redford'
+name: 'Answer 3 : Straps'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|196|Robert Redford
+title: quiz|276|Straps
 labels: ''
 assignees: ''
 

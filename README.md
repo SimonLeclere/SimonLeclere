@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who directed the film « And in the middle flows a river », released in 1992 ?
+## Where are your feet positioned when riding ?
 
 <br>
 
-| [Quentin Tarantino](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CQuentin%20Tarantino&body=Just%20click%20'Submit%20new%20issue'.) | [David Fincher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CDavid%20Fincher&body=Just%20click%20'Submit%20new%20issue'.) | [Robert Redford](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CRobert%20Redford&body=Just%20click%20'Submit%20new%20issue'.) | [Steven Soderbergh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C196%7CSteven%20Soderbergh&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Stirrups](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CStirrups&body=Just%20click%20'Submit%20new%20issue'.) | [Reines](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CReines&body=Just%20click%20'Submit%20new%20issue'.) | [Straps](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CStraps&body=Just%20click%20'Submit%20new%20issue'.) | [Baudriers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C276%7CBaudriers&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Robert Redford** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Good answer)
 - **earock** answered **Brumadinho** to `The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?` (Good answer)
 - **azgar44** answered **OneDrive** to `Which online storage service was invented by Microsoft ?` (Good answer)
 - **azgar44** answered **Loathly** to `Who represents the true enigma of « Tales of Thousand and One Nights » ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **zeis974** answered **R.F.C.B.** to `What acronym designates the central body of the Belgian pigeon sport ?` (Good answer)
 - **Janastinou** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
 - **Darkempire78** answered **In school** to `How is Britney Spears dressed in the clip « ... Baby One More Time » ?` (Good answer)
-- **SimonLeclere** answered **May Tea** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earearray](https://github.com/earearray) | 34 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 19 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
