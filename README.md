@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What clickable link can we now apply to a photo on Instagram ?
+## Why do martens sometimes kill chickens ?
 
 <br>
 
-| [Shortcuts](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CShortcuts&body=Just%20click%20'Submit%20new%20issue'.) | [Labels](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CLabels&body=Just%20click%20'Submit%20new%20issue'.) | [Hashtags-stickers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CHashtags-stickers&body=Just%20click%20'Submit%20new%20issue'.) | [Gif Anims](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CGif%20Anims&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Paws](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C116%7CPaws&body=Just%20click%20'Submit%20new%20issue'.) | [Thighs](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C116%7CThighs&body=Just%20click%20'Submit%20new%20issue'.) | [Blood](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C116%7CBlood&body=Just%20click%20'Submit%20new%20issue'.) | [Liver](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C116%7CLiver&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earock** answered **Labels** to `What clickable link can we now apply to a photo on Instagram ?` (Wrong answer)
 - **earock** answered **Pepe Jeans** to `What brand of jeans did Brad Pitt advertise for that out of the shadows ?` (Wrong answer)
 - **SimonLeclere** answered **Temperature** to `What have we checked in 2020 among travelers leaving planes from China ?` (Good answer)
 - **SimonLeclere** answered **Stirrups** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shadeoxide** answered **40%** to `What is the percentage of rodents among mammals ?` (Good answer)
 - **shadeoxide** answered **Burma** to `Which country is Rangoon the largest city in terms of number of inhabitants ?` (Good answer)
 - **zeis974** answered **Queen** to `Who is the only fertile female individual in a bee colony ?` (Good answer)
-- **zeis974** answered **R.F.C.B.** to `What acronym designates the central body of the Belgian pigeon sport ?` (Good answer)
 
 </details>
 

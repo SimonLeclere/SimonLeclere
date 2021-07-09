@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Hashtags-stickers'
+name: 'Answer 3 : Blood'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|668|Hashtags-stickers
+title: quiz|116|Blood
 labels: ''
 assignees: ''
 

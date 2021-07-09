@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Shortcuts'
+name: 'Answer 3 : Paws'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|668|Shortcuts
+title: quiz|116|Paws
 labels: ''
 assignees: ''
 

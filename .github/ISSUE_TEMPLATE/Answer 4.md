@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Gif Anims'
+name: 'Answer 3 : Liver'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|668|Gif Anims
+title: quiz|116|Liver
 labels: ''
 assignees: ''
 
