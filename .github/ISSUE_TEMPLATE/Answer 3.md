@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Levi's'
+name: 'Answer 3 : Hashtags-stickers'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|199|Levi's
+title: quiz|668|Hashtags-stickers
 labels: ''
 assignees: ''
 

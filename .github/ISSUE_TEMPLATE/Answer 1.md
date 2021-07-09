@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Lee Cooper'
+name: 'Answer 3 : Shortcuts'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|199|Lee Cooper
+title: quiz|668|Shortcuts
 labels: ''
 assignees: ''
 

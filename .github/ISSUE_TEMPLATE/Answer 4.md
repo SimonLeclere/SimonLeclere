@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Pepe Jeans'
+name: 'Answer 3 : Gif Anims'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|199|Pepe Jeans
+title: quiz|668|Gif Anims
 labels: ''
 assignees: ''
 

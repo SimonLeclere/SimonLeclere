@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What brand of jeans did Brad Pitt advertise for that out of the shadows ?
+## What clickable link can we now apply to a photo on Instagram ?
 
 <br>
 
-| [Lee Cooper](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C199%7CLee%20Cooper&body=Just%20click%20'Submit%20new%20issue'.) | [Wrangler](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C199%7CWrangler&body=Just%20click%20'Submit%20new%20issue'.) | [Levi's](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C199%7CLevi's&body=Just%20click%20'Submit%20new%20issue'.) | [Pepe Jeans](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C199%7CPepe%20Jeans&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Shortcuts](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CShortcuts&body=Just%20click%20'Submit%20new%20issue'.) | [Labels](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CLabels&body=Just%20click%20'Submit%20new%20issue'.) | [Hashtags-stickers](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CHashtags-stickers&body=Just%20click%20'Submit%20new%20issue'.) | [Gif Anims](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C668%7CGif%20Anims&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **earock** answered **Pepe Jeans** to `What brand of jeans did Brad Pitt advertise for that out of the shadows ?` (Wrong answer)
 - **SimonLeclere** answered **Temperature** to `What have we checked in 2020 among travelers leaving planes from China ?` (Good answer)
 - **SimonLeclere** answered **Stirrups** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Wrong answer)
 - **earock** answered **Brumadinho** to `The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shadeoxide** answered **Burma** to `Which country is Rangoon the largest city in terms of number of inhabitants ?` (Good answer)
 - **zeis974** answered **Queen** to `Who is the only fertile female individual in a bee colony ?` (Good answer)
 - **zeis974** answered **R.F.C.B.** to `What acronym designates the central body of the Belgian pigeon sport ?` (Good answer)
-- **Janastinou** answered **Betty Kane** to `Who was the Batgirl of the DC Comics universe from 1999 until 2009 ?` (Wrong answer)
 
 </details>
 
