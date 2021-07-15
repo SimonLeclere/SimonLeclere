@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Thighs'
+name: 'Answer 3 : Balzac'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|116|Thighs
+title: quiz|503|Balzac
 labels: ''
 assignees: ''
 

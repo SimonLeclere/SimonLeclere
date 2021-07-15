@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Blood'
+name: 'Answer 3 : Favre'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|116|Blood
+title: quiz|503|Favre
 labels: ''
 assignees: ''
 
