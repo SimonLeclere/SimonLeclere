@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of these writers was 40 years old when Gustave Flaubert was born ?
+## In what adventure does Tintin find himself facing an impressive Yeti ?
 
 <br>
 
-| [Hugo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C503%7CHugo&body=Just%20click%20'Submit%20new%20issue'.) | [Balzac](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C503%7CBalzac&body=Just%20click%20'Submit%20new%20issue'.) | [Favre](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C503%7CFavre&body=Just%20click%20'Submit%20new%20issue'.) | [Stendhal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C503%7CStendhal&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Tintin in Tibet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C842%7CTintin%20in%20Tibet&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in the Congo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C842%7CTintin%20in%20the%20Congo&body=Just%20click%20'Submit%20new%20issue'.) | [The Blue Lotus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C842%7CThe%20Blue%20Lotus&body=Just%20click%20'Submit%20new%20issue'.) | [Coke in Stock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C842%7CCoke%20in%20Stock&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **azgar44** answered **Favre** to `Which of these writers was 40 years old when Gustave Flaubert was born ?` (Wrong answer)
 - **shadeoxide** answered **Paws** to `Why do martens sometimes kill chickens ?` (Wrong answer)
 - **earock** answered **Labels** to `What clickable link can we now apply to a photo on Instagram ?` (Wrong answer)
 - **earock** answered **Pepe Jeans** to `What brand of jeans did Brad Pitt advertise for that out of the shadows ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **azgar44** answered **OneDrive** to `Which online storage service was invented by Microsoft ?` (Good answer)
 - **azgar44** answered **Loathly** to `Who represents the true enigma of « Tales of Thousand and One Nights » ?` (Wrong answer)
 - **shadeoxide** answered **40%** to `What is the percentage of rodents among mammals ?` (Good answer)
-- **shadeoxide** answered **Burma** to `Which country is Rangoon the largest city in terms of number of inhabitants ?` (Good answer)
 
 </details>
 

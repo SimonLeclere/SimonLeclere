@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Balzac'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|503|Balzac
+title: quiz|842|Tintin in the Congo
 labels: ''
 assignees: ''
 

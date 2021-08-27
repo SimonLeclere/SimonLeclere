@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Hugo'
+name: 'Answer 3 : Tintin in Tibet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|503|Hugo
+title: quiz|842|Tintin in Tibet
 labels: ''
 assignees: ''
 
