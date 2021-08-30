@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : The Blue Lotus'
+name: 'Answer 3 : 3,500'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|842|The Blue Lotus
+title: quiz|563|3,500
 labels: ''
 assignees: ''
 

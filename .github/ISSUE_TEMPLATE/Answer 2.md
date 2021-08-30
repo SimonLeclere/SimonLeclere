@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : 4,500'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|842|Tintin in the Congo
+title: quiz|563|4,500
 labels: ''
 assignees: ''
 
