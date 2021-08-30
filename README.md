@@ -3,15 +3,15 @@
 I'm Simon, a young student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
-Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
+Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere) - 🧃 [Buy me a glass of liquid happiness](https://paypal.me/givemetatune?locale.x=fr_FR)
 
 <br>
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
-- 🌱 I’m currently learning **Javascript, and especially Node.JS**
-- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), [js-string-cleaner](https://github.com/SimonLeclere/Js-String-Cleaner)**
+- 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js** and **[discord-easy-dashboard](https://github.com/SimonLeclere/discord-easy-dashboard) another framework for adding complex dashboard system to any discord bot**
+- 🌱 I’m currently learning **Javascript, and especially Node.JS, Python, SQL and Arduino**
+- 🤔 I’m looking for help with **any of my projects lol**
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([sιмση ℓεcℓεяε#5765](https://discord.com/invite/U2VGrkT))**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
