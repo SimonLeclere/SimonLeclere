@@ -9,8 +9,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js** and **[discord-easy-dashboard](https://github.com/SimonLeclere/discord-easy-dashboard) another framework for adding complex dashboard system to any discord bot**
-- 🌱 I’m currently learning **Javascript, and especially Node.JS, Python, SQL and Arduino**
+- 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js** and **[discord-easy-dashboard](https://github.com/SimonLeclere/discord-easy-dashboard)**
+- 🌱 I’m currently learning **Node.JS, Python, SQL, Arduino...**
 - 🤔 I’m looking for help with **any of my projects lol**
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([sιмση ℓεcℓεяε#5765](https://discord.com/invite/U2VGrkT))**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
