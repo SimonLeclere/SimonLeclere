@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many plates for lunch were loaded aboard the Titanic ?
+## What is the name of D'Artagnan's valet created by Alexandre Dumas ?
 
 <br>
 
-| [1,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C1,500&body=Just%20click%20'Submit%20new%20issue'.) | [4,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C4,500&body=Just%20click%20'Submit%20new%20issue'.) | [3,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C3,500&body=Just%20click%20'Submit%20new%20issue'.) | [2,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C2,500&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Carlos](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C406%7CCarlos&body=Just%20click%20'Submit%20new%20issue'.) | [Sancho](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C406%7CSancho&body=Just%20click%20'Submit%20new%20issue'.) | [Planchet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C406%7CPlanchet&body=Just%20click%20'Submit%20new%20issue'.) | [Dantes](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C406%7CDantes&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **3,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Wrong answer)
 - **SimonLeclere** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **azgar44** answered **Favre** to `Which of these writers was 40 years old when Gustave Flaubert was born ?` (Wrong answer)
 - **shadeoxide** answered **Paws** to `Why do martens sometimes kill chickens ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Stirrups** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Wrong answer)
 - **earock** answered **Brumadinho** to `The rupture of which Brazilian dam had a significant impact on Amazonian biodiversity ?` (Good answer)
 - **azgar44** answered **OneDrive** to `Which online storage service was invented by Microsoft ?` (Good answer)
-- **azgar44** answered **Loathly** to `Who represents the true enigma of « Tales of Thousand and One Nights » ?` (Wrong answer)
 
 </details>
 
