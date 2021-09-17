@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Huntress'
+name: 'Answer 3 : Atomic'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|819|Huntress
+title: quiz|149|Atomic
 labels: ''
 assignees: ''
 

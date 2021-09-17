@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Blink'
+name: 'Answer 3 : Dynastar'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|819|Blink
+title: quiz|149|Dynastar
 labels: ''
 assignees: ''
 

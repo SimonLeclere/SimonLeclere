@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cipher'
+name: 'Answer 3 : Duret'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|819|Cipher
+title: quiz|149|Duret
 labels: ''
 assignees: ''
 

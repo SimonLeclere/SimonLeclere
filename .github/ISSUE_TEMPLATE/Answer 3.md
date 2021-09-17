@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Andromeda'
+name: 'Answer 3 : Nordica'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|819|Andromeda
+title: quiz|149|Nordica
 labels: ''
 assignees: ''
 
