@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Summer'
+name: 'Answer 3 : Huntress'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|118|Summer
+title: quiz|819|Huntress
 labels: ''
 assignees: ''
 

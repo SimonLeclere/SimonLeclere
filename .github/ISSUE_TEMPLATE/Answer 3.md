@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Winter'
+name: 'Answer 3 : Andromeda'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|118|Winter
+title: quiz|819|Andromeda
 labels: ''
 assignees: ''
 

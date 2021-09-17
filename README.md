@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## During what season of the year can we hear the owl scream ?
+## Which Atlante from the Marvel Universe can lift up to fourteen tons in the air ?
 
 <br>
 
-| [Spring](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C118%7CSpring&body=Just%20click%20'Submit%20new%20issue'.) | [Summer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C118%7CSummer&body=Just%20click%20'Submit%20new%20issue'.) | [Winter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C118%7CWinter&body=Just%20click%20'Submit%20new%20issue'.) | [Autumn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C118%7CAutumn&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Cipher](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C819%7CCipher&body=Just%20click%20'Submit%20new%20issue'.) | [Huntress](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C819%7CHuntress&body=Just%20click%20'Submit%20new%20issue'.) | [Andromeda](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C819%7CAndromeda&body=Just%20click%20'Submit%20new%20issue'.) | [Blink](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C819%7CBlink&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **HideakiAtsuyo** answered **Summer** to `During what season of the year can we hear the owl scream ?` (Wrong answer)
 - **HideakiAtsuyo** answered **Become an assassin** to `In cinema, what is the purpose of the fight club managed by the enigmatic Tyler Durden ?` (Wrong answer)
 - **HideakiAtsuyo** answered **Golf** to `What sport is sending a small white ball into a hole ?` (Good answer)
 - **HideakiAtsuyo** answered **Chandelier** to `Which of these items is not part of the weapons in the Cluedo board game ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **azgar44** answered **Favre** to `Which of these writers was 40 years old when Gustave Flaubert was born ?` (Wrong answer)
 - **shadeoxide** answered **Paws** to `Why do martens sometimes kill chickens ?` (Wrong answer)
 - **earock** answered **Labels** to `What clickable link can we now apply to a photo on Instagram ?` (Wrong answer)
-- **earock** answered **Pepe Jeans** to `What brand of jeans did Brad Pitt advertise for that out of the shadows ?` (Wrong answer)
 
 </details>
 
