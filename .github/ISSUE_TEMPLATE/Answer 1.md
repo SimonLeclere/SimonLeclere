@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Carlos'
+name: 'Answer 3 : Revolver'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|406|Carlos
+title: quiz|455|Revolver
 labels: ''
 assignees: ''
 
