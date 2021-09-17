@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which Minister of Health announced the death of a first patient in France ?
+## Which of the following points to an iconic enemy of Spider-Man ?
 
 <br>
 
-| [Sylvie Goulard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C371%7CSylvie%20Goulard&body=Just%20click%20'Submit%20new%20issue'.) | [Françoise Nyssen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C371%7CFran%C3%A7oise%20Nyssen&body=Just%20click%20'Submit%20new%20issue'.) | [Muriel Pénicaud](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C371%7CMuriel%20P%C3%A9nicaud&body=Just%20click%20'Submit%20new%20issue'.) | [Agnès Buzyn](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C371%7CAgn%C3%A8s%20Buzyn&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Thanos](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C643%7CThanos&body=Just%20click%20'Submit%20new%20issue'.) | [Void](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C643%7CVoid&body=Just%20click%20'Submit%20new%20issue'.) | [The Lizard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C643%7CThe%20Lizard&body=Just%20click%20'Submit%20new%20issue'.) | [The Green Goblin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C643%7CThe%20Green%20Goblin&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **HideakiAtsuyo** answered **Agnès Buzyn** to `Which Minister of Health announced the death of a first patient in France ?` (Good answer)
 - **HideakiAtsuyo** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
 - **HideakiAtsuyo** answered **Duret** to `What is the oldest ski factory in France in the 1920s ?` (Good answer)
 - **HideakiAtsuyo** answered **Cipher** to `Which Atlante from the Marvel Universe can lift up to fourteen tons in the air ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **HideakiAtsuyo** answered **Chandelier** to `Which of these items is not part of the weapons in the Cluedo board game ?` (Wrong answer)
 - **HideakiAtsuyo** answered **Planchet** to `What is the name of D'Artagnan's valet created by Alexandre Dumas ?` (Good answer)
 - **SimonLeclere** answered **3,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Wrong answer)
-- **SimonLeclere** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 
 </details>
 
@@ -66,7 +66,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
+| [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 5 |
 | [evaristocuesta](https://github.com/evaristocuesta) | 4 |
-| [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 4 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
