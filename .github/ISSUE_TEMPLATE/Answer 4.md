@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Dynastar'
+name: 'Answer 3 : Candy'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|149|Dynastar
+title: quiz|765|Candy
 labels: ''
 assignees: ''
 

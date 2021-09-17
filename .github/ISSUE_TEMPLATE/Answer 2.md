@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Atomic'
+name: 'Answer 3 : Cosby'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|149|Atomic
+title: quiz|765|Cosby
 labels: ''
 assignees: ''
 

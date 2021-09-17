@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Duret'
+name: 'Answer 3 : Maguy'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|149|Duret
+title: quiz|765|Maguy
 labels: ''
 assignees: ''
 
