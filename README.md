@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What color are the telephone booths of the city of London ?
+## Bleeding has gradually medically replaced what hermaphrodite ?
 
 <br>
 
-| [Blanche](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C873%7CBlanche&body=Just%20click%20'Submit%20new%20issue'.) | [Red](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C873%7CRed&body=Just%20click%20'Submit%20new%20issue'.) | [Green](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C873%7CGreen&body=Just%20click%20'Submit%20new%20issue'.) | [Yellow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C873%7CYellow&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Cochineal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C396%7CCochineal&body=Just%20click%20'Submit%20new%20issue'.) | [Earthworm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C396%7CEarthworm&body=Just%20click%20'Submit%20new%20issue'.) | [Leech](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C396%7CLeech&body=Just%20click%20'Submit%20new%20issue'.) | [Snail](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C396%7CSnail&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **HideakiAtsuyo** answered **Red** to `What color are the telephone booths of the city of London ?` (Good answer)
 - **HideakiAtsuyo** answered **The Green Goblin** to `Which of the following points to an iconic enemy of Spider-Man ?` (Good answer)
 - **HideakiAtsuyo** answered **Agnès Buzyn** to `Which Minister of Health announced the death of a first patient in France ?` (Good answer)
 - **HideakiAtsuyo** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **HideakiAtsuyo** answered **Become an assassin** to `In cinema, what is the purpose of the fight club managed by the enigmatic Tyler Durden ?` (Wrong answer)
 - **HideakiAtsuyo** answered **Golf** to `What sport is sending a small white ball into a hole ?` (Good answer)
 - **HideakiAtsuyo** answered **Chandelier** to `Which of these items is not part of the weapons in the Cluedo board game ?` (Wrong answer)
-- **HideakiAtsuyo** answered **Planchet** to `What is the name of D'Artagnan's valet created by Alexandre Dumas ?` (Good answer)
 
 </details>
 
@@ -65,8 +65,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [shadeoxide](https://github.com/shadeoxide) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
+| [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 7 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
-| [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 6 |
 | [evaristocuesta](https://github.com/evaristocuesta) | 4 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)

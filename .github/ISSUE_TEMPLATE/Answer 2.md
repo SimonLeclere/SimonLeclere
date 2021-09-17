@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Red'
+name: 'Answer 3 : Earthworm'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|873|Red
+title: quiz|396|Earthworm
 labels: ''
 assignees: ''
 
