@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cosby'
+name: 'Answer 3 : Françoise Nyssen'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|765|Cosby
+title: quiz|371|Françoise Nyssen
 labels: ''
 assignees: ''
 
