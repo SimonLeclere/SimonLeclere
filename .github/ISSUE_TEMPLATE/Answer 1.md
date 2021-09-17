@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cochineal'
+name: 'Answer 3 : Donald Trump'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|396|Cochineal
+title: quiz|0|Donald Trump
 labels: ''
 assignees: ''
 

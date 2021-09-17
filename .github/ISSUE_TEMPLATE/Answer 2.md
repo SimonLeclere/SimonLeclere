@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Earthworm'
+name: 'Answer 3 : Emmanuel Macron'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|396|Earthworm
+title: quiz|0|Emmanuel Macron
 labels: ''
 assignees: ''
 

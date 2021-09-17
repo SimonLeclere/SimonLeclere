@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Snail'
+name: 'Answer 3 : Vladimir Putin'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|396|Snail
+title: quiz|0|Vladimir Putin
 labels: ''
 assignees: ''
 

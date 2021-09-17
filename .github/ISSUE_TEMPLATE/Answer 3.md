@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Leech'
+name: 'Answer 3 : Rodrigo Duterte'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|396|Leech
+title: quiz|0|Rodrigo Duterte
 labels: ''
 assignees: ''
 
