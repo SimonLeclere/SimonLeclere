@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : The Green Goblin'
+name: 'Answer 3 : Yellow'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|643|The Green Goblin
+title: quiz|873|Yellow
 labels: ''
 assignees: ''
 

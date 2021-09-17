@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Thanos'
+name: 'Answer 3 : Blanche'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|643|Thanos
+title: quiz|873|Blanche
 labels: ''
 assignees: ''
 
