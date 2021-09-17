@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What sport is sending a small white ball into a hole ?
+## In cinema, what is the purpose of the fight club managed by the enigmatic Tyler Durden ?
 
 <br>
 
-| [Chistera](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C517%7CChistera&body=Just%20click%20'Submit%20new%20issue'.) | [Golf](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C517%7CGolf&body=Just%20click%20'Submit%20new%20issue'.) | [Cricket](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C517%7CCricket&body=Just%20click%20'Submit%20new%20issue'.) | [Croquet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C517%7CCroquet&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Become an assassin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C187%7CBecome%20an%20assassin&body=Just%20click%20'Submit%20new%20issue'.) | [Create a show](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C187%7CCreate%20a%20show&body=Just%20click%20'Submit%20new%20issue'.) | [Breaking the rules](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C187%7CBreaking%20the%20rules&body=Just%20click%20'Submit%20new%20issue'.) | [Selling Drugs](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C187%7CSelling%20Drugs&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **HideakiAtsuyo** answered **Golf** to `What sport is sending a small white ball into a hole ?` (Good answer)
 - **HideakiAtsuyo** answered **Chandelier** to `Which of these items is not part of the weapons in the Cluedo board game ?` (Wrong answer)
 - **HideakiAtsuyo** answered **Planchet** to `What is the name of D'Artagnan's valet created by Alexandre Dumas ?` (Good answer)
 - **SimonLeclere** answered **3,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **earock** answered **Labels** to `What clickable link can we now apply to a photo on Instagram ?` (Wrong answer)
 - **earock** answered **Pepe Jeans** to `What brand of jeans did Brad Pitt advertise for that out of the shadows ?` (Wrong answer)
 - **SimonLeclere** answered **Temperature** to `What have we checked in 2020 among travelers leaving planes from China ?` (Good answer)
-- **SimonLeclere** answered **Stirrups** to `Who directed the film « And in the middle flows a river », released in 1992 ?` (Wrong answer)
 
 </details>
 

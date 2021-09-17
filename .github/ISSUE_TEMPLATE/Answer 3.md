@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cricket'
+name: 'Answer 3 : Breaking the rules'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|517|Cricket
+title: quiz|187|Breaking the rules
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Chistera'
+name: 'Answer 3 : Become an assassin'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|517|Chistera
+title: quiz|187|Become an assassin
 labels: ''
 assignees: ''
 
