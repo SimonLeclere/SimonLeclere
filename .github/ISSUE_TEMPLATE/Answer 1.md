@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Colony'
+name: 'Answer 3 : Hornet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|48|Colony
+title: quiz|32|Hornet
 labels: ''
 assignees: ''
 

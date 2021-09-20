@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cluster'
+name: 'Answer 3 : Wasp'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|48|Cluster
+title: quiz|32|Wasp
 labels: ''
 assignees: ''
 
