@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Donald Trump'
+name: 'Answer 3 : NetBSD'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|0|Donald Trump
+title: quiz|722|NetBSD
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Vladimir Putin'
+name: 'Answer 3 : Solaris'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|0|Vladimir Putin
+title: quiz|722|Solaris
 labels: ''
 assignees: ''
 

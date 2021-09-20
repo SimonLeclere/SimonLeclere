@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Rodrigo Duterte'
+name: 'Answer 3 : Fedora'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|0|Rodrigo Duterte
+title: quiz|722|Fedora
 labels: ''
 assignees: ''
 

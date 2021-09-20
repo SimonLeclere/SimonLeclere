@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Emmanuel Macron'
+name: 'Answer 3 : Debian'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|0|Emmanuel Macron
+title: quiz|722|Debian
 labels: ''
 assignees: ''
 
