@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : NetBSD'
+name: 'Answer 3 : Colony'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|722|NetBSD
+title: quiz|48|Colony
 labels: ''
 assignees: ''
 

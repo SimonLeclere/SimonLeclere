@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## OpenBSD came from the separation of what other operating system ?
+## What do you call all of a beekeeper's hives ?
 
 <br>
 
-| [NetBSD](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CNetBSD&body=Just%20click%20'Submit%20new%20issue'.) | [Debian](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CDebian&body=Just%20click%20'Submit%20new%20issue'.) | [Fedora](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CFedora&body=Just%20click%20'Submit%20new%20issue'.) | [Solaris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CSolaris&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Colony](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C48%7CColony&body=Just%20click%20'Submit%20new%20issue'.) | [Apiary](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C48%7CApiary&body=Just%20click%20'Submit%20new%20issue'.) | [Swarm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C48%7CSwarm&body=Just%20click%20'Submit%20new%20issue'.) | [Cluster](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C48%7CCluster&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **soudblox** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
 - **soudblox** answered **Donald Trump** to `Against which president was a dismissal procedure launched in 2019 ?` (Good answer)
 - **HideakiAtsuyo** answered **Leech** to `Bleeding has gradually medically replaced what hermaphrodite ?` (Good answer)
 - **HideakiAtsuyo** answered **Red** to `What color are the telephone booths of the city of London ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **HideakiAtsuyo** answered **Duret** to `What is the oldest ski factory in France in the 1920s ?` (Good answer)
 - **HideakiAtsuyo** answered **Cipher** to `Which Atlante from the Marvel Universe can lift up to fourteen tons in the air ?` (Wrong answer)
 - **HideakiAtsuyo** answered **Summer** to `During what season of the year can we hear the owl scream ?` (Wrong answer)
-- **HideakiAtsuyo** answered **Become an assassin** to `In cinema, what is the purpose of the fight club managed by the enigmatic Tyler Durden ?` (Wrong answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Solaris'
+name: 'Answer 3 : Cluster'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|722|Solaris
+title: quiz|48|Cluster
 labels: ''
 assignees: ''
 
