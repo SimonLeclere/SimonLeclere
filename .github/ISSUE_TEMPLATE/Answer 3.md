@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Horsefly'
+name: 'Answer 3 : Staking'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|32|Horsefly
+title: quiz|258|Staking
 labels: ''
 assignees: ''
 

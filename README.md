@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What other more aggressive insect is the bee often confused with ?
+## Which technique easily allows the multiplication of cacti ?
 
 <br>
 
-| [Hornet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C32%7CHornet&body=Just%20click%20'Submit%20new%20issue'.) | [Bumblebee](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C32%7CBumblebee&body=Just%20click%20'Submit%20new%20issue'.) | [Horsefly](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C32%7CHorsefly&body=Just%20click%20'Submit%20new%20issue'.) | [Wasp](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C32%7CWasp&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Marcottage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CMarcottage&body=Just%20click%20'Submit%20new%20issue'.) | [Cutting](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CCutting&body=Just%20click%20'Submit%20new%20issue'.) | [Staking](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CStaking&body=Just%20click%20'Submit%20new%20issue'.) | [Cernage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CCernage&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **HideakiAtsuyo** answered **Hornet** to `What other more aggressive insect is the bee often confused with ?` (Wrong answer)
 - **soudblox** answered **Apiary** to `What do you call all of a beekeeper's hives ?` (Good answer)
 - **soudblox** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
 - **soudblox** answered **Donald Trump** to `Against which president was a dismissal procedure launched in 2019 ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **HideakiAtsuyo** answered **Agnès Buzyn** to `Which Minister of Health announced the death of a first patient in France ?` (Good answer)
 - **HideakiAtsuyo** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
 - **HideakiAtsuyo** answered **Duret** to `What is the oldest ski factory in France in the 1920s ?` (Good answer)
-- **HideakiAtsuyo** answered **Cipher** to `Which Atlante from the Marvel Universe can lift up to fourteen tons in the air ?` (Wrong answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bumblebee'
+name: 'Answer 3 : Cutting'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|32|Bumblebee
+title: quiz|258|Cutting
 labels: ''
 assignees: ''
 
