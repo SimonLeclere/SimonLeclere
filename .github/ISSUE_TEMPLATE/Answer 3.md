@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Staking'
+name: 'Answer 3 : Eucalyptus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|258|Staking
+title: quiz|467|Eucalyptus
 labels: ''
 assignees: ''
 

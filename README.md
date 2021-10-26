@@ -3,7 +3,7 @@
 I'm Simon, a young student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
-Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://paypal.me/givemetatune)
+Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
 
 <br>
 
@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://paypal.me/givemet
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which technique easily allows the multiplication of cacti ?
+## In the United States, what tree over 83 meters tall is called General Sherman ?
 
 <br>
 
-| [Marcottage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CMarcottage&body=Just%20click%20'Submit%20new%20issue'.) | [Cutting](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CCutting&body=Just%20click%20'Submit%20new%20issue'.) | [Staking](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CStaking&body=Just%20click%20'Submit%20new%20issue'.) | [Cernage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C258%7CCernage&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Baobab](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CBaobab&body=Just%20click%20'Submit%20new%20issue'.) | [Thuja](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CThuja&body=Just%20click%20'Submit%20new%20issue'.) | [Eucalyptus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CEucalyptus&body=Just%20click%20'Submit%20new%20issue'.) | [Sequoia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CSequoia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://paypal.me/givemet
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Cutting** to `Which technique easily allows the multiplication of cacti ?` (Good answer)
 - **HideakiAtsuyo** answered **Hornet** to `What other more aggressive insect is the bee often confused with ?` (Wrong answer)
 - **soudblox** answered **Apiary** to `What do you call all of a beekeeper's hives ?` (Good answer)
 - **soudblox** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://paypal.me/givemet
 - **HideakiAtsuyo** answered **The Green Goblin** to `Which of the following points to an iconic enemy of Spider-Man ?` (Good answer)
 - **HideakiAtsuyo** answered **Agnès Buzyn** to `Which Minister of Health announced the death of a first patient in France ?` (Good answer)
 - **HideakiAtsuyo** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
-- **HideakiAtsuyo** answered **Duret** to `What is the oldest ski factory in France in the 1920s ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://paypal.me/givemet
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 20 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 21 |
 | [shadeoxide](https://github.com/shadeoxide) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

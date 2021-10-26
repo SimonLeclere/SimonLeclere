@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cernage'
+name: 'Answer 3 : Sequoia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|258|Cernage
+title: quiz|467|Sequoia
 labels: ''
 assignees: ''
 
