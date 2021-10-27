@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Eucalyptus'
+name: 'Answer 3 : Eurydice'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|467|Eucalyptus
+title: quiz|410|Eurydice
 labels: ''
 assignees: ''
 

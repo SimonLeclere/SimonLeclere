@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Thuja'
+name: 'Answer 3 : Serial'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|467|Thuja
+title: quiz|410|Serial
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the United States, what tree over 83 meters tall is called General Sherman ?
+## Who embodies the first woman on earth in Greek mythology ?
 
 <br>
 
-| [Baobab](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CBaobab&body=Just%20click%20'Submit%20new%20issue'.) | [Thuja](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CThuja&body=Just%20click%20'Submit%20new%20issue'.) | [Eucalyptus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CEucalyptus&body=Just%20click%20'Submit%20new%20issue'.) | [Sequoia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C467%7CSequoia&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Psyched](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CPsyched&body=Just%20click%20'Submit%20new%20issue'.) | [Serial](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CSerial&body=Just%20click%20'Submit%20new%20issue'.) | [Eurydice](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CEurydice&body=Just%20click%20'Submit%20new%20issue'.) | [Pandora](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C410%7CPandora&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shaynlink** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 - **SimonLeclere** answered **Cutting** to `Which technique easily allows the multiplication of cacti ?` (Good answer)
 - **HideakiAtsuyo** answered **Hornet** to `What other more aggressive insect is the bee often confused with ?` (Wrong answer)
 - **soudblox** answered **Apiary** to `What do you call all of a beekeeper's hives ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **HideakiAtsuyo** answered **Red** to `What color are the telephone booths of the city of London ?` (Good answer)
 - **HideakiAtsuyo** answered **The Green Goblin** to `Which of the following points to an iconic enemy of Spider-Man ?` (Good answer)
 - **HideakiAtsuyo** answered **Agnès Buzyn** to `Which Minister of Health announced the death of a first patient in France ?` (Good answer)
-- **HideakiAtsuyo** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
 
 </details>
 

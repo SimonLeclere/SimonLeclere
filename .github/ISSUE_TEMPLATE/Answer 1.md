@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Baobab'
+name: 'Answer 3 : Psyched'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|467|Baobab
+title: quiz|410|Psyched
 labels: ''
 assignees: ''
 
