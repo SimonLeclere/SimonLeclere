@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What tea is produced jointly by Nestlé and Coca-Cola ?
+## Who is Logan in the Marvel Comics « X-Men » ?
 
 <br>
 
-| [Arizona](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C303%7CArizona&body=Just%20click%20'Submit%20new%20issue'.) | [Virgin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C303%7CVirgin&body=Just%20click%20'Submit%20new%20issue'.) | [Nestea](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C303%7CNestea&body=Just%20click%20'Submit%20new%20issue'.) | [May Tea](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C303%7CMay%20Tea&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Colossus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C640%7CColossus&body=Just%20click%20'Submit%20new%20issue'.) | [Wolverine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C640%7CWolverine&body=Just%20click%20'Submit%20new%20issue'.) | [Cyclops](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C640%7CCyclops&body=Just%20click%20'Submit%20new%20issue'.) | [Caliban](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C640%7CCaliban&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **shaynlink** answered **Arizona** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
 - **shaynlink** answered **Serial** to `Who embodies the first woman on earth in Greek mythology ?` (Wrong answer)
 - **shaynlink** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 - **SimonLeclere** answered **Cutting** to `Which technique easily allows the multiplication of cacti ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **soudblox** answered **Donald Trump** to `Against which president was a dismissal procedure launched in 2019 ?` (Good answer)
 - **HideakiAtsuyo** answered **Leech** to `Bleeding has gradually medically replaced what hermaphrodite ?` (Good answer)
 - **HideakiAtsuyo** answered **Red** to `What color are the telephone booths of the city of London ?` (Good answer)
-- **HideakiAtsuyo** answered **The Green Goblin** to `Which of the following points to an iconic enemy of Spider-Man ?` (Good answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Nestea'
+name: 'Answer 3 : Cyclops'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|303|Nestea
+title: quiz|640|Cyclops
 labels: ''
 assignees: ''
 

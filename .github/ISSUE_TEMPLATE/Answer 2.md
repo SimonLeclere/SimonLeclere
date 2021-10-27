@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Virgin'
+name: 'Answer 3 : Wolverine'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|303|Virgin
+title: quiz|640|Wolverine
 labels: ''
 assignees: ''
 
