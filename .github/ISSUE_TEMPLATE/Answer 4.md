@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Pandora'
+name: 'Answer 3 : May Tea'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|410|Pandora
+title: quiz|303|May Tea
 labels: ''
 assignees: ''
 

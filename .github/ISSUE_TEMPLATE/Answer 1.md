@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Psyched'
+name: 'Answer 3 : Arizona'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|410|Psyched
+title: quiz|303|Arizona
 labels: ''
 assignees: ''
 
