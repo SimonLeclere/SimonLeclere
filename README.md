@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Where is the uropygian gland of the pigeon, the specific intradermal gland of birds ?
+## Who composed the original version of the popular song « Étoile des neiges » ?
 
 <br>
 
-| [Rump](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C350%7CRump&body=Just%20click%20'Submit%20new%20issue'.) | [Wings](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C350%7CWings&body=Just%20click%20'Submit%20new%20issue'.) | [Head](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C350%7CHead&body=Just%20click%20'Submit%20new%20issue'.) | [Neck](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C350%7CNeck&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Jakob Dont](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CJakob%20Dont&body=Just%20click%20'Submit%20new%20issue'.) | [Paul Pisk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CPaul%20Pisk&body=Just%20click%20'Submit%20new%20issue'.) | [Marcel Tyberg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CMarcel%20Tyberg&body=Just%20click%20'Submit%20new%20issue'.) | [Franz Winkler](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CFranz%20Winkler&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Lucas9h** answered **Neck** to `Where is the uropygian gland of the pigeon, the specific intradermal gland of birds ?` (Wrong answer)
 - **Lucas9h** answered **Mulan** to `What Disney adventures take place in northern China ?` (Good answer)
 - **Lucas9h** answered **Wolverine** to `Who is Logan in the Marvel Comics « X-Men » ?` (Good answer)
 - **shaynlink** answered **Arizona** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **HideakiAtsuyo** answered **Hornet** to `What other more aggressive insect is the bee often confused with ?` (Wrong answer)
 - **soudblox** answered **Apiary** to `What do you call all of a beekeeper's hives ?` (Good answer)
 - **soudblox** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
-- **soudblox** answered **Donald Trump** to `Against which president was a dismissal procedure launched in 2019 ?` (Good answer)
 
 </details>
 

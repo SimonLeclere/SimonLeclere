@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Head'
+name: 'Answer 3 : Marcel Tyberg'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|350|Head
+title: quiz|147|Marcel Tyberg
 labels: ''
 assignees: ''
 

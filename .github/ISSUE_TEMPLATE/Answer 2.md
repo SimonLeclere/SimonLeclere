@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Wings'
+name: 'Answer 3 : Paul Pisk'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|350|Wings
+title: quiz|147|Paul Pisk
 labels: ''
 assignees: ''
 
