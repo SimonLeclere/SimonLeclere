@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Pocahontas'
+name: 'Answer 3 : Neck'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|791|Pocahontas
+title: quiz|350|Neck
 labels: ''
 assignees: ''
 

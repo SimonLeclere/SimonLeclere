@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Rebelle'
+name: 'Answer 3 : Head'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|791|Rebelle
+title: quiz|350|Head
 labels: ''
 assignees: ''
 

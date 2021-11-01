@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Mulan'
+name: 'Answer 3 : Wings'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|791|Mulan
+title: quiz|350|Wings
 labels: ''
 assignees: ''
 

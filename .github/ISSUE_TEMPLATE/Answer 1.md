@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Raiponce'
+name: 'Answer 3 : Rump'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|791|Raiponce
+title: quiz|350|Rump
 labels: ''
 assignees: ''
 
