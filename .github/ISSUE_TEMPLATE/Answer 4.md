@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Franz Winkler'
+name: 'Answer 3 : Tintin in Tibet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|147|Franz Winkler
+title: quiz|857|Tintin in Tibet
 labels: ''
 assignees: ''
 

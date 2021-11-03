@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Paul Pisk'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|147|Paul Pisk
+title: quiz|857|Tintin in the Congo
 labels: ''
 assignees: ''
 

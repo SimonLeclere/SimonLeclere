@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Jakob Dont'
+name: 'Answer 3 : The Blue Lotus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|147|Jakob Dont
+title: quiz|857|The Blue Lotus
 labels: ''
 assignees: ''
 

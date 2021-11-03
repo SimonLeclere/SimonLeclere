@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who composed the original version of the popular song « Étoile des neiges » ?
+## In what adventure does Tintin find himself facing an impressive Yeti ?
 
 <br>
 
-| [Jakob Dont](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CJakob%20Dont&body=Just%20click%20'Submit%20new%20issue'.) | [Paul Pisk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CPaul%20Pisk&body=Just%20click%20'Submit%20new%20issue'.) | [Marcel Tyberg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CMarcel%20Tyberg&body=Just%20click%20'Submit%20new%20issue'.) | [Franz Winkler](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C147%7CFranz%20Winkler&body=Just%20click%20'Submit%20new%20issue'.) |
+| [The Blue Lotus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C857%7CThe%20Blue%20Lotus&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in the Congo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C857%7CTintin%20in%20the%20Congo&body=Just%20click%20'Submit%20new%20issue'.) | [Coke in Stock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C857%7CCoke%20in%20Stock&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in Tibet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C857%7CTintin%20in%20Tibet&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Lucas9h** answered **Marcel Tyberg** to `Who composed the original version of the popular song « Étoile des neiges » ?` (Wrong answer)
 - **Lucas9h** answered **Neck** to `Where is the uropygian gland of the pigeon, the specific intradermal gland of birds ?` (Wrong answer)
 - **Lucas9h** answered **Mulan** to `What Disney adventures take place in northern China ?` (Good answer)
 - **Lucas9h** answered **Wolverine** to `Who is Logan in the Marvel Comics « X-Men » ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Cutting** to `Which technique easily allows the multiplication of cacti ?` (Good answer)
 - **HideakiAtsuyo** answered **Hornet** to `What other more aggressive insect is the bee often confused with ?` (Wrong answer)
 - **soudblox** answered **Apiary** to `What do you call all of a beekeeper's hives ?` (Good answer)
-- **soudblox** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
 
 </details>
 

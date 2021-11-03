@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Marcel Tyberg'
+name: 'Answer 3 : Coke in Stock'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|147|Marcel Tyberg
+title: quiz|857|Coke in Stock
 labels: ''
 assignees: ''
 
