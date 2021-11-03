@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Gimme More'
+name: 'Answer 3 : They ruminate'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|234|Gimme More
+title: quiz|33|They ruminate
 labels: ''
 assignees: ''
 

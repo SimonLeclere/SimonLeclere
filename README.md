@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What clip did Britney try for the first time in directing ?
+## What do bees do flying from flower to flower in search of food ?
 
 <br>
 
-| [Stronger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C234%7CStronger&body=Just%20click%20'Submit%20new%20issue'.) | [Gimme More](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C234%7CGimme%20More&body=Just%20click%20'Submit%20new%20issue'.) | [Do Somethin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C234%7CDo%20Somethin&body=Just%20click%20'Submit%20new%20issue'.) | [Lucky](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C234%7CLucky&body=Just%20click%20'Submit%20new%20issue'.) |
+| [They are foraging](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20are%20foraging&body=Just%20click%20'Submit%20new%20issue'.) | [They ruminate](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20ruminate&body=Just%20click%20'Submit%20new%20issue'.) | [They skate](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20skate&body=Just%20click%20'Submit%20new%20issue'.) | [They draw](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20draw&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Lucas9h** answered **Gimme More** to `What clip did Britney try for the first time in directing ?` (Wrong answer)
 - **Lucas9h** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **Lucas9h** answered **Marcel Tyberg** to `Who composed the original version of the popular song « Étoile des neiges » ?` (Wrong answer)
 - **Lucas9h** answered **Neck** to `Where is the uropygian gland of the pigeon, the specific intradermal gland of birds ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shaynlink** answered **Serial** to `Who embodies the first woman on earth in Greek mythology ?` (Wrong answer)
 - **shaynlink** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 - **SimonLeclere** answered **Cutting** to `Which technique easily allows the multiplication of cacti ?` (Good answer)
-- **HideakiAtsuyo** answered **Hornet** to `What other more aggressive insect is the bee often confused with ?` (Wrong answer)
 
 </details>
 

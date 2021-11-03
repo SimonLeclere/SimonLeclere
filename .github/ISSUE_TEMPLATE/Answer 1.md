@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Stronger'
+name: 'Answer 3 : They are foraging'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|234|Stronger
+title: quiz|33|They are foraging
 labels: ''
 assignees: ''
 
