@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : Gimme More'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|857|Tintin in the Congo
+title: quiz|234|Gimme More
 labels: ''
 assignees: ''
 
