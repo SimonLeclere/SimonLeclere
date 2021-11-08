@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : They draw'
+name: 'Answer 3 : Stuart Townsend'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|33|They draw
+title: quiz|173|Stuart Townsend
 labels: ''
 assignees: ''
 

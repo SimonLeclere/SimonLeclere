@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What do bees do flying from flower to flower in search of food ?
+## What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?
 
 <br>
 
-| [They are foraging](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20are%20foraging&body=Just%20click%20'Submit%20new%20issue'.) | [They ruminate](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20ruminate&body=Just%20click%20'Submit%20new%20issue'.) | [They skate](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20skate&body=Just%20click%20'Submit%20new%20issue'.) | [They draw](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C33%7CThey%20draw&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Hugh Leonard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CHugh%20Leonard&body=Just%20click%20'Submit%20new%20issue'.) | [Jim Sheridan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CJim%20Sheridan&body=Just%20click%20'Submit%20new%20issue'.) | [Adrian Dunbar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CAdrian%20Dunbar&body=Just%20click%20'Submit%20new%20issue'.) | [Stuart Townsend](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CStuart%20Townsend&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NESBRO-GAMING** answered **They are foraging** to `What do bees do flying from flower to flower in search of food ?` (Good answer)
 - **Lucas9h** answered **Gimme More** to `What clip did Britney try for the first time in directing ?` (Wrong answer)
 - **Lucas9h** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **Lucas9h** answered **Marcel Tyberg** to `Who composed the original version of the popular song « Étoile des neiges » ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **shaynlink** answered **Arizona** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
 - **shaynlink** answered **Serial** to `Who embodies the first woman on earth in Greek mythology ?` (Wrong answer)
 - **shaynlink** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
-- **SimonLeclere** answered **Cutting** to `Which technique easily allows the multiplication of cacti ?` (Good answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : They are foraging'
+name: 'Answer 3 : Hugh Leonard'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|33|They are foraging
+title: quiz|173|Hugh Leonard
 labels: ''
 assignees: ''
 

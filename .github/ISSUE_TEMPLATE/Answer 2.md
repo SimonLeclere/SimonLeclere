@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : They ruminate'
+name: 'Answer 3 : Jim Sheridan'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|33|They ruminate
+title: quiz|173|Jim Sheridan
 labels: ''
 assignees: ''
 
