@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Jim Sheridan'
+name: 'Answer 3 : IPV6 battery'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|173|Jim Sheridan
+title: quiz|745|IPV6 battery
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?
+## Where in the OpenBSD code was discovered in 2007 ?
 
 <br>
 
-| [Hugh Leonard](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CHugh%20Leonard&body=Just%20click%20'Submit%20new%20issue'.) | [Jim Sheridan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CJim%20Sheridan&body=Just%20click%20'Submit%20new%20issue'.) | [Adrian Dunbar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CAdrian%20Dunbar&body=Just%20click%20'Submit%20new%20issue'.) | [Stuart Townsend](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C173%7CStuart%20Townsend&body=Just%20click%20'Submit%20new%20issue'.) |
+| [NFS](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C745%7CNFS&body=Just%20click%20'Submit%20new%20issue'.) | [IPV6 battery](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C745%7CIPV6%20battery&body=Just%20click%20'Submit%20new%20issue'.) | [Fdisk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C745%7CFdisk&body=Just%20click%20'Submit%20new%20issue'.) | [Packet Filter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C745%7CPacket%20Filter&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **frostzzone** answered **Stuart Townsend** to `What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?` (Good answer)
 - **NESBRO-GAMING** answered **They are foraging** to `What do bees do flying from flower to flower in search of food ?` (Good answer)
 - **Lucas9h** answered **Gimme More** to `What clip did Britney try for the first time in directing ?` (Wrong answer)
 - **Lucas9h** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **Lucas9h** answered **Wolverine** to `Who is Logan in the Marvel Comics « X-Men » ?` (Good answer)
 - **shaynlink** answered **Arizona** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
 - **shaynlink** answered **Serial** to `Who embodies the first woman on earth in Greek mythology ?` (Wrong answer)
-- **shaynlink** answered **Sequoia** to `In the United States, what tree over 83 meters tall is called General Sherman ?` (Good answer)
 
 </details>
 
