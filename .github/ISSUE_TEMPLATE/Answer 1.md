@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : NFS'
+name: 'Answer 3 : 50 and 100 euros'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|745|NFS
+title: quiz|11|50 and 100 euros
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : IPV6 battery'
+name: 'Answer 3 : 20 and 50 euros'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|745|IPV6 battery
+title: quiz|11|20 and 50 euros
 labels: ''
 assignees: ''
 
