@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In which city were the 2019 World Athletics Championships held ?
+## What algorithm was added for password encryption on OpenBSD ?
 
 <br>
 
-| [Doha](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C19%7CDoha&body=Just%20click%20'Submit%20new%20issue'.) | [Beijing](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C19%7CBeijing&body=Just%20click%20'Submit%20new%20issue'.) | [Moscow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C19%7CMoscow&body=Just%20click%20'Submit%20new%20issue'.) | [London](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C19%7CLondon&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Blowfish](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CBlowfish&body=Just%20click%20'Submit%20new%20issue'.) | [Skipjack](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CSkipjack&body=Just%20click%20'Submit%20new%20issue'.) | [Square](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CSquare&body=Just%20click%20'Submit%20new%20issue'.) | [Camellia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CCamellia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast1975** answered **Doha** to `In which city were the 2019 World Athletics Championships held ?` (Good answer)
 - **janast1975** answered **Japan** to `Which of these countries is the only one with a two-tone flag ?` (Good answer)
 - **janast1975** answered **100 and 200 euros** to `What new banknotes were put into circulation in Europe in 2019 ?` (Good answer)
 - **SimonLeclere** answered **NFS** to `Where in the OpenBSD code was discovered in 2007 ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **Lucas9h** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **Lucas9h** answered **Marcel Tyberg** to `Who composed the original version of the popular song « Étoile des neiges » ?` (Wrong answer)
 - **Lucas9h** answered **Neck** to `Where is the uropygian gland of the pigeon, the specific intradermal gland of birds ?` (Wrong answer)
-- **Lucas9h** answered **Mulan** to `What Disney adventures take place in northern China ?` (Good answer)
 
 </details>
 

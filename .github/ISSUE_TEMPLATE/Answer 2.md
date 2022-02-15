@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Beijing'
+name: 'Answer 3 : Skipjack'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|19|Beijing
+title: quiz|733|Skipjack
 labels: ''
 assignees: ''
 
