@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Japan'
+name: 'Answer 3 : Moscow'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|459|Japan
+title: quiz|19|Moscow
 labels: ''
 assignees: ''
 

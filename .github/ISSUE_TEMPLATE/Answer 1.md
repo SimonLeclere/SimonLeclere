@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Seychelles'
+name: 'Answer 3 : Doha'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|459|Seychelles
+title: quiz|19|Doha
 labels: ''
 assignees: ''
 
