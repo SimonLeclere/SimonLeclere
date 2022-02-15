@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 20 and 50 euros'
+name: 'Answer 3 : Gabon'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|11|20 and 50 euros
+title: quiz|459|Gabon
 labels: ''
 assignees: ''
 

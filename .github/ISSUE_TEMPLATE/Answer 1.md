@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 50 and 100 euros'
+name: 'Answer 3 : Seychelles'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|11|50 and 100 euros
+title: quiz|459|Seychelles
 labels: ''
 assignees: ''
 

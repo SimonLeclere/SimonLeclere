@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What new banknotes were put into circulation in Europe in 2019 ?
+## Which of these countries is the only one with a two-tone flag ?
 
 <br>
 
-| [50 and 100 euros](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C11%7C50%20and%20100%20euros&body=Just%20click%20'Submit%20new%20issue'.) | [20 and 50 euros](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C11%7C20%20and%2050%20euros&body=Just%20click%20'Submit%20new%20issue'.) | [100 and 200 euros](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C11%7C100%20and%20200%20euros&body=Just%20click%20'Submit%20new%20issue'.) | [200 and 500 euros](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C11%7C200%20and%20500%20euros&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Seychelles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C459%7CSeychelles&body=Just%20click%20'Submit%20new%20issue'.) | [Gabon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C459%7CGabon&body=Just%20click%20'Submit%20new%20issue'.) | [Japan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C459%7CJapan&body=Just%20click%20'Submit%20new%20issue'.) | [Colombia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C459%7CColombia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast1975** answered **100 and 200 euros** to `What new banknotes were put into circulation in Europe in 2019 ?` (Good answer)
 - **SimonLeclere** answered **NFS** to `Where in the OpenBSD code was discovered in 2007 ?` (Wrong answer)
 - **frostzzone** answered **Stuart Townsend** to `What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?` (Good answer)
 - **NESBRO-GAMING** answered **They are foraging** to `What do bees do flying from flower to flower in search of food ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **Lucas9h** answered **Neck** to `Where is the uropygian gland of the pigeon, the specific intradermal gland of birds ?` (Wrong answer)
 - **Lucas9h** answered **Mulan** to `What Disney adventures take place in northern China ?` (Good answer)
 - **Lucas9h** answered **Wolverine** to `Who is Logan in the Marvel Comics « X-Men » ?` (Good answer)
-- **shaynlink** answered **Arizona** to `What tea is produced jointly by Nestlé and Coca-Cola ?` (Wrong answer)
 
 </details>
 

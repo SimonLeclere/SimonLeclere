@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 100 and 200 euros'
+name: 'Answer 3 : Japan'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|11|100 and 200 euros
+title: quiz|459|Japan
 labels: ''
 assignees: ''
 
