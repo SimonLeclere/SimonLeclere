@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Skipjack'
+name: 'Answer 3 : 1964'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|733|Skipjack
+title: quiz|190|1964
 labels: ''
 assignees: ''
 

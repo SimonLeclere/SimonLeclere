@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Square'
+name: 'Answer 3 : 1975'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|733|Square
+title: quiz|190|1975
 labels: ''
 assignees: ''
 
