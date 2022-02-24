@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 1975'
+name: 'Answer 3 : Nepalese'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|190|1975
+title: quiz|891|Nepalese
 labels: ''
 assignees: ''
 
