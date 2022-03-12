@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Nepalese'
+name: 'Answer 3 : 10,000'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|891|Nepalese
+title: quiz|39|10,000
 labels: ''
 assignees: ''
 

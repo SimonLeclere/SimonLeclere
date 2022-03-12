@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Japanese'
+name: 'Answer 3 : 15,000'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|891|Japanese
+title: quiz|39|15,000
 labels: ''
 assignees: ''
 

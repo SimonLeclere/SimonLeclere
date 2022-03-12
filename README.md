@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the nationality of the inhabitants of Taiwan, also called Formosa ?
+## How many species of bees are listed so far on the planet ?
 
 <br>
 
-| [Japanese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C891%7CJapanese&body=Just%20click%20'Submit%20new%20issue'.) | [Korean](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C891%7CKorean&body=Just%20click%20'Submit%20new%20issue'.) | [Nepalese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C891%7CNepalese&body=Just%20click%20'Submit%20new%20issue'.) | [Chinese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C891%7CChinese&body=Just%20click%20'Submit%20new%20issue'.) |
+| [15,000](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C39%7C15,000&body=Just%20click%20'Submit%20new%20issue'.) | [5,000](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C39%7C5,000&body=Just%20click%20'Submit%20new%20issue'.) | [10,000](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C39%7C10,000&body=Just%20click%20'Submit%20new%20issue'.) | [20,000](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C39%7C20,000&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **TesseractB** answered **Chinese** to `What is the nationality of the inhabitants of Taiwan, also called Formosa ?` (Good answer)
 - **SimonLeclere** answered **1964** to `What year was Brad Pitt born in Shawnee, Oklahoma ?` (Wrong answer)
 - **janast1975** answered **Skipjack** to `What algorithm was added for password encryption on OpenBSD ?` (Wrong answer)
 - **janast1975** answered **Doha** to `In which city were the 2019 World Athletics Championships held ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **frostzzone** answered **Stuart Townsend** to `What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?` (Good answer)
 - **NESBRO-GAMING** answered **They are foraging** to `What do bees do flying from flower to flower in search of food ?` (Good answer)
 - **Lucas9h** answered **Gimme More** to `What clip did Britney try for the first time in directing ?` (Wrong answer)
-- **Lucas9h** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 21 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
