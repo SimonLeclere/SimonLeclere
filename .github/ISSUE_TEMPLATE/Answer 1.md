@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cap'
+name: 'Answer 3 : The Blue Lotus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|518|Cap
+title: quiz|846|The Blue Lotus
 labels: ''
 assignees: ''
 

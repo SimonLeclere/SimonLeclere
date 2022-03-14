@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What does Captain Haddock, Tintin's best friend, wear on his head ?
+## In what adventure does Tintin find himself facing an impressive Yeti ?
 
 <br>
 
-| [Cap](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C518%7CCap&body=Just%20click%20'Submit%20new%20issue'.) | [Hat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C518%7CHat&body=Just%20click%20'Submit%20new%20issue'.) | [Helmet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C518%7CHelmet&body=Just%20click%20'Submit%20new%20issue'.) | [Turban](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C518%7CTurban&body=Just%20click%20'Submit%20new%20issue'.) |
+| [The Blue Lotus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C846%7CThe%20Blue%20Lotus&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in the Congo](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C846%7CTintin%20in%20the%20Congo&body=Just%20click%20'Submit%20new%20issue'.) | [Tintin in Tibet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C846%7CTintin%20in%20Tibet&body=Just%20click%20'Submit%20new%20issue'.) | [Coke in Stock](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C846%7CCoke%20in%20Stock&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **sohamsuvarna** answered **Cap** to `What does Captain Haddock, Tintin's best friend, wear on his head ?` (Good answer)
 - **sohamsuvarna** answered **20,000** to `How many species of bees are listed so far on the planet ?` (Good answer)
 - **TesseractB** answered **Chinese** to `What is the nationality of the inhabitants of Taiwan, also called Formosa ?` (Good answer)
 - **SimonLeclere** answered **1964** to `What year was Brad Pitt born in Shawnee, Oklahoma ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast1975** answered **100 and 200 euros** to `What new banknotes were put into circulation in Europe in 2019 ?` (Good answer)
 - **SimonLeclere** answered **NFS** to `Where in the OpenBSD code was discovered in 2007 ?` (Wrong answer)
 - **frostzzone** answered **Stuart Townsend** to `What beautiful Irishman did Charlize Theron share in life from 2002 to 2010 ?` (Good answer)
-- **NESBRO-GAMING** answered **They are foraging** to `What do bees do flying from flower to flower in search of food ?` (Good answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
-| [shadeoxide](https://github.com/shadeoxide) | 13 |
+| [shadeoxide](https://github.com/shadeoxide) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |

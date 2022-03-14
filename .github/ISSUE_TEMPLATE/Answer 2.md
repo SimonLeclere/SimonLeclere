@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Hat'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|518|Hat
+title: quiz|846|Tintin in the Congo
 labels: ''
 assignees: ''
 
