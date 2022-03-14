@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 10,000'
+name: 'Answer 3 : Helmet'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|39|10,000
+title: quiz|518|Helmet
 labels: ''
 assignees: ''
 
