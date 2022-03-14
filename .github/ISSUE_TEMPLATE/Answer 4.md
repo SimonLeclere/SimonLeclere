@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Coke in Stock'
+name: 'Answer 3 : Laurent Blanc'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|846|Coke in Stock
+title: quiz|178|Laurent Blanc
 labels: ''
 assignees: ''
 

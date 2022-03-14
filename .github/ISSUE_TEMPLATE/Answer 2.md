@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in the Congo'
+name: 'Answer 3 : Bixente Lizarazu'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|846|Tintin in the Congo
+title: quiz|178|Bixente Lizarazu
 labels: ''
 assignees: ''
 

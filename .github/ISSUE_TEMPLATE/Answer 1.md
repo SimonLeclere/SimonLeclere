@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : The Blue Lotus'
+name: 'Answer 3 : Thierry Henry'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|846|The Blue Lotus
+title: quiz|178|Thierry Henry
 labels: ''
 assignees: ''
 

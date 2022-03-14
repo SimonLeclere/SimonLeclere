@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in Tibet'
+name: 'Answer 3 : Christophe Dugarry'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|846|Tintin in Tibet
+title: quiz|178|Christophe Dugarry
 labels: ''
 assignees: ''
 
