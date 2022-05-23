@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Laurent Blanc'
+name: 'Answer 3 : Skipjack'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|178|Laurent Blanc
+title: quiz|733|Skipjack
 labels: ''
 assignees: ''
 

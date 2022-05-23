@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Christophe Dugarry'
+name: 'Answer 3 : Square'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|178|Christophe Dugarry
+title: quiz|733|Square
 labels: ''
 assignees: ''
 
