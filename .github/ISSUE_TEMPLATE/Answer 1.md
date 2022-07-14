@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Game Gear'
+name: 'Answer 3 : Stronger'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|691|Game Gear
+title: quiz|222|Stronger
 labels: ''
 assignees: ''
 

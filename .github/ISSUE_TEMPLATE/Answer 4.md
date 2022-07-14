@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : PlayStation'
+name: 'Answer 3 : What U See'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|691|PlayStation
+title: quiz|222|What U See
 labels: ''
 assignees: ''
 
