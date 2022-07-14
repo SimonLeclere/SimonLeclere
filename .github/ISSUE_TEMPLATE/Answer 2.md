@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sun'
+name: 'Answer 3 : Bronchitis'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|252|Sun
+title: quiz|339|Bronchitis
 labels: ''
 assignees: ''
 

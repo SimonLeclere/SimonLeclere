@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Thistle'
+name: 'Answer 3 : Coronavirus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|252|Thistle
+title: quiz|339|Coronavirus
 labels: ''
 assignees: ''
 
