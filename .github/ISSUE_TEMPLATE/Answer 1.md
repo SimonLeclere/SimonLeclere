@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Meningitis'
+name: 'Answer 3 : Repost'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|339|Meningitis
+title: quiz|676|Repost
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What disease often forces the pigeon fancier to confine his pigeons ?
+## Although not native, what is a sharing on Instagram called ?
 
 <br>
 
-| [Meningitis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C339%7CMeningitis&body=Just%20click%20'Submit%20new%20issue'.) | [Bronchitis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C339%7CBronchitis&body=Just%20click%20'Submit%20new%20issue'.) | [Avian influenza](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C339%7CAvian%20influenza&body=Just%20click%20'Submit%20new%20issue'.) | [Coronavirus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C339%7CCoronavirus&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Repost](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CRepost&body=Just%20click%20'Submit%20new%20issue'.) | [Repin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CRepin&body=Just%20click%20'Submit%20new%20issue'.) | [Sharing](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CSharing&body=Just%20click%20'Submit%20new%20issue'.) | [Retweet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CRetweet&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Avian influenza** to `What disease often forces the pigeon fancier to confine his pigeons ?` (Good answer)
 - **janast3369** answered **Thistle** to `What does the ancient Greek word kaktos mean, where does the name cactus come from ?` (Good answer)
 - **janast3369** answered **Facial mask** to `What is better to wear to minimize the spread of a coronavirus ?` (Good answer)
 - **janast3369** answered **LeBaron** to `In Mexico, which family was massacred in the Sierra Madre in 2019 ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Power Editor** to `Which ad campaign management tool is now integrated into Instagram ?` (Good answer)
 - **janast3369** answered **Noah** to `Who would have used a pigeon first as a carrier pigeon ?` (Good answer)
 - **janast3369** answered **Bib** to `In competition, what do we put on the back of certain athletes to recognize them ?` (Good answer)
-- **janast3369** answered **Milo Ventimiglia** to `With what other heroe did Hayden Pannetiere have the perfect love ?` (Good answer)
 
 </details>
 
@@ -61,8 +61,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
+| [janast1975](https://github.com/janast1975) | 21 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
-| [janast1975](https://github.com/janast1975) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

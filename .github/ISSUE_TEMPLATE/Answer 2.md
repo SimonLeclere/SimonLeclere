@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bronchitis'
+name: 'Answer 3 : Repin'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|339|Bronchitis
+title: quiz|676|Repin
 labels: ''
 assignees: ''
 

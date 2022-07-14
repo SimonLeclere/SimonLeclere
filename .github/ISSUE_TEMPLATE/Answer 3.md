@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Avian influenza'
+name: 'Answer 3 : Sharing'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|339|Avian influenza
+title: quiz|676|Sharing
 labels: ''
 assignees: ''
 
