@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Although not native, what is a sharing on Instagram called ?
+## What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?
 
 <br>
 
-| [Repost](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CRepost&body=Just%20click%20'Submit%20new%20issue'.) | [Repin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CRepin&body=Just%20click%20'Submit%20new%20issue'.) | [Sharing](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CSharing&body=Just%20click%20'Submit%20new%20issue'.) | [Retweet](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C676%7CRetweet&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Major](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CMajor&body=Just%20click%20'Submit%20new%20issue'.) | [Lieutenant](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CLieutenant&body=Just%20click%20'Submit%20new%20issue'.) | [Captain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CCaptain&body=Just%20click%20'Submit%20new%20issue'.) | [Colonel](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C181%7CColonel&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Repost** to `Although not native, what is a sharing on Instagram called ?` (Good answer)
 - **janast3369** answered **Avian influenza** to `What disease often forces the pigeon fancier to confine his pigeons ?` (Good answer)
 - **janast3369** answered **Thistle** to `What does the ancient Greek word kaktos mean, where does the name cactus come from ?` (Good answer)
 - **janast3369** answered **Facial mask** to `What is better to wear to minimize the spread of a coronavirus ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Libya** to `Tripoli is a city of Lebanon but also the capital of which country ?` (Good answer)
 - **janast3369** answered **Power Editor** to `Which ad campaign management tool is now integrated into Instagram ?` (Good answer)
 - **janast3369** answered **Noah** to `Who would have used a pigeon first as a carrier pigeon ?` (Good answer)
-- **janast3369** answered **Bib** to `In competition, what do we put on the back of certain athletes to recognize them ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [janast1975](https://github.com/janast1975) | 21 |
+| [janast1975](https://github.com/janast1975) | 22 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |

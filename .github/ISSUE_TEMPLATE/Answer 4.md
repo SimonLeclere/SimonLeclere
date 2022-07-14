@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Retweet'
+name: 'Answer 3 : Colonel'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|676|Retweet
+title: quiz|181|Colonel
 labels: ''
 assignees: ''
 

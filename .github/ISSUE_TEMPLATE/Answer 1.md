@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Repost'
+name: 'Answer 3 : Major'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|676|Repost
+title: quiz|181|Major
 labels: ''
 assignees: ''
 

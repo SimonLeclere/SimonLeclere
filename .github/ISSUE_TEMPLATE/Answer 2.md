@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Repin'
+name: 'Answer 3 : Lieutenant'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|676|Repin
+title: quiz|181|Lieutenant
 labels: ''
 assignees: ''
 
