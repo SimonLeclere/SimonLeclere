@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Morocco'
+name: 'Answer 3 : Game Gear'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|885|Morocco
+title: quiz|691|Game Gear
 labels: ''
 assignees: ''
 

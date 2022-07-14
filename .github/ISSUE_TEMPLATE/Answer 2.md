@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sudan'
+name: 'Answer 3 : Wii'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|885|Sudan
+title: quiz|691|Wii
 labels: ''
 assignees: ''
 
