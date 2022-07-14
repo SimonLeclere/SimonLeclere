@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Heidi'
+name: 'Answer 3 : George W. Bush'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|765|Heidi
+title: quiz|365|George W. Bush
 labels: ''
 assignees: ''
 

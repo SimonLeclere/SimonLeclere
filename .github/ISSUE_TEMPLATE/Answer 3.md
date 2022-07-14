@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cosby'
+name: 'Answer 3 : Donald Trump'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|765|Cosby
+title: quiz|365|Donald Trump
 labels: ''
 assignees: ''
 

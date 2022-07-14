@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Candy'
+name: 'Answer 3 : Bill Clinton'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|765|Candy
+title: quiz|365|Bill Clinton
 labels: ''
 assignees: ''
 

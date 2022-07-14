@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Maguy'
+name: 'Answer 3 : Barack Obama'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|765|Maguy
+title: quiz|365|Barack Obama
 labels: ''
 assignees: ''
 
