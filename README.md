@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In competition, what do we put on the back of certain athletes to recognize them ?
+## Who would have used a pigeon first as a carrier pigeon ?
 
 <br>
 
-| [Handkerchief](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CHandkerchief&body=Just%20click%20'Submit%20new%20issue'.) | [Bib](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CBib&body=Just%20click%20'Submit%20new%20issue'.) | [Flag](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CFlag&body=Just%20click%20'Submit%20new%20issue'.) | [Jersey](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CJersey&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Julius Caesar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C341%7CJulius%20Caesar&body=Just%20click%20'Submit%20new%20issue'.) | [Christopher Columbus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C341%7CChristopher%20Columbus&body=Just%20click%20'Submit%20new%20issue'.) | [Eisenhower](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C341%7CEisenhower&body=Just%20click%20'Submit%20new%20issue'.) | [Noah](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C341%7CNoah&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Bib** to `In competition, what do we put on the back of certain athletes to recognize them ?` (Good answer)
 - **janast3369** answered **Milo Ventimiglia** to `With what other heroe did Hayden Pannetiere have the perfect love ?` (Good answer)
 - **janast3369** answered **Donald Trump** to `Which American president expressed his deep thanks for the efforts led by China ?` (Good answer)
 - **janast3369** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Tired** to `In what state is a horse that folds his ears on his neck ?` (Wrong answer)
 - **janast3369** answered **Rise** to `What Instagram filter allows a slight vignetting effect ?` (Wrong answer)
 - **janast3369** answered **Hashtags-stickers** to `What clickable link can we now apply to a photo on Instagram ?` (Good answer)
-- **janast3369** answered **Olivier Martinez** to `Which French actor was the companion of Halle Berry and Kylie Minogue ?` (Good answer)
 
 </details>
 
@@ -63,7 +63,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [azgar44](https://github.com/azgar44) | 33 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
-| [janast1975](https://github.com/janast1975) | 11 |
+| [janast1975](https://github.com/janast1975) | 12 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |

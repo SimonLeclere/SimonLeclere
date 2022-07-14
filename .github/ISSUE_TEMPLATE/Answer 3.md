@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Flag'
+name: 'Answer 3 : Eisenhower'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|537|Flag
+title: quiz|341|Eisenhower
 labels: ''
 assignees: ''
 
