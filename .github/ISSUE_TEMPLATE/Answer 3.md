@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Donald Trump'
+name: 'Answer 3 : Zachary Quinto'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|365|Donald Trump
+title: quiz|155|Zachary Quinto
 labels: ''
 assignees: ''
 

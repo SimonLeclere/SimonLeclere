@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : George W. Bush'
+name: 'Answer 3 : Milo Ventimiglia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|365|George W. Bush
+title: quiz|155|Milo Ventimiglia
 labels: ''
 assignees: ''
 

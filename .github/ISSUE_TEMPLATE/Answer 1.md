@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Barack Obama'
+name: 'Answer 3 : Adrian Pasdar'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|365|Barack Obama
+title: quiz|155|Adrian Pasdar
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bill Clinton'
+name: 'Answer 3 : Greg Grunberg'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|365|Bill Clinton
+title: quiz|155|Greg Grunberg
 labels: ''
 assignees: ''
 
