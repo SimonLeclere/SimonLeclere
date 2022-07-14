@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the series of B.D. « Placid and Muzo », which animal is Placid ?
+## Which station was drowned under a dam in 1952 and then rebuilt a little higher ?
 
 <br>
 
-| [A dog](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C431%7CA%20dog&body=Just%20click%20'Submit%20new%20issue'.) | [A bear](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C431%7CA%20bear&body=Just%20click%20'Submit%20new%20issue'.) | [A fox](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C431%7CA%20fox&body=Just%20click%20'Submit%20new%20issue'.) | [A mouse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C431%7CA%20mouse&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Val d'Isère](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C140%7CVal%20d'Is%C3%A8re&body=Just%20click%20'Submit%20new%20issue'.) | [Medley](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C140%7CMedley&body=Just%20click%20'Submit%20new%20issue'.) | [Tignes](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C140%7CTignes&body=Just%20click%20'Submit%20new%20issue'.) | [Les Arcs](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C140%7CLes%20Arcs&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **A mouse** to `In the series of B.D. « Placid and Muzo », which animal is Placid ?` (Wrong answer)
 - **janast3369** answered **Tired** to `In what state is a horse that folds his ears on his neck ?` (Wrong answer)
 - **janast3369** answered **Rise** to `What Instagram filter allows a slight vignetting effect ?` (Wrong answer)
 - **janast3369** answered **Hashtags-stickers** to `What clickable link can we now apply to a photo on Instagram ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **pranav-bot-code** answered **Bixente Lizarazu** to `Which football player was nicknamed Petit Bison by Emmanuel Petit ?` (Good answer)
 - **sohamsuvarna** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **sohamsuvarna** answered **Cap** to `What does Captain Haddock, Tintin's best friend, wear on his head ?` (Good answer)
-- **sohamsuvarna** answered **20,000** to `How many species of bees are listed so far on the planet ?` (Good answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : A bear'
+name: 'Answer 3 : Medley'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|431|A bear
+title: quiz|140|Medley
 labels: ''
 assignees: ''
 
