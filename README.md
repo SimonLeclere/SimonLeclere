@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## With what other heroe did Hayden Pannetiere have the perfect love ?
+## In competition, what do we put on the back of certain athletes to recognize them ?
 
 <br>
 
-| [Adrian Pasdar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C155%7CAdrian%20Pasdar&body=Just%20click%20'Submit%20new%20issue'.) | [Milo Ventimiglia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C155%7CMilo%20Ventimiglia&body=Just%20click%20'Submit%20new%20issue'.) | [Zachary Quinto](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C155%7CZachary%20Quinto&body=Just%20click%20'Submit%20new%20issue'.) | [Greg Grunberg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C155%7CGreg%20Grunberg&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Handkerchief](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CHandkerchief&body=Just%20click%20'Submit%20new%20issue'.) | [Bib](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CBib&body=Just%20click%20'Submit%20new%20issue'.) | [Flag](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CFlag&body=Just%20click%20'Submit%20new%20issue'.) | [Jersey](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C537%7CJersey&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Milo Ventimiglia** to `With what other heroe did Hayden Pannetiere have the perfect love ?` (Good answer)
 - **janast3369** answered **Donald Trump** to `Which American president expressed his deep thanks for the efforts led by China ?` (Good answer)
 - **janast3369** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
 - **janast3369** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Rise** to `What Instagram filter allows a slight vignetting effect ?` (Wrong answer)
 - **janast3369** answered **Hashtags-stickers** to `What clickable link can we now apply to a photo on Instagram ?` (Good answer)
 - **janast3369** answered **Olivier Martinez** to `Which French actor was the companion of Halle Berry and Kylie Minogue ?` (Good answer)
-- **janast3369** answered **Multiplication** to `Which arithmetic operation makes it possible to calculate the product of two numbers ?` (Good answer)
 
 </details>
 
@@ -63,7 +63,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [azgar44](https://github.com/azgar44) | 33 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
-| [janast1975](https://github.com/janast1975) | 10 |
+| [janast1975](https://github.com/janast1975) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |

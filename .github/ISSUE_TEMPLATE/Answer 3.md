@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Zachary Quinto'
+name: 'Answer 3 : Flag'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|155|Zachary Quinto
+title: quiz|537|Flag
 labels: ''
 assignees: ''
 
