@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Lucky'
+name: 'Answer 3 : Michoacana'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|222|Lucky
+title: quiz|27|Michoacana
 labels: ''
 assignees: ''
 

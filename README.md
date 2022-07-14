@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What title from her second album was written by Britney Spears herself ?
+## In Mexico, which family was massacred in the Sierra Madre in 2019 ?
 
 <br>
 
-| [Stronger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C222%7CStronger&body=Just%20click%20'Submit%20new%20issue'.) | [Dear Diary](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C222%7CDear%20Diary&body=Just%20click%20'Submit%20new%20issue'.) | [Lucky](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C222%7CLucky&body=Just%20click%20'Submit%20new%20issue'.) | [What U See](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C222%7CWhat%20U%20See&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Fernando](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C27%7CFernando&body=Just%20click%20'Submit%20new%20issue'.) | [Sinaloa](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C27%7CSinaloa&body=Just%20click%20'Submit%20new%20issue'.) | [Michoacana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C27%7CMichoacana&body=Just%20click%20'Submit%20new%20issue'.) | [LeBaron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C27%7CLeBaron&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
 - **janast3369** answered **Xbox** to `What name is the video game console designed by Microsoft ?` (Good answer)
 - **janast3369** answered **Libya** to `Tripoli is a city of Lebanon but also the capital of which country ?` (Good answer)
 - **janast3369** answered **Power Editor** to `Which ad campaign management tool is now integrated into Instagram ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Donald Trump** to `Which American president expressed his deep thanks for the efforts led by China ?` (Good answer)
 - **janast3369** answered **Heidi** to `Who was the little mountain girl of our childhood ?` (Good answer)
 - **janast3369** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
-- **janast3369** answered **Medley** to `Which station was drowned under a dam in 1952 and then rebuilt a little higher ?` (Wrong answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
-| [janast1975](https://github.com/janast1975) | 16 |
+| [janast1975](https://github.com/janast1975) | 17 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Dear Diary'
+name: 'Answer 3 : Sinaloa'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|222|Dear Diary
+title: quiz|27|Sinaloa
 labels: ''
 assignees: ''
 
