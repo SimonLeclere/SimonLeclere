@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What Instagram filter allows a slight vignetting effect ?
+## In what state is a horse that folds his ears on his neck ?
 
 <br>
 
-| [Rise](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C664%7CRise&body=Just%20click%20'Submit%20new%20issue'.) | [Mayfair](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C664%7CMayfair&body=Just%20click%20'Submit%20new%20issue'.) | [X-Pro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C664%7CX-Pro&body=Just%20click%20'Submit%20new%20issue'.) | [Valencia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C664%7CValencia&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Happy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C282%7CHappy&body=Just%20click%20'Submit%20new%20issue'.) | [Terrified](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C282%7CTerrified&body=Just%20click%20'Submit%20new%20issue'.) | [Faché](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C282%7CFach%C3%A9&body=Just%20click%20'Submit%20new%20issue'.) | [Tired](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C282%7CTired&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Rise** to `What Instagram filter allows a slight vignetting effect ?` (Wrong answer)
 - **janast3369** answered **Hashtags-stickers** to `What clickable link can we now apply to a photo on Instagram ?` (Good answer)
 - **janast3369** answered **Olivier Martinez** to `Which French actor was the companion of Halle Berry and Kylie Minogue ?` (Good answer)
 - **janast3369** answered **Multiplication** to `Which arithmetic operation makes it possible to calculate the product of two numbers ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **sohamsuvarna** answered **Cap** to `What does Captain Haddock, Tintin's best friend, wear on his head ?` (Good answer)
 - **sohamsuvarna** answered **20,000** to `How many species of bees are listed so far on the planet ?` (Good answer)
 - **TesseractB** answered **Chinese** to `What is the nationality of the inhabitants of Taiwan, also called Formosa ?` (Good answer)
-- **SimonLeclere** answered **1964** to `What year was Brad Pitt born in Shawnee, Oklahoma ?` (Wrong answer)
 
 </details>
 

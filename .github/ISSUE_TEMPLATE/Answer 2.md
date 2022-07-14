@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Mayfair'
+name: 'Answer 3 : Terrified'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|664|Mayfair
+title: quiz|282|Terrified
 labels: ''
 assignees: ''
 
