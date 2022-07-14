@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Square'
+name: 'Answer 3 : Simplification'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|733|Square
+title: quiz|513|Simplification
 labels: ''
 assignees: ''
 

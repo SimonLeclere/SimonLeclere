@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What algorithm was added for password encryption on OpenBSD ?
+## Which arithmetic operation makes it possible to calculate the product of two numbers ?
 
 <br>
 
-| [Camellia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CCamellia&body=Just%20click%20'Submit%20new%20issue'.) | [Blowfish](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CBlowfish&body=Just%20click%20'Submit%20new%20issue'.) | [Square](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CSquare&body=Just%20click%20'Submit%20new%20issue'.) | [Skipjack](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C733%7CSkipjack&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Division](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CDivision&body=Just%20click%20'Submit%20new%20issue'.) | [Subtraction](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CSubtraction&body=Just%20click%20'Submit%20new%20issue'.) | [Simplification](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CSimplification&body=Just%20click%20'Submit%20new%20issue'.) | [Multiplication](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CMultiplication&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Blowfish** to `What algorithm was added for password encryption on OpenBSD ?` (Good answer)
 - **pranav-bot-code** answered **Bixente Lizarazu** to `Which football player was nicknamed Petit Bison by Emmanuel Petit ?` (Good answer)
 - **sohamsuvarna** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **sohamsuvarna** answered **Cap** to `What does Captain Haddock, Tintin's best friend, wear on his head ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast1975** answered **Skipjack** to `What algorithm was added for password encryption on OpenBSD ?` (Wrong answer)
 - **janast1975** answered **Doha** to `In which city were the 2019 World Athletics Championships held ?` (Good answer)
 - **janast1975** answered **Japan** to `Which of these countries is the only one with a two-tone flag ?` (Good answer)
-- **janast1975** answered **100 and 200 euros** to `What new banknotes were put into circulation in Europe in 2019 ?` (Good answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Skipjack'
+name: 'Answer 3 : Multiplication'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|733|Skipjack
+title: quiz|513|Multiplication
 labels: ''
 assignees: ''
 

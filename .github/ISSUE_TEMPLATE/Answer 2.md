@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Blowfish'
+name: 'Answer 3 : Subtraction'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|733|Blowfish
+title: quiz|513|Subtraction
 labels: ''
 assignees: ''
 
