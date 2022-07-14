@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Hat'
+name: 'Answer 3 : Spiked'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|367|Hat
+title: quiz|252|Spiked
 labels: ''
 assignees: ''
 

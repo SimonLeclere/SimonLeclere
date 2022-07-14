@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Facial mask'
+name: 'Answer 3 : Thistle'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|367|Facial mask
+title: quiz|252|Thistle
 labels: ''
 assignees: ''
 
