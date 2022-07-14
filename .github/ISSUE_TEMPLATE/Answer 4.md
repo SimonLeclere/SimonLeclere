@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Mathieu Kassovitz'
+name: 'Answer 3 : Shortcuts'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|170|Mathieu Kassovitz
+title: quiz|668|Shortcuts
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bruno Putzulu'
+name: 'Answer 3 : Gif Anims'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|170|Bruno Putzulu
+title: quiz|668|Gif Anims
 labels: ''
 assignees: ''
 
