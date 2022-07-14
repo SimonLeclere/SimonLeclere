@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Medley'
+name: 'Answer 3 : Debian'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|140|Medley
+title: quiz|722|Debian
 labels: ''
 assignees: ''
 

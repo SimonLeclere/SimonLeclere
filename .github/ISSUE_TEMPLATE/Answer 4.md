@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Les Arcs'
+name: 'Answer 3 : Solaris'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|140|Les Arcs
+title: quiz|722|Solaris
 labels: ''
 assignees: ''
 

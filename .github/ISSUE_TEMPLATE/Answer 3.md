@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tignes'
+name: 'Answer 3 : Fedora'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|140|Tignes
+title: quiz|722|Fedora
 labels: ''
 assignees: ''
 
