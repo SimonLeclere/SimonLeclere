@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Captain'
+name: 'Answer 3 : Areola'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|181|Captain
+title: quiz|262|Areola
 labels: ''
 assignees: ''
 
