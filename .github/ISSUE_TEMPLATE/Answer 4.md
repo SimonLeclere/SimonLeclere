@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Solaris'
+name: 'Answer 3 : Candy'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|722|Solaris
+title: quiz|765|Candy
 labels: ''
 assignees: ''
 

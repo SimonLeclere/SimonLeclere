@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : NetBSD'
+name: 'Answer 3 : Maguy'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|722|NetBSD
+title: quiz|765|Maguy
 labels: ''
 assignees: ''
 

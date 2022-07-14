@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Debian'
+name: 'Answer 3 : Heidi'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|722|Debian
+title: quiz|765|Heidi
 labels: ''
 assignees: ''
 

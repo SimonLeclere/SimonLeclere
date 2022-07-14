@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Fedora'
+name: 'Answer 3 : Cosby'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|722|Fedora
+title: quiz|765|Cosby
 labels: ''
 assignees: ''
 

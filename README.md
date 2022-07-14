@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## OpenBSD came from the separation of what other operating system ?
+## Who was the little mountain girl of our childhood ?
 
 <br>
 
-| [NetBSD](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CNetBSD&body=Just%20click%20'Submit%20new%20issue'.) | [Debian](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CDebian&body=Just%20click%20'Submit%20new%20issue'.) | [Fedora](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CFedora&body=Just%20click%20'Submit%20new%20issue'.) | [Solaris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C722%7CSolaris&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Maguy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C765%7CMaguy&body=Just%20click%20'Submit%20new%20issue'.) | [Heidi](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C765%7CHeidi&body=Just%20click%20'Submit%20new%20issue'.) | [Cosby](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C765%7CCosby&body=Just%20click%20'Submit%20new%20issue'.) | [Candy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C765%7CCandy&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **NetBSD** to `OpenBSD came from the separation of what other operating system ?` (Good answer)
 - **janast3369** answered **Medley** to `Which station was drowned under a dam in 1952 and then rebuilt a little higher ?` (Wrong answer)
 - **janast3369** answered **A mouse** to `In the series of B.D. « Placid and Muzo », which animal is Placid ?` (Wrong answer)
 - **janast3369** answered **Tired** to `In what state is a horse that folds his ears on his neck ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Multiplication** to `Which arithmetic operation makes it possible to calculate the product of two numbers ?` (Good answer)
 - **janast3369** answered **Blowfish** to `What algorithm was added for password encryption on OpenBSD ?` (Good answer)
 - **pranav-bot-code** answered **Bixente Lizarazu** to `Which football player was nicknamed Petit Bison by Emmanuel Petit ?` (Good answer)
-- **sohamsuvarna** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 
 </details>
 
@@ -66,7 +66,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
-| [janast1975](https://github.com/janast1975) | 7 |
+| [janast1975](https://github.com/janast1975) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
