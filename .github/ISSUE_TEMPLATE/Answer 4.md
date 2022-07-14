@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Noah'
+name: 'Answer 3 : Add Generator'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|341|Noah
+title: quiz|684|Add Generator
 labels: ''
 assignees: ''
 

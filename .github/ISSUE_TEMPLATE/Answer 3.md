@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Eisenhower'
+name: 'Answer 3 : Campainor'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|341|Eisenhower
+title: quiz|684|Campainor
 labels: ''
 assignees: ''
 

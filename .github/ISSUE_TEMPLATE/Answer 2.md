@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Christopher Columbus'
+name: 'Answer 3 : Advisor'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|341|Christopher Columbus
+title: quiz|684|Advisor
 labels: ''
 assignees: ''
 
