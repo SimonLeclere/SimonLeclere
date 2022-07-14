@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sinaloa'
+name: 'Answer 3 : Hood'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|27|Sinaloa
+title: quiz|367|Hood
 labels: ''
 assignees: ''
 
