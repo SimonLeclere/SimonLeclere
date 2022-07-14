@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Subtraction'
+name: 'Answer 3 : Bruno Putzulu'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|513|Subtraction
+title: quiz|170|Bruno Putzulu
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which arithmetic operation makes it possible to calculate the product of two numbers ?
+## Which French actor was the companion of Halle Berry and Kylie Minogue ?
 
 <br>
 
-| [Division](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CDivision&body=Just%20click%20'Submit%20new%20issue'.) | [Subtraction](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CSubtraction&body=Just%20click%20'Submit%20new%20issue'.) | [Simplification](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CSimplification&body=Just%20click%20'Submit%20new%20issue'.) | [Multiplication](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C513%7CMultiplication&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Mathieu Amalric](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7CMathieu%20Amalric&body=Just%20click%20'Submit%20new%20issue'.) | [Bruno Putzulu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7CBruno%20Putzulu&body=Just%20click%20'Submit%20new%20issue'.) | [Olivier Martinez](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7COlivier%20Martinez&body=Just%20click%20'Submit%20new%20issue'.) | [Mathieu Kassovitz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7CMathieu%20Kassovitz&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Multiplication** to `Which arithmetic operation makes it possible to calculate the product of two numbers ?` (Good answer)
 - **janast3369** answered **Blowfish** to `What algorithm was added for password encryption on OpenBSD ?` (Good answer)
 - **pranav-bot-code** answered **Bixente Lizarazu** to `Which football player was nicknamed Petit Bison by Emmanuel Petit ?` (Good answer)
 - **sohamsuvarna** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **1964** to `What year was Brad Pitt born in Shawnee, Oklahoma ?` (Wrong answer)
 - **janast1975** answered **Skipjack** to `What algorithm was added for password encryption on OpenBSD ?` (Wrong answer)
 - **janast1975** answered **Doha** to `In which city were the 2019 World Athletics Championships held ?` (Good answer)
-- **janast1975** answered **Japan** to `Which of these countries is the only one with a two-tone flag ?` (Good answer)
 
 </details>
 
@@ -67,6 +67,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
 | [zechaos031](https://github.com/zechaos031) | 6 |
-| [evaristocuesta](https://github.com/evaristocuesta) | 4 |
+| [janast1975](https://github.com/janast1975) | 5 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)

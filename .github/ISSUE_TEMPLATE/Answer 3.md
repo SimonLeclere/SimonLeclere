@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Simplification'
+name: 'Answer 3 : Olivier Martinez'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|513|Simplification
+title: quiz|170|Olivier Martinez
 labels: ''
 assignees: ''
 

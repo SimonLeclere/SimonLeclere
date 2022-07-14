@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Multiplication'
+name: 'Answer 3 : Mathieu Kassovitz'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|513|Multiplication
+title: quiz|170|Mathieu Kassovitz
 labels: ''
 assignees: ''
 
