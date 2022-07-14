@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Power Editor'
+name: 'Answer 3 : Morocco'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|684|Power Editor
+title: quiz|885|Morocco
 labels: ''
 assignees: ''
 

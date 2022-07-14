@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which ad campaign management tool is now integrated into Instagram ?
+## Tripoli is a city of Lebanon but also the capital of which country ?
 
 <br>
 
-| [Power Editor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C684%7CPower%20Editor&body=Just%20click%20'Submit%20new%20issue'.) | [Advisor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C684%7CAdvisor&body=Just%20click%20'Submit%20new%20issue'.) | [Campainor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C684%7CCampainor&body=Just%20click%20'Submit%20new%20issue'.) | [Add Generator](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C684%7CAdd%20Generator&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Morocco](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C885%7CMorocco&body=Just%20click%20'Submit%20new%20issue'.) | [Sudan](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C885%7CSudan&body=Just%20click%20'Submit%20new%20issue'.) | [Libya](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C885%7CLibya&body=Just%20click%20'Submit%20new%20issue'.) | [Tunisia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C885%7CTunisia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Power Editor** to `Which ad campaign management tool is now integrated into Instagram ?` (Good answer)
 - **janast3369** answered **Noah** to `Who would have used a pigeon first as a carrier pigeon ?` (Good answer)
 - **janast3369** answered **Bib** to `In competition, what do we put on the back of certain athletes to recognize them ?` (Good answer)
 - **janast3369** answered **Milo Ventimiglia** to `With what other heroe did Hayden Pannetiere have the perfect love ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Medley** to `Which station was drowned under a dam in 1952 and then rebuilt a little higher ?` (Wrong answer)
 - **janast3369** answered **A mouse** to `In the series of B.D. « Placid and Muzo », which animal is Placid ?` (Wrong answer)
 - **janast3369** answered **Tired** to `In what state is a horse that folds his ears on his neck ?` (Wrong answer)
-- **janast3369** answered **Rise** to `What Instagram filter allows a slight vignetting effect ?` (Wrong answer)
 
 </details>
 
@@ -63,7 +63,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [azgar44](https://github.com/azgar44) | 33 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 20 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
-| [janast1975](https://github.com/janast1975) | 13 |
+| [janast1975](https://github.com/janast1975) | 14 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
