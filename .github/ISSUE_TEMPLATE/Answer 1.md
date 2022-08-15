@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Radicle'
+name: 'Answer 3 : Kambalny'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|262|Radicle
+title: quiz|28|Kambalny
 labels: ''
 assignees: ''
 

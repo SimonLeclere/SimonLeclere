@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Chalaze'
+name: 'Answer 3 : White Island'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|262|Chalaze
+title: quiz|28|White Island
 labels: ''
 assignees: ''
 

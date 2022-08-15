@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Lenticelle'
+name: 'Answer 3 : Mount Carlisle'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|262|Lenticelle
+title: quiz|28|Mount Carlisle
 labels: ''
 assignees: ''
 
