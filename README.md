@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which volcano erupted on December 9, 2019 in New Zealand ?
+## How does Stephan Eicher want to have lunch in one of his songs ?
 
 <br>
 
-| [Kambalny](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C28%7CKambalny&body=Just%20click%20'Submit%20new%20issue'.) | [Mount Carlisle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C28%7CMount%20Carlisle&body=Just%20click%20'Submit%20new%20issue'.) | [Home Reef](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C28%7CHome%20Reef&body=Just%20click%20'Submit%20new%20issue'.) | [White Island](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C28%7CWhite%20Island&body=Just%20click%20'Submit%20new%20issue'.) |
+| [In lvitation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20lvitation&body=Just%20click%20'Submit%20new%20issue'.) | [In music](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20music&body=Just%20click%20'Submit%20new%20issue'.) | [In pajamas](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20pajamas&body=Just%20click%20'Submit%20new%20issue'.) | [In peace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20peace&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **janast3369** answered **Mount Carlisle** to `Which volcano erupted on December 9, 2019 in New Zealand ?` (Wrong answer)
 - **nounouthereal** answered **Areola** to `In botany, what distinctive sign differentiates Cactaceae from other families ?` (Good answer)
 - **janast3369** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
 - **janast3369** answered **Repost** to `Although not native, what is a sharing on Instagram called ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **LeBaron** to `In Mexico, which family was massacred in the Sierra Madre in 2019 ?` (Good answer)
 - **janast3369** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
 - **janast3369** answered **Xbox** to `What name is the video game console designed by Microsoft ?` (Good answer)
-- **janast3369** answered **Libya** to `Tripoli is a city of Lebanon but also the capital of which country ?` (Good answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : White Island'
+name: 'Answer 3 : In peace'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|28|White Island
+title: quiz|548|In peace
 labels: ''
 assignees: ''
 
