@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Simon, a young student with a passion for computers and new technologies!
+I'm Simon, a french student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
 Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
@@ -12,7 +12,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m currently learning **Javascript, and especially Node.JS**
 - 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), [js-string-cleaner](https://github.com/SimonLeclere/Js-String-Cleaner)**
-- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([sιмση ℓεcℓεяε#5765](https://discord.com/invite/U2VGrkT))**
+- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([Simon_#5765](https://discord.com/invite/U2VGrkT))**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
 <br>
@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How does Stephan Eicher want to have lunch in one of his songs ?
+## With whom did Britney Spears sing a duet « Me Against the Music » ?
 
 <br>
 
-| [In lvitation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20lvitation&body=Just%20click%20'Submit%20new%20issue'.) | [In music](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20music&body=Just%20click%20'Submit%20new%20issue'.) | [In pajamas](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20pajamas&body=Just%20click%20'Submit%20new%20issue'.) | [In peace](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C548%7CIn%20peace&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Jennifer Lopez](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CJennifer%20Lopez&body=Just%20click%20'Submit%20new%20issue'.) | [Madonna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CMadonna&body=Just%20click%20'Submit%20new%20issue'.) | [Christina Aguilera](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CChristina%20Aguilera&body=Just%20click%20'Submit%20new%20issue'.) | [Dido](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CDido&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **In peace** to `How does Stephan Eicher want to have lunch in one of his songs ?` (Good answer)
 - **janast3369** answered **Mount Carlisle** to `Which volcano erupted on December 9, 2019 in New Zealand ?` (Wrong answer)
 - **nounouthereal** answered **Areola** to `In botany, what distinctive sign differentiates Cactaceae from other families ?` (Good answer)
 - **janast3369** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Facial mask** to `What is better to wear to minimize the spread of a coronavirus ?` (Good answer)
 - **janast3369** answered **LeBaron** to `In Mexico, which family was massacred in the Sierra Madre in 2019 ?` (Good answer)
 - **janast3369** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
-- **janast3369** answered **Xbox** to `What name is the video game console designed by Microsoft ?` (Good answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
 | [janast1975](https://github.com/janast1975) | 23 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 20 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 21 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
