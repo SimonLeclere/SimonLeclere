@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Christina Aguilera'
+name: 'Answer 3 : Haflinger'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|219|Christina Aguilera
+title: quiz|296|Haflinger
 labels: ''
 assignees: ''
 

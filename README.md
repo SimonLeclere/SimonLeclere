@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## With whom did Britney Spears sing a duet « Me Against the Music » ?
+## What breed of horses always has a chestnut robe and a white tail ?
 
 <br>
 
-| [Jennifer Lopez](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CJennifer%20Lopez&body=Just%20click%20'Submit%20new%20issue'.) | [Madonna](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CMadonna&body=Just%20click%20'Submit%20new%20issue'.) | [Christina Aguilera](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CChristina%20Aguilera&body=Just%20click%20'Submit%20new%20issue'.) | [Dido](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C219%7CDido&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Shetland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CShetland&body=Just%20click%20'Submit%20new%20issue'.) | [Fjord](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CFjord&body=Just%20click%20'Submit%20new%20issue'.) | [Haflinger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CHaflinger&body=Just%20click%20'Submit%20new%20issue'.) | [Frisian](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CFrisian&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **GeekCornerGH** answered **Madonna** to `With whom did Britney Spears sing a duet « Me Against the Music » ?` (Good answer)
 - **SimonLeclere** answered **In peace** to `How does Stephan Eicher want to have lunch in one of his songs ?` (Good answer)
 - **janast3369** answered **Mount Carlisle** to `Which volcano erupted on December 9, 2019 in New Zealand ?` (Wrong answer)
 - **nounouthereal** answered **Areola** to `In botany, what distinctive sign differentiates Cactaceae from other families ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Thistle** to `What does the ancient Greek word kaktos mean, where does the name cactus come from ?` (Good answer)
 - **janast3369** answered **Facial mask** to `What is better to wear to minimize the spread of a coronavirus ?` (Good answer)
 - **janast3369** answered **LeBaron** to `In Mexico, which family was massacred in the Sierra Madre in 2019 ?` (Good answer)
-- **janast3369** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
 
 </details>
 
