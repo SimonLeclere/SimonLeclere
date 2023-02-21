@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : A scorpion'
+name: 'Answer 3 : Mark Dow'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|610|A scorpion
+title: quiz|744|Mark Dow
 labels: ''
 assignees: ''
 

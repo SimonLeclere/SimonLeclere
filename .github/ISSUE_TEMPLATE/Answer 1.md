@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : A spider'
+name: 'Answer 3 : Chris Cappuccio'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|610|A spider
+title: quiz|744|Chris Cappuccio
 labels: ''
 assignees: ''
 

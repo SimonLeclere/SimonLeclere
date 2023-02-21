@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What form does Ron's scarecrow take in the « Harry Potter » saga ?
+## Who discovered a flaw in the OpenSSH code in 2002 ?
 
 <br>
 
-| [A spider](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C610%7CA%20spider&body=Just%20click%20'Submit%20new%20issue'.) | [A scorpion](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C610%7CA%20scorpion&body=Just%20click%20'Submit%20new%20issue'.) | [A dragon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C610%7CA%20dragon&body=Just%20click%20'Submit%20new%20issue'.) | [A wolf](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C610%7CA%20wolf&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Chris Cappuccio](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C744%7CChris%20Cappuccio&body=Just%20click%20'Submit%20new%20issue'.) | [Mark Dow](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C744%7CMark%20Dow&body=Just%20click%20'Submit%20new%20issue'.) | [Joel Knight](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C744%7CJoel%20Knight&body=Just%20click%20'Submit%20new%20issue'.) | [Steven Mestdagh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C744%7CSteven%20Mestdagh&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Martina-LP** answered **A spider** to `What form does Ron's scarecrow take in the « Harry Potter » saga ?` (Good answer)
 - **Martina-LP** answered **Atlanta** to `In which city of Georgia is the current headquarters of the company Coca-Cola ?` (Good answer)
 - **Martina-LP** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 - **GeekCornerGH** answered **Madonna** to `With whom did Britney Spears sing a duet « Me Against the Music » ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
 - **janast3369** answered **Repost** to `Although not native, what is a sharing on Instagram called ?` (Good answer)
 - **janast3369** answered **Avian influenza** to `What disease often forces the pigeon fancier to confine his pigeons ?` (Good answer)
-- **janast3369** answered **Thistle** to `What does the ancient Greek word kaktos mean, where does the name cactus come from ?` (Good answer)
 
 </details>
 

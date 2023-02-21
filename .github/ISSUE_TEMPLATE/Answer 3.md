@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : A dragon'
+name: 'Answer 3 : Joel Knight'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|610|A dragon
+title: quiz|744|Joel Knight
 labels: ''
 assignees: ''
 

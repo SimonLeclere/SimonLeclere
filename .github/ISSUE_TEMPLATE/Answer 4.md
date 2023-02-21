@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : A wolf'
+name: 'Answer 3 : Steven Mestdagh'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|610|A wolf
+title: quiz|744|Steven Mestdagh
 labels: ''
 assignees: ''
 
