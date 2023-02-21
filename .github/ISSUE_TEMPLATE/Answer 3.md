@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Albany'
+name: 'Answer 3 : A dragon'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|310|Albany
+title: quiz|610|A dragon
 labels: ''
 assignees: ''
 

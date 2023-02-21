@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Dalton'
+name: 'Answer 3 : A scorpion'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|310|Dalton
+title: quiz|610|A scorpion
 labels: ''
 assignees: ''
 

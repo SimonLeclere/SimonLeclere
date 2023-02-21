@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Brunswick'
+name: 'Answer 3 : A spider'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|310|Brunswick
+title: quiz|610|A spider
 labels: ''
 assignees: ''
 

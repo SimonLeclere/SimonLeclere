@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Atlanta'
+name: 'Answer 3 : A wolf'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|310|Atlanta
+title: quiz|610|A wolf
 labels: ''
 assignees: ''
 
