@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Frisian'
+name: 'Answer 3 : Atlanta'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|296|Frisian
+title: quiz|310|Atlanta
 labels: ''
 assignees: ''
 

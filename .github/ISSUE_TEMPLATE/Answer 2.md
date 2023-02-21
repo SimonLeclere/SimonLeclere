@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Fjord'
+name: 'Answer 3 : Dalton'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|296|Fjord
+title: quiz|310|Dalton
 labels: ''
 assignees: ''
 
