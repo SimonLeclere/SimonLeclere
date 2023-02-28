@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sabayon'
+name: 'Answer 3 : Merida'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|596|Sabayon
+title: quiz|793|Merida
 labels: ''
 assignees: ''
 

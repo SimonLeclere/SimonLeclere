@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Diplomate'
+name: 'Answer 3 : Ariel'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|596|Diplomate
+title: quiz|793|Ariel
 labels: ''
 assignees: ''
 
