@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Prunelle'
+name: 'Answer 3 : Geese'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|123|Prunelle
+title: quiz|806|Geese
 labels: ''
 assignees: ''
 
