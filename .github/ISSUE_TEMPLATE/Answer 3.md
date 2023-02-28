@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Joel Knight'
+name: 'Answer 3 : White'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|744|Joel Knight
+title: quiz|283|White
 labels: ''
 assignees: ''
 
