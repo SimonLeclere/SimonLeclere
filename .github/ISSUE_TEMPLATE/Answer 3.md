@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Paris-Flash'
+name: 'Answer 3 : Diplomate'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|869|Paris-Flash
+title: quiz|596|Diplomate
 labels: ''
 assignees: ''
 

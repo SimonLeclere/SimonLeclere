@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Stars de France'
+name: 'Answer 3 : Sabayon'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|869|Stars de France
+title: quiz|596|Sabayon
 labels: ''
 assignees: ''
 

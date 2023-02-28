@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?
+## Which pie made from small yellow plums is a specialty in Lorraine ?
 
 <br>
 
-| [Jours de Paris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CJours%20de%20Paris&body=Just%20click%20'Submit%20new%20issue'.) | [Ici Pour Vous](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CIci%20Pour%20Vous&body=Just%20click%20'Submit%20new%20issue'.) | [Paris-Flash](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CParis-Flash&body=Just%20click%20'Submit%20new%20issue'.) | [Stars de France](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CStars%20de%20France&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Mirabelle plum pie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C596%7CMirabelle%20plum%20pie&body=Just%20click%20'Submit%20new%20issue'.) | [Black Forest](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C596%7CBlack%20Forest&body=Just%20click%20'Submit%20new%20issue'.) | [Diplomate](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C596%7CDiplomate&body=Just%20click%20'Submit%20new%20issue'.) | [Sabayon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C596%7CSabayon&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **awholemystery** answered **Paris-Flash** to `In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?` (Good answer)
 - **awholemystery** answered **Mouse** to `In « Cinderella », which animals are transformed into work horses ?` (Good answer)
 - **awholemystery** answered **Beautiful** to `What is the name of Sebastien's best friend on TV ?` (Good answer)
 - **awholemystery** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **Martina-LP** answered **A spider** to `What form does Ron's scarecrow take in the « Harry Potter » saga ?` (Good answer)
 - **Martina-LP** answered **Atlanta** to `In which city of Georgia is the current headquarters of the company Coca-Cola ?` (Good answer)
 - **Martina-LP** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
-- **GeekCornerGH** answered **Madonna** to `With whom did Britney Spears sing a duet « Me Against the Music » ?` (Good answer)
 
 </details>
 
@@ -67,6 +67,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
-| [zechaos031](https://github.com/zechaos031) | 6 |
+| [awholemystery](https://github.com/awholemystery) | 7 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
