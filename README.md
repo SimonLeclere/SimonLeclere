@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What color is Stewball in Hugues Aufray's song ?
+## To which of these French politicians could Lenin explain the revolution ?
 
 <br>
 
-| [Chestnut](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C283%7CChestnut&body=Just%20click%20'Submit%20new%20issue'.) | [Black](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C283%7CBlack&body=Just%20click%20'Submit%20new%20issue'.) | [White](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C283%7CWhite&body=Just%20click%20'Submit%20new%20issue'.) | [Gray](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C283%7CGray&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Georges Marchais](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C497%7CGeorges%20Marchais&body=Just%20click%20'Submit%20new%20issue'.) | [Raymond Barre](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C497%7CRaymond%20Barre&body=Just%20click%20'Submit%20new%20issue'.) | [Robert Hue](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C497%7CRobert%20Hue&body=Just%20click%20'Submit%20new%20issue'.) | [Jacques Chirac](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C497%7CJacques%20Chirac&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **awholemystery** answered **White** to `What color is Stewball in Hugues Aufray's song ?` (Good answer)
 - **awholemystery** answered **Mark Dow** to `Who discovered a flaw in the OpenSSH code in 2002 ?` (Good answer)
 - **Martina-LP** answered **A spider** to `What form does Ron's scarecrow take in the « Harry Potter » saga ?` (Good answer)
 - **Martina-LP** answered **Atlanta** to `In which city of Georgia is the current headquarters of the company Coca-Cola ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **janast3369** answered **Mount Carlisle** to `Which volcano erupted on December 9, 2019 in New Zealand ?` (Wrong answer)
 - **nounouthereal** answered **Areola** to `In botany, what distinctive sign differentiates Cactaceae from other families ?` (Good answer)
 - **janast3369** answered **Lieutenant** to `What is the rank of Brad Pitt in the film « Inglorious Basterds » by Quentin Tarantino ?` (Good answer)
-- **janast3369** answered **Repost** to `Although not native, what is a sharing on Instagram called ?` (Good answer)
 
 </details>
 

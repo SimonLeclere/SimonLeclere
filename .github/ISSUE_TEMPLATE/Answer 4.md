@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Gray'
+name: 'Answer 3 : Jacques Chirac'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|283|Gray
+title: quiz|497|Jacques Chirac
 labels: ''
 assignees: ''
 
