@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which actor plays Draco Malfoy in « Harry Potter » ?
+## What is the name of Sebastien's best friend on TV ?
 
 <br>
 
-| [Tom Felton](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C612%7CTom%20Felton&body=Just%20click%20'Submit%20new%20issue'.) | [Jeff Rawle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C612%7CJeff%20Rawle&body=Just%20click%20'Submit%20new%20issue'.) | [Robbie Coltrane](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C612%7CRobbie%20Coltrane&body=Just%20click%20'Submit%20new%20issue'.) | [Rupert Grint](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C612%7CRupert%20Grint&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Beautiful](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C123%7CBeautiful&body=Just%20click%20'Submit%20new%20issue'.) | [Prunelle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C123%7CPrunelle&body=Just%20click%20'Submit%20new%20issue'.) | [Aglaé](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C123%7CAgla%C3%A9&body=Just%20click%20'Submit%20new%20issue'.) | [Sidonie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C123%7CSidonie&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **awholemystery** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 - **awholemystery** answered **Georges Marchais** to `To which of these French politicians could Lenin explain the revolution ?` (Good answer)
 - **awholemystery** answered **White** to `What color is Stewball in Hugues Aufray's song ?` (Good answer)
 - **awholemystery** answered **Mark Dow** to `Who discovered a flaw in the OpenSSH code in 2002 ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **GeekCornerGH** answered **Madonna** to `With whom did Britney Spears sing a duet « Me Against the Music » ?` (Good answer)
 - **SimonLeclere** answered **In peace** to `How does Stephan Eicher want to have lunch in one of his songs ?` (Good answer)
 - **janast3369** answered **Mount Carlisle** to `Which volcano erupted on December 9, 2019 in New Zealand ?` (Wrong answer)
-- **nounouthereal** answered **Areola** to `In botany, what distinctive sign differentiates Cactaceae from other families ?` (Good answer)
 
 </details>
 

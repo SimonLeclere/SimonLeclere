@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tom Felton'
+name: 'Answer 3 : Beautiful'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|612|Tom Felton
+title: quiz|123|Beautiful
 labels: ''
 assignees: ''
 
