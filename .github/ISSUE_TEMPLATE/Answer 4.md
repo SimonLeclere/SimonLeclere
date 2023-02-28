@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Rabbits'
+name: 'Answer 3 : Stars de France'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|806|Rabbits
+title: quiz|869|Stars de France
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In « Cinderella », which animals are transformed into work horses ?
+## In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?
 
 <br>
 
-| [Mouse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CMouse&body=Just%20click%20'Submit%20new%20issue'.) | [Geese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CGeese&body=Just%20click%20'Submit%20new%20issue'.) | [Sheep](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CSheep&body=Just%20click%20'Submit%20new%20issue'.) | [Rabbits](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CRabbits&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Jours de Paris](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CJours%20de%20Paris&body=Just%20click%20'Submit%20new%20issue'.) | [Ici Pour Vous](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CIci%20Pour%20Vous&body=Just%20click%20'Submit%20new%20issue'.) | [Paris-Flash](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CParis-Flash&body=Just%20click%20'Submit%20new%20issue'.) | [Stars de France](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C869%7CStars%20de%20France&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **awholemystery** answered **Mouse** to `In « Cinderella », which animals are transformed into work horses ?` (Good answer)
 - **awholemystery** answered **Beautiful** to `What is the name of Sebastien's best friend on TV ?` (Good answer)
 - **awholemystery** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 - **awholemystery** answered **Georges Marchais** to `To which of these French politicians could Lenin explain the revolution ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **Martina-LP** answered **Atlanta** to `In which city of Georgia is the current headquarters of the company Coca-Cola ?` (Good answer)
 - **Martina-LP** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 - **GeekCornerGH** answered **Madonna** to `With whom did Britney Spears sing a duet « Me Against the Music » ?` (Good answer)
-- **SimonLeclere** answered **In peace** to `How does Stephan Eicher want to have lunch in one of his songs ?` (Good answer)
 
 </details>
 
