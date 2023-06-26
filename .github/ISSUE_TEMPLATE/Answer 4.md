@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Merida'
+name: 'Answer 3 : Coke Life'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|793|Merida
+title: quiz|311|Coke Life
 labels: ''
 assignees: ''
 

@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In the world of Disney, which princess sings « This blue dream » ?
+## What beverage from the Coca-Cola company was released after 1945 ?
 
 <br>
 
-| [Tiana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C793%7CTiana&body=Just%20click%20'Submit%20new%20issue'.) | [Jasmine](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C793%7CJasmine&body=Just%20click%20'Submit%20new%20issue'.) | [Ariel](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C793%7CAriel&body=Just%20click%20'Submit%20new%20issue'.) | [Merida](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C793%7CMerida&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Fanta](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C311%7CFanta&body=Just%20click%20'Submit%20new%20issue'.) | [Sprite](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C311%7CSprite&body=Just%20click%20'Submit%20new%20issue'.) | [Cherry Coke](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C311%7CCherry%20Coke&body=Just%20click%20'Submit%20new%20issue'.) | [Coke Life](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C311%7CCoke%20Life&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **54mue1** answered **Jasmine** to `In the world of Disney, which princess sings « This blue dream » ?` (Good answer)
 - **awholemystery** answered **Mirabelle plum pie** to `Which pie made from small yellow plums is a specialty in Lorraine ?` (Good answer)
 - **awholemystery** answered **Paris-Flash** to `In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?` (Good answer)
 - **awholemystery** answered **Mouse** to `In « Cinderella », which animals are transformed into work horses ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **awholemystery** answered **White** to `What color is Stewball in Hugues Aufray's song ?` (Good answer)
 - **awholemystery** answered **Mark Dow** to `Who discovered a flaw in the OpenSSH code in 2002 ?` (Good answer)
 - **Martina-LP** answered **A spider** to `What form does Ron's scarecrow take in the « Harry Potter » saga ?` (Good answer)
-- **Martina-LP** answered **Atlanta** to `In which city of Georgia is the current headquarters of the company Coca-Cola ?` (Good answer)
 
 </details>
 
