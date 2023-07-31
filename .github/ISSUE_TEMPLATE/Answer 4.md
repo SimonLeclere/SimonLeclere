@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Germany'
+name: 'Answer 3 : Cherry'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|343|Germany
+title: quiz|316|Cherry
 labels: ''
 assignees: ''
 
