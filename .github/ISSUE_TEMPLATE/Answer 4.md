@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cherry'
+name: 'Answer 3 : 6 years'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|316|Cherry
+title: quiz|707|6 years
 labels: ''
 assignees: ''
 
