@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Geology'
+name: 'Answer 3 : Brazil'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|505|Geology
+title: quiz|453|Brazil
 labels: ''
 assignees: ''
 

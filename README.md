@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In what state is the US Sing Sing prison, located on the banks of the Hudson ?
+## What country does the recipe for cappuccino and its milk cap come from ?
 
 <br>
 
-| [Texas](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C505%7CTexas&body=Just%20click%20'Submit%20new%20issue'.) | [Alabama](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C505%7CAlabama&body=Just%20click%20'Submit%20new%20issue'.) | [New York](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C505%7CNew%20York&body=Just%20click%20'Submit%20new%20issue'.) | [Geology](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C505%7CGeology&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Italy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C453%7CItaly&body=Just%20click%20'Submit%20new%20issue'.) | [Colombia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C453%7CColombia&body=Just%20click%20'Submit%20new%20issue'.) | [Spain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C453%7CSpain&body=Just%20click%20'Submit%20new%20issue'.) | [Brazil](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C453%7CBrazil&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NotFubukIl** answered **New York** to `In what state is the US Sing Sing prison, located on the banks of the Hudson ?` (Good answer)
 - **NotFubukIl** answered **Fanta** to `What beverage from the Coca-Cola company was released after 1945 ?` (Good answer)
 - **54mue1** answered **Jasmine** to `In the world of Disney, which princess sings « This blue dream » ?` (Good answer)
 - **awholemystery** answered **Mirabelle plum pie** to `Which pie made from small yellow plums is a specialty in Lorraine ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **awholemystery** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 - **awholemystery** answered **Georges Marchais** to `To which of these French politicians could Lenin explain the revolution ?` (Good answer)
 - **awholemystery** answered **White** to `What color is Stewball in Hugues Aufray's song ?` (Good answer)
-- **awholemystery** answered **Mark Dow** to `Who discovered a flaw in the OpenSSH code in 2002 ?` (Good answer)
 
 </details>
 

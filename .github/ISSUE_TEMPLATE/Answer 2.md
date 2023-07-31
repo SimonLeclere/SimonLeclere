@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Alabama'
+name: 'Answer 3 : Colombia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|505|Alabama
+title: quiz|453|Colombia
 labels: ''
 assignees: ''
 
