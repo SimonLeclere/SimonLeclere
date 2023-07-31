@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Vic's pie'
+name: 'Answer 3 : Christoph Waltz'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|598|Vic's pie
+title: quiz|164|Christoph Waltz
 labels: ''
 assignees: ''
 
