@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Coke Life'
+name: 'Answer 3 : Geology'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|311|Coke Life
+title: quiz|505|Geology
 labels: ''
 assignees: ''
 

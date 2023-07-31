@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Fanta'
+name: 'Answer 3 : Texas'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|311|Fanta
+title: quiz|505|Texas
 labels: ''
 assignees: ''
 

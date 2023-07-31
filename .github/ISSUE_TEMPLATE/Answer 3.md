@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cherry Coke'
+name: 'Answer 3 : New York'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|311|Cherry Coke
+title: quiz|505|New York
 labels: ''
 assignees: ''
 
