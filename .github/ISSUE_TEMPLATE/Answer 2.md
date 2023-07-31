@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Three months'
+name: 'Answer 3 : 1,500'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|42|Three months
+title: quiz|563|1,500
 labels: ''
 assignees: ''
 

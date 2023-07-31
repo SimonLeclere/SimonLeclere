@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the average lifespan of a bee during the summer months ?
+## How many plates for lunch were loaded aboard the Titanic ?
 
 <br>
 
-| [Two months](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C42%7CTwo%20months&body=Just%20click%20'Submit%20new%20issue'.) | [Three months](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C42%7CThree%20months&body=Just%20click%20'Submit%20new%20issue'.) | [Four months](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C42%7CFour%20months&body=Just%20click%20'Submit%20new%20issue'.) | [One month](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C42%7COne%20month&body=Just%20click%20'Submit%20new%20issue'.) |
+| [2,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C2,500&body=Just%20click%20'Submit%20new%20issue'.) | [1,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C1,500&body=Just%20click%20'Submit%20new%20issue'.) | [3,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C3,500&body=Just%20click%20'Submit%20new%20issue'.) | [4,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C4,500&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NotFubukIl** answered **One month** to `What is the average lifespan of a bee during the summer months ?` (Good answer)
 - **NotFubukIl** answered **Spain** to `Which country won the 2019 Men's Basketball World Cup ?` (Good answer)
 - **NotFubukIl** answered **Pigeons** to `The pigeon sport concerns the breeding of which animals ?` (Good answer)
 - **NotFubukIl** answered **Poland** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Italy** to `What country does the recipe for cappuccino and its milk cap come from ?` (Good answer)
 - **NotFubukIl** answered **New York** to `In what state is the US Sing Sing prison, located on the banks of the Hudson ?` (Good answer)
 - **NotFubukIl** answered **Fanta** to `What beverage from the Coca-Cola company was released after 1945 ?` (Good answer)
-- **54mue1** answered **Jasmine** to `In the world of Disney, which princess sings « This blue dream » ?` (Good answer)
 
 </details>
 
