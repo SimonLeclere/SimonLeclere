@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Kay Williams'
+name: 'Answer 3 : Strap'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|412|Kay Williams
+title: quiz|275|Strap
 labels: ''
 assignees: ''
 

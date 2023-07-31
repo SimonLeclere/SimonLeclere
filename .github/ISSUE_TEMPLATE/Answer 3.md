@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sylvia Ashley'
+name: 'Answer 3 : Reines'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|412|Sylvia Ashley
+title: quiz|275|Reines
 labels: ''
 assignees: ''
 
