@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Strap'
+name: 'Answer 3 : Water glass'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|275|Strap
+title: quiz|465|Water glass
 labels: ''
 assignees: ''
 

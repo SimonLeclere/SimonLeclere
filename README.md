@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What useful accessory keeps the saddle of the horse in place ?
+## Sitting at a French-style table, your red wine glass is on the right...
 
 <br>
 
-| [Ventrie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C275%7CVentrie&body=Just%20click%20'Submit%20new%20issue'.) | [Strap](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C275%7CStrap&body=Just%20click%20'Submit%20new%20issue'.) | [Reines](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C275%7CReines&body=Just%20click%20'Submit%20new%20issue'.) | [Sous-ventrière](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C275%7CSous-ventri%C3%A8re&body=Just%20click%20'Submit%20new%20issue'.) |
+| [From the fork](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C465%7CFrom%20the%20fork&body=Just%20click%20'Submit%20new%20issue'.) | [Water glass](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C465%7CWater%20glass&body=Just%20click%20'Submit%20new%20issue'.) | [White wine glass](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C465%7CWhite%20wine%20glass&body=Just%20click%20'Submit%20new%20issue'.) | [From the towel](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C465%7CFrom%20the%20towel&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NotFubukIl** answered **Sous-ventrière** to `What useful accessory keeps the saddle of the horse in place ?` (Wrong answer)
 - **NotFubukIl** answered **Carole Lombard** to `With which of his wives has Clark Gable declared to have been the happiest ?` (Good answer)
 - **NotFubukIl** answered **Italy** to `What country does the recipe for cappuccino and its milk cap come from ?` (Good answer)
 - **NotFubukIl** answered **New York** to `In what state is the US Sing Sing prison, located on the banks of the Hudson ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **awholemystery** answered **Paris-Flash** to `In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?` (Good answer)
 - **awholemystery** answered **Mouse** to `In « Cinderella », which animals are transformed into work horses ?` (Good answer)
 - **awholemystery** answered **Beautiful** to `What is the name of Sebastien's best friend on TV ?` (Good answer)
-- **awholemystery** answered **Tom Felton** to `Which actor plays Draco Malfoy in « Harry Potter » ?` (Good answer)
 
 </details>
 
