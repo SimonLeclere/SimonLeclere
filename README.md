@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which Michelle Williams ex is the sexy Joker of the movie « The Dark Knight » ?
+## Which country is considered the cradle of world pigeon racing ?
 
 <br>
 
-| [Heath Ledger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C164%7CHeath%20Ledger&body=Just%20click%20'Submit%20new%20issue'.) | [Javier Bardem](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C164%7CJavier%20Bardem&body=Just%20click%20'Submit%20new%20issue'.) | [Christoph Waltz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C164%7CChristoph%20Waltz&body=Just%20click%20'Submit%20new%20issue'.) | [Tim Robbins](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C164%7CTim%20Robbins&body=Just%20click%20'Submit%20new%20issue'.) |
+| [France](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C343%7CFrance&body=Just%20click%20'Submit%20new%20issue'.) | [Netherlands](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C343%7CNetherlands&body=Just%20click%20'Submit%20new%20issue'.) | [Belgium](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C343%7CBelgium&body=Just%20click%20'Submit%20new%20issue'.) | [Germany](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C343%7CGermany&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NotFubukIl** answered **Heath Ledger** to `Which Michelle Williams ex is the sexy Joker of the movie « The Dark Knight » ?` (Good answer)
 - **NotFubukIl** answered **Pear Belle-Hélène** to `Which dessert owes its name to an operetta by Jacques Offenbach ?` (Good answer)
 - **NotFubukIl** answered **2,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Good answer)
 - **NotFubukIl** answered **One month** to `What is the average lifespan of a bee during the summer months ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **From the fork** to `Sitting at a French-style table, your red wine glass is on the right...` (Wrong answer)
 - **NotFubukIl** answered **Sous-ventrière** to `What useful accessory keeps the saddle of the horse in place ?` (Wrong answer)
 - **NotFubukIl** answered **Carole Lombard** to `With which of his wives has Clark Gable declared to have been the happiest ?` (Good answer)
-- **NotFubukIl** answered **Italy** to `What country does the recipe for cappuccino and its milk cap come from ?` (Good answer)
 
 </details>
 
@@ -64,7 +64,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [janast1975](https://github.com/janast1975) | 23 |
 | [SimonLeclere](https://github.com/SimonLeclere) | 21 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
-| [NotFubukIl](https://github.com/NotFubukIl) | 10 |
+| [NotFubukIl](https://github.com/NotFubukIl) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
