@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## The pigeon sport concerns the breeding of which animals ?
+## Which country won the 2019 Men's Basketball World Cup ?
 
 <br>
 
-| [Pigeons](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C330%7CPigeons&body=Just%20click%20'Submit%20new%20issue'.) | [Birds](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C330%7CBirds&body=Just%20click%20'Submit%20new%20issue'.) | [Ducks](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C330%7CDucks&body=Just%20click%20'Submit%20new%20issue'.) | [Hens](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C330%7CHens&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Australia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CAustralia&body=Just%20click%20'Submit%20new%20issue'.) | [Spain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CSpain&body=Just%20click%20'Submit%20new%20issue'.) | [France](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CFrance&body=Just%20click%20'Submit%20new%20issue'.) | [Argentina](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CArgentina&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NotFubukIl** answered **Pigeons** to `The pigeon sport concerns the breeding of which animals ?` (Good answer)
 - **NotFubukIl** answered **Poland** to `Which country lost about fifteen percent of its population between 1939 and 1945 ?` (Good answer)
 - **NotFubukIl** answered **From the fork** to `Sitting at a French-style table, your red wine glass is on the right...` (Wrong answer)
 - **NotFubukIl** answered **Sous-ventrière** to `What useful accessory keeps the saddle of the horse in place ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Fanta** to `What beverage from the Coca-Cola company was released after 1945 ?` (Good answer)
 - **54mue1** answered **Jasmine** to `In the world of Disney, which princess sings « This blue dream » ?` (Good answer)
 - **awholemystery** answered **Mirabelle plum pie** to `Which pie made from small yellow plums is a specialty in Lorraine ?` (Good answer)
-- **awholemystery** answered **Paris-Flash** to `In « Les Bijoux de la Castafiore », which newspaper announces the diva's wedding ?` (Good answer)
 
 </details>
 
