@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : From the fork'
+name: 'Answer 3 : Czechoslovakia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|465|From the fork
+title: quiz|398|Czechoslovakia
 labels: ''
 assignees: ''
 

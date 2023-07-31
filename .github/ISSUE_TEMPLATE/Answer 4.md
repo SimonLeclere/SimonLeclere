@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : From the towel'
+name: 'Answer 3 : Norway'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|465|From the towel
+title: quiz|398|Norway
 labels: ''
 assignees: ''
 
