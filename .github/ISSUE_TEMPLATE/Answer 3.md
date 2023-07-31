@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : France'
+name: 'Answer 3 : Four months'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|14|France
+title: quiz|42|Four months
 labels: ''
 assignees: ''
 
