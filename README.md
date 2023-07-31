@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many plates for lunch were loaded aboard the Titanic ?
+## Which dessert owes its name to an operetta by Jacques Offenbach ?
 
 <br>
 
-| [2,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C2,500&body=Just%20click%20'Submit%20new%20issue'.) | [1,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C1,500&body=Just%20click%20'Submit%20new%20issue'.) | [3,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C3,500&body=Just%20click%20'Submit%20new%20issue'.) | [4,500](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C563%7C4,500&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Melba Strawberry](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C598%7CMelba%20Strawberry&body=Just%20click%20'Submit%20new%20issue'.) | [Cream Chiboust](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C598%7CCream%20Chiboust&body=Just%20click%20'Submit%20new%20issue'.) | [Vic's pie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C598%7CVic's%20pie&body=Just%20click%20'Submit%20new%20issue'.) | [Pear Belle-Hélène](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C598%7CPear%20Belle-H%C3%A9l%C3%A8ne&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **NotFubukIl** answered **2,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Good answer)
 - **NotFubukIl** answered **One month** to `What is the average lifespan of a bee during the summer months ?` (Good answer)
 - **NotFubukIl** answered **Spain** to `Which country won the 2019 Men's Basketball World Cup ?` (Good answer)
 - **NotFubukIl** answered **Pigeons** to `The pigeon sport concerns the breeding of which animals ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Carole Lombard** to `With which of his wives has Clark Gable declared to have been the happiest ?` (Good answer)
 - **NotFubukIl** answered **Italy** to `What country does the recipe for cappuccino and its milk cap come from ?` (Good answer)
 - **NotFubukIl** answered **New York** to `In what state is the US Sing Sing prison, located on the banks of the Hudson ?` (Good answer)
-- **NotFubukIl** answered **Fanta** to `What beverage from the Coca-Cola company was released after 1945 ?` (Good answer)
 
 </details>
 
@@ -65,8 +65,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [SimonLeclere](https://github.com/SimonLeclere) | 21 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
+| [NotFubukIl](https://github.com/NotFubukIl) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
-| [awholemystery](https://github.com/awholemystery) | 8 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
