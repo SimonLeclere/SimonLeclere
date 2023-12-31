@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Meringue'
+name: 'Answer 3 : Stick insect'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|593|Meringue
+title: quiz|37|Stick insect
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Sacristan'
+name: 'Answer 3 : Beetle'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|593|Sacristan
+title: quiz|37|Beetle
 labels: ''
 assignees: ''
 
