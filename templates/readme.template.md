@@ -9,10 +9,10 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
-- 🌱 I’m currently learning **Javascript, and especially Node.JS**
-- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), [js-string-cleaner](https://github.com/SimonLeclere/Js-String-Cleaner)**
-- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([Simon_#5765](https://discord.com/invite/U2VGrkT))**
+- 🔭 I worked on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
+- 🌱 I’m comfortable with **Node.JS, TypeScript, Python, React, etc**
+- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards)**, feel free to make a pull request if you can help me maintain it
+- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr)**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
 <br>
