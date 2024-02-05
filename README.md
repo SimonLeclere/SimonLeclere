@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which singer nicknamed Lady Day represents American jazz ?
+## Which company injected significant cash to support OpenSSH ?
 
 <br>
 
-| [Ella](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CElla&body=Just%20click%20'Submit%20new%20issue'.) | [Billie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CBillie&body=Just%20click%20'Submit%20new%20issue'.) | [Nina](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CNina&body=Just%20click%20'Submit%20new%20issue'.) | [Sarah](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CSarah&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Facebook](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CFacebook&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CMicrosoft&body=Just%20click%20'Submit%20new%20issue'.) | [Apple](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CApple&body=Just%20click%20'Submit%20new%20issue'.) | [Twitter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CTwitter&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
 - **SimonLeclere** answered **Beetle** to `Which honey bee is the product of the hatching of an unfertilized egg ?` (Wrong answer)
 - **NotFubukIl** answered **Meringue** to `Which pastry shop is attributed to the Italian confectioner Gasparini ?` (Good answer)
 - **NotFubukIl** answered **Elektra** to `Which Daredevil heroine is a professional killer ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Heath Ledger** to `Which Michelle Williams ex is the sexy Joker of the movie « The Dark Knight » ?` (Good answer)
 - **NotFubukIl** answered **Pear Belle-Hélène** to `Which dessert owes its name to an operetta by Jacques Offenbach ?` (Good answer)
 - **NotFubukIl** answered **2,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Good answer)
-- **NotFubukIl** answered **One month** to `What is the average lifespan of a bee during the summer months ?` (Good answer)
 
 </details>
 
