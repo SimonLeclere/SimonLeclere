@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Microsoft'
+name: 'Answer 3 : Banker'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|736|Microsoft
+title: quiz|417|Banker
 labels: ''
 assignees: ''
 

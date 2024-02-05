@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Apple'
+name: 'Answer 3 : Lawyer'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|736|Apple
+title: quiz|417|Lawyer
 labels: ''
 assignees: ''
 

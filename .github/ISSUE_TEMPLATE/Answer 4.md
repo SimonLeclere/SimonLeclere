@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Twitter'
+name: 'Answer 3 : Pharmacist'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|736|Twitter
+title: quiz|417|Pharmacist
 labels: ''
 assignees: ''
 

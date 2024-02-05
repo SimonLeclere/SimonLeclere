@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which company injected significant cash to support OpenSSH ?
+## Jeanne Chauvin was the first woman in France to practice what profession ?
 
 <br>
 
-| [Facebook](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CFacebook&body=Just%20click%20'Submit%20new%20issue'.) | [Microsoft](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CMicrosoft&body=Just%20click%20'Submit%20new%20issue'.) | [Apple](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CApple&body=Just%20click%20'Submit%20new%20issue'.) | [Twitter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C736%7CTwitter&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Minister](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CMinister&body=Just%20click%20'Submit%20new%20issue'.) | [Banker](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CBanker&body=Just%20click%20'Submit%20new%20issue'.) | [Lawyer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CLawyer&body=Just%20click%20'Submit%20new%20issue'.) | [Pharmacist](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CPharmacist&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
 - **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
 - **SimonLeclere** answered **Beetle** to `Which honey bee is the product of the hatching of an unfertilized egg ?` (Wrong answer)
 - **NotFubukIl** answered **Meringue** to `Which pastry shop is attributed to the Italian confectioner Gasparini ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Belgium** to `Which country is considered the cradle of world pigeon racing ?` (Good answer)
 - **NotFubukIl** answered **Heath Ledger** to `Which Michelle Williams ex is the sexy Joker of the movie « The Dark Knight » ?` (Good answer)
 - **NotFubukIl** answered **Pear Belle-Hélène** to `Which dessert owes its name to an operetta by Jacques Offenbach ?` (Good answer)
-- **NotFubukIl** answered **2,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Good answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
 | [janast1975](https://github.com/janast1975) | 23 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 21 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 22 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
