@@ -9,10 +9,10 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🔭 I’m currently working on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
-- 🌱 I’m currently learning **Javascript, and especially Node.JS**
-- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), [js-string-cleaner](https://github.com/SimonLeclere/Js-String-Cleaner)**
-- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr) or with discord for a faster response ([Simon_#5765](https://discord.com/invite/U2VGrkT))**
+- 🔭 I worked on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
+- 🌱 I’m comfortable with **Node.JS, TypeScript, Python, React, etc**
+- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards)**, feel free to make a pull request if you can help me maintain it
+- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr)**
 - ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
 
 <br>
@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which honey bee is the product of the hatching of an unfertilized egg ?
+## Which singer nicknamed Lady Day represents American jazz ?
 
 <br>
 
-| [Tick](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C37%7CTick&body=Just%20click%20'Submit%20new%20issue'.) | [Stick insect](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C37%7CStick%20insect&body=Just%20click%20'Submit%20new%20issue'.) | [Beetle](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C37%7CBeetle&body=Just%20click%20'Submit%20new%20issue'.) | [False drone](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C37%7CFalse%20drone&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Ella](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CElla&body=Just%20click%20'Submit%20new%20issue'.) | [Billie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CBillie&body=Just%20click%20'Submit%20new%20issue'.) | [Nina](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CNina&body=Just%20click%20'Submit%20new%20issue'.) | [Sarah](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C767%7CSarah&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Beetle** to `Which honey bee is the product of the hatching of an unfertilized egg ?` (Wrong answer)
 - **NotFubukIl** answered **Meringue** to `Which pastry shop is attributed to the Italian confectioner Gasparini ?` (Good answer)
 - **NotFubukIl** answered **Elektra** to `Which Daredevil heroine is a professional killer ?` (Good answer)
 - **NotFubukIl** answered **5 years** to `After how many years has the successor of Windows XP been marketed ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Pear Belle-Hélène** to `Which dessert owes its name to an operetta by Jacques Offenbach ?` (Good answer)
 - **NotFubukIl** answered **2,500** to `How many plates for lunch were loaded aboard the Titanic ?` (Good answer)
 - **NotFubukIl** answered **One month** to `What is the average lifespan of a bee during the summer months ?` (Good answer)
-- **NotFubukIl** answered **Spain** to `Which country won the 2019 Men's Basketball World Cup ?` (Good answer)
 
 </details>
 
