@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Minister'
+name: 'Answer 3 : To rest'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|417|Minister
+title: quiz|90|To rest
 labels: ''
 assignees: ''
 

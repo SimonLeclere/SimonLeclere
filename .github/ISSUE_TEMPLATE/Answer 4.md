@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Pharmacist'
+name: 'Answer 3 : To refresh'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|417|Pharmacist
+title: quiz|90|To refresh
 labels: ''
 assignees: ''
 

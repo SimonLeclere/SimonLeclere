@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Jeanne Chauvin was the first woman in France to practice what profession ?
+## Why do polar bears lie in the snow when they run ?
 
 <br>
 
-| [Minister](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CMinister&body=Just%20click%20'Submit%20new%20issue'.) | [Banker](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CBanker&body=Just%20click%20'Submit%20new%20issue'.) | [Lawyer](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CLawyer&body=Just%20click%20'Submit%20new%20issue'.) | [Pharmacist](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C417%7CPharmacist&body=Just%20click%20'Submit%20new%20issue'.) |
+| [To rest](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CTo%20rest&body=Just%20click%20'Submit%20new%20issue'.) | [Sleeping](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CSleeping&body=Just%20click%20'Submit%20new%20issue'.) | [To eat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CTo%20eat&body=Just%20click%20'Submit%20new%20issue'.) | [To refresh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CTo%20refresh&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
 - **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
 - **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
 - **SimonLeclere** answered **Beetle** to `Which honey bee is the product of the hatching of an unfertilized egg ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Life** to `Which version of Coca-Cola is based on the use of stevia ?` (Good answer)
 - **NotFubukIl** answered **Belgium** to `Which country is considered the cradle of world pigeon racing ?` (Good answer)
 - **NotFubukIl** answered **Heath Ledger** to `Which Michelle Williams ex is the sexy Joker of the movie « The Dark Knight » ?` (Good answer)
-- **NotFubukIl** answered **Pear Belle-Hélène** to `Which dessert owes its name to an operetta by Jacques Offenbach ?` (Good answer)
 
 </details>
 

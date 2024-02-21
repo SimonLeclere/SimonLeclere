@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Banker'
+name: 'Answer 3 : Sleeping'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|417|Banker
+title: quiz|90|Sleeping
 labels: ''
 assignees: ''
 
