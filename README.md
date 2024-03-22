@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Why do polar bears lie in the snow when they run ?
+## To which other object can we associate the paleophone invented by Charles Cross ?
 
 <br>
 
-| [To rest](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CTo%20rest&body=Just%20click%20'Submit%20new%20issue'.) | [Sleeping](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CSleeping&body=Just%20click%20'Submit%20new%20issue'.) | [To eat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CTo%20eat&body=Just%20click%20'Submit%20new%20issue'.) | [To refresh](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C90%7CTo%20refresh&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Radio Station](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C493%7CRadio%20Station&body=Just%20click%20'Submit%20new%20issue'.) | [Phone](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C493%7CPhone&body=Just%20click%20'Submit%20new%20issue'.) | [Disc groove](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C493%7CDisc%20groove&body=Just%20click%20'Submit%20new%20issue'.) | [Emitter](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C493%7CEmitter&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **To refresh** to `Why do polar bears lie in the snow when they run ?` (Good answer)
 - **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
 - **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
 - **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **5 years** to `After how many years has the successor of Windows XP been marketed ?` (Good answer)
 - **NotFubukIl** answered **Life** to `Which version of Coca-Cola is based on the use of stevia ?` (Good answer)
 - **NotFubukIl** answered **Belgium** to `Which country is considered the cradle of world pigeon racing ?` (Good answer)
-- **NotFubukIl** answered **Heath Ledger** to `Which Michelle Williams ex is the sexy Joker of the movie « The Dark Knight » ?` (Good answer)
 
 </details>
 
@@ -62,7 +62,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
 | [janast1975](https://github.com/janast1975) | 23 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 22 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 23 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
