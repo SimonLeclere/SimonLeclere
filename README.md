@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How many liters of water can a horse drink each day ?
+## Who was placed in a glass coffin by dwarves and then awakened by a prince ?
 
 <br>
 
-| [40 liters](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C281%7C40%20liters&body=Just%20click%20'Submit%20new%20issue'.) | [30 liters](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C281%7C30%20liters&body=Just%20click%20'Submit%20new%20issue'.) | [20 liters](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C281%7C20%20liters&body=Just%20click%20'Submit%20new%20issue'.) | [10 liters](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C281%7C10%20liters&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Fiona](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C789%7CFiona&body=Just%20click%20'Submit%20new%20issue'.) | [Esmeralda](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C789%7CEsmeralda&body=Just%20click%20'Submit%20new%20issue'.) | [Snow White](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C789%7CSnow%20White&body=Just%20click%20'Submit%20new%20issue'.) | [Cinderella](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C789%7CCinderella&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **40 liters** to `How many liters of water can a horse drink each day ?` (Good answer)
 - **SimonLeclere** answered **Radio Station** to `To which other object can we associate the paleophone invented by Charles Cross ?` (Wrong answer)
 - **SimonLeclere** answered **To refresh** to `Why do polar bears lie in the snow when they run ?` (Good answer)
 - **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **NotFubukIl** answered **Meringue** to `Which pastry shop is attributed to the Italian confectioner Gasparini ?` (Good answer)
 - **NotFubukIl** answered **Elektra** to `Which Daredevil heroine is a professional killer ?` (Good answer)
 - **NotFubukIl** answered **5 years** to `After how many years has the successor of Windows XP been marketed ?` (Good answer)
-- **NotFubukIl** answered **Life** to `Which version of Coca-Cola is based on the use of stevia ?` (Good answer)
 
 </details>
 
@@ -61,8 +61,8 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 24 |
 | [janast1975](https://github.com/janast1975) | 23 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 23 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
@@ -70,3 +70,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 | [HideakiAtsuyo](https://github.com/HideakiAtsuyo) | 8 |
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/SimonLeclere/SimonLeclere/main/assets/pattern.png');]{x0000}$}

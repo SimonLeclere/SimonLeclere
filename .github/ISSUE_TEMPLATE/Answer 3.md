@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 20 liters'
+name: 'Answer 3 : Snow White'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|281|20 liters
+title: quiz|789|Snow White
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 10 liters'
+name: 'Answer 3 : Cinderella'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|281|10 liters
+title: quiz|789|Cinderella
 labels: ''
 assignees: ''
 
