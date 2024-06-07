@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Radio Station'
+name: 'Answer 3 : 40 liters'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|493|Radio Station
+title: quiz|281|40 liters
 labels: ''
 assignees: ''
 
