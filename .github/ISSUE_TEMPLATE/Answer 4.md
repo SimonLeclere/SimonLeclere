@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cinderella'
+name: 'Answer 3 : Beyoncé'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|789|Cinderella
+title: quiz|681|Beyoncé
 labels: ''
 assignees: ''
 

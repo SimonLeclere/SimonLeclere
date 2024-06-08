@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Snow White'
+name: 'Answer 3 : Leonardo DiCaprio'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|789|Snow White
+title: quiz|681|Leonardo DiCaprio
 labels: ''
 assignees: ''
 
