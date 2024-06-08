@@ -51,6 +51,3 @@ ${lastAnswers}
 ${leaderboard}
 
 [Click here to see your stats](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=MyStats&body=Just%20click%20%27Submit%20new%20issue%27.)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/SimonLeclere/SimonLeclere/main/assets/pattern.png');]{x0000}$}
