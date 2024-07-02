@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which Coca-Cola formula was a major marketing failure ?
+## Which of the following denotes an almost inert, colorless gas ?
 
 <br>
 
-| [Coca-Cola Life](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C318%7CCoca-Cola%20Life&body=Just%20click%20'Submit%20new%20issue'.) | [Coca-Cola Light](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C318%7CCoca-Cola%20Light&body=Just%20click%20'Submit%20new%20issue'.) | [Coca-Cola Zero](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C318%7CCoca-Cola%20Zero&body=Just%20click%20'Submit%20new%20issue'.) | [New Coke](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C318%7CNew%20Coke&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Radium](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CRadium&body=Just%20click%20'Submit%20new%20issue'.) | [Neon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CNeon&body=Just%20click%20'Submit%20new%20issue'.) | [Magnesium](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CMagnesium&body=Just%20click%20'Submit%20new%20issue'.) | [Manganese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CManganese&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **OutlawOnGithub** answered **New Coke** to `Which Coca-Cola formula was a major marketing failure ?` (Good answer)
 - **OutlawOnGithub** answered **Selena Gomez** to `Who was the most followed personality on the Instagram network in 2017 ?` (Good answer)
 - **SimonLeclere** answered **Fiona** to `Who was placed in a glass coffin by dwarves and then awakened by a prince ?` (Wrong answer)
 - **SimonLeclere** answered **40 liters** to `How many liters of water can a horse drink each day ?` (Good answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
 - **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
 - **SimonLeclere** answered **Beetle** to `Which honey bee is the product of the hatching of an unfertilized egg ?` (Wrong answer)
-- **NotFubukIl** answered **Meringue** to `Which pastry shop is attributed to the Italian confectioner Gasparini ?` (Good answer)
 
 </details>
 

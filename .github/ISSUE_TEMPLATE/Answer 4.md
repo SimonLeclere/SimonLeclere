@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : New Coke'
+name: 'Answer 3 : Manganese'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|318|New Coke
+title: quiz|444|Manganese
 labels: ''
 assignees: ''
 

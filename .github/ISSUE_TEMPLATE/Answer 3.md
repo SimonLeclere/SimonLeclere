@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Coca-Cola Zero'
+name: 'Answer 3 : Magnesium'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|318|Coca-Cola Zero
+title: quiz|444|Magnesium
 labels: ''
 assignees: ''
 
