@@ -3,17 +3,13 @@
 I'm Simon, a french student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
-Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
-
 <br>
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🔭 I worked on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m comfortable with **Node.JS, TypeScript, Python, React, etc**
-- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards)**, feel free to make a pull request if you can help me maintain it
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr)**
-- ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
+- ⚡ Fun fact: I play guitar and drink only sparkling water ✨
 
 <br>
 
