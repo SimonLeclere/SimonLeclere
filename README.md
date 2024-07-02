@@ -27,11 +27,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which of the following denotes an almost inert, colorless gas ?
+## What is the meaning of the RT letters of the Windows RT product name ?
 
 <br>
 
-| [Radium](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CRadium&body=Just%20click%20'Submit%20new%20issue'.) | [Neon](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CNeon&body=Just%20click%20'Submit%20new%20issue'.) | [Magnesium](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CMagnesium&body=Just%20click%20'Submit%20new%20issue'.) | [Manganese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C444%7CManganese&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Officially None](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7COfficially%20None&body=Just%20click%20'Submit%20new%20issue'.) | [RunTime](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7CRunTime&body=Just%20click%20'Submit%20new%20issue'.) | [RogueTime](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7CRogueTime&body=Just%20click%20'Submit%20new%20issue'.) | [RandTime](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7CRandTime&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +39,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **OutlawOnGithub** answered **Neon** to `Which of the following denotes an almost inert, colorless gas ?` (Good answer)
 - **OutlawOnGithub** answered **New Coke** to `Which Coca-Cola formula was a major marketing failure ?` (Good answer)
 - **OutlawOnGithub** answered **Selena Gomez** to `Who was the most followed personality on the Instagram network in 2017 ?` (Good answer)
 - **SimonLeclere** answered **Fiona** to `Who was placed in a glass coffin by dwarves and then awakened by a prince ?` (Wrong answer)
@@ -48,7 +49,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
 - **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
 - **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
-- **SimonLeclere** answered **Beetle** to `Which honey bee is the product of the hatching of an unfertilized egg ?` (Wrong answer)
 
 </details>
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Manganese'
+name: 'Answer 3 : RandTime'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|444|Manganese
+title: quiz|705|RandTime
 labels: ''
 assignees: ''
 
