@@ -3,17 +3,13 @@
 I'm Simon, a french student with a passion for computers and new technologies!
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
 
-Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.com/SimonLeclere)
-
 <br>
 
 <img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🔭 I worked on **[discord-starboards](https://github.com/SimonLeclere/discord-starboards), a complete framework to facilitate the creation of starboards using discord.js**
 - 🌱 I’m comfortable with **Node.JS, TypeScript, Python, React, etc**
-- 🤔 I’m looking for help with **[discord-starboards](https://github.com/SimonLeclere/discord-starboards)**, feel free to make a pull request if you can help me maintain it
 - 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr)**
-- ⚡ Fun fact: I am a fervent defender of textmojis haha ;) :) :/ -\_- ¯\\\_(ツ)\_/¯, I play guitar and drink only sparkling water ✨
+- ⚡ Fun fact: I play guitar and drink only sparkling water ✨
 
 <br>
 
@@ -27,11 +23,11 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the meaning of the RT letters of the Windows RT product name ?
+## What Instagram filter brings a romantic side to your photos ?
 
 <br>
 
-| [Officially None](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7COfficially%20None&body=Just%20click%20'Submit%20new%20issue'.) | [RunTime](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7CRunTime&body=Just%20click%20'Submit%20new%20issue'.) | [RogueTime](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7CRogueTime&body=Just%20click%20'Submit%20new%20issue'.) | [RandTime](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C705%7CRandTime&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Mayfair](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CMayfair&body=Just%20click%20'Submit%20new%20issue'.) | [Hefe](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CHefe&body=Just%20click%20'Submit%20new%20issue'.) | [Nashville](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CNashville&body=Just%20click%20'Submit%20new%20issue'.) | [Valencia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CValencia&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -39,6 +35,7 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **OutlawOnGithub** answered **RunTime** to `What is the meaning of the RT letters of the Windows RT product name ?` (Wrong answer)
 - **OutlawOnGithub** answered **Neon** to `Which of the following denotes an almost inert, colorless gas ?` (Good answer)
 - **OutlawOnGithub** answered **New Coke** to `Which Coca-Cola formula was a major marketing failure ?` (Good answer)
 - **OutlawOnGithub** answered **Selena Gomez** to `Who was the most followed personality on the Instagram network in 2017 ?` (Good answer)
@@ -48,7 +45,6 @@ Want to support me? -> 🍺 [Buy me a ~~coffee~~ beer](https://www.buymeacoffee.
 - **SimonLeclere** answered **To refresh** to `Why do polar bears lie in the snow when they run ?` (Good answer)
 - **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
 - **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
-- **SimonLeclere** answered **Billie** to `Which singer nicknamed Lady Day represents American jazz ?` (Good answer)
 
 </details>
 
