@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Beyoncé'
+name: 'Answer 3 : New Coke'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|681|Beyoncé
+title: quiz|318|New Coke
 labels: ''
 assignees: ''
 

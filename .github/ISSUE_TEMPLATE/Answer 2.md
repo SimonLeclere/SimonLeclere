@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Selena Gomez'
+name: 'Answer 3 : Coca-Cola Light'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|681|Selena Gomez
+title: quiz|318|Coca-Cola Light
 labels: ''
 assignees: ''
 
