@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What Instagram filter brings a romantic side to your photos ?
+## Which superheroine from a tribe of Amazons has a magic lasso ?
 
 <br>
 
-| [Mayfair](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CMayfair&body=Just%20click%20'Submit%20new%20issue'.) | [Hefe](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CHefe&body=Just%20click%20'Submit%20new%20issue'.) | [Nashville](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CNashville&body=Just%20click%20'Submit%20new%20issue'.) | [Valencia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C669%7CValencia&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Bullseye](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CBullseye&body=Just%20click%20'Submit%20new%20issue'.) | [Wonder Woman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CWonder%20Woman&body=Just%20click%20'Submit%20new%20issue'.) | [Ultron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CUltron&body=Just%20click%20'Submit%20new%20issue'.) | [Catwoman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CCatwoman&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **OutlawOnGithub** answered **Mayfair** to `What Instagram filter brings a romantic side to your photos ?` (Wrong answer)
 - **OutlawOnGithub** answered **RunTime** to `What is the meaning of the RT letters of the Windows RT product name ?` (Wrong answer)
 - **OutlawOnGithub** answered **Neon** to `Which of the following denotes an almost inert, colorless gas ?` (Good answer)
 - **OutlawOnGithub** answered **New Coke** to `Which Coca-Cola formula was a major marketing failure ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Radio Station** to `To which other object can we associate the paleophone invented by Charles Cross ?` (Wrong answer)
 - **SimonLeclere** answered **To refresh** to `Why do polar bears lie in the snow when they run ?` (Good answer)
 - **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
-- **SimonLeclere** answered **Microsoft** to `Which company injected significant cash to support OpenSSH ?` (Good answer)
 
 </details>
 
@@ -57,7 +57,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 24 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 23 |
 | [janast1975](https://github.com/janast1975) | 23 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |

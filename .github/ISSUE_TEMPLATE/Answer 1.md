@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Mayfair'
+name: 'Answer 3 : Bullseye'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|669|Mayfair
+title: quiz|650|Bullseye
 labels: ''
 assignees: ''
 
