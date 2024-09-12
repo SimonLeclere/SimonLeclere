@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bullseye'
+name: 'Answer 3 : Little duchess'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|650|Bullseye
+title: quiz|594|Little duchess
 labels: ''
 assignees: ''
 

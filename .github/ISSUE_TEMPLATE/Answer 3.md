@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Ultron'
+name: 'Answer 3 : Long Cabbage'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|650|Ultron
+title: quiz|594|Long Cabbage
 labels: ''
 assignees: ''
 

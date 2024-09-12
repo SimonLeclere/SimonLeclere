@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which superheroine from a tribe of Amazons has a magic lasso ?
+## In the pastry shop, what is clear on the ice-cream or fondant ?
 
 <br>
 
-| [Bullseye](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CBullseye&body=Just%20click%20'Submit%20new%20issue'.) | [Wonder Woman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CWonder%20Woman&body=Just%20click%20'Submit%20new%20issue'.) | [Ultron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CUltron&body=Just%20click%20'Submit%20new%20issue'.) | [Catwoman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C650%7CCatwoman&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Little duchess](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C594%7CLittle%20duchess&body=Just%20click%20'Submit%20new%20issue'.) | [Jacob's Staff](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C594%7CJacob's%20Staff&body=Just%20click%20'Submit%20new%20issue'.) | [Long Cabbage](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C594%7CLong%20Cabbage&body=Just%20click%20'Submit%20new%20issue'.) | [Concorde](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C594%7CConcorde&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **Wonder Woman** to `Which superheroine from a tribe of Amazons has a magic lasso ?` (Good answer)
 - **OutlawOnGithub** answered **Mayfair** to `What Instagram filter brings a romantic side to your photos ?` (Wrong answer)
 - **OutlawOnGithub** answered **RunTime** to `What is the meaning of the RT letters of the Windows RT product name ?` (Wrong answer)
 - **OutlawOnGithub** answered **Neon** to `Which of the following denotes an almost inert, colorless gas ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **40 liters** to `How many liters of water can a horse drink each day ?` (Good answer)
 - **SimonLeclere** answered **Radio Station** to `To which other object can we associate the paleophone invented by Charles Cross ?` (Wrong answer)
 - **SimonLeclere** answered **To refresh** to `Why do polar bears lie in the snow when they run ?` (Good answer)
-- **SimonLeclere** answered **Minister** to `Jeanne Chauvin was the first woman in France to practice what profession ?` (Wrong answer)
 
 </details>
 
