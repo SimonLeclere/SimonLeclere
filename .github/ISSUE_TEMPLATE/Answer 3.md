@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Long Cabbage'
+name: 'Answer 3 : 1964'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|594|Long Cabbage
+title: quiz|207|1964
 labels: ''
 assignees: ''
 

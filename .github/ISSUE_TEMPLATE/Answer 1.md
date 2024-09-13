@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Little duchess'
+name: 'Answer 3 : 1947'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|594|Little duchess
+title: quiz|207|1947
 labels: ''
 assignees: ''
 

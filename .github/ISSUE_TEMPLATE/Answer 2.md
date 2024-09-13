@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Jacob's Staff'
+name: 'Answer 3 : 1976'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|594|Jacob's Staff
+title: quiz|207|1976
 labels: ''
 assignees: ''
 
