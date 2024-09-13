@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Jacques Chirac'
+name: 'Answer 3 : 25'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|419|Jacques Chirac
+title: quiz|77|25
 labels: ''
 assignees: ''
 

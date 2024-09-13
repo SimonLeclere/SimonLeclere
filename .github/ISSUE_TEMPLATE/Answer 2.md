@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : François Miterrand'
+name: 'Answer 3 : 45'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|419|François Miterrand
+title: quiz|77|45
 labels: ''
 assignees: ''
 
