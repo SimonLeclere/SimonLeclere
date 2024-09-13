@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Beethoven'
+name: 'Answer 3 : Bizarro'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|565|Beethoven
+title: quiz|634|Bizarro
 labels: ''
 assignees: ''
 

@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What composer does the piano music piece « La Tartine de beurre » need to be ?
+## What superhero never leaves his hammer forged by the dwarves ?
 
 <br>
 
-| [Beethoven](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C565%7CBeethoven&body=Just%20click%20'Submit%20new%20issue'.) | [Mozart](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C565%7CMozart&body=Just%20click%20'Submit%20new%20issue'.) | [Brahms](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C565%7CBrahms&body=Just%20click%20'Submit%20new%20issue'.) | [Vivaldi](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C565%7CVivaldi&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Bizarro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CBizarro&body=Just%20click%20'Submit%20new%20issue'.) | [Venom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CVenom&body=Just%20click%20'Submit%20new%20issue'.) | [Flash](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CFlash&body=Just%20click%20'Submit%20new%20issue'.) | [Thor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CThor&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **Brahms** to `What composer does the piano music piece « La Tartine de beurre » need to be ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **EfilnorIsWorking** answered **Documentation** to `Which of these elements enhances the quality of the OpenBSD project ?` (Good answer)
 - **EfilnorIsWorking** answered **Blossfeldia liliputiana** to `What is the smallest cactus species known to date ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 - **EfilnorIsWorking** answered **Volcano** to `Which mountain can sometimes come out of hot materials ?` (Good answer)
 - **EfilnorIsWorking** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
-- **EfilnorIsWorking** answered **1976** to `In what year did the book that inspired the film « Interview with a Vampire » come out ?` (Good answer)
 
 </details>
 
