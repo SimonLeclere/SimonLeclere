@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Tintin in Tibet'
+name: 'Answer 3 : Mozart'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|851|Tintin in Tibet
+title: quiz|565|Mozart
 labels: ''
 assignees: ''
 
