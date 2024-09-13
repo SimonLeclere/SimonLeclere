@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Vladimir Putin'
+name: 'Answer 3 : Echinopsis oxygona'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|0|Vladimir Putin
+title: quiz|268|Echinopsis oxygona
 labels: ''
 assignees: ''
 

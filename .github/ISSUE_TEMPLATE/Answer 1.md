@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Rodrigo Duterte'
+name: 'Answer 3 : Aztekium ritteri'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|0|Rodrigo Duterte
+title: quiz|268|Aztekium ritteri
 labels: ''
 assignees: ''
 
