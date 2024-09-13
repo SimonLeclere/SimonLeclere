@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bizarro'
+name: 'Answer 3 : Raymond Barre'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|634|Bizarro
+title: quiz|419|Raymond Barre
 labels: ''
 assignees: ''
 

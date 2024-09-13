@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What superhero never leaves his hammer forged by the dwarves ?
+## What famous French politician is born the same year as John Paul II ?
 
 <br>
 
-| [Bizarro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CBizarro&body=Just%20click%20'Submit%20new%20issue'.) | [Venom](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CVenom&body=Just%20click%20'Submit%20new%20issue'.) | [Flash](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CFlash&body=Just%20click%20'Submit%20new%20issue'.) | [Thor](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C634%7CThor&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Raymond Barre](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C419%7CRaymond%20Barre&body=Just%20click%20'Submit%20new%20issue'.) | [François Miterrand](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C419%7CFran%C3%A7ois%20Miterrand&body=Just%20click%20'Submit%20new%20issue'.) | [Jacques Chirac](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C419%7CJacques%20Chirac&body=Just%20click%20'Submit%20new%20issue'.) | [Georges Marchais](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C419%7CGeorges%20Marchais&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **Thor** to `What superhero never leaves his hammer forged by the dwarves ?` (Good answer)
 - **EfilnorIsWorking** answered **Brahms** to `What composer does the piano music piece « La Tartine de beurre » need to be ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Tintin in Tibet** to `In what adventure does Tintin find himself facing an impressive Yeti ?` (Good answer)
 - **EfilnorIsWorking** answered **Documentation** to `Which of these elements enhances the quality of the OpenBSD project ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Reykjavik** to `Which of these cities is the most northerly ?` (Good answer)
 - **EfilnorIsWorking** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 - **EfilnorIsWorking** answered **Volcano** to `Which mountain can sometimes come out of hot materials ?` (Good answer)
-- **EfilnorIsWorking** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
 
 </details>
 
@@ -61,7 +61,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [janast1975](https://github.com/janast1975) | 23 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |
 | [shadeoxide](https://github.com/shadeoxide) | 15 |
-| [EfilnorIsWorking](https://github.com/EfilnorIsWorking) | 10 |
+| [EfilnorIsWorking](https://github.com/EfilnorIsWorking) | 11 |
 | [lowlighter](https://github.com/lowlighter) | 9 |
 | [Mr-KayJayDee](https://github.com/Mr-KayJayDee) | 8 |
 

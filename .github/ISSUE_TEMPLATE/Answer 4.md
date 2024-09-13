@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Thor'
+name: 'Answer 3 : Georges Marchais'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|634|Thor
+title: quiz|419|Georges Marchais
 labels: ''
 assignees: ''
 
