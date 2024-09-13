@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Volcano'
+name: 'Answer 3 : Frisian'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|519|Volcano
+title: quiz|296|Frisian
 labels: ''
 assignees: ''
 
