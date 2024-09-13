@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Copenhagen'
+name: 'Answer 3 : Thor's horse'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|466|Copenhagen
+title: quiz|271|Thor's horse
 labels: ''
 assignees: ''
 

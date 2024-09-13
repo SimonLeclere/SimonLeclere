@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Reykjavik'
+name: 'Answer 3 : Trojan Horse'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|466|Reykjavik
+title: quiz|271|Trojan Horse
 labels: ''
 assignees: ''
 

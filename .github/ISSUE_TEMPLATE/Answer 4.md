@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Stockholm'
+name: 'Answer 3 : Polybius Horse'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|466|Stockholm
+title: quiz|271|Polybius Horse
 labels: ''
 assignees: ''
 

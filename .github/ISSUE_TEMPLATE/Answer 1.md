@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Saint Petersburg'
+name: 'Answer 3 : Lotos Horse'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|466|Saint Petersburg
+title: quiz|271|Lotos Horse
 labels: ''
 assignees: ''
 
