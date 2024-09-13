@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## How long does digestion last for a horse ?
+## Who, with Bill Gates, is the co-founder of Microsoft ?
 
 <br>
 
-| [15 to 20 h](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C297%7C15%20to%2020%20h&body=Just%20click%20'Submit%20new%20issue'.) | [35 to 50 h](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C297%7C35%20to%2050%20h&body=Just%20click%20'Submit%20new%20issue'.) | [25 to 35 h](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C297%7C25%20to%2035%20h&body=Just%20click%20'Submit%20new%20issue'.) | [5 to 3 h](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C297%7C5%20to%203%20h&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Larry Ellison](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C692%7CLarry%20Ellison&body=Just%20click%20'Submit%20new%20issue'.) | [Elon Musk](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C692%7CElon%20Musk&body=Just%20click%20'Submit%20new%20issue'.) | [Alex Spanos](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C692%7CAlex%20Spanos&body=Just%20click%20'Submit%20new%20issue'.) | [Paul Allen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C692%7CPaul%20Allen&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **25 to 35 h** to `How long does digestion last for a horse ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Mexican Coke** to `What formula does Coca-Cola use cane sugar rather than standard sugar ?` (Good answer)
 - **EfilnorIsWorking** answered **Rossignol** to `What species of birds still present in Europe gringotte, quiritte or trille ?` (Good answer)
 - **EfilnorIsWorking** answered **Vincent Cassel** to `From which outsider Claude Chabrol says he is the French Al Pacino ?` (Wrong answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **300** to `How many brands of drinks does Coca-Cola handle today ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Four** to `In how many morphological types can cactus be grouped ?` (Wrong answer)
 - **EfilnorIsWorking** answered **45** to `By what factor is the weight of a polar bear multiplied two months after birth ?` (Wrong answer)
-- **EfilnorIsWorking** answered **Georges Marchais** to `What famous French politician is born the same year as John Paul II ?` (Good answer)
 
 </details>
 

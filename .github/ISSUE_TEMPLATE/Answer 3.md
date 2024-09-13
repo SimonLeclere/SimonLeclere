@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 25 to 35 h'
+name: 'Answer 3 : Alex Spanos'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|297|25 to 35 h
+title: quiz|692|Alex Spanos
 labels: ''
 assignees: ''
 

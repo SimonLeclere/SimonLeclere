@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 15 to 20 h'
+name: 'Answer 3 : Larry Ellison'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|297|15 to 20 h
+title: quiz|692|Larry Ellison
 labels: ''
 assignees: ''
 
