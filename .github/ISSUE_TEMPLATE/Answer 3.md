@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Shetland'
+name: 'Answer 3 : Reykjavik'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|296|Shetland
+title: quiz|466|Reykjavik
 labels: ''
 assignees: ''
 

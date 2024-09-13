@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Haflinger'
+name: 'Answer 3 : Stockholm'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|296|Haflinger
+title: quiz|466|Stockholm
 labels: ''
 assignees: ''
 

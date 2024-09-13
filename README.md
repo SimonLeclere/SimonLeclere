@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What breed of horses always has a chestnut robe and a white tail ?
+## Which of these cities is the most northerly ?
 
 <br>
 
-| [Frisian](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CFrisian&body=Just%20click%20'Submit%20new%20issue'.) | [Fjord](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CFjord&body=Just%20click%20'Submit%20new%20issue'.) | [Shetland](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CShetland&body=Just%20click%20'Submit%20new%20issue'.) | [Haflinger](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C296%7CHaflinger&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Saint Petersburg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C466%7CSaint%20Petersburg&body=Just%20click%20'Submit%20new%20issue'.) | [Copenhagen](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C466%7CCopenhagen&body=Just%20click%20'Submit%20new%20issue'.) | [Reykjavik](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C466%7CReykjavik&body=Just%20click%20'Submit%20new%20issue'.) | [Stockholm](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C466%7CStockholm&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 - **EfilnorIsWorking** answered **Volcano** to `Which mountain can sometimes come out of hot materials ?` (Good answer)
 - **EfilnorIsWorking** answered **Dear Diary** to `What title from her second album was written by Britney Spears herself ?` (Good answer)
 - **EfilnorIsWorking** answered **1976** to `In what year did the book that inspired the film « Interview with a Vampire » come out ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **OutlawOnGithub** answered **RunTime** to `What is the meaning of the RT letters of the Windows RT product name ?` (Wrong answer)
 - **OutlawOnGithub** answered **Neon** to `Which of the following denotes an almost inert, colorless gas ?` (Good answer)
 - **OutlawOnGithub** answered **New Coke** to `Which Coca-Cola formula was a major marketing failure ?` (Good answer)
-- **OutlawOnGithub** answered **Selena Gomez** to `Who was the most followed personality on the Instagram network in 2017 ?` (Good answer)
 
 </details>
 
