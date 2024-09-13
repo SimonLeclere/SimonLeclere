@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Vincent Cassel'
+name: 'Answer 3 : Parrot'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|172|Vincent Cassel
+title: quiz|481|Parrot
 labels: ''
 assignees: ''
 
