@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Trojan Horse'
+name: 'Answer 3 : Donald Trump'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|271|Trojan Horse
+title: quiz|0|Donald Trump
 labels: ''
 assignees: ''
 

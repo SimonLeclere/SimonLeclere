@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which horse did the Greeks use as a trick in 1180 BC ?
+## Against which president was a dismissal procedure launched in 2019 ?
 
 <br>
 
-| [Lotos Horse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C271%7CLotos%20Horse&body=Just%20click%20'Submit%20new%20issue'.) | [Thor's horse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C271%7CThor's%20horse&body=Just%20click%20'Submit%20new%20issue'.) | [Trojan Horse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C271%7CTrojan%20Horse&body=Just%20click%20'Submit%20new%20issue'.) | [Polybius Horse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C271%7CPolybius%20Horse&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Rodrigo Duterte](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C0%7CRodrigo%20Duterte&body=Just%20click%20'Submit%20new%20issue'.) | [Vladimir Putin](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C0%7CVladimir%20Putin&body=Just%20click%20'Submit%20new%20issue'.) | [Donald Trump](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C0%7CDonald%20Trump&body=Just%20click%20'Submit%20new%20issue'.) | [Emmanuel Macron](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C0%7CEmmanuel%20Macron&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **Trojan Horse** to `Which horse did the Greeks use as a trick in 1180 BC ?` (Good answer)
 - **EfilnorIsWorking** answered **Reykjavik** to `Which of these cities is the most northerly ?` (Good answer)
 - **EfilnorIsWorking** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 - **EfilnorIsWorking** answered **Volcano** to `Which mountain can sometimes come out of hot materials ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Wonder Woman** to `Which superheroine from a tribe of Amazons has a magic lasso ?` (Good answer)
 - **OutlawOnGithub** answered **Mayfair** to `What Instagram filter brings a romantic side to your photos ?` (Wrong answer)
 - **OutlawOnGithub** answered **RunTime** to `What is the meaning of the RT letters of the Windows RT product name ?` (Wrong answer)
-- **OutlawOnGithub** answered **Neon** to `Which of the following denotes an almost inert, colorless gas ?` (Good answer)
 
 </details>
 

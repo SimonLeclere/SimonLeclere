@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Lotos Horse'
+name: 'Answer 3 : Rodrigo Duterte'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|271|Lotos Horse
+title: quiz|0|Rodrigo Duterte
 labels: ''
 assignees: ''
 

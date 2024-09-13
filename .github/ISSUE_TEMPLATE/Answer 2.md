@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Thor's horse'
+name: 'Answer 3 : Vladimir Putin'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|271|Thor's horse
+title: quiz|0|Vladimir Putin
 labels: ''
 assignees: ''
 

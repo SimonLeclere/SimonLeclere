@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Polybius Horse'
+name: 'Answer 3 : Emmanuel Macron'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|271|Polybius Horse
+title: quiz|0|Emmanuel Macron
 labels: ''
 assignees: ''
 
