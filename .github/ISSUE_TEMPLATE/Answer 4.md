@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Design'
+name: 'Answer 3 : The Blue Lotus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|723|Design
+title: quiz|851|The Blue Lotus
 labels: ''
 assignees: ''
 

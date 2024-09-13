@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Price'
+name: 'Answer 3 : Tintin in the Congo'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|723|Price
+title: quiz|851|Tintin in the Congo
 labels: ''
 assignees: ''
 
