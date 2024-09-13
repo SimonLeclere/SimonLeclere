@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : German Coke'
+name: 'Answer 3 : 15 to 20 h'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|329|German Coke
+title: quiz|297|15 to 20 h
 labels: ''
 assignees: ''
 
