@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the smallest cactus species known to date ?
+## Which of these elements enhances the quality of the OpenBSD project ?
 
 <br>
 
-| [Aztekium ritteri](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C268%7CAztekium%20ritteri&body=Just%20click%20'Submit%20new%20issue'.) | [Echinopsis oxygona](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C268%7CEchinopsis%20oxygona&body=Just%20click%20'Submit%20new%20issue'.) | [Cereus jamacaru](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C268%7CCereus%20jamacaru&body=Just%20click%20'Submit%20new%20issue'.) | [Blossfeldia liliputiana](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C268%7CBlossfeldia%20liliputiana&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Flexibility](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C723%7CFlexibility&body=Just%20click%20'Submit%20new%20issue'.) | [Documentation](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C723%7CDocumentation&body=Just%20click%20'Submit%20new%20issue'.) | [Price](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C723%7CPrice&body=Just%20click%20'Submit%20new%20issue'.) | [Design](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C723%7CDesign&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **Blossfeldia liliputiana** to `What is the smallest cactus species known to date ?` (Good answer)
 - **EfilnorIsWorking** answered **Donald Trump** to `Against which president was a dismissal procedure launched in 2019 ?` (Good answer)
 - **EfilnorIsWorking** answered **Trojan Horse** to `Which horse did the Greeks use as a trick in 1180 BC ?` (Good answer)
 - **EfilnorIsWorking** answered **Reykjavik** to `Which of these cities is the most northerly ?` (Good answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **1976** to `In what year did the book that inspired the film « Interview with a Vampire » come out ?` (Good answer)
 - **EfilnorIsWorking** answered **Little duchess** to `In the pastry shop, what is clear on the ice-cream or fondant ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Wonder Woman** to `Which superheroine from a tribe of Amazons has a magic lasso ?` (Good answer)
-- **OutlawOnGithub** answered **Mayfair** to `What Instagram filter brings a romantic side to your photos ?` (Wrong answer)
 
 </details>
 

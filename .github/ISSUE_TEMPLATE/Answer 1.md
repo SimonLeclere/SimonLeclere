@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Aztekium ritteri'
+name: 'Answer 3 : Flexibility'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|268|Aztekium ritteri
+title: quiz|723|Flexibility
 labels: ''
 assignees: ''
 

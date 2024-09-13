@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cereus jamacaru'
+name: 'Answer 3 : Price'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|268|Cereus jamacaru
+title: quiz|723|Price
 labels: ''
 assignees: ''
 
