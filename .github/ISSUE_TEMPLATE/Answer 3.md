@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Italian'
+name: 'Answer 3 : Paul Allen'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|557|Italian
+title: quiz|692|Paul Allen
 labels: ''
 assignees: ''
 

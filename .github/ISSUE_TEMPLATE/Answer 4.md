@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : French'
+name: 'Answer 3 : Larry Ellison'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|557|French
+title: quiz|692|Larry Ellison
 labels: ''
 assignees: ''
 
