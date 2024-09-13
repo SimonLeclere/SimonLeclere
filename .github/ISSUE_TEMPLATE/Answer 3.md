@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Paul Allen'
+name: 'Answer 3 : Daniel Auteuil'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|692|Paul Allen
+title: quiz|172|Daniel Auteuil
 labels: ''
 assignees: ''
 

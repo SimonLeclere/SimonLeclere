@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Larry Ellison'
+name: 'Answer 3 : Mathieu Amalric'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|692|Larry Ellison
+title: quiz|172|Mathieu Amalric
 labels: ''
 assignees: ''
 
