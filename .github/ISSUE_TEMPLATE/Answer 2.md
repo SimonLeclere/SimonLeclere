@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Stronger'
+name: 'Answer 3 : Talus'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|222|Stronger
+title: quiz|519|Talus
 labels: ''
 assignees: ''
 
