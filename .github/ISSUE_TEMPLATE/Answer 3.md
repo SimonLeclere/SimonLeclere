@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Alex Spanos'
+name: 'Answer 3 : Mandy'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|692|Alex Spanos
+title: quiz|701|Mandy
 labels: ''
 assignees: ''
 
