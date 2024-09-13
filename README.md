@@ -23,11 +23,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## By what factor is the weight of a polar bear multiplied two months after birth ?
+## In how many morphological types can cactus be grouped ?
 
 <br>
 
-| [35](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C77%7C35&body=Just%20click%20'Submit%20new%20issue'.) | [45](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C77%7C45&body=Just%20click%20'Submit%20new%20issue'.) | [25](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C77%7C25&body=Just%20click%20'Submit%20new%20issue'.) | [55](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C77%7C55&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Five](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C255%7CFive&body=Just%20click%20'Submit%20new%20issue'.) | [Six](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C255%7CSix&body=Just%20click%20'Submit%20new%20issue'.) | [Seven](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C255%7CSeven&body=Just%20click%20'Submit%20new%20issue'.) | [Four](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C255%7CFour&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +35,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **EfilnorIsWorking** answered **45** to `By what factor is the weight of a polar bear multiplied two months after birth ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Georges Marchais** to `What famous French politician is born the same year as John Paul II ?` (Good answer)
 - **EfilnorIsWorking** answered **Thor** to `What superhero never leaves his hammer forged by the dwarves ?` (Good answer)
 - **EfilnorIsWorking** answered **Brahms** to `What composer does the piano music piece « La Tartine de beurre » need to be ?` (Wrong answer)
@@ -44,7 +45,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Donald Trump** to `Against which president was a dismissal procedure launched in 2019 ?` (Good answer)
 - **EfilnorIsWorking** answered **Trojan Horse** to `Which horse did the Greeks use as a trick in 1180 BC ?` (Good answer)
 - **EfilnorIsWorking** answered **Reykjavik** to `Which of these cities is the most northerly ?` (Good answer)
-- **EfilnorIsWorking** answered **Haflinger** to `What breed of horses always has a chestnut robe and a white tail ?` (Good answer)
 
 </details>
 
