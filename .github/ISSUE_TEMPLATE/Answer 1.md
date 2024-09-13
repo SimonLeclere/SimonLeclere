@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Parrot'
+name: 'Answer 3 : German Coke'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|481|Parrot
+title: quiz|329|German Coke
 labels: ''
 assignees: ''
 

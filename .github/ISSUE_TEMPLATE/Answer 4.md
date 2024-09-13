@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Crow'
+name: 'Answer 3 : Indian Coke'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|481|Crow
+title: quiz|329|Indian Coke
 labels: ''
 assignees: ''
 
