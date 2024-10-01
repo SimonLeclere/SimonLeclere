@@ -5,7 +5,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 
 <table>
   <tr>
-    <td><img width="450" height="240" src="../assets/cloudyWithAChanceOfMeatBalls.gif" align="left"></td>
+    <td><img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align="left"></td>
     <td>
       <ul>
         <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
@@ -17,7 +17,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 </table>
 
 
-<center><img width="280" height="187" src="../assets/quizTime.gif"></center>
+<center><img width="280" height="187" src="./assets/quizTime.gif"></center>
 
 🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
