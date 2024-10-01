@@ -1,21 +1,23 @@
 # Hi there 👋
 
-I'm Simon, a french student with a passion for computers and new technologies!
-Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
+I'm Simon, a french student with a passion for computers and new technologies! I'm currently studying at INSA Centre-Val-de-Loire, a French engineering school.
+Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing weird things, but I'm pretty proud of it :)
 
-<br>
+<table>
+  <tr>
+    <td><img width="450" height="240" src="../assets/cloudyWithAChanceOfMeatBalls.gif" align="left"></td>
+    <td>
+      <ul>
+        <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
+        <li>📫 How to reach me: <strong>You can contact me <a href="mailto:simon-leclere@orange.fr">by mail</a></strong></li>
+        <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
 
-- 🌱 I’m comfortable with **Node.JS, TypeScript, Python, React, etc**
-- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr)**
-- ⚡ Fun fact: I play guitar and drink only sparkling water ✨
-
-<br>
-
-<center><img width="280" height="187" src="./assets/quizTime.gif"></center>
-
-<br>
+<center><img width="280" height="187" src="../assets/quizTime.gif"></center>
 
 🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
