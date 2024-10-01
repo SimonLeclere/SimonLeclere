@@ -1,21 +1,23 @@
 # Hi there 👋
 
-I'm Simon, a french student with a passion for computers and new technologies!
-Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing systems to make the world a better place!
+I'm Simon, a french student with a passion for computers and new technologies! I'm currently studying at INSA Centre-Val-de-Loire, a French engineering school.
+Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing weird things, but I'm pretty proud of it :)
 
-<br>
+<table>
+  <tr>
+    <td><img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align="left"></td>
+    <td>
+      <ul>
+        <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
+        <li>📫 How to reach me: <strong>You can contact me <a href="mailto:simon-leclere@orange.fr">by mail</a></strong></li>
+        <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align=left>
-
-- 🌱 I’m comfortable with **Node.JS, TypeScript, Python, React, etc**
-- 📫 How to reach me: **You can contact me [by mail](mailto:simon-leclere@orange.fr)**
-- ⚡ Fun fact: I play guitar and drink only sparkling water ✨
-
-<br>
 
 <center><img width="280" height="187" src="./assets/quizTime.gif"></center>
-
-<br>
 
 🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
@@ -23,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is the name of Bill Gates' wife, born in Dallas in 1964 ?
+## In which city of Africa did the explorer Savorgnan de Brazza give his name ?
 
 <br>
 
-| [Melanie](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C701%7CMelanie&body=Just%20click%20'Submit%20new%20issue'.) | [Melinda](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C701%7CMelinda&body=Just%20click%20'Submit%20new%20issue'.) | [Mandy](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C701%7CMandy&body=Just%20click%20'Submit%20new%20issue'.) | [Melissa](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C701%7CMelissa&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Brazzaville](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C876%7CBrazzaville&body=Just%20click%20'Submit%20new%20issue'.) | [Kinshasa](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C876%7CKinshasa&body=Just%20click%20'Submit%20new%20issue'.) | [Libreville](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C876%7CLibreville&body=Just%20click%20'Submit%20new%20issue'.) | [Nairobi](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C876%7CNairobi&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -35,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Melanie** to `What is the name of Bill Gates' wife, born in Dallas in 1964 ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Paul Allen** to `Who, with Bill Gates, is the co-founder of Microsoft ?` (Good answer)
 - **EfilnorIsWorking** answered **25 to 35 h** to `How long does digestion last for a horse ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Mexican Coke** to `What formula does Coca-Cola use cane sugar rather than standard sugar ?` (Good answer)
@@ -44,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **French** to `What kind of breakfast was voted best breakfast by 36 countries in 2010 ?` (Wrong answer)
 - **EfilnorIsWorking** answered **15** to `Out of a thousand marine turtles, how many only reach the age to reproduce ?` (Good answer)
 - **EfilnorIsWorking** answered **300** to `How many brands of drinks does Coca-Cola handle today ?` (Wrong answer)
-- **EfilnorIsWorking** answered **Four** to `In how many morphological types can cactus be grouped ?` (Wrong answer)
 
 </details>
 
