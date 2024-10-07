@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Nairobi'
+name: 'Answer 3 : 50 cm'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|876|Nairobi
+title: quiz|67|50 cm
 labels: ''
 assignees: ''
 
