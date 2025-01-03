@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Nairobi'
+name: 'Answer 3 : Mister Freeze'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|876|Nairobi
+title: quiz|647|Mister Freeze
 labels: ''
 assignees: ''
 

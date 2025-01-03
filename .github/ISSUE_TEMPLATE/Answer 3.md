@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Brazzaville'
+name: 'Answer 3 : Cyborg'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|876|Brazzaville
+title: quiz|647|Cyborg
 labels: ''
 assignees: ''
 
