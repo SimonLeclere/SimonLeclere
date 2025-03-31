@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Bizarro'
+name: 'Answer 3 : Burma'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Bizarro
+title: quiz|875|Burma
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Cyborg'
+name: 'Answer 3 : Malaysia'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Cyborg
+title: quiz|875|Malaysia
 labels: ''
 assignees: ''
 

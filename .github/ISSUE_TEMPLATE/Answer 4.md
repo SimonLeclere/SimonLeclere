@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Mister Freeze'
+name: 'Answer 3 : Laos'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Mister Freeze
+title: quiz|875|Laos
 labels: ''
 assignees: ''
 

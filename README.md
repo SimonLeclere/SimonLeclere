@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Who in the Comics has to keep their body extremely low ?
+## At the same time city and province, from which country is Bangkok the capital ?
 
 <br>
 
-| [Bizarro](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CBizarro&body=Just%20click%20'Submit%20new%20issue'.) | [Daredevil](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CDaredevil&body=Just%20click%20'Submit%20new%20issue'.) | [Cyborg](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CCyborg&body=Just%20click%20'Submit%20new%20issue'.) | [Mister Freeze](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C647%7CMister%20Freeze&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Burma](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C875%7CBurma&body=Just%20click%20'Submit%20new%20issue'.) | [Thailand](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C875%7CThailand&body=Just%20click%20'Submit%20new%20issue'.) | [Malaysia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C875%7CMalaysia&body=Just%20click%20'Submit%20new%20issue'.) | [Laos](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C875%7CLaos&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **Mubelotix** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 - **EfilnorIsWorking** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
 - **Apo2203** answered **70 cm** to `What is, in centimeters, the length of the tongue of an adult anteater ?` (Wrong answer)
 - **Apo2203** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Mexican Coke** to `What formula does Coca-Cola use cane sugar rather than standard sugar ?` (Good answer)
 - **EfilnorIsWorking** answered **Rossignol** to `What species of birds still present in Europe gringotte, quiritte or trille ?` (Good answer)
 - **EfilnorIsWorking** answered **Vincent Cassel** to `From which outsider Claude Chabrol says he is the French Al Pacino ?` (Wrong answer)
-- **EfilnorIsWorking** answered **Paul Allen** to `Who, with Bill Gates, is the co-founder of Microsoft ?` (Good answer)
 
 </details>
 

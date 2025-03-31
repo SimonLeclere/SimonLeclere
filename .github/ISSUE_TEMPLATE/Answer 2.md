@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Daredevil'
+name: 'Answer 3 : Thailand'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|647|Daredevil
+title: quiz|875|Thailand
 labels: ''
 assignees: ''
 
