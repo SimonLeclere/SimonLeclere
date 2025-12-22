@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 600 m'
+name: 'Answer 3 : Forbidden City'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|298|600 m
+title: quiz|426|Forbidden City
 labels: ''
 assignees: ''
 

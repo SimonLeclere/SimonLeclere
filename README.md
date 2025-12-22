@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## From what distance can horses recognize odors ?
+## Seen from the sky, which monument has a circular aspect ?
 
 <br>
 
-| [150 m](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C298%7C150%20m&body=Just%20click%20'Submit%20new%20issue'.) | [600 m](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C298%7C600%20m&body=Just%20click%20'Submit%20new%20issue'.) | [300 m](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C298%7C300%20m&body=Just%20click%20'Submit%20new%20issue'.) | [450 m](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C298%7C450%20m&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Colosseum](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CColosseum&body=Just%20click%20'Submit%20new%20issue'.) | [Forbidden City](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CForbidden%20City&body=Just%20click%20'Submit%20new%20issue'.) | [Taj Mahal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CTaj%20Mahal&body=Just%20click%20'Submit%20new%20issue'.) | [Angkor Wat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CAngkor%20Wat&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **150 m** to `From what distance can horses recognize odors ?` (Wrong answer)
 - **Mubelotix** answered **Malaysia** to `At the same time city and province, from which country is Bangkok the capital ?` (Wrong answer)
 - **Mubelotix** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 - **EfilnorIsWorking** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Paul Allen** to `Who, with Bill Gates, is the co-founder of Microsoft ?` (Good answer)
 - **EfilnorIsWorking** answered **25 to 35 h** to `How long does digestion last for a horse ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Mexican Coke** to `What formula does Coca-Cola use cane sugar rather than standard sugar ?` (Good answer)
-- **EfilnorIsWorking** answered **Rossignol** to `What species of birds still present in Europe gringotte, quiritte or trille ?` (Good answer)
 
 </details>
 

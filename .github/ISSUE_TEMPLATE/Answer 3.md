@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : 300 m'
+name: 'Answer 3 : Taj Mahal'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|298|300 m
+title: quiz|426|Taj Mahal
 labels: ''
 assignees: ''
 
