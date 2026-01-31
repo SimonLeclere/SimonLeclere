@@ -8,5 +8,5 @@ inputs:
     description: 'Github user ID'
     required: true
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'index.js'
