@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Seen from the sky, which monument has a circular aspect ?
+## What is a young male sheep less than a year old called ?
 
 <br>
 
-| [Colosseum](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CColosseum&body=Just%20click%20'Submit%20new%20issue'.) | [Forbidden City](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CForbidden%20City&body=Just%20click%20'Submit%20new%20issue'.) | [Taj Mahal](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CTaj%20Mahal&body=Just%20click%20'Submit%20new%20issue'.) | [Angkor Wat](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C426%7CAngkor%20Wat&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Biquette](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CBiquette&body=Just%20click%20'Submit%20new%20issue'.) | [Lamb](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CLamb&body=Just%20click%20'Submit%20new%20issue'.) | [Aries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CAries&body=Just%20click%20'Submit%20new%20issue'.) | [Bouc](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CBouc&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Colosseum** to `Seen from the sky, which monument has a circular aspect ?` (Good answer)
 - **SimonLeclere** answered **150 m** to `From what distance can horses recognize odors ?` (Wrong answer)
 - **Mubelotix** answered **Malaysia** to `At the same time city and province, from which country is Bangkok the capital ?` (Wrong answer)
 - **Mubelotix** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Melanie** to `What is the name of Bill Gates' wife, born in Dallas in 1964 ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Paul Allen** to `Who, with Bill Gates, is the co-founder of Microsoft ?` (Good answer)
 - **EfilnorIsWorking** answered **25 to 35 h** to `How long does digestion last for a horse ?` (Wrong answer)
-- **EfilnorIsWorking** answered **Mexican Coke** to `What formula does Coca-Cola use cane sugar rather than standard sugar ?` (Good answer)
 
 </details>
 
@@ -59,7 +59,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 23 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 24 |
 | [janast1975](https://github.com/janast1975) | 23 |
 | [EfilnorIsWorking](https://github.com/EfilnorIsWorking) | 18 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |

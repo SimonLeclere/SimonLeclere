@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Taj Mahal'
+name: 'Answer 3 : Aries'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|426|Taj Mahal
+title: quiz|524|Aries
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Forbidden City'
+name: 'Answer 3 : Lamb'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|426|Forbidden City
+title: quiz|524|Lamb
 labels: ''
 assignees: ''
 

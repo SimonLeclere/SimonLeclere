@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Angkor Wat'
+name: 'Answer 3 : Bouc'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|426|Angkor Wat
+title: quiz|524|Bouc
 labels: ''
 assignees: ''
 

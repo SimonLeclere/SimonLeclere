@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Colosseum'
+name: 'Answer 3 : Biquette'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|426|Colosseum
+title: quiz|524|Biquette
 labels: ''
 assignees: ''
 
