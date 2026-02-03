@@ -25,11 +25,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## What is a young male sheep less than a year old called ?
+## Which superhero started out wearing a cat mask with a dress ?
 
 <br>
 
-| [Biquette](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CBiquette&body=Just%20click%20'Submit%20new%20issue'.) | [Lamb](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CLamb&body=Just%20click%20'Submit%20new%20issue'.) | [Aries](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CAries&body=Just%20click%20'Submit%20new%20issue'.) | [Bouc](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C524%7CBouc&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Selene](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C644%7CSelene&body=Just%20click%20'Submit%20new%20issue'.) | [Loki](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C644%7CLoki&body=Just%20click%20'Submit%20new%20issue'.) | [Galactus](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C644%7CGalactus&body=Just%20click%20'Submit%20new%20issue'.) | [Catwoman](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C644%7CCatwoman&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +37,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Bouc** to `What is a young male sheep less than a year old called ?` (Wrong answer)
 - **SimonLeclere** answered **Colosseum** to `Seen from the sky, which monument has a circular aspect ?` (Good answer)
 - **SimonLeclere** answered **150 m** to `From what distance can horses recognize odors ?` (Wrong answer)
 - **Mubelotix** answered **Malaysia** to `At the same time city and province, from which country is Bangkok the capital ?` (Wrong answer)
@@ -46,7 +47,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Apo2203** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
 - **SimonLeclere** answered **Melanie** to `What is the name of Bill Gates' wife, born in Dallas in 1964 ?` (Wrong answer)
 - **EfilnorIsWorking** answered **Paul Allen** to `Who, with Bill Gates, is the co-founder of Microsoft ?` (Good answer)
-- **EfilnorIsWorking** answered **25 to 35 h** to `How long does digestion last for a horse ?` (Wrong answer)
 
 </details>
 
