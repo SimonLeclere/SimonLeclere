@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Loki'
+name: 'Answer 3 : Sheep'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|644|Loki
+title: quiz|806|Sheep
 labels: ''
 assignees: ''
 

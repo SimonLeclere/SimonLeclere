@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Galactus'
+name: 'Answer 3 : Geese'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|644|Galactus
+title: quiz|806|Geese
 labels: ''
 assignees: ''
 
