@@ -3,19 +3,11 @@
 I'm Simon, a french student with a passion for computers and new technologies! I'm currently studying at INSA Centre-Val-de-Loire, a French engineering school.
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing weird things, but I'm pretty proud of it :)
 
-<table>
-  <tr>
-    <td><img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align="left"></td>
-    <td>
-      <ul>
-        <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
-        <li>📫 How to reach me: <strong>You can contact me <a href="mailto:simon-leclere@orange.fr">by mail</a></strong></li>
-        <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<ul>
+  <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
+  <li>📫 How to reach me: <strong>You can contact me <a href="mailto:simon-leclere@orange.fr">by mail</a></strong></li>
+  <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
+</ul>
 
 <center><img width="280" height="187" src="./assets/quizTime.gif"></center>
 
@@ -25,11 +17,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## In « Cinderella », which animals are transformed into work horses ?
+## Which country won the 2019 Men's Basketball World Cup ?
 
 <br>
 
-| [Rabbits](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CRabbits&body=Just%20click%20'Submit%20new%20issue'.) | [Sheep](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CSheep&body=Just%20click%20'Submit%20new%20issue'.) | [Geese](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CGeese&body=Just%20click%20'Submit%20new%20issue'.) | [Mouse](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C806%7CMouse&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Australia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CAustralia&body=Just%20click%20'Submit%20new%20issue'.) | [Spain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CSpain&body=Just%20click%20'Submit%20new%20issue'.) | [France](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CFrance&body=Just%20click%20'Submit%20new%20issue'.) | [Argentina](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CArgentina&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -37,6 +29,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Mouse** to `In « Cinderella », which animals are transformed into work horses ?` (Good answer)
 - **SimonLeclere** answered **Catwoman** to `Which superhero started out wearing a cat mask with a dress ?` (Good answer)
 - **SimonLeclere** answered **Bouc** to `What is a young male sheep less than a year old called ?` (Wrong answer)
 - **SimonLeclere** answered **Colosseum** to `Seen from the sky, which monument has a circular aspect ?` (Good answer)
@@ -46,7 +39,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **EfilnorIsWorking** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
 - **Apo2203** answered **70 cm** to `What is, in centimeters, the length of the tongue of an adult anteater ?` (Wrong answer)
 - **Apo2203** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
-- **SimonLeclere** answered **Melanie** to `What is the name of Bill Gates' wife, born in Dallas in 1964 ?` (Wrong answer)
 
 </details>
 
@@ -59,7 +51,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 25 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 26 |
 | [janast1975](https://github.com/janast1975) | 23 |
 | [EfilnorIsWorking](https://github.com/EfilnorIsWorking) | 18 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |

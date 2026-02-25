@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Mouse'
+name: 'Answer 3 : Argentina'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|806|Mouse
+title: quiz|14|Argentina
 labels: ''
 assignees: ''
 
