@@ -9,7 +9,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
 </ul>
 
-<center><img width="280" height="187" src="./assets/github_heatmap_animation.gif"></center>
+<center><img width="280" height="187" src="./assets/github_heatmap_transparent.gif"></center>
 
 🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
