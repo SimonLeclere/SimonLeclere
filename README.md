@@ -9,7 +9,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
 </ul>
 
-<center><img width="280" height="187" src="./assets/quizTime.gif"></center>
+<center><img width="280" height="187" src="./assets/github_heatmap_transparent.gif"></center>
 
 🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
 <details>
@@ -17,11 +17,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which country won the 2019 Men's Basketball World Cup ?
+## What secreted juice do most bees eat ?
 
 <br>
 
-| [Australia](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CAustralia&body=Just%20click%20'Submit%20new%20issue'.) | [Spain](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CSpain&body=Just%20click%20'Submit%20new%20issue'.) | [France](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CFrance&body=Just%20click%20'Submit%20new%20issue'.) | [Argentina](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C14%7CArgentina&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Circles](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C31%7CCircles&body=Just%20click%20'Submit%20new%20issue'.) | [Lodge](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C31%7CLodge&body=Just%20click%20'Submit%20new%20issue'.) | [Bud](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C31%7CBud&body=Just%20click%20'Submit%20new%20issue'.) | [Nectar](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C31%7CNectar&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -29,6 +29,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **Australia** to `Which country won the 2019 Men's Basketball World Cup ?` (Wrong answer)
 - **SimonLeclere** answered **Mouse** to `In « Cinderella », which animals are transformed into work horses ?` (Good answer)
 - **SimonLeclere** answered **Catwoman** to `Which superhero started out wearing a cat mask with a dress ?` (Good answer)
 - **SimonLeclere** answered **Bouc** to `What is a young male sheep less than a year old called ?` (Wrong answer)
@@ -38,7 +39,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **Mubelotix** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 - **EfilnorIsWorking** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
 - **Apo2203** answered **70 cm** to `What is, in centimeters, the length of the tongue of an adult anteater ?` (Wrong answer)
-- **Apo2203** answered **Brazzaville** to `In which city of Africa did the explorer Savorgnan de Brazza give his name ?` (Good answer)
 
 </details>
 

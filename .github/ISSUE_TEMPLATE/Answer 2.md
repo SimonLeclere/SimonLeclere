@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Spain'
+name: 'Answer 3 : Lodge'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|14|Spain
+title: quiz|31|Lodge
 labels: ''
 assignees: ''
 
