@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Lodge'
+name: 'Answer 3 : Blackout'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|31|Lodge
+title: quiz|233|Blackout
 labels: ''
 assignees: ''
 
