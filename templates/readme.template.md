@@ -10,9 +10,9 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 </ul>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="heatmap_dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="heatmap_light.gif">
-  <img src="heatmap_light.gif" width="100%" style="image-rendering: pixelated;">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap_dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="assets/heatmap_light.gif">
+  <img src="assets/heatmap_light.gif" width="100%" style="image-rendering: pixelated;">
 </picture>
 
 🎲 This readme is also a real-time multiplayer trivia game! Try to answer the following question by clicking on the answer you think is correct!
