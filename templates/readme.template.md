@@ -3,19 +3,11 @@
 I'm Simon, a french student with a passion for computers and new technologies! I'm currently studying at INSA Centre-Val-de-Loire, a French engineering school.
 Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.com/watch?v=dQw4w9WgXcQ), I spend my days imagining and developing weird things, but I'm pretty proud of it :)
 
-<table>
-  <tr>
-    <td><img width="450" height="240" src="./assets/cloudyWithAChanceOfMeatBalls.gif" align="left"></td>
-    <td>
-      <ul>
-        <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
-        <li>📫 How to reach me: <strong>You can contact me <a href="mailto:simon-leclere@orange.fr">by mail</a></strong></li>
-        <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<ul>
+  <li>🌱 I’m comfortable with <strong>Node.JS, TypeScript, Python, React & NextJS, React-native, etc</strong></li>
+  <li>📫 How to reach me: <strong>You can contact me <a href="mailto:simon-leclere@orange.fr">by mail</a></strong></li>
+  <li>⚡ Fun fact: I play guitar, I did fun commits in 2018 and I drink only sparkling water ✨</li>
+</ul>
 
 <center><img width="280" height="187" src="./assets/quizTime.gif"></center>
 
