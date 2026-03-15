@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : In the Zone'
+name: 'Answer 3 : George Clooney'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|233|In the Zone
+title: quiz|158|George Clooney
 labels: ''
 assignees: ''
 

@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Britney'
+name: 'Answer 3 : Bruce Willis'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|233|Britney
+title: quiz|158|Bruce Willis
 labels: ''
 assignees: ''
 

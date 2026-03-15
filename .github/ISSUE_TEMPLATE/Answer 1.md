@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Circus'
+name: 'Answer 3 : Richard Gere'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|233|Circus
+title: quiz|158|Richard Gere
 labels: ''
 assignees: ''
 

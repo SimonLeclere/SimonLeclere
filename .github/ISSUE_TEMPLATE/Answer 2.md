@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Blackout'
+name: 'Answer 3 : Leonardo DiCaprio'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|233|Blackout
+title: quiz|158|Leonardo DiCaprio
 labels: ''
 assignees: ''
 
