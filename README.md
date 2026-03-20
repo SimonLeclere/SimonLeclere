@@ -21,11 +21,11 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
   Each answer is a link to a pre-filled issue. When you press "Submit new issue", it triggers a Github action workflow that compares your answer with the correct answer, finds a new question and updates the readme.md file. Not bad huh?! This whole process only takes about 20 seconds!
 </details>
 
-## Which actor made with his father a report on the refugee camps in Darfur ?
+## Which French actor was the companion of Halle Berry and Kylie Minogue ?
 
 <br>
 
-| [Richard Gere](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C158%7CRichard%20Gere&body=Just%20click%20'Submit%20new%20issue'.) | [Leonardo DiCaprio](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C158%7CLeonardo%20DiCaprio&body=Just%20click%20'Submit%20new%20issue'.) | [Bruce Willis](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C158%7CBruce%20Willis&body=Just%20click%20'Submit%20new%20issue'.) | [George Clooney](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C158%7CGeorge%20Clooney&body=Just%20click%20'Submit%20new%20issue'.) |
+| [Bruno Putzulu](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7CBruno%20Putzulu&body=Just%20click%20'Submit%20new%20issue'.) | [Mathieu Amalric](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7CMathieu%20Amalric&body=Just%20click%20'Submit%20new%20issue'.) | [Mathieu Kassovitz](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7CMathieu%20Kassovitz&body=Just%20click%20'Submit%20new%20issue'.) | [Olivier Martinez](https://github.com/SimonLeclere/SimonLeclere/issues/new?title=quiz%7C170%7COlivier%20Martinez&body=Just%20click%20'Submit%20new%20issue'.) |
 | - | - | - | - | 
 
 <br>
@@ -33,6 +33,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 <details>
   <summary>📒 Last 10 responses :</summary>
 
+- **SimonLeclere** answered **George Clooney** to `Which actor made with his father a report on the refugee camps in Darfur ?` (Good answer)
 - **SimonLeclere** answered **Circus** to `Which album did Britney Spears collaborate with Moby and R. Kelly ?` (Wrong answer)
 - **SimonLeclere** answered **Circles** to `What secreted juice do most bees eat ?` (Wrong answer)
 - **SimonLeclere** answered **Australia** to `Which country won the 2019 Men's Basketball World Cup ?` (Wrong answer)
@@ -42,7 +43,6 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 - **SimonLeclere** answered **Colosseum** to `Seen from the sky, which monument has a circular aspect ?` (Good answer)
 - **SimonLeclere** answered **150 m** to `From what distance can horses recognize odors ?` (Wrong answer)
 - **Mubelotix** answered **Malaysia** to `At the same time city and province, from which country is Bangkok the capital ?` (Wrong answer)
-- **Mubelotix** answered **Mister Freeze** to `Who in the Comics has to keep their body extremely low ?` (Good answer)
 
 </details>
 
@@ -55,7 +55,7 @@ Kind of like the guy in [Cloudy with a chance of Meatballs](https://www.youtube.
 | [MRakox](https://github.com/MRakox) | 51 |
 | [earock](https://github.com/earock) | 35 |
 | [azgar44](https://github.com/azgar44) | 33 |
-| [SimonLeclere](https://github.com/SimonLeclere) | 26 |
+| [SimonLeclere](https://github.com/SimonLeclere) | 27 |
 | [janast1975](https://github.com/janast1975) | 23 |
 | [EfilnorIsWorking](https://github.com/EfilnorIsWorking) | 18 |
 | [NotFubukIl](https://github.com/NotFubukIl) | 16 |

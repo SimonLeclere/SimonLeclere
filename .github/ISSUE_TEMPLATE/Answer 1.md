@@ -1,7 +1,7 @@
 ---
-name: 'Answer 3 : Richard Gere'
+name: 'Answer 3 : Bruno Putzulu'
 about: "(╯°□°）╯︵ ┻━┻"
-title: quiz|158|Richard Gere
+title: quiz|170|Bruno Putzulu
 labels: ''
 assignees: ''
 
